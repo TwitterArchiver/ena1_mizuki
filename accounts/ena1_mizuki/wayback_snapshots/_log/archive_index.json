@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T14:42:50",
+  "last_updated": "2026-07-29T14:43:47",
   "html": {
     "https://web.archive.org/web/20250612125723if_/https://twitter.com/ena1_mizuki/status/1933146614631436293": {
       "status": "done",
@@ -34407,18 +34407,18 @@
       "referenced_by": [
         "20250802050008_twitter_com_ena1_mizuki_status_1951508292985037038.json"
       ],
-      "last_updated": "2026-07-29T14:03:56",
+      "last_updated": "2026-07-29T14:43:19",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250802050008/https://video.twimg.com/amplify_video/1951197465614430209/vid/avc1/720x1280/YRTmcvqyKvhJtWQu.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1956881698337275904/pu/vid/avc1/1280x720/EeNik12tfd7LwDm2.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20250817005214_twitter_com_ena1_mizuki_status_1956881721263350028.json"
       ],
-      "last_updated": "2026-07-29T14:03:57",
+      "last_updated": "2026-07-29T14:43:23",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250817005214/https://video.twimg.com/ext_tw_video/1956881698337275904/pu/vid/avc1/1280x720/EeNik12tfd7LwDm2.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1971929886815379456/pu/vid/avc1/1280x720/udOeXZ82y6NPEhKk.mp4?tag=12": {
       "status": "done",
@@ -34449,22 +34449,22 @@
       "last_updated": "2026-07-29T14:03:52"
     },
     "https://video.twimg.com/amplify_video/1993476726144614401/vid/avc1/720x1280/AfPXNvE1uqsAf29J.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251126033905_twitter_com_ena1_mizuki_status_1993524887940657421.json"
       ],
-      "last_updated": "2026-07-29T14:03:58",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251126033905/https://video.twimg.com/amplify_video/1993476726144614401/vid/avc1/720x1280/AfPXNvE1uqsAf29J.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T14:43:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251126033905/https://video.twimg.com/amplify_video/1993476726144614401/vid/avc1/720x1280/AfPXNvE1uqsAf29J.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc283f78b30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/G73XMyraMAAbN1u.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251211053743_twitter_com_ena1_mizuki_status_1998990561433497787.json"
       ],
-      "last_updated": "2026-07-29T14:03:59",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251211053743/https://video.twimg.com/tweet_video/G73XMyraMAAbN1u.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T14:43:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251211053743im_/https://video.twimg.com/tweet_video/G73XMyraMAAbN1u.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc2833c0fb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1999310410927996931/pu/vid/avc1/536x1280/1lAa-cyjWtm5-Qau.mp4?tag=12": {
       "status": "done",
@@ -34488,13 +34488,13 @@
       "last_updated": "2026-07-29T14:03:52"
     },
     "https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/1080x1920/EE2FJGKIxCH1hk7m.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251225162314_twitter_com_ena1_mizuki_status_2004226440607531044.json"
       ],
-      "last_updated": "2026-07-29T14:03:57",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251225162314/https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/1080x1920/EE2FJGKIxCH1hk7m.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T14:43:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251225162314im_/https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/1080x1920/EE2FJGKIxCH1hk7m.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc2833c1eb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2004910777501974530/vid/avc1/960x540/dG6yoBNeBaUWyBmB.mp4?tag=14": {
       "status": "done",
@@ -34558,9 +34558,9 @@
       "referenced_by": [
         "20260105164648_twitter_com_ena1_mizuki_status_2008218638608977968.json"
       ],
-      "last_updated": "2026-07-29T14:04:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260105164648im_/https://video.twimg.com/tweet_video/G96YmI9agAAgPnx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe8295492b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-29T14:43:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260105164648im_/https://video.twimg.com/tweet_video/G96YmI9agAAgPnx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc283f79160>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2010257049888735232/vid/avc1/1280x720/SQ_BoCH9O18AlmQB.mp4": {
       "status": "done",
@@ -34605,13 +34605,13 @@
       "last_updated": "2026-07-29T14:03:52"
     },
     "https://video.twimg.com/amplify_video/2018197733413462016/vid/avc1/1280x720/e0WIoqFRm0WhNwc1.mp4?tag=14": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260202054236_twitter_com_ena1_mizuki_status_2018198345521774598.json"
       ],
-      "last_updated": "2026-07-29T14:03:57",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260202054236/https://video.twimg.com/amplify_video/2018197733413462016/vid/avc1/1280x720/e0WIoqFRm0WhNwc1.mp4?tag=14",
-      "miss_count": 2
+      "last_updated": "2026-07-29T14:43:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260202054236im_/https://video.twimg.com/amplify_video/2018197733413462016/vid/avc1/1280x720/e0WIoqFRm0WhNwc1.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc2853f76b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2019690395647840256/pu/vid/avc1/720x1280/VRnj46G678lSI9D0.mp4?tag=12": {
       "status": "done",
@@ -66142,7 +66142,7 @@
       "miss_count": 2
     },
     "20251211053743_twitter_com_ena1_mizuki_status_1998990561433497787.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -66153,7 +66153,7 @@
           "https://pbs.twimg.com/profile_images/1978651893447655424/7Ss-5pgs_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T14:04:52",
+      "last_updated": "2026-07-29T14:43:34",
       "miss_count": 2
     },
     "20251211054146_twitter_com_ena1_mizuki_status_1998991576992018774.json": {
@@ -90331,7 +90331,7 @@
       "miss_count": 2
     },
     "20260202054236_twitter_com_ena1_mizuki_status_2018198345521774598.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -90341,7 +90341,7 @@
           "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-29T14:03:57",
+      "last_updated": "2026-07-29T14:43:47",
       "miss_count": 1
     },
     "20260202071337_twitter_com_ena1_mizuki_status_2018221249672188283.json": {
