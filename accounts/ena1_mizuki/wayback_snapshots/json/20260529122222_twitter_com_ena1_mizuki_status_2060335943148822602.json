@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2060291133553680478",
+    "created_at": "2026-05-29T12:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060335943148822602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926574861872156672",
+          "start": 0,
+          "username": "stellarocean1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060335943148822602",
+    "in_reply_to_user_id": "1926574861872156672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060331386863514059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellarocean1 在城市而且还是大学里面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2060291133553680478",
+        "created_at": "2026-05-29T12:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060335943148822602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926574861872156672",
+              "start": 0,
+              "username": "stellarocean1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060335943148822602",
+        "in_reply_to_user_id": "1926574861872156672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060331386863514059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellarocean1 在城市而且还是大学里面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926574861872156672",
+        "conversation_id": "2060291133553680478",
+        "created_at": "2026-05-29T12:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060331386863514059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060331386863514059",
+        "in_reply_to_user_id": "1926574861872156672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060294451889881318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 话说这地方是农村吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 1259,
+          "like_count": 18266,
+          "listed_count": 7,
+          "media_count": 688,
+          "tweet_count": 5242
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T09:43:53.000Z",
+        "description": "喜欢天文学以及绘画还有建模 求求那些跟我互fo的人别一时头疼脑热拉黑我，毕竟我一不骂人，二不键政，三不发令人不适的内容，我上推就是单纯的想交朋友。想要我的小红书账号的话可以找我私聊",
+        "id": "1926574861872156672",
+        "location": "宇宙",
+        "name": "浩瀚星海",
+        "pinned_tweet_id": "1954421585923699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044232683690033152/S0cyWUNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 127,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 668
+        },
+        "username": "stellarocean1",
+        "verified": false
+      }
+    ]
+  }
+}

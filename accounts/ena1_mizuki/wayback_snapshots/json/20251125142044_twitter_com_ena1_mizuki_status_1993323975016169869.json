@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1993164445766561833",
+    "created_at": "2025-11-25T14:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993323975016169869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1715967981275013120",
+          "start": 0,
+          "username": "goldenglow763"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993323975016169869",
+    "in_reply_to_user_id": "1715967981275013120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993308430669603154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goldenglow763 您好杨氏模量（x）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1993164445766561833",
+        "created_at": "2025-11-25T14:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993323975016169869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1715967981275013120",
+              "start": 0,
+              "username": "goldenglow763"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993323975016169869",
+        "in_reply_to_user_id": "1715967981275013120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993308430669603154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goldenglow763 您好杨氏模量（x）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715967981275013120",
+        "conversation_id": "1993164445766561833",
+        "created_at": "2025-11-25T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993308430669603154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993308430669603154",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993164445766561833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 水月别回头，我是伊莎玛拉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 346,
+          "like_count": 3881,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 642
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T05:47:16.000Z",
+        "description": "明日方舟玩家/乐子人\n超绝大学牲，性格很好",
+        "id": "1715967981275013120",
+        "location": "爱是哪是哪",
+        "name": "澄闪goldenglow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715977343255064577/YNlYlPtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 157,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 163
+        },
+        "username": "goldenglow763",
+        "verified": false
+      }
+    ]
+  }
+}

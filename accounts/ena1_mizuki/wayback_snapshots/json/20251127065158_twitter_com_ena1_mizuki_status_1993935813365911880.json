@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1993697219762094157",
+    "created_at": "2025-11-27T06:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T07:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993935813365911880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "NWA12302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993935813365911880",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993697219762094157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NWA12302 你是做天体生物学的嘛，要不是不在同一个城市，还以为遇到了同组同学（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_1993697200006901760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sJClQaMAAsSOY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1993697219762094157",
+        "created_at": "2025-11-27T06:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993935813365911880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993935813365911880",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993697219762094157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 你是做天体生物学的嘛，要不是不在同一个城市，还以为遇到了同组同学（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993697200006901760"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1993697219762094157",
+        "created_at": "2025-11-26T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993697219762094157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuIjSbbume",
+              "end": 70,
+              "expanded_url": "https://x.com/NWA12302/status/1993697219762094157/photo/1",
+              "media_key": "3_1993697200006901760",
+              "start": 47,
+              "url": "https://t.co/OuIjSbbume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993697219762094157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请叫我地学推广大使\n我们地学专业不管你喜欢物理、化学还是生物，都有适合你们的方向，欢迎来学哦 https://t.co/OuIjSbbume"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 349,
+          "like_count": 3943,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 665
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜有理有据表达不满 ｜烤批｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜我永远喜欢黍｜大码lo裙体验者｜做个好玩的人\n｜用爱发电@Alter_Syrup ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Alter_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA糖浆专卖",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984938961140379648/wf9ada-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1323,
+          "like_count": 124414,
+          "listed_count": 5,
+          "media_count": 1744,
+          "tweet_count": 8837
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

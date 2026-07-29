@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071128125229150208"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2071128127913529474",
+    "created_at": "2026-06-28T07:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071128127913529474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQHczcjzWv",
+          "end": 90,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2071128127913529474/photo/1",
+          "media_key": "3_2071128125229150208",
+          "start": 67,
+          "url": "https://t.co/BQHczcjzWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071128127913529474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次吃下一粒安非他酮之后我的作息belike：\n现在就感觉精力很充沛，可以做很多事，比之前吃了一直昏睡的度洛西汀强多了，除了失眠。 https://t.co/BQHczcjzWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_2071128125229150208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4gDnyasAAnG0Z.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071128125229150208"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2071128127913529474",
+        "created_at": "2026-06-28T07:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071128127913529474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQHczcjzWv",
+              "end": 90,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2071128127913529474/photo/1",
+              "media_key": "3_2071128125229150208",
+              "start": 67,
+              "url": "https://t.co/BQHczcjzWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071128127913529474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃下一粒安非他酮之后我的作息belike：\n现在就感觉精力很充沛，可以做很多事，比之前吃了一直昏睡的度洛西汀强多了，除了失眠。 https://t.co/BQHczcjzWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1321,
+          "like_count": 19015,
+          "listed_count": 8,
+          "media_count": 732,
+          "tweet_count": 5487
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

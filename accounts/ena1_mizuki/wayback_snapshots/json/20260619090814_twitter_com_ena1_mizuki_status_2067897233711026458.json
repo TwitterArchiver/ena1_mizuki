@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2067849558663790607",
+    "created_at": "2026-06-19T09:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067897233711026458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620398317917159425",
+          "start": 0,
+          "username": "mikotanaka7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067897233711026458",
+    "in_reply_to_user_id": "1620398317917159425",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067855005139476539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotanaka7 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2067849558663790607",
+        "created_at": "2026-06-19T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067897233711026458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620398317917159425",
+              "start": 0,
+              "username": "mikotanaka7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067897233711026458",
+        "in_reply_to_user_id": "1620398317917159425",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067855005139476539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotanaka7 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620398317917159425",
+        "conversation_id": "2067849558663790607",
+        "created_at": "2026-06-19T06:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067855005139476539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067855005139476539",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067849558663790607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 本体也可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1303,
+          "like_count": 18818,
+          "listed_count": 8,
+          "media_count": 722,
+          "tweet_count": 5438
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T12:27:36.000Z",
+        "description": "小號@JieshenB68601\n 有幸遇之，恰好欢喜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "JieshenB68601"
+              }
+            ]
+          }
+        },
+        "id": "1620398317917159425",
+        "location": "幻想乡",
+        "name": "柚",
+        "pinned_tweet_id": "1937509342951166342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066540465563033600/MwrPFB8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 745,
+          "like_count": 20051,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 3749
+        },
+        "url": "",
+        "username": "mikotanaka7",
+        "verified": false
+      }
+    ]
+  }
+}

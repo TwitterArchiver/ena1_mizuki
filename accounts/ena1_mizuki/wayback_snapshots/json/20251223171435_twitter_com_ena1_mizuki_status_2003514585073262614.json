@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003128927615901696"
+      ],
+      "media_source_tweet_id": [
+        "2003128937761960079"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003514585073262614",
+    "created_at": "2025-12-23T17:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T18:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003514585073262614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372543342894977033",
+          "start": 3,
+          "username": "hisioko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iIsmt5n0VA",
+          "end": 41,
+          "expanded_url": "https://x.com/hisioko/status/2003128937761960079/photo/1",
+          "media_key": "3_2003128927615901696",
+          "start": 18,
+          "url": "https://t.co/iIsmt5n0VA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003514585073262614",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3878
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003128937761960079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hisioko: PINK https://t.co/iIsmt5n0VA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1770,
+        "media_key": "3_2003128927615901696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8yLJYna4AA_cR4.jpg",
+        "width": 1643
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003128927615901696"
+          ],
+          "media_source_tweet_id": [
+            "2003128937761960079"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003514585073262614",
+        "created_at": "2025-12-23T17:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003514585073262614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372543342894977033",
+              "start": 3,
+              "username": "hisioko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIsmt5n0VA",
+              "end": 41,
+              "expanded_url": "https://x.com/hisioko/status/2003128937761960079/photo/1",
+              "media_key": "3_2003128927615901696",
+              "start": 18,
+              "url": "https://t.co/iIsmt5n0VA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003514585073262614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3878
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003128937761960079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hisioko: PINK https://t.co/iIsmt5n0VA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003128927615901696"
+          ]
+        },
+        "author_id": "1372543342894977033",
+        "conversation_id": "2003128937761960079",
+        "created_at": "2025-12-22T15:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003128937761960079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIsmt5n0VA",
+              "end": 28,
+              "expanded_url": "https://x.com/hisioko/status/2003128937761960079/photo/1",
+              "media_key": "3_2003128927615901696",
+              "start": 5,
+              "url": "https://t.co/iIsmt5n0VA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003128937761960079",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1079,
+          "impression_count": 141900,
+          "like_count": 19273,
+          "quote_count": 143,
+          "reply_count": 11,
+          "retweet_count": 3878
+        },
+        "reply_settings": "everyone",
+        "text": "PINK https://t.co/iIsmt5n0VA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 508,
+          "like_count": 6385,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1332
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-18T13:41:26.000Z",
+        "description": "堆图/無断転載はご遠慮ください/无授权转载NG",
+        "id": "1372543342894977033",
+        "name": "酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963624787361894404/OY3sQs0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2410,
+          "following_count": 68,
+          "like_count": 483,
+          "listed_count": 11,
+          "media_count": 65,
+          "tweet_count": 131
+        },
+        "username": "hisioko",
+        "verified": false
+      }
+    ]
+  }
+}

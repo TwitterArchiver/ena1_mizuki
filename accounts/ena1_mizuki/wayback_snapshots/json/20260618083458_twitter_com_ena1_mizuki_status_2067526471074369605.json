@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2067522589371883844",
+    "created_at": "2026-06-18T08:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067526471074369605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939255209278296064",
+          "start": 0,
+          "username": "Messer_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067526471074369605",
+    "in_reply_to_user_id": "1939255209278296064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067523077001687487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Messer_official 可爱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2067522589371883844",
+        "created_at": "2026-06-18T08:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067526471074369605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939255209278296064",
+              "start": 0,
+              "username": "Messer_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067526471074369605",
+        "in_reply_to_user_id": "1939255209278296064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067523077001687487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Messer_official 可爱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939255209278296064",
+        "conversation_id": "2067522589371883844",
+        "created_at": "2026-06-18T08:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067523077001687487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067523077001687487",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067522754207969395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 小水母可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 1293,
+          "like_count": 18786,
+          "listed_count": 8,
+          "media_count": 722,
+          "tweet_count": 5423
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T09:30:55.000Z",
+        "description": "超絕的混水摸魚者 \n拜託不要給我戴帽子\nMBTI    ENFJ-T\n#DM開放中#",
+        "id": "1939255209278296064",
+        "name": "Messerschmidt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066382638135566336/1RC9SQlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 98,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 141
+        },
+        "username": "Messer_official",
+        "verified": false
+      }
+    ]
+  }
+}

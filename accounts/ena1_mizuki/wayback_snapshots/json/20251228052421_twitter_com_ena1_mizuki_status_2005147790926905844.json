@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2005143076080374007",
+    "created_at": "2025-12-28T05:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T06:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005147790926905844"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005147790926905844",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005143076080374007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Hα响应变强也意味着更适合拍星云，所以什么时候能病好，我要拍水母星云&gt;_&lt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2005143061722963968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Oy_a3WIAARXzn.jpg",
+        "width": 1136
+      },
+      {
+        "height": 1418,
+        "media_key": "3_2005143072590757889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OzADWbgAEINGZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2005143076080374007",
+        "created_at": "2025-12-28T05:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005147790926905844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005147790926905844",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005143076080374007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hα响应变强也意味着更适合拍星云，所以什么时候能病好，我要拍水母星云&gt;_&lt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005143061722963968",
+            "3_2005143072590757889"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2005143076080374007",
+        "created_at": "2025-12-28T05:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005143076080374007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H7Kkwc1duL",
+              "end": 121,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2005143076080374007/photo/1",
+              "media_key": "3_2005143061722963968",
+              "start": 98,
+              "url": "https://t.co/H7Kkwc1duL"
+            },
+            {
+              "display_url": "pic.x.com/H7Kkwc1duL",
+              "end": 121,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2005143076080374007/photo/1",
+              "media_key": "3_2005143072590757889",
+              "start": 98,
+              "url": "https://t.co/H7Kkwc1duL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005143076080374007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "细节展示~ 这套120APO配合2600分辨率达到0.9\"/像素，可以拍出不少星系的细节呢，对Hα波段的响应也明显优于数码相机，可以拍出星系里比较大的星云\n（使用hubble拍的M66进行对比） https://t.co/H7Kkwc1duL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 525,
+          "like_count": 6865,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 1506
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

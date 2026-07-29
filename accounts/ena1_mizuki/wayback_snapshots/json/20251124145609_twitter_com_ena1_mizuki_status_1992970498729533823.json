@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1992965647857312020",
+    "created_at": "2025-11-24T14:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992970498729533823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819724915094032385",
+          "start": 0,
+          "username": "kumo_akiyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992970498729533823",
+    "in_reply_to_user_id": "1819724915094032385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992969972394729610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumo_akiyuu 好耶写的真好🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1992965647857312020",
+        "created_at": "2025-11-24T14:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992970498729533823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819724915094032385",
+              "start": 0,
+              "username": "kumo_akiyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992970498729533823",
+        "in_reply_to_user_id": "1819724915094032385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992969972394729610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumo_akiyuu 好耶写的真好🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819724915094032385",
+        "conversation_id": "1992965647857312020",
+        "created_at": "2025-11-24T14:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992969972394729610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992969972394729610",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992969657763103024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 其实也没有啦，算是一般般？不过我确实很想写写有关大家的东西(◍•ᴗ•◍)❤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 341,
+          "like_count": 3830,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 629
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T13:20:28.000Z",
+        "description": "#MTF倾向#喜欢cos#同人作者#百合控#摆烂大学生||\n如繁花般绽放，同随花火消散||\n那一天，我们化为了泡沫，破碎在夕方的晚霞边。||",
+        "id": "1819724915094032385",
+        "location": "Japan",
+        "name": "阳曇秋夕",
+        "pinned_tweet_id": "1992965647857312020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990817346009837569/XRyXzDEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 22,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 99
+        },
+        "username": "kumo_akiyuu",
+        "verified": false
+      }
+    ]
+  }
+}

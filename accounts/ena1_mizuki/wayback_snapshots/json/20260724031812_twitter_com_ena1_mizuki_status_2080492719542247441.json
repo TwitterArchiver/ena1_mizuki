@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2080317201475915855",
+    "created_at": "2026-07-24T03:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080492719542247441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074834608030613504",
+          "start": 0,
+          "username": "nanako299gg"
+        },
+        {
+          "end": 23,
+          "id": "1902735424839413760",
+          "start": 13,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080492719542247441",
+    "in_reply_to_user_id": "2074834608030613504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080460972490424520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nanako299gg @litgraley 分享同一片星空~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2080317201475915855",
+        "created_at": "2026-07-24T03:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080492719542247441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074834608030613504",
+              "start": 0,
+              "username": "nanako299gg"
+            },
+            {
+              "end": 23,
+              "id": "1902735424839413760",
+              "start": 13,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080492719542247441",
+        "in_reply_to_user_id": "2074834608030613504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080460972490424520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nanako299gg @litgraley 分享同一片星空~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074834608030613504",
+        "conversation_id": "2080317201475915855",
+        "created_at": "2026-07-24T01:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080460972490424520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1902735424839413760",
+              "start": 13,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080460972490424520",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080317201475915855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki @litgraley 跟喜欢的人看星星什么的最浪漫了😭😭😭俺也想要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 1409,
+          "like_count": 19595,
+          "listed_count": 8,
+          "media_count": 781,
+          "tweet_count": 5732
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-08T12:37:00.000Z",
+        "description": "160cm 40kg丨无糖男娘丨我是黄推丨要打赏的话看置顶丨🚪36只收口令丨入门送图包丨性格软绵都可以聊",
+        "id": "2074834608030613504",
+        "name": "菜菜子Nanako",
+        "pinned_tweet_id": "2075661916643696919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074835999755296768/Whw68oF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 61,
+          "like_count": 65,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "nanako299gg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 937,
+          "like_count": 40755,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 6365
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

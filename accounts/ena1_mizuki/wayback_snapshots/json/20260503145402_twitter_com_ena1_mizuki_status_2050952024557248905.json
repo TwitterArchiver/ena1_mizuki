@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050952017393414144",
+        "3_2050952017531801601"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050952024557248905",
+    "created_at": "2026-05-03T14:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050952024557248905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kfBR9aixXa",
+          "end": 72,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2050952024557248905/photo/1",
+          "media_key": "3_2050952017393414144",
+          "start": 49,
+          "url": "https://t.co/kfBR9aixXa"
+        },
+        {
+          "display_url": "pic.x.com/kfBR9aixXa",
+          "end": 72,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2050952024557248905/photo/1",
+          "media_key": "3_2050952017531801601",
+          "start": 49,
+          "url": "https://t.co/kfBR9aixXa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050952024557248905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来到汕头，跨过北回归线！\n可惜时间所限必须得开始返程了，北回归线可能是北方人到了就得回去的意思😇 https://t.co/kfBR9aixXa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2050952017393414144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZx_lAa8AALlAp.jpg",
+        "width": 1739
+      },
+      {
+        "height": 972,
+        "media_key": "3_2050952017531801601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZx_lhakAEebem.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050952017393414144",
+            "3_2050952017531801601"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050952024557248905",
+        "created_at": "2026-05-03T14:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050952024557248905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfBR9aixXa",
+              "end": 72,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2050952024557248905/photo/1",
+              "media_key": "3_2050952017393414144",
+              "start": 49,
+              "url": "https://t.co/kfBR9aixXa"
+            },
+            {
+              "display_url": "pic.x.com/kfBR9aixXa",
+              "end": 72,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2050952024557248905/photo/1",
+              "media_key": "3_2050952017531801601",
+              "start": 49,
+              "url": "https://t.co/kfBR9aixXa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050952024557248905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来到汕头，跨过北回归线！\n可惜时间所限必须得开始返程了，北回归线可能是北方人到了就得回去的意思😇 https://t.co/kfBR9aixXa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1181,
+          "like_count": 17434,
+          "listed_count": 6,
+          "media_count": 637,
+          "tweet_count": 4818
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

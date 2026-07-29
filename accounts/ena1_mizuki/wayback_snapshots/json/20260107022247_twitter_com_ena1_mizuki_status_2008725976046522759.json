@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2008124488072953909",
+    "created_at": "2026-01-07T02:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008725976046522759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517539166321451008",
+          "start": 0,
+          "username": "YJJ02275323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008725976046522759",
+    "in_reply_to_user_id": "1517539166321451008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008712584304951549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJJ02275323 拍的真好，12寸也能拍出这种效果呀，我还以为要半米镜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2008124488072953909",
+        "created_at": "2026-01-07T02:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008725976046522759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517539166321451008",
+              "start": 0,
+              "username": "YJJ02275323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008725976046522759",
+        "in_reply_to_user_id": "1517539166321451008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008712584304951549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJJ02275323 拍的真好，12寸也能拍出这种效果呀，我还以为要半米镜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517539166321451008",
+        "conversation_id": "2008124488072953909",
+        "created_at": "2026-01-07T01:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T02:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008712584304951549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008712584304951549",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008579432911650817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我的12寸牛反呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 614,
+          "like_count": 8011,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 1867
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T16:21:56.000Z",
+        "description": "",
+        "id": "1517539166321451008",
+        "name": "YJJ",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 202,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "YJJ02275323",
+        "verified": false
+      }
+    ]
+  }
+}

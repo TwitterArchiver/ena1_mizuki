@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1982671894559211644",
+    "created_at": "2025-10-27T04:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T05:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982671894559211644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AJamesMcCarthy…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/AJamesMcCarthy/status/1982601788621803521",
+          "start": 4,
+          "url": "https://t.co/jchwEtOiqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982671894559211644",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982601788621803521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😍😍😍 https://t.co/jchwEtOiqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3345,
+        "media_key": "3_1982601462141071360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OdhooWsAA0WQZ.jpg",
+        "width": 3012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1982671894559211644",
+        "created_at": "2025-10-27T04:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982671894559211644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AJamesMcCarthy…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/AJamesMcCarthy/status/1982601788621803521",
+              "start": 4,
+              "url": "https://t.co/jchwEtOiqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982671894559211644",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982601788621803521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😍😍😍 https://t.co/jchwEtOiqs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982601462141071360"
+          ]
+        },
+        "author_id": "2492039959",
+        "conversation_id": "1982601788621803521",
+        "created_at": "2025-10-27T00:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982601788621803521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5dB3yXzRM",
+              "end": 255,
+              "expanded_url": "https://x.com/AJamesMcCarthy/status/1982601788621803521/photo/1",
+              "media_key": "3_1982601462141071360",
+              "start": 232,
+              "url": "https://t.co/X5dB3yXzRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982601788621803521",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 686,
+          "impression_count": 193500,
+          "like_count": 7548,
+          "quote_count": 94,
+          "reply_count": 293,
+          "retweet_count": 945
+        },
+        "reply_settings": "everyone",
+        "text": "Captured last night- probably the coolest comet shot I've ever gotten. I've never seen such a dynamic tail on a come. Incredible active, and moving quickly, which makes photographing it a challenge. \n\nSee how it moves in the reply. https://t.co/X5dB3yXzRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 314,
+          "like_count": 2996,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 426
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-12T22:11:33.000Z",
+        "description": "Exploring the universe from a backyard in Arizona. Get my latest artwork 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cosmicbackground.io/pages/ea_stard…",
+                "end": 23,
+                "expanded_url": "https://cosmicbackground.io/pages/ea_stardust",
+                "start": 0,
+                "url": "https://t.co/p6OiCvV9E4"
+              }
+            ]
+          }
+        },
+        "id": "2492039959",
+        "name": "Andrew McCarthy",
+        "pinned_tweet_id": "1978123916917805137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/465979126185091072/ukRk-mfd_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432641,
+          "following_count": 685,
+          "like_count": 213959,
+          "listed_count": 2516,
+          "media_count": 6304,
+          "tweet_count": 46421
+        },
+        "url": "https://t.co/p6OiCvV9E4",
+        "username": "AJamesMcCarthy",
+        "verified": true
+      }
+    ]
+  }
+}

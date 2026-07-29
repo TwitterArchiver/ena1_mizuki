@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2027245172472557720",
+    "created_at": "2026-02-27T04:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027245172472557720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ConcernedApe/s…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/ConcernedApe/status/2027105167318061516",
+          "start": 57,
+          "url": "https://t.co/cH1anXN11p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027245172472557720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027105167318061516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊为什么是克林特，中年油腻男看起来就臭臭的，还暗恋艾米丽像个🤡\n应该选我最爱的雷欧，谁懂鱼鱼症xnh有多美味😭 https://t.co/cH1anXN11p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 528,
+        "media_key": "3_2027105014553210880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCG5RUrbcAA4mji.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2027245172472557720",
+        "created_at": "2026-02-27T04:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027245172472557720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ConcernedApe/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ConcernedApe/status/2027105167318061516",
+              "start": 57,
+              "url": "https://t.co/cH1anXN11p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027245172472557720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027105167318061516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊为什么是克林特，中年油腻男看起来就臭臭的，还暗恋艾米丽像个🤡\n应该选我最爱的雷欧，谁懂鱼鱼症xnh有多美味😭 https://t.co/cH1anXN11p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027105014553210880"
+          ]
+        },
+        "author_id": "279067744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2027105167318061516",
+        "created_at": "2026-02-26T19:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027105167318061516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7gFHEGdKJ",
+              "end": 55,
+              "expanded_url": "https://x.com/ConcernedApe/status/2027105167318061516/photo/1",
+              "media_key": "3_2027105014553210880",
+              "start": 32,
+              "url": "https://t.co/W7gFHEGdKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027105167318061516",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4809,
+          "impression_count": 7364334,
+          "like_count": 118607,
+          "quote_count": 18417,
+          "reply_count": 2774,
+          "retweet_count": 12206
+        },
+        "reply_settings": "everyone",
+        "text": "These two can be married in 1.7 https://t.co/W7gFHEGdKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 918,
+          "like_count": 13616,
+          "listed_count": 6,
+          "media_count": 515,
+          "tweet_count": 3710
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-08T14:35:00.000Z",
+        "description": "creator of Stardew Valley -- working on \"Haunted Chocolatier\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stardewvalley.net",
+                "end": 23,
+                "expanded_url": "http://www.stardewvalley.net",
+                "start": 0,
+                "url": "https://t.co/gNNEAQjfBf"
+              }
+            ]
+          }
+        },
+        "id": "279067744",
+        "location": "Seattle",
+        "name": "ConcernedApe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/703728939995308032/IBU6i2IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388531,
+          "following_count": 95,
+          "like_count": 1957,
+          "listed_count": 1886,
+          "media_count": 157,
+          "tweet_count": 4545
+        },
+        "url": "https://t.co/gNNEAQjfBf",
+        "username": "ConcernedApe",
+        "verified": true
+      }
+    ]
+  }
+}

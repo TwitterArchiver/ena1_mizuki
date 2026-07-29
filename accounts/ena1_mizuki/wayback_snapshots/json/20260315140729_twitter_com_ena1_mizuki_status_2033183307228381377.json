@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2033157021663633601",
+    "created_at": "2026-03-15T14:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033183307228381377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1287402082509545474",
+          "start": 0,
+          "username": "SF98964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033183307228381377",
+    "in_reply_to_user_id": "1287402082509545474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033157021663633601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SF98964 nor性格好但是长得不合我口味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2033157021663633601",
+        "created_at": "2026-03-15T14:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033183307228381377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1287402082509545474",
+              "start": 0,
+              "username": "SF98964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033183307228381377",
+        "in_reply_to_user_id": "1287402082509545474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033157021663633601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SF98964 nor性格好但是长得不合我口味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287402082509545474",
+        "conversation_id": "2033157021663633601",
+        "created_at": "2026-03-15T12:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T13:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033157021663633601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2033114161862029546",
+              "start": 6,
+              "url": "https://t.co/arnxzrIJq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033157021663633601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033114161862029546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如诺姐（ https://t.co/arnxzrIJq8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 1045,
+          "like_count": 15043,
+          "listed_count": 6,
+          "media_count": 552,
+          "tweet_count": 4139
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T14:59:23.000Z",
+        "description": "A United Federation of Planets Starship/Tweet in English, 中文 even 日本語 Retweet ≠ Endorsement #GayMarriage #FuckTrump #米中日全部支那豚",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 92,
+                "tag": "GayMarriage"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "FuckTrump"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "米中日全部支那豚"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/survivorstudio",
+                "end": 23,
+                "expanded_url": "https://www.deviantart.com/survivorstudio",
+                "start": 0,
+                "url": "https://t.co/NqAnseBeCn"
+              }
+            ]
+          }
+        },
+        "id": "1287402082509545474",
+        "location": "Alpha Quadrant, Star Fleet Ops",
+        "name": "U.S.S. Renegade NCC-98964",
+        "pinned_tweet_id": "2014742304087802022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818677381328211968/IgkIRVKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 208,
+          "like_count": 8003,
+          "listed_count": 4,
+          "media_count": 1206,
+          "tweet_count": 14374
+        },
+        "url": "https://t.co/NqAnseBeCn",
+        "username": "SF98964",
+        "verified": false
+      }
+    ]
+  }
+}

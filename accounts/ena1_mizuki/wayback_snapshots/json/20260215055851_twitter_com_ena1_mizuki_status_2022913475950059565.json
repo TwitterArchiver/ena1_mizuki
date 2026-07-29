@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2022352637367325117",
+    "created_at": "2026-02-15T05:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022913475950059565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1708514882080186368",
+          "start": 0,
+          "username": "hareko_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022913475950059565",
+    "in_reply_to_user_id": "1708514882080186368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022890321693282586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hareko_1 抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2022352637367325117",
+        "created_at": "2026-02-15T05:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022913475950059565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708514882080186368",
+              "start": 0,
+              "username": "hareko_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022913475950059565",
+        "in_reply_to_user_id": "1708514882080186368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022890321693282586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hareko_1 抱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708514882080186368",
+        "conversation_id": "2022352637367325117",
+        "created_at": "2026-02-15T04:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022890321693282586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022890321693282586",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022352637367325117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 854,
+          "like_count": 12593,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 3437
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T16:11:27.000Z",
+        "description": "🍥",
+        "id": "1708514882080186368",
+        "name": "惜晴🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999120303886337/aT1-X4AJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 78,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 334
+        },
+        "username": "hareko_1",
+        "verified": false
+      }
+    ]
+  }
+}

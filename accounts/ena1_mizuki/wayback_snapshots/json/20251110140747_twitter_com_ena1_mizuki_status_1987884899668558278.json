@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987884888054550529",
+        "3_1987884896271077376"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1987884899668558278",
+    "created_at": "2025-11-10T14:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987884899668558278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFsAyfawwo",
+          "end": 168,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1987884899668558278/photo/1",
+          "media_key": "3_1987884888054550529",
+          "start": 145,
+          "url": "https://t.co/rFsAyfawwo"
+        },
+        {
+          "display_url": "pic.x.com/rFsAyfawwo",
+          "end": 168,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1987884899668558278/photo/1",
+          "media_key": "3_1987884896271077376",
+          "start": 145,
+          "url": "https://t.co/rFsAyfawwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987884899668558278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 45,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是我hrt一周年的纪念日，也是24岁的最后一天，每年生日前夕焦虑都会格外重，于是一年前的今天在性别、年龄焦虑双重作用下走上了改变自己的道路\n这一年确实向着目标前进了很多，还第一次谈了恋爱（虽然结果很糟），体验到了和hrt前完全不一样的人生，希望接下来的一年会更好，活成我想要的样子吧~ https://t.co/rFsAyfawwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_1987884888054550529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Zixf7b0AEcr_u.jpg",
+        "width": 1219
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1987884896271077376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Zix-iaEAAiXW2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987884888054550529",
+            "3_1987884896271077376"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1987884899668558278",
+        "created_at": "2025-11-10T14:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987884899668558278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFsAyfawwo",
+              "end": 168,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1987884899668558278/photo/1",
+              "media_key": "3_1987884888054550529",
+              "start": 145,
+              "url": "https://t.co/rFsAyfawwo"
+            },
+            {
+              "display_url": "pic.x.com/rFsAyfawwo",
+              "end": 168,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1987884899668558278/photo/1",
+              "media_key": "3_1987884896271077376",
+              "start": 145,
+              "url": "https://t.co/rFsAyfawwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987884899668558278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我hrt一周年的纪念日，也是24岁的最后一天，每年生日前夕焦虑都会格外重，于是一年前的今天在性别、年龄焦虑双重作用下走上了改变自己的道路\n这一年确实向着目标前进了很多，还第一次谈了恋爱（虽然结果很糟），体验到了和hrt前完全不一样的人生，希望接下来的一年会更好，活成我想要的样子吧~ https://t.co/rFsAyfawwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 328,
+          "like_count": 3359,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 496
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1990790324365787165",
+    "created_at": "2025-11-18T14:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990792676535632268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990792676535632268",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990790324365787165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1990790324365787165",
+        "created_at": "2025-11-18T14:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990792676535632268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990792676535632268",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990790324365787165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1990790324365787165",
+        "created_at": "2025-11-18T14:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990790324365787165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iMoeAya/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/iMoeAya/status/1990625556573139334",
+              "start": 21,
+              "url": "https://t.co/zsMf708GWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990790324365787165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990625556573139334",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "基本每个mtf的家庭都会有一个ftm的妈 https://t.co/zsMf708GWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 338,
+          "like_count": 3621,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 560
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "",
+        "id": "1903701047589343232",
+        "name": "ceobrus",
+        "pinned_tweet_id": "1990712920393633943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983202533972815872/4qPXaN4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 1692,
+          "like_count": 9007,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 91
+        },
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

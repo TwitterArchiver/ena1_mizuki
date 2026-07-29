@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012364253618135469",
+    "created_at": "2026-01-17T11:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012489702327107619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1640439577596039168",
+          "start": 0,
+          "username": "Fluorsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012489702327107619",
+    "in_reply_to_user_id": "1640439577596039168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012445001037557842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluorsc 确实呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012364253618135469",
+        "created_at": "2026-01-17T11:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012489702327107619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1640439577596039168",
+              "start": 0,
+              "username": "Fluorsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012489702327107619",
+        "in_reply_to_user_id": "1640439577596039168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012445001037557842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluorsc 确实呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640439577596039168",
+        "conversation_id": "2012364253618135469",
+        "created_at": "2026-01-17T08:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012445001037557842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012445001037557842",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012364253618135469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好险 前面这个双闪的安全意识挺好 我之前看到的追尾很多都是路障和三角牌放不到五十米的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 677,
+          "like_count": 9088,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 2193
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T19:44:17.000Z",
+        "description": "恋人：@Soyoz_\n家猫：@NoNbiNary3m",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Soyoz_"
+              },
+              {
+                "end": 26,
+                "start": 14,
+                "username": "NoNbiNary3m"
+              }
+            ]
+          }
+        },
+        "id": "1640439577596039168",
+        "name": "讨厌人类",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012472330073559040/zVt1b3H6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 296,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Fluorsc",
+        "verified": false
+      }
+    ]
+  }
+}

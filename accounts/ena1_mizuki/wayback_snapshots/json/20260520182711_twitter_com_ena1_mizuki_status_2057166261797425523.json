@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057166259066937345",
+        "3_2057166259490529280"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2057166261797425523",
+    "created_at": "2026-05-20T18:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057166261797425523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iEiRB7tTBz",
+          "end": 165,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2057166261797425523/photo/1",
+          "media_key": "3_2057166259066937345",
+          "start": 142,
+          "url": "https://t.co/iEiRB7tTBz"
+        },
+        {
+          "display_url": "pic.x.com/iEiRB7tTBz",
+          "end": 165,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2057166261797425523/photo/1",
+          "media_key": "3_2057166259490529280",
+          "start": 142,
+          "url": "https://t.co/iEiRB7tTBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057166261797425523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【水母的深夜无聊小研究】\n一直感觉我左手轮指速度和稳定性都明显强于右手，但我的惯用手是右手，这就很奇怪\n一种可能是右手在日常使用中倾向于手指整体发力，例如拿重物握笔什么的；而左手就比较自由，后期练起来也更容易\n不过感觉左手能切动暗锅那段232bpm切就很离谱，换两只手都不一定打得稳 https://t.co/iEiRB7tTBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2226,
+        "media_key": "3_2057166259066937345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyF0DOaoAEbUY7.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2215,
+        "media_key": "3_2057166259490529280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIyF0EzaIAAcXgV.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057166259066937345",
+            "3_2057166259490529280"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2057166261797425523",
+        "created_at": "2026-05-20T18:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057166261797425523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEiRB7tTBz",
+              "end": 165,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2057166261797425523/photo/1",
+              "media_key": "3_2057166259066937345",
+              "start": 142,
+              "url": "https://t.co/iEiRB7tTBz"
+            },
+            {
+              "display_url": "pic.x.com/iEiRB7tTBz",
+              "end": 165,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2057166261797425523/photo/1",
+              "media_key": "3_2057166259490529280",
+              "start": 142,
+              "url": "https://t.co/iEiRB7tTBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057166261797425523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【水母的深夜无聊小研究】\n一直感觉我左手轮指速度和稳定性都明显强于右手，但我的惯用手是右手，这就很奇怪\n一种可能是右手在日常使用中倾向于手指整体发力，例如拿重物握笔什么的；而左手就比较自由，后期练起来也更容易\n不过感觉左手能切动暗锅那段232bpm切就很离谱，换两只手都不一定打得稳 https://t.co/iEiRB7tTBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 1265,
+          "like_count": 18084,
+          "listed_count": 7,
+          "media_count": 677,
+          "tweet_count": 5170
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

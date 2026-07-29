@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2070108867846148516",
+    "created_at": "2026-06-25T16:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070187227112763670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1343042187777327104",
+          "start": 0,
+          "username": "Carl225126302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070187227112763670",
+    "in_reply_to_user_id": "1343042187777327104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070180789430743306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Carl225126302 黄经一致哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2070108867846148516",
+        "created_at": "2026-06-25T16:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070187227112763670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1343042187777327104",
+              "start": 0,
+              "username": "Carl225126302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070187227112763670",
+        "in_reply_to_user_id": "1343042187777327104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070180789430743306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carl225126302 黄经一致哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343042187777327104",
+        "conversation_id": "2070108867846148516",
+        "created_at": "2026-06-25T16:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070180789430743306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070180789430743306",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070173037123826047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 经过天球同一处应该需要赤纬一致而不是赤经一致吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 1322,
+          "like_count": 18954,
+          "listed_count": 8,
+          "media_count": 730,
+          "tweet_count": 5475
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-27T03:53:12.000Z",
+        "description": "Tropical Cyclone Enthusiast, Satellite Imageries",
+        "id": "1343042187777327104",
+        "name": "我不是Carl2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1370202473235816449/Ra0FnQly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 75,
+          "like_count": 356,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "Carl225126302",
+        "verified": false
+      }
+    ]
+  }
+}

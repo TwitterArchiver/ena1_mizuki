@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2039639777709039974",
+    "created_at": "2026-04-03T00:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039859110058000837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 26,
+          "id": "1266329483222511617",
+          "start": 16,
+          "username": "im_rinnin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039859110058000837",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039823358607716817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @im_rinnin 。。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039823358607716817].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039823358607716817",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039823358607716817"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2039639777709039974",
+        "created_at": "2026-04-03T00:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039859110058000837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 26,
+              "id": "1266329483222511617",
+              "start": 16,
+              "username": "im_rinnin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039859110058000837",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039823358607716817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @im_rinnin 。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 1074,
+          "like_count": 16029,
+          "listed_count": 6,
+          "media_count": 590,
+          "tweet_count": 4438
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 F Stu🎧🍟🍔🥤🚪1680JPY/EN/JP 😘🍩 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています🍬",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1838814967161852327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 4364,
+          "like_count": 33935,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 19638
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T11:24:16.000Z",
+        "description": "基本不看私信\n不会写代码\n只想平静的生活\n只要可爱就没问题\n我永远喜欢🌻\n67B9 5938 E7A1 8AB6 CC32  BEE6 77DD D1D1 0000 0000",
+        "id": "1266329483222511617",
+        "name": "宁宁_爱生活",
+        "pinned_tweet_id": "2016004871435256130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006618302425235456/LIDAc8xW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 389,
+          "like_count": 15104,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 11074
+        },
+        "username": "im_rinnin",
+        "verified": false
+      }
+    ]
+  }
+}

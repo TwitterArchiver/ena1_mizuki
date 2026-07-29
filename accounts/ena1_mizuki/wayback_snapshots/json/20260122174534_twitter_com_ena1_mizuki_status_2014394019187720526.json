@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014393997113077760"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2014387036120379487",
+    "created_at": "2026-01-22T17:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T18:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014394019187720526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zrsI3xIpri",
+          "end": 41,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2014394019187720526/photo/1",
+          "media_key": "3_2014393997113077760",
+          "start": 18,
+          "url": "https://t.co/zrsI3xIpri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014394019187720526",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014387036120379487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同时也要感谢水月和鲨鲨的全程陪伴~ https://t.co/zrsI3xIpri"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014393997113077760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SQquuasAArz6W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1427,
+        "media_key": "3_2014387021167607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SKUrTaQAA2_qO.jpg",
+        "width": 1912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014393997113077760"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2014387036120379487",
+        "created_at": "2026-01-22T17:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014394019187720526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrsI3xIpri",
+              "end": 41,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2014394019187720526/photo/1",
+              "media_key": "3_2014393997113077760",
+              "start": 18,
+              "url": "https://t.co/zrsI3xIpri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014394019187720526",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014387036120379487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同时也要感谢水月和鲨鲨的全程陪伴~ https://t.co/zrsI3xIpri"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014387021167607808"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2014387036120379487",
+        "created_at": "2026-01-22T17:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T18:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014387036120379487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bXQ3JD8yf",
+              "end": 170,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2014387036120379487/photo/1",
+              "media_key": "3_2014387021167607808",
+              "start": 147,
+              "url": "https://t.co/1bXQ3JD8yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014387036120379487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到家啦，结束了为期半个月，跨越6200公里的北方自驾传奇之旅😎\n这是我最长的一次自驾旅行，在隆冬时节一个人一路向北直达边境，一路上欣赏了很多从未见过的美景，面了几位推油，甚至还意外看到了火箭发射和极光，回想起来无比激动人心&gt;_&lt;\n这是值得铭记一生的旅程，是我走出人生最低谷的印记😊 https://t.co/1bXQ3JD8yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 734,
+          "like_count": 9775,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 2479
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

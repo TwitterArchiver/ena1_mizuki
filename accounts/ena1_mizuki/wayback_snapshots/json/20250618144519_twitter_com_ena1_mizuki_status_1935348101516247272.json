@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935306222170705921"
+      ],
+      "media_source_tweet_id": [
+        "1935306235517223391"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1935348101516247272",
+    "created_at": "2025-06-18T14:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T15:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935348101516247272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831391841985744896",
+          "start": 3,
+          "username": "as4_S2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WWIIxt39ir",
+          "end": 35,
+          "expanded_url": "https://x.com/as4_S2/status/1935306235517223391/photo/1",
+          "media_key": "3_1935306222170705921",
+          "start": 12,
+          "url": "https://t.co/WWIIxt39ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935348101516247272",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 709
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935306235517223391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @as4_S2: https://t.co/WWIIxt39ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935306222170705921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuWwWAWkAErl9u.jpg",
+        "width": 1354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935306222170705921"
+          ],
+          "media_source_tweet_id": [
+            "1935306235517223391"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1935348101516247272",
+        "created_at": "2025-06-18T14:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935348101516247272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831391841985744896",
+              "start": 3,
+              "username": "as4_S2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWIIxt39ir",
+              "end": 35,
+              "expanded_url": "https://x.com/as4_S2/status/1935306235517223391/photo/1",
+              "media_key": "3_1935306222170705921",
+              "start": 12,
+              "url": "https://t.co/WWIIxt39ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935348101516247272",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 709
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935306235517223391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @as4_S2: https://t.co/WWIIxt39ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935306222170705921"
+          ]
+        },
+        "author_id": "1831391841985744896",
+        "conversation_id": "1935306235517223391",
+        "created_at": "2025-06-18T11:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935306235517223391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWIIxt39ir",
+              "end": 23,
+              "expanded_url": "https://x.com/as4_S2/status/1935306235517223391/photo/1",
+              "media_key": "3_1935306222170705921",
+              "start": 0,
+              "url": "https://t.co/WWIIxt39ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935306235517223391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 990,
+          "impression_count": 76586,
+          "like_count": 7077,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 709
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WWIIxt39ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，等待老公中🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 19
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T18:00:38.000Z",
+        "description": "AI ❌ asucream0404@gmail.com",
+        "id": "1831391841985744896",
+        "name": "アス",
+        "pinned_tweet_id": "1864995703975780448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910405299175120902/lc4yz0Fx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23461,
+          "following_count": 60,
+          "like_count": 748,
+          "listed_count": 143,
+          "media_count": 18,
+          "tweet_count": 107
+        },
+        "username": "as4_S2",
+        "verified": false
+      }
+    ]
+  }
+}

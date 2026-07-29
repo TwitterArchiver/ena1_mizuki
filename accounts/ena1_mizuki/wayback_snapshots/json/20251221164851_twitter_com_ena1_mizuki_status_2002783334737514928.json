@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2002752061226836286",
+    "created_at": "2025-12-21T16:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002783334737514928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1386659384634269698",
+          "start": 0,
+          "username": "5ky1ine_"
+        },
+        {
+          "end": 20,
+          "id": "1076829775845515264",
+          "start": 10,
+          "username": "altria210"
+        },
+        {
+          "end": 33,
+          "id": "1573705125859762176",
+          "start": 21,
+          "username": "Balsharktea"
+        },
+        {
+          "end": 47,
+          "id": "1880447062908760067",
+          "start": 34,
+          "username": "shiromakiiii"
+        },
+        {
+          "end": 63,
+          "id": "1730982150978023424",
+          "start": 48,
+          "username": "kirakiraTanuko"
+        },
+        {
+          "end": 78,
+          "id": "1826511437419941888",
+          "start": 64,
+          "username": "Mizuiro_ameni"
+        },
+        {
+          "end": 87,
+          "id": "1350674307995713537",
+          "start": 79,
+          "username": "mzenura"
+        },
+        {
+          "end": 98,
+          "id": "1551602071467466753",
+          "start": 88,
+          "username": "Hazesejso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002783334737514928",
+    "in_reply_to_user_id": "1386659384634269698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002752061226836286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5ky1ine_ @altria210 @Balsharktea @shiromakiiii @kirakiraTanuko @Mizuiro_ameni @mzenura @Hazesejso 好好看真的太神了😇😇😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002752021829660672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8s0WlJaMAA931A.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2002752061226836286",
+        "created_at": "2025-12-21T16:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002783334737514928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1386659384634269698",
+              "start": 0,
+              "username": "5ky1ine_"
+            },
+            {
+              "end": 20,
+              "id": "1076829775845515264",
+              "start": 10,
+              "username": "altria210"
+            },
+            {
+              "end": 33,
+              "id": "1573705125859762176",
+              "start": 21,
+              "username": "Balsharktea"
+            },
+            {
+              "end": 47,
+              "id": "1880447062908760067",
+              "start": 34,
+              "username": "shiromakiiii"
+            },
+            {
+              "end": 63,
+              "id": "1730982150978023424",
+              "start": 48,
+              "username": "kirakiraTanuko"
+            },
+            {
+              "end": 78,
+              "id": "1826511437419941888",
+              "start": 64,
+              "username": "Mizuiro_ameni"
+            },
+            {
+              "end": 87,
+              "id": "1350674307995713537",
+              "start": 79,
+              "username": "mzenura"
+            },
+            {
+              "end": 98,
+              "id": "1551602071467466753",
+              "start": 88,
+              "username": "Hazesejso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002783334737514928",
+        "in_reply_to_user_id": "1386659384634269698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002752061226836286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5ky1ine_ @altria210 @Balsharktea @shiromakiiii @kirakiraTanuko @Mizuiro_ameni @mzenura @Hazesejso 好好看真的太神了😇😇😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002752021829660672"
+          ]
+        },
+        "author_id": "1386659384634269698",
+        "conversation_id": "2002752061226836286",
+        "created_at": "2025-12-21T14:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T15:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002752061226836286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1076829775845515264",
+              "start": 26,
+              "username": "altria210"
+            },
+            {
+              "end": 59,
+              "id": "1573705125859762176",
+              "start": 47,
+              "username": "Balsharktea"
+            },
+            {
+              "end": 77,
+              "id": "1880447062908760067",
+              "start": 64,
+              "username": "shiromakiiii"
+            },
+            {
+              "end": 104,
+              "id": "1730982150978023424",
+              "start": 89,
+              "username": "kirakiraTanuko"
+            },
+            {
+              "end": 122,
+              "id": "1826511437419941888",
+              "start": 108,
+              "username": "Mizuiro_ameni"
+            },
+            {
+              "end": 134,
+              "id": "1350674307995713537",
+              "start": 126,
+              "username": "mzenura"
+            },
+            {
+              "end": 148,
+              "id": "1551602071467466753",
+              "start": 138,
+              "username": "Hazesejso"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKiXczpENM",
+              "end": 178,
+              "expanded_url": "https://x.com/5ky1ine_/status/2002752061226836286/photo/1",
+              "media_key": "3_2002752021829660672",
+              "start": 155,
+              "url": "https://t.co/dKiXczpENM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002752061226836286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 7227,
+          "like_count": 1087,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 301
+        },
+        "reply_settings": "everyone",
+        "text": "♡·*·❀大家一起创作的mzen❀·*·♡\n\n街委：@altria210\n美工：锅 \n新队服：@Balsharktea\n旧队服：@shiromakiiii\n新校服：回声\nids：@kirakiraTanuko\n野餐：@Mizuiro_ameni\n隐者：@mzenura\n怪花：@Hazesejso\n装饰：梦游 https://t.co/dKiXczpENM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 495,
+          "like_count": 6109,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1263
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-26T12:33:03.000Z",
+        "description": "中文/EN/日本語👀○/prsk ✨💖",
+        "id": "1386659384634269698",
+        "location": "🐳",
+        "name": "ookyline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535541240711630850/YRdpTDsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37170,
+          "following_count": 188,
+          "like_count": 1878,
+          "listed_count": 135,
+          "media_count": 227,
+          "tweet_count": 642
+        },
+        "username": "5ky1ine_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-23T13:19:59.000Z",
+        "description": "悲しい",
+        "id": "1076829775845515264",
+        "name": "氷川ゆい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953215922233327617/b0oX1iaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 140,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 529
+        },
+        "username": "altria210",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:05:39.000Z",
+        "description": "你好，我是白茶，目前主要在搞一些oc和世界计划的mzen🎀🎨（可逆）。不常上线，目前不接稿",
+        "id": "1573705125859762176",
+        "location": "Sichuan/suzhou",
+        "name": "白茶Balshark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874451704521109504/Kp5BwFYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 53,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "username": "Balsharktea",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T02:48:20.000Z",
+        "description": "24↑，中文&日本語ok\nprsk：mzen\nv：初音ミク\noc有\n✉：1768756251☆https://t.co/dw90pkH35f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qq.com",
+                "end": 70,
+                "expanded_url": "http://qq.com",
+                "start": 47,
+                "url": "https://t.co/dw90pkH35f"
+              }
+            ]
+          }
+        },
+        "id": "1880447062908760067",
+        "name": "白巻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930127497838112770/SpA6M7eV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 48,
+          "like_count": 148,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 122
+        },
+        "username": "shiromakiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T16:08:14.000Z",
+        "description": "✨中文/English/日本語/Español 👌｜プロセガ｜🎨推し｜🎀🎨みずえな｜Cosplay & 絵を描く& 踊ってみた✨",
+        "id": "1730982150978023424",
+        "name": "圆狸子Tanuko 🌰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001953777125847040/WLrnqNY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 122,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "kirakiraTanuko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T06:47:30.000Z",
+        "description": "这里水色，请多指教！(*´∀｀*)｜🇨🇳中文/english/日本語is👌｜会发oc也会发同人创作！「日本語勉強中、あまり得意でわありません、ごめなさい！！」",
+        "id": "1826511437419941888",
+        "location": "Hong Kong",
+        "name": "Mizuiro_ameni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826515845398597632/YHNaSzcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 105,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "Mizuiro_ameni",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-17T05:20:31.000Z",
+        "description": "（旧※芋螺）。30↑成人済。本業漫画家。こちらはみずえな中心絵垢です。\n🎀🎨相手固定。🔞有。⚠中文／日本語。\n同人活動は個人サークル『URA BOU』名義で参加します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/mzenura",
+                "end": 23,
+                "expanded_url": "https://potofu.me/mzenura",
+                "start": 0,
+                "url": "https://t.co/sCzWj1XIdc"
+              }
+            ]
+          }
+        },
+        "id": "1350674307995713537",
+        "location": "台湾．みずえな沼",
+        "name": "URA✨BOOTH通販中",
+        "pinned_tweet_id": "1784960936941662332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891197297633230848/3ogleF75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18817,
+          "following_count": 22,
+          "like_count": 7188,
+          "listed_count": 86,
+          "media_count": 839,
+          "tweet_count": 10605
+        },
+        "url": "https://t.co/sCzWj1XIdc",
+        "username": "mzenura",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-25T16:15:51.000Z",
+        "description": "=🔩雾霾/Haze/🇨🇳 中文/English/日本語  非假期不定期更新",
+        "id": "1551602071467466753",
+        "name": "酸性雾霾",
+        "pinned_tweet_id": "1552971326607872000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988885784825585664/TCK4WKE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 241,
+          "like_count": 388,
+          "listed_count": 10,
+          "media_count": 128,
+          "tweet_count": 240
+        },
+        "username": "Hazesejso",
+        "verified": false
+      }
+    ]
+  }
+}

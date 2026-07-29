@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995068064136884224"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1995015205886332964",
+    "created_at": "2025-11-30T09:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T10:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995068067123274228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbaXlMGKdK",
+          "end": 35,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1995068067123274228/photo/1",
+          "media_key": "3_1995068064136884224",
+          "start": 12,
+          "url": "https://t.co/pbaXlMGKdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995068067123274228",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995015205886332964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO https://t.co/pbaXlMGKdK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 189,
+        "media_key": "3_1995068064136884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_n1YGa8AAx6P4.jpg",
+        "width": 244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995068064136884224"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1995015205886332964",
+        "created_at": "2025-11-30T09:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995068067123274228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbaXlMGKdK",
+              "end": 35,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1995068067123274228/photo/1",
+              "media_key": "3_1995068064136884224",
+              "start": 12,
+              "url": "https://t.co/pbaXlMGKdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995068067123274228",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995015205886332964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO https://t.co/pbaXlMGKdK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "conversation_id": "1995015205886332964",
+        "created_at": "2025-11-30T06:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995015205886332964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/1994680114379198961",
+              "start": 4,
+              "url": "https://t.co/CqMpOND1qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995015205886332964",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994680114379198961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥰🥰🥰 https://t.co/CqMpOND1qf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 358,
+          "like_count": 4091,
+          "listed_count": 3,
+          "media_count": 164,
+          "tweet_count": 708
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "水母🪼系統。Hunter x Prey x Rust🦀 x Freelancer | Co-Founder of @0xSomeLab | 接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "0xSomeLab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/AU3CBDzkkm"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "水母猫",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992867754031108096/b6ssV3wN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 408,
+          "like_count": 3454,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/AU3CBDzkkm",
+        "username": "StarNekOvO",
+        "verified": false
+      }
+    ]
+  }
+}

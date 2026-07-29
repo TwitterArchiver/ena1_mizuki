@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003438485622153266",
+    "created_at": "2025-12-25T13:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T14:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004184089818186114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687472685964742656",
+          "start": 0,
+          "username": "MizukiMizu74138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004184089818186114",
+    "in_reply_to_user_id": "1687472685964742656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004180495681323065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiMizu74138 对！🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003438485622153266",
+        "created_at": "2025-12-25T13:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004184089818186114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687472685964742656",
+              "start": 0,
+              "username": "MizukiMizu74138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004184089818186114",
+        "in_reply_to_user_id": "1687472685964742656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004180495681323065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiMizu74138 对！🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687472685964742656",
+        "conversation_id": "2003438485622153266",
+        "created_at": "2025-12-25T13:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T14:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004180495681323065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004180495681323065",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003438485622153266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 水月是正确的！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 515,
+          "like_count": 6576,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1413
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T14:37:11.000Z",
+        "description": "你的光芒会照亮前行之路\n明日方舟/邦邦/术力口/音游 本质是仓田真白激推人 最近在玩素晴日\n互fo大欢迎！！关注了都会回fo",
+        "id": "1687472685964742656",
+        "location": "宇宙 日本 世田谷",
+        "name": "Mizuki Mizuki",
+        "pinned_tweet_id": "1997006579556889053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995375562899222528/oH0-P17N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 393,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 337
+        },
+        "username": "MizukiMizu74138",
+        "verified": false
+      }
+    ]
+  }
+}

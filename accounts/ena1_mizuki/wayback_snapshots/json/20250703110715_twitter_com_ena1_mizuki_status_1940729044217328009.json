@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940729040471465985",
+        "3_1940729039557480448",
+        "3_1940729041067061248",
+        "3_1940729039842693120"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1940729044217328009",
+    "created_at": "2025-07-03T11:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T12:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940729044217328009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8E10xtBVRB",
+          "end": 109,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+          "media_key": "3_1940729040471465985",
+          "start": 86,
+          "url": "https://t.co/8E10xtBVRB"
+        },
+        {
+          "display_url": "pic.x.com/8E10xtBVRB",
+          "end": 109,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+          "media_key": "3_1940729039557480448",
+          "start": 86,
+          "url": "https://t.co/8E10xtBVRB"
+        },
+        {
+          "display_url": "pic.x.com/8E10xtBVRB",
+          "end": 109,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+          "media_key": "3_1940729041067061248",
+          "start": 86,
+          "url": "https://t.co/8E10xtBVRB"
+        },
+        {
+          "display_url": "pic.x.com/8E10xtBVRB",
+          "end": 109,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+          "media_key": "3_1940729039842693120",
+          "start": 86,
+          "url": "https://t.co/8E10xtBVRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940729044217328009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西南小环线自驾之旅落下帷幕，在地图上画出了一个超大版塞浦路斯 ^_^ \n​有三天开了600km+，一路上风景很美，但也很热很累，接下来要在空调房宅一段时间恢复能量了=_= https://t.co/8E10xtBVRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1135,
+        "media_key": "3_1940729040471465985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7ax6aWIAEF7Kn.jpg",
+        "width": 1851
+      },
+      {
+        "height": 1534,
+        "media_key": "3_1940729039557480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7ax3Ab0AAJAYL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1430,
+        "media_key": "3_1940729041067061248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7ax8oWMAAd8Q5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1940729039842693120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu7ax4Eb0AAoYm1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940729040471465985",
+            "3_1940729039557480448",
+            "3_1940729041067061248",
+            "3_1940729039842693120"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1940729044217328009",
+        "created_at": "2025-07-03T11:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T12:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940729044217328009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8E10xtBVRB",
+              "end": 109,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+              "media_key": "3_1940729040471465985",
+              "start": 86,
+              "url": "https://t.co/8E10xtBVRB"
+            },
+            {
+              "display_url": "pic.x.com/8E10xtBVRB",
+              "end": 109,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+              "media_key": "3_1940729039557480448",
+              "start": 86,
+              "url": "https://t.co/8E10xtBVRB"
+            },
+            {
+              "display_url": "pic.x.com/8E10xtBVRB",
+              "end": 109,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+              "media_key": "3_1940729041067061248",
+              "start": 86,
+              "url": "https://t.co/8E10xtBVRB"
+            },
+            {
+              "display_url": "pic.x.com/8E10xtBVRB",
+              "end": 109,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1940729044217328009/photo/1",
+              "media_key": "3_1940729039842693120",
+              "start": 86,
+              "url": "https://t.co/8E10xtBVRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940729044217328009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西南小环线自驾之旅落下帷幕，在地图上画出了一个超大版塞浦路斯 ^_^ \n​有三天开了600km+，一路上风景很美，但也很热很累，接下来要在空调房宅一段时间恢复能量了=_= https://t.co/8E10xtBVRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 35,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 32
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990730782315569152",
+        "3_1990730782248480768"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1990730784894751031",
+    "created_at": "2025-11-18T10:36:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:36:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990730784894751031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WGy65AydLB",
+          "end": 48,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1990730784894751031/photo/1",
+          "media_key": "3_1990730782315569152",
+          "start": 25,
+          "url": "https://t.co/WGy65AydLB"
+        },
+        {
+          "display_url": "pic.x.com/WGy65AydLB",
+          "end": 48,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1990730784894751031/photo/1",
+          "media_key": "3_1990730782248480768",
+          "start": 25,
+          "url": "https://t.co/WGy65AydLB"
+        },
+        {
+          "display_url": "x.com/Chise_awa/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Chise_awa/status/1990659844945424760",
+          "start": 49,
+          "url": "https://t.co/tnGHWjYHFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990730784894751031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990659844945424760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "划了这么多竟然没有连成一线，那社会化程度很高了😎 https://t.co/WGy65AydLB https://t.co/tnGHWjYHFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_1990730782315569152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B_GWNa4AAwNJ_.jpg",
+        "width": 1188
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1990730782248480768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B_GV9bMAAXDPi.jpg",
+        "width": 1188
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1990659771813548032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6A-g_ebUAAv3UZ.jpg",
+        "width": 1188
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1990659794089455616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6A-iSdasAAr9Ci.png",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990730782315569152",
+            "3_1990730782248480768"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1990730784894751031",
+        "created_at": "2025-11-18T10:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990730784894751031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGy65AydLB",
+              "end": 48,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1990730784894751031/photo/1",
+              "media_key": "3_1990730782315569152",
+              "start": 25,
+              "url": "https://t.co/WGy65AydLB"
+            },
+            {
+              "display_url": "pic.x.com/WGy65AydLB",
+              "end": 48,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1990730784894751031/photo/1",
+              "media_key": "3_1990730782248480768",
+              "start": 25,
+              "url": "https://t.co/WGy65AydLB"
+            },
+            {
+              "display_url": "x.com/Chise_awa/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Chise_awa/status/1990659844945424760",
+              "start": 49,
+              "url": "https://t.co/tnGHWjYHFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990730784894751031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990659844945424760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "划了这么多竟然没有连成一线，那社会化程度很高了😎 https://t.co/WGy65AydLB https://t.co/tnGHWjYHFn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990659771813548032",
+            "3_1990659794089455616"
+          ]
+        },
+        "author_id": "1688101533198475264",
+        "conversation_id": "1990659844945424760",
+        "created_at": "2025-11-18T05:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990659844945424760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhrtUoYtt5",
+              "end": 27,
+              "expanded_url": "https://x.com/Chise_awa/status/1990659844945424760/photo/1",
+              "media_key": "3_1990659771813548032",
+              "start": 4,
+              "url": "https://t.co/rhrtUoYtt5"
+            },
+            {
+              "display_url": "pic.x.com/rhrtUoYtt5",
+              "end": 27,
+              "expanded_url": "https://x.com/Chise_awa/status/1990659844945424760/photo/1",
+              "media_key": "3_1990659794089455616",
+              "start": 4,
+              "url": "https://t.co/rhrtUoYtt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990659844945424760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 773,
+          "like_count": 20,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QWQ https://t.co/rhrtUoYtt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 338,
+          "like_count": 3612,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 558
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "千世单推人💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 神人高中生 | 可以叫我小千 | 想要变可爱 | 微量键政 | 老婆❤ @Fisa_wo | 小号：@distorted114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "Fisa_wo"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "distorted114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fwKB6"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989972715093229568/t3amFrH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 1049,
+          "like_count": 15370,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 4554
+        },
+        "url": "https://t.co/yj1O6fwKB6",
+        "username": "Chise_awa",
+        "verified": false
+      }
+    ]
+  }
+}

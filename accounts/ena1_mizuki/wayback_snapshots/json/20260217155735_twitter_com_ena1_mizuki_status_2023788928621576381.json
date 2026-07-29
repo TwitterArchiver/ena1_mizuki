@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023788924934778880"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023788928621576381",
+    "created_at": "2026-02-17T15:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T16:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023788928621576381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d4lnUIiXhX",
+          "end": 102,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2023788928621576381/photo/1",
+          "media_key": "3_2023788924934778880",
+          "start": 79,
+          "url": "https://t.co/d4lnUIiXhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023788928621576381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉要是我再好看一些，然后声音是女声，就想出道当偶像了（莫名其妙被自己的魅力征服自恋中）\n可惜呀还是太老太男了，要是我生来是顺女，绝对要当小偶像整天唱唱跳跳🥺 https://t.co/d4lnUIiXhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2023788924934778880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXxTgMbcAAo8i-.jpg",
+        "width": 1934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023788924934778880"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023788928621576381",
+        "created_at": "2026-02-17T15:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023788928621576381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4lnUIiXhX",
+              "end": 102,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2023788928621576381/photo/1",
+              "media_key": "3_2023788924934778880",
+              "start": 79,
+              "url": "https://t.co/d4lnUIiXhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023788928621576381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉要是我再好看一些，然后声音是女声，就想出道当偶像了（莫名其妙被自己的魅力征服自恋中）\n可惜呀还是太老太男了，要是我生来是顺女，绝对要当小偶像整天唱唱跳跳🥺 https://t.co/d4lnUIiXhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 872,
+          "like_count": 12853,
+          "listed_count": 4,
+          "media_count": 495,
+          "tweet_count": 3507
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

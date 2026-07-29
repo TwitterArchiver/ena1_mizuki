@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1999380128938491951",
+    "created_at": "2025-12-12T12:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999463491258974629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1871872024198664192",
+          "start": 0,
+          "username": "cheng_lq637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999463491258974629",
+    "in_reply_to_user_id": "1871872024198664192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999460444717875458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheng_lq637 嗯我想这个不是侵入接触带，因为没有看到明显的冷凝边存在，当然也有可能花岗斑岩本身就是冷凝边，实际上岩浆主体是花岗岩，不过这是海边的转石无法判断了hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1999380128938491951",
+        "created_at": "2025-12-12T12:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999463491258974629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1871872024198664192",
+              "start": 0,
+              "username": "cheng_lq637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999463491258974629",
+        "in_reply_to_user_id": "1871872024198664192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999460444717875458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheng_lq637 嗯我想这个不是侵入接触带，因为没有看到明显的冷凝边存在，当然也有可能花岗斑岩本身就是冷凝边，实际上岩浆主体是花岗岩，不过这是海边的转石无法判断了hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871872024198664192",
+        "conversation_id": "1999380128938491951",
+        "created_at": "2025-12-12T12:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999460444717875458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999460444717875458",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999380128938491951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 岩浆侵入接触带的复合岩石 😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 434,
+          "like_count": 5058,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 1005
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-25T10:54:16.000Z",
+        "description": "只会没事看看",
+        "id": "1871872024198664192",
+        "name": "nanc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873041828523749376/MWuM48oZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 52,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "username": "cheng_lq637",
+        "verified": false
+      }
+    ]
+  }
+}

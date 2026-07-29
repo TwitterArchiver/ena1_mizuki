@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016787022959300964",
+    "created_at": "2026-01-29T08:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016796520604192972"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016796520604192972",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016787022959300964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有之前我爸妈开这车的时候每次保养都被忽悠加AMG机油，多花一千多\n不过车子可靠性还是不错的，去东北开6000km被冻成这样，这次保养都没发现什么问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2016787014809767937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0RGsVbUAEA5hd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016786993569812480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0RFdNbUAAHQEC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016787022959300964",
+        "created_at": "2026-01-29T08:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016796520604192972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016796520604192972",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016787022959300964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有之前我爸妈开这车的时候每次保养都被忽悠加AMG机油，多花一千多\n不过车子可靠性还是不错的，去东北开6000km被冻成这样，这次保养都没发现什么问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016787014809767937",
+            "3_2016786993569812480"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016787022959300964",
+        "created_at": "2026-01-29T08:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016787022959300964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjhleiOfKw",
+              "end": 106,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2016787022959300964/photo/1",
+              "media_key": "3_2016787014809767937",
+              "start": 83,
+              "url": "https://t.co/XjhleiOfKw"
+            },
+            {
+              "display_url": "pic.x.com/XjhleiOfKw",
+              "end": 106,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2016787022959300964/photo/1",
+              "media_key": "3_2016786993569812480",
+              "start": 83,
+              "url": "https://t.co/XjhleiOfKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016787022959300964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去4s店保养结果给我换了便宜副厂火花塞，这次去东北火花塞坏掉才发现，甚至有一个是摔过的\n今天去查记录是几年前换的，当时保养的那个店跑路了好像也没法要赔偿，真黑😡😡😡 https://t.co/XjhleiOfKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 759,
+          "like_count": 10580,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 2795
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

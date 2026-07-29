@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2050141892038517238",
+    "created_at": "2026-05-01T18:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050286238368923836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "983332233120370689",
+          "start": 0,
+          "username": "0707_Master"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050286238368923836",
+    "in_reply_to_user_id": "983332233120370689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050233507147051208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0707_Master 福建北部"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2050141892038517238",
+        "created_at": "2026-05-01T18:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050286238368923836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "983332233120370689",
+              "start": 0,
+              "username": "0707_Master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050286238368923836",
+        "in_reply_to_user_id": "983332233120370689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050233507147051208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0707_Master 福建北部"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "983332233120370689",
+        "conversation_id": "2050141892038517238",
+        "created_at": "2026-05-01T15:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050233507147051208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050233507147051208",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050141892038517238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 去哪里玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 1171,
+          "like_count": 17342,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 4775
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T13:14:08.000Z",
+        "description": "我家小鱼喵@fishcat114 | 一般顺♂ | CS Master毕业 | OI教练 | 明日方舟/碧蓝航线 | FF14/WOW | bang/pjsk | hololive/Nijisanji | 老二次元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "fishcat114"
+              }
+            ]
+          }
+        },
+        "id": "983332233120370689",
+        "location": "Living Memory",
+        "name": "大0老师",
+        "pinned_tweet_id": "2019095184060084727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015418270057197569/F-HeftFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 274,
+          "like_count": 1657,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1462
+        },
+        "username": "0707_Master",
+        "verified": false
+      }
+    ]
+  }
+}

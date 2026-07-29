@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1995006739134255376",
+    "created_at": "2025-11-30T12:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995105136335823129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995105136335823129",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995006739134255376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995006729751601152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-wDPtboAAZDyU.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1995006739134255376",
+        "created_at": "2025-11-30T12:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995105136335823129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995105136335823129",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995006739134255376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995006729751601152"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "1995006739134255376",
+        "created_at": "2025-11-30T05:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T06:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995006739134255376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4ToIKoKwT",
+              "end": 33,
+              "expanded_url": "https://x.com/ceobrus/status/1995006739134255376/photo/1",
+              "media_key": "3_1995006729751601152",
+              "start": 10,
+              "url": "https://t.co/y4ToIKoKwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995006739134255376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他偷我奶奶的衣服穿 https://t.co/y4ToIKoKwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 358,
+          "like_count": 4119,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 714
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "我是男阴暗邋遢性压抑性无能大胃袋大副乳臭变态死肥宅",
+        "id": "1903701047589343232",
+        "name": "ceobrus",
+        "pinned_tweet_id": "1988476629614813675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983202533972815872/4qPXaN4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 1681,
+          "like_count": 9172,
+          "listed_count": 6,
+          "media_count": 27,
+          "tweet_count": 284
+        },
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

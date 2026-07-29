@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2028999942338216432",
+    "created_at": "2026-03-04T04:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T05:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029049983316705569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1941907536032186368",
+          "start": 0,
+          "username": "Liunian_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029049983316705569",
+    "in_reply_to_user_id": "1941907536032186368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028999942338216432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liunian_a 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2028999937741209603",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCh0sXpawAMbpTe.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2028999942338216432",
+        "created_at": "2026-03-04T04:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029049983316705569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1941907536032186368",
+              "start": 0,
+              "username": "Liunian_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029049983316705569",
+        "in_reply_to_user_id": "1941907536032186368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028999942338216432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liunian_a 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028999937741209603"
+          ]
+        },
+        "author_id": "1941907536032186368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2028999942338216432",
+        "created_at": "2026-03-04T01:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T02:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028999942338216432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/82fHnaFzTf"
+            },
+            {
+              "display_url": "pic.x.com/H1gHLEVeyy",
+              "end": 64,
+              "expanded_url": "https://x.com/Liunian_a/status/2028999942338216432/photo/1",
+              "media_key": "3_2028999937741209603",
+              "start": 41,
+              "url": "https://t.co/H1gHLEVeyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028999942338216432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/82fHnaFzTf https://t.co/H1gHLEVeyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 958,
+          "like_count": 14010,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3812
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T17:10:23.000Z",
+        "description": "Mtf/2009.9.29/hrt2025.11.12 无证含糖 身高162体重48 生错性别的小女孩 抑郁 性别焦虑 已出柜 高中牲 休学中 超级社恐 谢谢大家关注和喜欢喔 对所有人友善 随便发发 有点负能量 偶尔瑟瑟 不od不割手手不见证 同类欢迎互fo喵 \n妹妹:@TixItem4527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "TixItem4527"
+              }
+            ]
+          }
+        },
+        "id": "1941907536032186368",
+        "name": "流年🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023595768003915777/XdVYeEpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 473,
+          "like_count": 1767,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 625
+        },
+        "username": "Liunian_a",
+        "verified": false
+      }
+    ]
+  }
+}

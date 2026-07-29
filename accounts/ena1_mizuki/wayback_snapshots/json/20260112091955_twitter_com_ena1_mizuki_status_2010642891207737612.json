@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010642860635213824"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2010642891207737612",
+    "created_at": "2026-01-12T09:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010642891207737612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lUgmhU9Opl",
+          "end": 92,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2010642891207737612/photo/1",
+          "media_key": "3_2010642860635213824",
+          "start": 69,
+          "url": "https://t.co/lUgmhU9Opl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010642891207737612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难绷，找工作人员问路厕所在哪里，告诉我地方之后又把我叫住，停顿片刻后说：卫生间男左女右哦\n她一定很疑惑这个女性长相男性声音的人的性别😇 https://t.co/lUgmhU9Opl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2265,
+        "media_key": "3_2010642860635213824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-c9B2ZWUAANW57.jpg",
+        "width": 1759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010642860635213824"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2010642891207737612",
+        "created_at": "2026-01-12T09:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010642891207737612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUgmhU9Opl",
+              "end": 92,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2010642891207737612/photo/1",
+              "media_key": "3_2010642860635213824",
+              "start": 69,
+              "url": "https://t.co/lUgmhU9Opl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010642891207737612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难绷，找工作人员问路厕所在哪里，告诉我地方之后又把我叫住，停顿片刻后说：卫生间男左女右哦\n她一定很疑惑这个女性长相男性声音的人的性别😇 https://t.co/lUgmhU9Opl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 663,
+          "like_count": 8718,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 2042
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

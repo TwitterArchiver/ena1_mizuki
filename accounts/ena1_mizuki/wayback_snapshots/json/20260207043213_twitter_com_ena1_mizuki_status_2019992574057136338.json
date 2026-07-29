@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2019852770896130282",
+    "created_at": "2026-02-07T04:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T05:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019992574057136338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019992574057136338",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019975283936227455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 gemini可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2019852770896130282",
+        "created_at": "2026-02-07T04:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019992574057136338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019992574057136338",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019975283936227455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 gemini可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318819823758069760",
+        "conversation_id": "2019852770896130282",
+        "created_at": "2026-02-07T03:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T04:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019975283936227455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019975283936227455",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019852770896130282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 起初人类以为这只是一次和Ai简单的交流......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 820,
+          "like_count": 11813,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 3170
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "初音未来粉丝，teto粉丝，25时Nightcord见。听术力口曲。玩♜⃤明日方舟和♜⃤明日方舟：终末地。A little Japanese and English without internet slang.努力实现梦想中，没有任何过人的技能，使用推特是为了锻炼外语能力和聊天，如果你喜欢这些可以和我互fo聊天🥰。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ApvvJ3U",
+                "end": 23,
+                "expanded_url": "http://b23.tv/ApvvJ3U",
+                "start": 0,
+                "url": "https://t.co/C8syeMaw44"
+              }
+            ]
+          }
+        },
+        "id": "1318819823758069760",
+        "location": "三千大千世界",
+        "name": "Rei_01💚39Music",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016511216995422208/TZv5Bd51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 265,
+          "like_count": 5852,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/C8syeMaw44",
+        "username": "Enorez2",
+        "verified": false
+      }
+    ]
+  }
+}

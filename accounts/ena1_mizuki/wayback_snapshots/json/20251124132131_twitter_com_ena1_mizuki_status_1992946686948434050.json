@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992946682640859136"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1992946686948434050",
+    "created_at": "2025-11-24T13:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992946686948434050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EXcz6Ly7VR",
+          "end": 105,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1992946686948434050/photo/1",
+          "media_key": "3_1992946682640859136",
+          "start": 82,
+          "url": "https://t.co/EXcz6Ly7VR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992946686948434050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上次观测也拍摄了冬夜璀璨的宝石——昴星团\n昴星团位于星际尘埃丰富的区域，强烈的蓝色星光照亮了周围的尘埃，像是在星星周围披上了一层柔美的水色薄纱（拍摄参数见ALT） https://t.co/EXcz6Ly7VR"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "曝光3min*44  ISO1600\nNikon Z7II +70sa拍摄",
+        "height": 1364,
+        "media_key": "3_1992946682640859136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hecuMaAAASUqS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992946682640859136"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1992946686948434050",
+        "created_at": "2025-11-24T13:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992946686948434050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXcz6Ly7VR",
+              "end": 105,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1992946686948434050/photo/1",
+              "media_key": "3_1992946682640859136",
+              "start": 82,
+              "url": "https://t.co/EXcz6Ly7VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992946686948434050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上次观测也拍摄了冬夜璀璨的宝石——昴星团\n昴星团位于星际尘埃丰富的区域，强烈的蓝色星光照亮了周围的尘埃，像是在星星周围披上了一层柔美的水色薄纱（拍摄参数见ALT） https://t.co/EXcz6Ly7VR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 342,
+          "like_count": 3821,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 623
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

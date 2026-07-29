@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1959642369948627217",
+    "created_at": "2025-08-25T07:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T08:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959880938755658175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1919963459279888384",
+          "start": 0,
+          "username": "Haruka25999588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959880938755658175",
+    "in_reply_to_user_id": "1919963459279888384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959869714324439191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruka25999588 对的，谢谢你呀(*^ω^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1959642369948627217",
+        "created_at": "2025-08-25T07:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T08:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959880938755658175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1919963459279888384",
+              "start": 0,
+              "username": "Haruka25999588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959880938755658175",
+        "in_reply_to_user_id": "1919963459279888384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959869714324439191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruka25999588 对的，谢谢你呀(*^ω^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919963459279888384",
+        "conversation_id": "1959642369948627217",
+        "created_at": "2025-08-25T06:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959869714324439191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959869714324439191",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959642369948627217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 是地雷系嘛 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 126,
+          "like_count": 954,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 137
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "09/美术生/同类互fo                                                        \n    \n    无证含糖 ｜泛性恋｜上推仅学习和交友   Freedom is the oxygen of the soul🏳️‍⚧️",
+        "id": "1919963459279888384",
+        "location": "T1航站楼值机岛旁第一个吸烟室",
+        "name": "遥haruka🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1920349110940360979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959220692416962560/vxiOTkTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 393,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 104
+        },
+        "username": "Haruka25999588",
+        "verified": false
+      }
+    ]
+  }
+}

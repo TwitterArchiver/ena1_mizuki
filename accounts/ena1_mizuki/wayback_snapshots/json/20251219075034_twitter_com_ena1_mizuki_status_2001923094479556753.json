@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2001881912630276402",
+    "created_at": "2025-12-19T07:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T08:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001923094479556753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850017112087199744",
+          "start": 0,
+          "username": "HatsuneMafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001923094479556753",
+    "in_reply_to_user_id": "1850017112087199744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001916560278196447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuneMafuyu 😇😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2001881912630276402",
+        "created_at": "2025-12-19T07:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001923094479556753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850017112087199744",
+              "start": 0,
+              "username": "HatsuneMafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001923094479556753",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001916560278196447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuneMafuyu 😇😇😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850017112087199744",
+        "conversation_id": "2001881912630276402",
+        "created_at": "2025-12-19T07:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001916560278196447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001916560278196447",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001883994481397819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 你承認了對吧(🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 483,
+          "like_count": 5800,
+          "listed_count": 3,
+          "media_count": 254,
+          "tweet_count": 1177
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-26T03:31:05.000Z",
+        "description": "光?我自己伪造的。\n「君を照らす為に咲く花さ」",
+        "id": "1850017112087199744",
+        "name": "神無月の再生奏歌",
+        "pinned_tweet_id": "2001878903082901772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998035166816776192/ieCFxv27_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 273,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 141
+        },
+        "username": "HatsuneMafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

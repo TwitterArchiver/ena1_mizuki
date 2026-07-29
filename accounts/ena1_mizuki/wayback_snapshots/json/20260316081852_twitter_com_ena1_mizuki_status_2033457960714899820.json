@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2033430132975915240",
+    "created_at": "2026-03-16T08:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T09:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033457960714899820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1253283534032080898",
+          "start": 0,
+          "username": "awslnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033457960714899820",
+    "in_reply_to_user_id": "1253283534032080898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033439033477792140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awslnay 好惨😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2033430132975915240",
+        "created_at": "2026-03-16T08:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T09:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033457960714899820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1253283534032080898",
+              "start": 0,
+              "username": "awslnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033457960714899820",
+        "in_reply_to_user_id": "1253283534032080898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033439033477792140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awslnay 好惨😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253283534032080898",
+        "conversation_id": "2033430132975915240",
+        "created_at": "2026-03-16T07:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T08:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033439033477792140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033439033477792140",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033430132975915240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好像我测出来也是差不多这样，在外面就算被误认了，一开口也会被识别😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 1046,
+          "like_count": 15093,
+          "listed_count": 6,
+          "media_count": 557,
+          "tweet_count": 4154
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T11:24:26.000Z",
+        "description": "路过~",
+        "id": "1253283534032080898",
+        "location": "京东",
+        "name": "百云呸呸呸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984156767505588224/KdiXzCWW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 413,
+          "like_count": 11407,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 749
+        },
+        "username": "awslnay",
+        "verified": false
+      }
+    ]
+  }
+}

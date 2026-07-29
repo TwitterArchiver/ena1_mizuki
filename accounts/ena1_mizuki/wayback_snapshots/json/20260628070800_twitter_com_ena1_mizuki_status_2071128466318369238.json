@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2070994623946957259",
+    "created_at": "2026-06-28T07:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071128466318369238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059185367723737089",
+          "start": 0,
+          "username": "Phangusy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071128466318369238",
+    "in_reply_to_user_id": "2059185367723737089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071031062483042627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phangusy 我安眠药是吃喹硫平，褪黑素感觉用处不大呢，不过我失眠主要是因为吃了兴奋剂（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2070994623946957259",
+        "created_at": "2026-06-28T07:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071128466318369238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059185367723737089",
+              "start": 0,
+              "username": "Phangusy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071128466318369238",
+        "in_reply_to_user_id": "2059185367723737089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071031062483042627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phangusy 我安眠药是吃喹硫平，褪黑素感觉用处不大呢，不过我失眠主要是因为吃了兴奋剂（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059185367723737089",
+        "conversation_id": "2070994623946957259",
+        "created_at": "2026-06-28T00:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071031062483042627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071031062483042627",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070994623946957259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 摸摸老师( ´･･)ﾉ(._.`)不懂褪黑素有没有用呢，我也生物钟炸了两年，靠嗑软糖才把相位勉强扭回来😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1322,
+          "like_count": 19016,
+          "listed_count": 8,
+          "media_count": 732,
+          "tweet_count": 5488
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T08:12:08.000Z",
+        "description": "求求你能给我一颗运算放大器嘛？",
+        "id": "2059185367723737089",
+        "name": "钒菇𝑷𝒉𝒂𝒏𝒈𝒖𝒔𝒆𝒎𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059186250092052481/5ujDeXXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 62,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Phangusy",
+        "verified": false
+      }
+    ]
+  }
+}

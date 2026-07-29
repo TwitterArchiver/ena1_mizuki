@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015024394377261056"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2015024412815479255",
+    "created_at": "2026-01-24T11:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T12:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015024412815479255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ecvA66kGql",
+          "end": 75,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2015024412815479255/photo/1",
+          "media_key": "3_2015024394377261056",
+          "start": 52,
+          "url": "https://t.co/ecvA66kGql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015024412815479255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次来桂林阴天雾蒙蒙的，回顾历史，几年前来晴天的景色更漂亮~\n（看到几年前自己的手有点馋是怎么回事🤤） https://t.co/ecvA66kGql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1357,
+        "media_key": "3_2015024394377261056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bOAriacAAoV9N.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015024394377261056"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2015024412815479255",
+        "created_at": "2026-01-24T11:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015024412815479255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecvA66kGql",
+              "end": 75,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2015024412815479255/photo/1",
+              "media_key": "3_2015024394377261056",
+              "start": 52,
+              "url": "https://t.co/ecvA66kGql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015024412815479255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次来桂林阴天雾蒙蒙的，回顾历史，几年前来晴天的景色更漂亮~\n（看到几年前自己的手有点馋是怎么回事🤤） https://t.co/ecvA66kGql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 739,
+          "like_count": 10043,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 2587
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

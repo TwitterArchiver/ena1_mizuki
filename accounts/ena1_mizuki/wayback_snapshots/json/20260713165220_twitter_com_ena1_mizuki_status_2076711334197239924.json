@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2076507640017060061",
+    "created_at": "2026-07-13T16:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076711334197239924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728668679481827328",
+          "start": 0,
+          "username": "UsamiRenko1145"
+        },
+        {
+          "end": 29,
+          "id": "1991810120607739904",
+          "start": 16,
+          "username": "GuanQiao6316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076711334197239924",
+    "in_reply_to_user_id": "1728668679481827328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076614897807638795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UsamiRenko1145 @GuanQiao6316 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2076507640017060061",
+        "created_at": "2026-07-13T16:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076711334197239924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728668679481827328",
+              "start": 0,
+              "username": "UsamiRenko1145"
+            },
+            {
+              "end": 29,
+              "id": "1991810120607739904",
+              "start": 16,
+              "username": "GuanQiao6316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076711334197239924",
+        "in_reply_to_user_id": "1728668679481827328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076614897807638795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UsamiRenko1145 @GuanQiao6316 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728668679481827328",
+        "conversation_id": "2076507640017060061",
+        "created_at": "2026-07-13T10:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076614897807638795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 26,
+              "id": "1991810120607739904",
+              "start": 13,
+              "username": "GuanQiao6316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076614897807638795",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076507640017060061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @GuanQiao6316 两位特异人士（x\n以及羡慕面ww（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 1351,
+          "like_count": 19322,
+          "listed_count": 8,
+          "media_count": 760,
+          "tweet_count": 5610
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-26T06:55:18.000Z",
+        "description": "这里莲子鱼，07上海，BI4BGJ，男的，航空摄影，东方众，秘封厨，百合豚，打舞萌的，战争雷霆，fo我的我都会回关ww",
+        "id": "1728668679481827328",
+        "name": "🎀UsamiRenko🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989952437034389509/IJtUUZGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 314,
+          "like_count": 704,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 910
+        },
+        "url": "",
+        "username": "UsamiRenko1145",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T10:05:39.000Z",
+        "description": "INTJ 画画人 音乐品味很杂 喜欢分享日常 谢谢喜欢 （祝我雅思早点考出分儿）",
+        "id": "1991810120607739904",
+        "name": "C.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047517575677169664/3i_bImnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 182,
+          "like_count": 4146,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "GuanQiao6316",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2052968940935266378",
+    "created_at": "2026-05-09T05:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052978672295092592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522138643145494528",
+          "start": 0,
+          "username": "Jack37769772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052978672295092592",
+    "in_reply_to_user_id": "1522138643145494528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052973757007045038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack37769772 我真服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2052968940935266378",
+        "created_at": "2026-05-09T05:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052978672295092592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522138643145494528",
+              "start": 0,
+              "username": "Jack37769772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052978672295092592",
+        "in_reply_to_user_id": "1522138643145494528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052973757007045038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack37769772 我真服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522138643145494528",
+        "conversation_id": "2052968940935266378",
+        "created_at": "2026-05-09T04:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052973757007045038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052973757007045038",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052968940935266378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 轮子都出来了🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 1205,
+          "like_count": 17728,
+          "listed_count": 7,
+          "media_count": 649,
+          "tweet_count": 4943
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T08:58:44.000Z",
+        "description": ".",
+        "id": "1522138643145494528",
+        "location": "China",
+        "name": "𐂂Simple Jack",
+        "pinned_tweet_id": "1764440545806483490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011656984991580162/9pBAGWS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 672,
+          "like_count": 18814,
+          "listed_count": 3,
+          "media_count": 2497,
+          "tweet_count": 18837
+        },
+        "username": "Jack37769772",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2008932491340726519",
+    "created_at": "2026-01-08T02:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009097397427949569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761768162469593088",
+          "start": 0,
+          "username": "koning321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009097397427949569",
+    "in_reply_to_user_id": "1761768162469593088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008959099346800909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koning321 星空美丽呀~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2008932491340726519",
+        "created_at": "2026-01-08T02:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009097397427949569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761768162469593088",
+              "start": 0,
+              "username": "koning321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009097397427949569",
+        "in_reply_to_user_id": "1761768162469593088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008959099346800909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koning321 星空美丽呀~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761768162469593088",
+        "conversation_id": "2008932491340726519",
+        "created_at": "2026-01-07T17:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008959099346800909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008959099346800909",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008932491340726519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我喜欢星空！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 622,
+          "like_count": 8139,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 1911
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T15:00:57.000Z",
+        "description": "06年，坐标长沙，喜欢二次元和打lol，喜欢画画，色色，女装，猫、狗。\n        学了日语、法语，最喜欢的动漫是eva和无职转生。\n        喜欢温柔可爱善良的人，欢迎同好扩列捏。",
+        "id": "1761768162469593088",
+        "name": "un homme libre",
+        "pinned_tweet_id": "2007696471471337720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970538448877690887/uf99p9sI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 61,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 206
+        },
+        "username": "koning321",
+        "verified": false
+      }
+    ]
+  }
+}

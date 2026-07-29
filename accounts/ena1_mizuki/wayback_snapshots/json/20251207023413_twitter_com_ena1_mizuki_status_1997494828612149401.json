@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1977953401385414967",
+    "created_at": "2025-12-07T02:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T03:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997494828612149401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497522141759111174",
+          "start": 0,
+          "username": "MEMZMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997494828612149401",
+    "in_reply_to_user_id": "1497522141759111174",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997484646150664425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZMeow 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1977953401385414967",
+        "created_at": "2025-12-07T02:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T03:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997494828612149401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497522141759111174",
+              "start": 0,
+              "username": "MEMZMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997494828612149401",
+        "in_reply_to_user_id": "1497522141759111174",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997484646150664425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZMeow 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497522141759111174",
+        "conversation_id": "1977953401385414967",
+        "created_at": "2025-12-07T01:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T02:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997484646150664425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997484646150664425",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977953401385414967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki kawa！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 399,
+          "like_count": 4542,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 831
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T10:41:25.000Z",
+        "description": "~只是一只正常（不良x）的狐狸🦊\n想要更多的喜欢和转发，咱会持续更新的🥺\nWant more likes and repost, I will keep updating❤️",
+        "id": "1497522141759111174",
+        "name": "Nana Azuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996923189902123008/mRlq6OTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 86,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "MEMZMeow",
+        "verified": false
+      }
+    ]
+  }
+}

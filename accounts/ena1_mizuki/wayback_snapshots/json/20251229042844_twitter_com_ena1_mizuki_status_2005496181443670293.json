@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2005496181443670293",
+    "created_at": "2025-12-29T04:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T05:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005496181443670293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/2005335137593221161",
+          "start": 61,
+          "url": "https://t.co/hfsr1uqrbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005496181443670293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005335137593221161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是这样，从梦想成为改变世界的人物到为活下去挣扎，努力抑制自己想要成为mtf的想法好几年，到头来才发现自己根本没得选😣 https://t.co/hfsr1uqrbY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2005496181443670293",
+        "created_at": "2025-12-29T04:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005496181443670293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2005335137593221161",
+              "start": 61,
+              "url": "https://t.co/hfsr1uqrbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005496181443670293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005335137593221161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是这样，从梦想成为改变世界的人物到为活下去挣扎，努力抑制自己想要成为mtf的想法好几年，到头来才发现自己根本没得选😣 https://t.co/hfsr1uqrbY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2005335137593221161",
+        "created_at": "2025-12-28T17:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005335137593221161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005335137593221161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾经，咱离成功很近，咱小时候选对了路，只需要稍微努力，就能靠着圈子的优势，比别人的努力更加有用，有意义。 但可惜，现实总是没有幻想的那么美好，最终还是“死在了”gd手里，最终成为了mtf。 \n咱曾经在没什么gd的时候，天真的以为咱能成什么大人物，可惜最后还是一场梦啊。 如果那是真的该多好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 531,
+          "like_count": 6968,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 1548
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "普通入 | 生产日期2010.3.16 | 无证含糖 |",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960630769094656/zuD-tgtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 1433,
+          "like_count": 37349,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 3529
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

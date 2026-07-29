@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2050270167318581490",
+    "created_at": "2026-05-01T17:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050273333577703526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050273333577703526",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050271702127702526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 温州"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2050270167318581490",
+        "created_at": "2026-05-01T17:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050273333577703526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050273333577703526",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050271702127702526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 温州"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637070779975352320",
+        "conversation_id": "2050270167318581490",
+        "created_at": "2026-05-01T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050271702127702526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050271702127702526",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050270167318581490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki where"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 1171,
+          "like_count": 17335,
+          "listed_count": 6,
+          "media_count": 632,
+          "tweet_count": 4771
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0Knj  a native iOS app for Claude Code / ex @TencentGames / ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "TencentGames"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 23,
+                "expanded_url": "https://seedex.app",
+                "start": 0,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "location": "距离你 500 m",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049078848978145704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4635,
+          "following_count": 921,
+          "like_count": 4684,
+          "listed_count": 24,
+          "media_count": 489,
+          "tweet_count": 6768
+        },
+        "url": "https://t.co/m270kq0Knj",
+        "username": "arkuy99",
+        "verified": true
+      }
+    ]
+  }
+}

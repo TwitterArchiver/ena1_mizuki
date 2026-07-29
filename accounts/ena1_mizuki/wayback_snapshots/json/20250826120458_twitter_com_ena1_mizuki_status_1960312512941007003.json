@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1960281375518642407",
+    "created_at": "2025-08-26T12:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960312512941007003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711840683638792192",
+          "start": 0,
+          "username": "xiaogudu423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960312512941007003",
+    "in_reply_to_user_id": "1711840683638792192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960281375518642407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogudu423 莎莎萌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 444,
+        "media_key": "3_1960281373157228544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRRhdraAAAfq4V.jpg",
+        "width": 444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1960281375518642407",
+        "created_at": "2025-08-26T12:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960312512941007003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711840683638792192",
+              "start": 0,
+              "username": "xiaogudu423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960312512941007003",
+        "in_reply_to_user_id": "1711840683638792192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960281375518642407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogudu423 莎莎萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960281373157228544"
+          ]
+        },
+        "author_id": "1711840683638792192",
+        "conversation_id": "1960281375518642407",
+        "created_at": "2025-08-26T10:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960281375518642407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDbT4on5Ve",
+              "end": 40,
+              "expanded_url": "https://x.com/xiaogudu423/status/1960281375518642407/photo/1",
+              "media_key": "3_1960281373157228544",
+              "start": 17,
+              "url": "https://t.co/VDbT4on5Ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960281375518642407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原头像是这个哦╰(*´︶`*)╯ https://t.co/VDbT4on5Ve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 174,
+          "like_count": 1007,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 151
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T20:27:20.000Z",
+        "description": "05 年/ MTF / infp  /家长反对党 / 重度 / 渴望被同类关注搭话 / 喜欢钢琴和猫猫 / 愿望是成功srs",
+        "id": "1711840683638792192",
+        "name": "雨泠🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1960281375518642407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960278385118298112/eLB4LArM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 653,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 322
+        },
+        "username": "xiaogudu423",
+        "verified": false
+      }
+    ]
+  }
+}

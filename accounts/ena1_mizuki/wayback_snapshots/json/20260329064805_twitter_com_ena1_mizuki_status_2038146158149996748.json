@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035993111323906048"
+      ],
+      "media_source_tweet_id": [
+        "2038086240629829939"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038146158149996748",
+    "created_at": "2026-03-29T06:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038146158149996748"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 79,
+          "tag": "9がつく日はクラゲの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1230467258",
+          "start": 3,
+          "username": "Kyoto_Aquarium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h16UR0QnsU",
+          "end": 115,
+          "expanded_url": "https://x.com/Kyoto_Aquarium/status/2038086240629829939/video/1",
+          "media_key": "13_2035993111323906048",
+          "start": 92,
+          "url": "https://t.co/h16UR0QnsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038146158149996748",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038086240629829939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyoto_Aquarium: ଳଳ ଳଳ ଳଳ ଳଳ ଳଳ \nŒ~Œ~Œ~Œ~Œ~Œ~\n ଳଳ ଳଳ ଳଳ ଳଳ ଳଳ \nŒ~Œ~Œ~Œ~Œ~Œ~\n#9がつく日はクラゲの日 https://t.co/h16UR0QnsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7500,
+        "height": 1920,
+        "media_key": "13_2035993111323906048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035993111323906048/img/5zLLVsYRpm9wIdc-.jpg",
+        "public_metrics": {
+          "view_count": 22995
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035993111323906048/vid/avc1/720x1280/MAYKGDuBxobQGWTM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035993111323906048/vid/avc1/480x852/yppcfgxNnxX_jv73.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035993111323906048/vid/avc1/1080x1920/mITZwinG13tN6NnW.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035993111323906048/vid/avc1/320x568/WR3cZ07f-adbNjw3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035993111323906048/pl/ENawJ2yeBIsSov1q.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035993111323906048"
+          ],
+          "media_source_tweet_id": [
+            "2038086240629829939"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038146158149996748",
+        "created_at": "2026-03-29T06:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038146158149996748"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 79,
+              "tag": "9がつく日はクラゲの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1230467258",
+              "start": 3,
+              "username": "Kyoto_Aquarium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h16UR0QnsU",
+              "end": 115,
+              "expanded_url": "https://x.com/Kyoto_Aquarium/status/2038086240629829939/video/1",
+              "media_key": "13_2035993111323906048",
+              "start": 92,
+              "url": "https://t.co/h16UR0QnsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038146158149996748",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038086240629829939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyoto_Aquarium: ଳଳ ଳଳ ଳଳ ଳଳ ଳଳ \nŒ~Œ~Œ~Œ~Œ~Œ~\n ଳଳ ଳଳ ଳଳ ଳଳ ଳଳ \nŒ~Œ~Œ~Œ~Œ~Œ~\n#9がつく日はクラゲの日 https://t.co/h16UR0QnsU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035993111323906048"
+          ]
+        },
+        "author_id": "1230467258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038086240629829939",
+        "created_at": "2026-03-29T02:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038086240629829939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "9がつく日はクラゲの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h16UR0QnsU",
+              "end": 95,
+              "expanded_url": "https://x.com/Kyoto_Aquarium/status/2038086240629829939/video/1",
+              "media_key": "13_2035993111323906048",
+              "start": 72,
+              "url": "https://t.co/h16UR0QnsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038086240629829939",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 106645,
+          "like_count": 5766,
+          "quote_count": 59,
+          "reply_count": 10,
+          "retweet_count": 1357
+        },
+        "reply_settings": "everyone",
+        "text": "ଳଳ ଳଳ ଳଳ ଳଳ ଳଳ \nŒ~Œ~Œ~Œ~Œ~Œ~\n ଳଳ ଳଳ ଳଳ ଳଳ ଳଳ \nŒ~Œ~Œ~Œ~Œ~Œ~\n#9がつく日はクラゲの日 https://t.co/h16UR0QnsU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1066,
+          "like_count": 15862,
+          "listed_count": 6,
+          "media_count": 586,
+          "tweet_count": 4399
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-01T17:04:11.000Z",
+        "description": "京都駅から徒歩約15分の位置にある「京都水族館」の公式アカウント🐟✨いきものたちの日常や館内の情報をゆる~くお届けします🐠\n\n動物取扱業に関する表示↓\nhttps://t.co/uQ5MygV9b0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kyoto-aquarium.com/doubutsu/index…",
+                "end": 99,
+                "expanded_url": "https://www.kyoto-aquarium.com/doubutsu/index.html",
+                "start": 76,
+                "url": "https://t.co/uQ5MygV9b0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kyoto-aquarium.com",
+                "end": 23,
+                "expanded_url": "https://www.kyoto-aquarium.com/",
+                "start": 0,
+                "url": "https://t.co/vuvlx7AqKp"
+              }
+            ]
+          }
+        },
+        "id": "1230467258",
+        "location": "京都市下京区観喜寺町35-1（梅小路公園内）",
+        "name": "京都水族館",
+        "pinned_tweet_id": "2033828183036903602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611303143350112256/fXxQxX3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352761,
+          "following_count": 71,
+          "like_count": 539,
+          "listed_count": 3867,
+          "media_count": 5168,
+          "tweet_count": 6283
+        },
+        "url": "https://t.co/vuvlx7AqKp",
+        "username": "Kyoto_Aquarium",
+        "verified": true
+      }
+    ]
+  }
+}

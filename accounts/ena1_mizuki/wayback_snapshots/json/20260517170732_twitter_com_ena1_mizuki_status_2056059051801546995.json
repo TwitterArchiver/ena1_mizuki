@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2056019099407491154",
+    "created_at": "2026-05-17T17:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T18:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056059051801546995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056059051801546995",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056019099407491154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley 啊我要抓小孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62408,
+        "height": 720,
+        "media_key": "13_2056018532492836864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056018532492836864/img/K_5zSsHo_Q6awjnT.jpg",
+        "public_metrics": {
+          "view_count": 79
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056018532492836864/vid/avc1/480x270/2kUtABbkzkG1EupJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056018532492836864/vid/avc1/640x360/XBCvK_hm0Pq7fRj5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056018532492836864/vid/avc1/1280x720/BVhUw2rzgTMcAMzA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056018532492836864/pl/USvN-_9F7zejBR9X.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2056019099407491154",
+        "created_at": "2026-05-17T17:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056059051801546995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056059051801546995",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056019099407491154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley 啊我要抓小孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056018532492836864"
+          ]
+        },
+        "author_id": "1902735424839413760",
+        "conversation_id": "2056019099407491154",
+        "created_at": "2026-05-17T14:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056019099407491154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itLYwcQOeK",
+              "end": 56,
+              "expanded_url": "https://x.com/litgraley/status/2056019099407491154/video/1",
+              "media_key": "13_2056018532492836864",
+              "start": 33,
+              "url": "https://t.co/itLYwcQOeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056019099407491154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迟来的粉福。。。\n啊录音的时候自动滤掉了一些（悲）））\n轻喷轻喷 https://t.co/itLYwcQOeK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1256,
+          "like_count": 17943,
+          "listed_count": 7,
+          "media_count": 670,
+          "tweet_count": 5144
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/59/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0nmo7VB9Pk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley",
+                "start": 44,
+                "url": "https://t.co/0nmo7VB9Pk"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2041124500218220938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 805,
+          "like_count": 33646,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 5160
+        },
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

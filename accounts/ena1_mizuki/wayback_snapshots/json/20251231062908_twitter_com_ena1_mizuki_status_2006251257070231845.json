@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006251090455724032"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2006221328932798619",
+    "created_at": "2025-12-31T06:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T07:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006251257070231845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcFCZ5lBIz",
+          "end": 42,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2006251257070231845/video/1",
+          "media_key": "7_2006251090455724032",
+          "start": 19,
+          "url": "https://t.co/NcFCZ5lBIz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006251257070231845",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006247914054840816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 我有开火成瘾症😎 https://t.co/NcFCZ5lBIz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4273,
+        "height": 1080,
+        "media_key": "7_2006251090455724032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006251090455724032/pu/img/TS6kV-yNzK1OBC4q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006251090455724032/pu/vid/avc1/720x720/PzhlKjvR4VuCc0xw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006251090455724032/pu/pl/EOmdPlTHnStuuU25.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006251090455724032/pu/vid/avc1/320x320/t8kQt-FyEMrZoly2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006251090455724032/pu/vid/avc1/540x540/lPJ15aM0Ht27DK5L.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006251090455724032/pu/vid/avc1/1080x1080/GjmoqF-hXwfYcWeW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006251090455724032"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2006221328932798619",
+        "created_at": "2025-12-31T06:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006251257070231845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcFCZ5lBIz",
+              "end": 42,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2006251257070231845/video/1",
+              "media_key": "7_2006251090455724032",
+              "start": 19,
+              "url": "https://t.co/NcFCZ5lBIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006251257070231845",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006247914054840816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 我有开火成瘾症😎 https://t.co/NcFCZ5lBIz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227603655903399936",
+        "conversation_id": "2006221328932798619",
+        "created_at": "2025-12-31T06:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006247914054840816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006247914054840816",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006221328932798619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 开火车是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 543,
+          "like_count": 7222,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 1624
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\n含糖友跨顺♂｜\n厨娘女仆 | \nINTJ-T｜\n迪迪@Curandro｜\n瑶瑶@GK98815227｜\n小妹妹@baizhimengyao｜\n皮肤饥渴症终末期患者｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "Curandro"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "GK98815227"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "baizhimengyao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 2843,
+          "like_count": 21068,
+          "listed_count": 25,
+          "media_count": 1184,
+          "tweet_count": 16235
+        },
+        "username": "K66cheng",
+        "verified": true
+      }
+    ]
+  }
+}

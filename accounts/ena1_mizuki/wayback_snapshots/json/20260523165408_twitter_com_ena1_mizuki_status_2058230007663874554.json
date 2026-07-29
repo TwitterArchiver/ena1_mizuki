@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2054998577081090136",
+    "created_at": "2026-05-23T16:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T17:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058230007663874554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1874002225049042944",
+          "start": 0,
+          "username": "BG6HVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058230007663874554",
+    "in_reply_to_user_id": "1874002225049042944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054998577081090136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG6HVT 啊这个是在高新的楼顶嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2054998566603718656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITSTvhaAAAChMX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054998565995663360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITSTtQb0AAy7E6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054998565995646977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITSTtQbkAEmUTJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054998566003990529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HITSTtSa4AEV6wO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2054998577081090136",
+        "created_at": "2026-05-23T16:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058230007663874554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1874002225049042944",
+              "start": 0,
+              "username": "BG6HVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058230007663874554",
+        "in_reply_to_user_id": "1874002225049042944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054998577081090136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG6HVT 啊这个是在高新的楼顶嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054998566603718656",
+            "3_2054998565995663360",
+            "3_2054998565995646977",
+            "3_2054998566003990529"
+          ]
+        },
+        "author_id": "1874002225049042944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054998577081090136",
+        "created_at": "2026-05-14T18:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054998577081090136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7StuqCubb9",
+              "end": 84,
+              "expanded_url": "https://x.com/BG6HVT/status/2054998577081090136/photo/1",
+              "media_key": "3_2054998566603718656",
+              "start": 61,
+              "url": "https://t.co/7StuqCubb9"
+            },
+            {
+              "display_url": "pic.x.com/7StuqCubb9",
+              "end": 84,
+              "expanded_url": "https://x.com/BG6HVT/status/2054998577081090136/photo/1",
+              "media_key": "3_2054998565995663360",
+              "start": 61,
+              "url": "https://t.co/7StuqCubb9"
+            },
+            {
+              "display_url": "pic.x.com/7StuqCubb9",
+              "end": 84,
+              "expanded_url": "https://x.com/BG6HVT/status/2054998577081090136/photo/1",
+              "media_key": "3_2054998565995646977",
+              "start": 61,
+              "url": "https://t.co/7StuqCubb9"
+            },
+            {
+              "display_url": "pic.x.com/7StuqCubb9",
+              "end": 84,
+              "expanded_url": "https://x.com/BG6HVT/status/2054998577081090136/photo/1",
+              "media_key": "3_2054998566003990529",
+              "start": 61,
+              "url": "https://t.co/7StuqCubb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054998577081090136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒来发现天蝎座清晰可见，心宿二如呼吸般跳动着，目视爽死了。合肥难得一见达到老家景区沙滩（有光害）观测水平，这必须得拍。😋 https://t.co/7StuqCubb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1262,
+          "like_count": 18134,
+          "listed_count": 7,
+          "media_count": 682,
+          "tweet_count": 5195
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T07:58:52.000Z",
+        "description": "Amateur Radio 🛰️ | Astrophotography ✨🔭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qrz.com/db/BG6HVT",
+                "end": 23,
+                "expanded_url": "https://www.qrz.com/db/BG6HVT",
+                "start": 0,
+                "url": "https://t.co/IHNPYxdYLm"
+              }
+            ]
+          }
+        },
+        "id": "1874002225049042944",
+        "location": "OM81",
+        "name": "BG6HVT 🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056611069389635584/gJgOKxsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 546,
+          "like_count": 3807,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/IHNPYxdYLm",
+        "username": "BG6HVT",
+        "verified": false
+      }
+    ]
+  }
+}

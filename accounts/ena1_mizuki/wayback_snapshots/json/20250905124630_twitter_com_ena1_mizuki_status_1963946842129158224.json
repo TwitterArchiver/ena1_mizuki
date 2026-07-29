@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1963654631315366345",
+    "created_at": "2025-09-05T12:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963946842129158224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443444056701370371",
+          "start": 0,
+          "username": "tina63991073"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963946842129158224",
+    "in_reply_to_user_id": "1443444056701370371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963921283235897722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tina63991073 哇是富江姐姐，谢谢您🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1963654631315366345",
+        "created_at": "2025-09-05T12:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963946842129158224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963946842129158224",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963921283235897722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 哇是富江姐姐，谢谢您🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443444056701370371",
+        "conversation_id": "1963654631315366345",
+        "created_at": "2025-09-05T11:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963921283235897722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963921283235897722",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963654631315366345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 太强了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 214,
+          "like_count": 1344,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 206
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 不接推广！上海/男娘，",
+        "id": "1443444056701370371",
+        "location": "🚪188（好友位  接线下  半绿",
+        "name": "富江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962907543056875520/MW_sbB0b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79979,
+          "following_count": 573,
+          "like_count": 8872,
+          "listed_count": 225,
+          "media_count": 750,
+          "tweet_count": 6895
+        },
+        "username": "tina63991073",
+        "verified": false
+      }
+    ]
+  }
+}

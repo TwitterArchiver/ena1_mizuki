@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047917477032849408"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2047917495802351665",
+    "created_at": "2026-04-25T05:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047917495802351665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9Zey2Cful",
+          "end": 34,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2047917495802351665/photo/1",
+          "media_key": "3_2047917477032849408",
+          "start": 11,
+          "url": "https://t.co/k9Zey2Cful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047917495802351665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主播又出去幸福上了😎 https://t.co/k9Zey2Cful"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1567,
+        "media_key": "3_2047917477032849408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuqGFPbcAA0GqM.jpg",
+        "width": 2012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047917477032849408"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2047917495802351665",
+        "created_at": "2026-04-25T05:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047917495802351665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9Zey2Cful",
+              "end": 34,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2047917495802351665/photo/1",
+              "media_key": "3_2047917477032849408",
+              "start": 11,
+              "url": "https://t.co/k9Zey2Cful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047917495802351665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播又出去幸福上了😎 https://t.co/k9Zey2Cful"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 1131,
+          "like_count": 17071,
+          "listed_count": 5,
+          "media_count": 620,
+          "tweet_count": 4667
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

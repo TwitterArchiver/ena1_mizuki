@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2004113464730820998",
+    "created_at": "2026-01-08T09:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009192844469440807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780180435609477120",
+          "start": 0,
+          "username": "Emiy5769427455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009192844469440807",
+    "in_reply_to_user_id": "1780180435609477120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009173133421646283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emiy5769427455 嗯，温度低热噪声低，温度恒定方便校准场校准，然后还有在Hα波段响应好，近似改机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009173113779458048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IETUsXEAA6GXo.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2004113464730820998",
+        "created_at": "2026-01-08T09:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009192844469440807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780180435609477120",
+              "start": 0,
+              "username": "Emiy5769427455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009192844469440807",
+        "in_reply_to_user_id": "1780180435609477120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009173133421646283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emiy5769427455 嗯，温度低热噪声低，温度恒定方便校准场校准，然后还有在Hα波段响应好，近似改机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009173113779458048"
+          ]
+        },
+        "author_id": "1780180435609477120",
+        "conversation_id": "2004113464730820998",
+        "created_at": "2026-01-08T07:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009173133421646283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mIVtqPrWzz",
+              "end": 66,
+              "expanded_url": "https://x.com/Emiy5769427455/status/2009173133421646283/photo/1",
+              "media_key": "3_2009173113779458048",
+              "start": 43,
+              "url": "https://t.co/mIVtqPrWzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009173133421646283",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008505598632226996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 是这种嘛？比普通相机好的方面就是它可以一直保持恒定的低温嘛 https://t.co/mIVtqPrWzz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 625,
+          "like_count": 8160,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 1915
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T10:24:35.000Z",
+        "description": "she/her/高一国际生/astronomy/Python、c++学习中/会更新自己学习旅游一些竞赛的日常什么的，但可能还是吃喝最多w，欢迎互fo聊天哦",
+        "id": "1780180435609477120",
+        "name": "Errai🏳️‍⚧️🇦🇲",
+        "pinned_tweet_id": "1874090428720623835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905514271863414784/oAxRjEye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 480,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 203
+        },
+        "username": "Emiy5769427455",
+        "verified": false
+      }
+    ]
+  }
+}

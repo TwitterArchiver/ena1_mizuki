@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2064615280966549938",
+    "created_at": "2026-06-11T14:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065086622237077798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "983332233120370689",
+          "start": 0,
+          "username": "0707_Master"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065086622237077798",
+    "in_reply_to_user_id": "983332233120370689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065044221728604237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0707_Master 嗯哼，应该比较美好吧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2064615280966549938",
+        "created_at": "2026-06-11T14:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065086622237077798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "983332233120370689",
+              "start": 0,
+              "username": "0707_Master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065086622237077798",
+        "in_reply_to_user_id": "983332233120370689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065044221728604237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0707_Master 嗯哼，应该比较美好吧~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "983332233120370689",
+        "conversation_id": "2064615280966549938",
+        "created_at": "2026-06-11T12:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065044221728604237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065044221728604237",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064615280966549938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 揉揉，现在看起来生活很美好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1276,
+          "like_count": 18622,
+          "listed_count": 8,
+          "media_count": 709,
+          "tweet_count": 5358
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T13:14:08.000Z",
+        "description": "我家小鱼喵@fishcat114 | 一般顺♂ | CS Master毕业 | OI教练 | 明日方舟/碧蓝航线 | FF14/WOW | bang/pjsk | hololive/Nijisanji | 老二次元",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "fishcat114"
+              }
+            ]
+          }
+        },
+        "id": "983332233120370689",
+        "location": "Living Memory",
+        "name": "大0老师",
+        "pinned_tweet_id": "2019095184060084727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015418270057197569/F-HeftFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 284,
+          "like_count": 1773,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 1489
+        },
+        "username": "0707_Master",
+        "verified": false
+      }
+    ]
+  }
+}

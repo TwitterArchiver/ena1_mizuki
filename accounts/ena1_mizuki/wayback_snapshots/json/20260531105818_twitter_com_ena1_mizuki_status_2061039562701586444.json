@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2061034013004038228",
+    "created_at": "2026-05-31T10:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T11:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061039562701586444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061039562701586444",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061034013004038228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 和人讲话实在是太可怕了，所以拿到执照好几年都没有通联过，还是监测流星信号，和宇宙沟通舒服一些w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3767,
+        "media_key": "3_2061033997556412417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpDgD5acAE5QOX.jpg",
+        "width": 2825
+      },
+      {
+        "height": 3096,
+        "media_key": "3_2061033997602627584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpDgEEboAAihyC.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2061034013004038228",
+        "created_at": "2026-05-31T10:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061039562701586444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061039562701586444",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061034013004038228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 和人讲话实在是太可怕了，所以拿到执照好几年都没有通联过，还是监测流星信号，和宇宙沟通舒服一些w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061033997556412417",
+            "3_2061033997602627584"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061034013004038228",
+        "created_at": "2026-05-31T10:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061034013004038228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSJgKJVJod",
+              "end": 212,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2061034013004038228/photo/1",
+              "media_key": "3_2061033997556412417",
+              "start": 189,
+              "url": "https://t.co/FSJgKJVJod"
+            },
+            {
+              "display_url": "pic.x.com/FSJgKJVJod",
+              "end": 212,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2061034013004038228/photo/1",
+              "media_key": "3_2061033997602627584",
+              "start": 189,
+              "url": "https://t.co/FSJgKJVJod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061034013004038228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "CQ CQ CQ, this is BA4VUF, Bravo Alfa Four Victor Uniform Foxtrot, BA4VUF is calling CQ and standing by.\n\n新鲜火腿报道喵🥺有没有大佬HAM陪咱玩喵…咱还啥都不懂也不知道小手台上有什么玩法w😘\n呜喵玩无线电最大的障碍是社恐）太紧张了会说不出话或者语速太快_:(´□`∠):_ https://t.co/FSJgKJVJod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1271,
+          "like_count": 18343,
+          "listed_count": 7,
+          "media_count": 693,
+          "tweet_count": 5277
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4300,
+          "following_count": 6235,
+          "like_count": 14796,
+          "listed_count": 10,
+          "media_count": 298,
+          "tweet_count": 3581
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

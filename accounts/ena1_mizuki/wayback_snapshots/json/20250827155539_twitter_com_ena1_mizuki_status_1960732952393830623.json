@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1959642369948627217",
+    "created_at": "2025-08-27T15:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960732952393830623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866360876158398464",
+          "start": 0,
+          "username": "Konora20040421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960732952393830623",
+    "in_reply_to_user_id": "1866360876158398464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960729365198610659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konora20040421 谢谢\\(≧▽≦)/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1959642369948627217",
+        "created_at": "2025-08-27T15:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960732952393830623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866360876158398464",
+              "start": 0,
+              "username": "Konora20040421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960732952393830623",
+        "in_reply_to_user_id": "1866360876158398464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960729365198610659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konora20040421 谢谢\\(≧▽≦)/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866360876158398464",
+        "conversation_id": "1959642369948627217",
+        "created_at": "2025-08-27T15:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960729365198610659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960729365198610659",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959642369948627217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 187,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 158
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T05:54:51.000Z",
+        "description": "跨女⚧/04生产/性取向♂/持证含糖🍬/isfj/家暴党/睡眠障碍/双相/srs遥遥无期/即将复学/拼好饭长期合作伙伴🥺/喜欢涩涩、绘画，萌宠还有同类贴贴抱抱/欢迎私信/期待领养/同类互fo",
+        "id": "1866360876158398464",
+        "location": "东莞",
+        "name": "苹果奶绿🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1960583184996786280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957711149593694208/uG_HshvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 283,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 331
+        },
+        "username": "Konora20040421",
+        "verified": false
+      }
+    ]
+  }
+}

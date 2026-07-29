@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996406129732231168"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1996290583107948703",
+    "created_at": "2025-12-04T02:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T03:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996406131858768179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uG8bhojCAa",
+          "end": 43,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1996406131858768179/photo/1",
+          "media_key": "3_1996406129732231168",
+          "start": 20,
+          "url": "https://t.co/uG8bhojCAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996406131858768179",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996290583107948703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 水月澄闪可爱~ https://t.co/uG8bhojCAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_1996406129732231168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7SozC4aIAA32dg.jpg",
+        "width": 618
+      },
+      {
+        "height": 1061,
+        "media_key": "3_1996290576820695040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Q_s-vbcAAtYZB.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996406129732231168"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1996290583107948703",
+        "created_at": "2025-12-04T02:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996406131858768179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uG8bhojCAa",
+              "end": 43,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1996406131858768179/photo/1",
+              "media_key": "3_1996406129732231168",
+              "start": 20,
+              "url": "https://t.co/uG8bhojCAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996406131858768179",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996290583107948703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 水月澄闪可爱~ https://t.co/uG8bhojCAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996290576820695040"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996290583107948703",
+        "created_at": "2025-12-03T18:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996290583107948703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGJxyXTsj7",
+              "end": 57,
+              "expanded_url": "https://x.com/StarNekOvO/status/1996290583107948703/photo/1",
+              "media_key": "3_1996290576820695040",
+              "start": 34,
+              "url": "https://t.co/rGJxyXTsj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996290583107948703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有人喜欢水月澄闪佩佩喵，喜欢的话评论区留言，抽奖送几个，圣诞礼物😘 https://t.co/rGJxyXTsj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 373,
+          "like_count": 4284,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 755
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "牛奶貓🐈系統。杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 2054,
+          "like_count": 32165,
+          "listed_count": 17,
+          "media_count": 1304,
+          "tweet_count": 10952
+        },
+        "url": "https://t.co/nVL53sBJjI",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

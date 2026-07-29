@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974115685954695174"
+      ],
+      "media_source_tweet_id": [
+        "1974115703398793447"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1974139946073223413",
+    "created_at": "2025-10-03T15:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974139946073223413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1386659384634269698",
+          "start": 3,
+          "username": "5ky1ine_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bAmNDCFfTd",
+          "end": 39,
+          "expanded_url": "https://x.com/5ky1ine_/status/1974115703398793447/photo/1",
+          "media_key": "3_1974115685954695174",
+          "start": 16,
+          "url": "https://t.co/bAmNDCFfTd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974139946073223413",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974115703398793447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5ky1ine_: ✨ https://t.co/bAmNDCFfTd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974115685954695174",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V3wc7bMAYE1KQ.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974115685954695174"
+          ],
+          "media_source_tweet_id": [
+            "1974115703398793447"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1974139946073223413",
+        "created_at": "2025-10-03T15:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974139946073223413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1386659384634269698",
+              "start": 3,
+              "username": "5ky1ine_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAmNDCFfTd",
+              "end": 39,
+              "expanded_url": "https://x.com/5ky1ine_/status/1974115703398793447/photo/1",
+              "media_key": "3_1974115685954695174",
+              "start": 16,
+              "url": "https://t.co/bAmNDCFfTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974139946073223413",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974115703398793447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5ky1ine_: ✨ https://t.co/bAmNDCFfTd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974115685954695174"
+          ]
+        },
+        "author_id": "1386659384634269698",
+        "conversation_id": "1974115703398793447",
+        "created_at": "2025-10-03T14:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T15:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974115703398793447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bAmNDCFfTd",
+              "end": 25,
+              "expanded_url": "https://x.com/5ky1ine_/status/1974115703398793447/photo/1",
+              "media_key": "3_1974115685954695174",
+              "start": 2,
+              "url": "https://t.co/bAmNDCFfTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974115703398793447",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 8789,
+          "like_count": 1150,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "✨ https://t.co/bAmNDCFfTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 298,
+          "like_count": 2371,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 344
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T12:33:03.000Z",
+        "description": "中文/EN/日本語👀○/prsk ✨💖",
+        "id": "1386659384634269698",
+        "location": "🐳",
+        "name": "ookyline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535541240711630850/YRdpTDsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35966,
+          "following_count": 180,
+          "like_count": 1840,
+          "listed_count": 128,
+          "media_count": 220,
+          "tweet_count": 628
+        },
+        "username": "5ky1ine_",
+        "verified": false
+      }
+    ]
+  }
+}

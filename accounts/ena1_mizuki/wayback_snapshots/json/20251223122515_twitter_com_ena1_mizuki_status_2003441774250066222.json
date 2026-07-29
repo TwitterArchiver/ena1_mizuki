@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2002210408829227115",
+    "created_at": "2025-12-23T12:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003441774250066222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453347244401430528",
+          "start": 0,
+          "username": "Rainbow_LIN2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003441774250066222",
+    "in_reply_to_user_id": "1453347244401430528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002210408829227115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainbow_LIN2025 我的左侧狼尾也更长一些，可能是习惯朝左睡，头发受重力影响变得更长😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2002210408829227115",
+        "created_at": "2025-12-23T12:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003441774250066222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453347244401430528",
+              "start": 0,
+              "username": "Rainbow_LIN2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003441774250066222",
+        "in_reply_to_user_id": "1453347244401430528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002210408829227115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainbow_LIN2025 我的左侧狼尾也更长一些，可能是习惯朝左睡，头发受重力影响变得更长😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453347244401430528",
+        "conversation_id": "2002210408829227115",
+        "created_at": "2025-12-20T02:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002210408829227115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002210408829227115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从寸头开始留的头发，没修剪过，现在左右两边小狼尾长度为什么会不一样😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 507,
+          "like_count": 6331,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1313
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-27T13:06:09.000Z",
+        "description": "失群班马，迷轮乱辙｜19ISFP｜梦想是做技术大佬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+unTHoHxnSutiN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+unTHoHxnSutiNjA1",
+                "start": 0,
+                "url": "https://t.co/xdLKpktyMK"
+              }
+            ]
+          }
+        },
+        "id": "1453347244401430528",
+        "location": "London, England",
+        "name": "Rainbow_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968146634958839809/TlpoOwxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 442,
+          "like_count": 4008,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 966
+        },
+        "url": "https://t.co/xdLKpktyMK",
+        "username": "Rainbow_LIN2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1972317062354878581",
+    "created_at": "2025-09-29T13:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T14:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972653490158842242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2840236608",
+          "start": 0,
+          "username": "AsabaSeiya451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972653490158842242",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972638999245365712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsabaSeiya451 🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1972317062354878581",
+        "created_at": "2025-09-29T13:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T14:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972653490158842242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2840236608",
+              "start": 0,
+              "username": "AsabaSeiya451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972653490158842242",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972638999245365712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaSeiya451 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1972317062354878581",
+        "created_at": "2025-09-29T12:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972638999245365712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972638999245365712",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972317062354878581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 诶嘿嘿水母诶嘿嘿MIZUKI诶嘿嘿蓝色小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 292,
+          "like_count": 2210,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 312
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "バグバウンティハンター（見習い）。 Co-Founder of @0xSomeLab。Life @StarNekOvO。杭州・シンガポール・東京・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜ CN / EN / JP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "0xSomeLab"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "⭐️🌕あさば せいや🪼🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962354179005169664/_8eXHFYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4009,
+          "following_count": 1741,
+          "like_count": 25996,
+          "listed_count": 15,
+          "media_count": 1083,
+          "tweet_count": 9077
+        },
+        "url": "https://t.co/nVL53sBJjI",
+        "username": "AsabaSeiya451",
+        "verified": true
+      }
+    ]
+  }
+}

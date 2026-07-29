@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2025211145347629058"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2025208404491551231",
+    "created_at": "2026-02-21T14:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025211223344906506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Xb7pkyRqk",
+          "end": 34,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2025211223344906506/video/1",
+          "media_key": "7_2025211145347629058",
+          "start": 11,
+          "url": "https://t.co/8Xb7pkyRqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025211223344906506",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025208404491551231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人喝醉了在那里发疯 https://t.co/8Xb7pkyRqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9126,
+        "height": 960,
+        "media_key": "7_2025211145347629058",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025211145347629058/pu/img/oaAHjaZOUspMX6B0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025211145347629058/pu/vid/avc1/320x426/7I0_S8TEYBqWXsyW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025211145347629058/pu/vid/avc1/480x640/ytjWiBWMRhVjH1xy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025211145347629058/pu/vid/avc1/720x960/W2JnaH2IwaOKqNCh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025211145347629058/pu/pl/dpRdQYVWTrfQ6jAI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025208384052678656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr8S5eaUAAA4Ia.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025208336124416000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBr8QG7bEAAJNws.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025211145347629058"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2025208404491551231",
+        "created_at": "2026-02-21T14:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025211223344906506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Xb7pkyRqk",
+              "end": 34,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2025211223344906506/video/1",
+              "media_key": "7_2025211145347629058",
+              "start": 11,
+              "url": "https://t.co/8Xb7pkyRqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025211223344906506",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025208404491551231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人喝醉了在那里发疯 https://t.co/8Xb7pkyRqk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025208384052678656",
+            "3_2025208336124416000"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025208404491551231",
+        "created_at": "2026-02-21T13:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025208404491551231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQHqjX9LrA",
+              "end": 48,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2025208404491551231/photo/1",
+              "media_key": "3_2025208384052678656",
+              "start": 25,
+              "url": "https://t.co/pQHqjX9LrA"
+            },
+            {
+              "display_url": "pic.x.com/pQHqjX9LrA",
+              "end": 48,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2025208404491551231/photo/1",
+              "media_key": "3_2025208336124416000",
+              "start": 25,
+              "url": "https://t.co/pQHqjX9LrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025208404491551231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和神秘xnh在湖边拍星星，然后喝神秘配色鸡尾酒🤤 https://t.co/pQHqjX9LrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 891,
+          "like_count": 13090,
+          "listed_count": 6,
+          "media_count": 506,
+          "tweet_count": 3586
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

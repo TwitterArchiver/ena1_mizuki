@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032310926289092610",
+        "3_2032310926284857344",
+        "3_2032310926280716289"
+      ],
+      "media_source_tweet_id": [
+        "2032310936057626923",
+        "2032310936057626923",
+        "2032310936057626923"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10058143882",
+          "name": "恋する小惑星"
+        }
+      }
+    ],
+    "conversation_id": "2032336597161787889",
+    "created_at": "2026-03-13T06:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T07:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032336597161787889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "恋アス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "123556667",
+          "start": 3,
+          "username": "uoaaaoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NEWANUuUjG",
+          "end": 119,
+          "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+          "media_key": "3_2032310926289092610",
+          "start": 96,
+          "url": "https://t.co/NEWANUuUjG"
+        },
+        {
+          "display_url": "pic.x.com/NEWANUuUjG",
+          "end": 119,
+          "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+          "media_key": "3_2032310926284857344",
+          "start": 96,
+          "url": "https://t.co/NEWANUuUjG"
+        },
+        {
+          "display_url": "pic.x.com/NEWANUuUjG",
+          "end": 119,
+          "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+          "media_key": "3_2032310926280716289",
+          "start": 96,
+          "url": "https://t.co/NEWANUuUjG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032336597161787889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032310936057626923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uoaaaoi: 中国語(簡体字)版の恋する小惑星のサンプルを頂戴しました。1-2巻が帯で一緒になってるのが新鮮📚特典のグッズも作って頂いたようです。ありがとうございます🙏\n#恋アス https://t.co/NEWANUuUjG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032310926289092610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ4BRKbQAIaLR2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2032310926284857344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ4BRJaoAAcqb9.jpg",
+        "width": 722
+      },
+      {
+        "height": 997,
+        "media_key": "3_2032310926280716289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQ4BRIbcAErm62.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032310926289092610",
+            "3_2032310926284857344",
+            "3_2032310926280716289"
+          ],
+          "media_source_tweet_id": [
+            "2032310936057626923",
+            "2032310936057626923",
+            "2032310936057626923"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058143882",
+              "name": "恋する小惑星"
+            }
+          }
+        ],
+        "conversation_id": "2032336597161787889",
+        "created_at": "2026-03-13T06:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032336597161787889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "恋アス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "123556667",
+              "start": 3,
+              "username": "uoaaaoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEWANUuUjG",
+              "end": 119,
+              "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+              "media_key": "3_2032310926289092610",
+              "start": 96,
+              "url": "https://t.co/NEWANUuUjG"
+            },
+            {
+              "display_url": "pic.x.com/NEWANUuUjG",
+              "end": 119,
+              "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+              "media_key": "3_2032310926284857344",
+              "start": 96,
+              "url": "https://t.co/NEWANUuUjG"
+            },
+            {
+              "display_url": "pic.x.com/NEWANUuUjG",
+              "end": 119,
+              "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+              "media_key": "3_2032310926280716289",
+              "start": 96,
+              "url": "https://t.co/NEWANUuUjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032336597161787889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032310936057626923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uoaaaoi: 中国語(簡体字)版の恋する小惑星のサンプルを頂戴しました。1-2巻が帯で一緒になってるのが新鮮📚特典のグッズも作って頂いたようです。ありがとうございます🙏\n#恋アス https://t.co/NEWANUuUjG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032310926289092610",
+            "3_2032310926284857344",
+            "3_2032310926280716289"
+          ]
+        },
+        "author_id": "123556667",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10058143882",
+              "name": "恋する小惑星"
+            }
+          }
+        ],
+        "conversation_id": "2032310936057626923",
+        "created_at": "2026-03-13T04:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T05:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032310936057626923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "恋アス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEWANUuUjG",
+              "end": 106,
+              "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+              "media_key": "3_2032310926289092610",
+              "start": 83,
+              "url": "https://t.co/NEWANUuUjG"
+            },
+            {
+              "display_url": "pic.x.com/NEWANUuUjG",
+              "end": 106,
+              "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+              "media_key": "3_2032310926284857344",
+              "start": 83,
+              "url": "https://t.co/NEWANUuUjG"
+            },
+            {
+              "display_url": "pic.x.com/NEWANUuUjG",
+              "end": 106,
+              "expanded_url": "https://x.com/uoaaaoi/status/2032310936057626923/photo/1",
+              "media_key": "3_2032310926280716289",
+              "start": 83,
+              "url": "https://t.co/NEWANUuUjG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032310936057626923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5582,
+          "like_count": 176,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "中国語(簡体字)版の恋する小惑星のサンプルを頂戴しました。1-2巻が帯で一緒になってるのが新鮮📚特典のグッズも作って頂いたようです。ありがとうございます🙏\n#恋アス https://t.co/NEWANUuUjG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1031,
+          "like_count": 14815,
+          "listed_count": 6,
+          "media_count": 542,
+          "tweet_count": 4047
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-16T13:14:38.000Z",
+        "description": "漫画家のクロです。まんがタイムきららキャラットで地学部4コマ漫画「#恋する小惑星」#恋アス 全6巻 ＆ TVアニメBD,DVD発売中です #koias ／2025年アニメ「#日々は過ぎれど飯うまし」#ひびめし コミカライズ担当／アイカツ！シリーズが好き",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "恋する小惑星"
+              },
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "恋アス"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "koias"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "tag": "日々は過ぎれど飯うまし"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "tag": "ひびめし"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "koiastv.com",
+                "end": 23,
+                "expanded_url": "https://koiastv.com/",
+                "start": 0,
+                "url": "https://t.co/EmDHcg76pZ"
+              }
+            ]
+          }
+        },
+        "id": "123556667",
+        "name": "Quro",
+        "pinned_tweet_id": "2014239176909308375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1111955713738211328/5O2PHvjC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29390,
+          "following_count": 844,
+          "like_count": 57703,
+          "listed_count": 569,
+          "media_count": 5441,
+          "tweet_count": 132802
+        },
+        "url": "https://t.co/EmDHcg76pZ",
+        "username": "uoaaaoi",
+        "verified": false
+      }
+    ]
+  }
+}

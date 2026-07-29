@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2009812566747529352",
+    "created_at": "2026-01-10T03:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009827428143903002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831984756432760832",
+          "start": 0,
+          "username": "Shadow01175"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009827428143903002",
+    "in_reply_to_user_id": "1831984756432760832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009827287638913395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shadow01175 好诶（￣▽￣）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2009812566747529352",
+        "created_at": "2026-01-10T03:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009827428143903002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831984756432760832",
+              "start": 0,
+              "username": "Shadow01175"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009827428143903002",
+        "in_reply_to_user_id": "1831984756432760832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009827287638913395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shadow01175 好诶（￣▽￣）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831984756432760832",
+        "conversation_id": "2009812566747529352",
+        "created_at": "2026-01-10T03:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009827287638913395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009827287638913395",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009812566747529352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 羽毛笔送我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 642,
+          "like_count": 8449,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 1985
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T09:16:26.000Z",
+        "description": "転生しよう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ftm.wiki/zh-cn/",
+                "end": 23,
+                "expanded_url": "https://ftm.wiki/zh-cn/",
+                "start": 0,
+                "url": "https://t.co/RdexvW7mTq"
+              }
+            ]
+          }
+        },
+        "id": "1831984756432760832",
+        "location": "点击“查看更多 ”试试？",
+        "name": "*",
+        "pinned_tweet_id": "1980892866433233383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009535806776725506/JawPjAi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 437,
+          "like_count": 13906,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/RdexvW7mTq",
+        "username": "Shadow01175",
+        "verified": false
+      }
+    ]
+  }
+}

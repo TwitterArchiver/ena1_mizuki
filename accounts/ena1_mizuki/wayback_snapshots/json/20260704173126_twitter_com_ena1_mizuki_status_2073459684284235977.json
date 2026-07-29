@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2073448306387402995",
+    "created_at": "2026-07-04T17:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073459684284235977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        },
+        {
+          "end": 32,
+          "id": "1331816064271806465",
+          "start": 16,
+          "username": "Bv2V7mrVKybrPAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073459684284235977",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073456236813804030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox @Bv2V7mrVKybrPAz 谢谢~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2073448306387402995",
+        "created_at": "2026-07-04T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073459684284235977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            },
+            {
+              "end": 32,
+              "id": "1331816064271806465",
+              "start": 16,
+              "username": "Bv2V7mrVKybrPAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073459684284235977",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073456236813804030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox @Bv2V7mrVKybrPAz 谢谢~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2073448306387402995",
+        "created_at": "2026-07-04T17:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073456236813804030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 29,
+              "id": "1331816064271806465",
+              "start": 13,
+              "username": "Bv2V7mrVKybrPAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073456236813804030",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073448306387402995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @Bv2V7mrVKybrPAz 吶？祝你們玩的愉快！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 1324,
+          "like_count": 19124,
+          "listed_count": 8,
+          "media_count": 741,
+          "tweet_count": 5519
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "日本語でのコミュニケーションにAI翻訳を使用していることをお許しください💦\n\n私は華夏地域出身のゲーマーオタクです！（旅行好き、コスプレイヤー、詩人）\n\n私の投稿には、日常会話、AI作品、ゲーム、薬物乱用、ポルノ写真、面白い見聞、再投稿などが含まれる場合があります…\n\nぜひお友達になってください！（◍˃ᵕ˂◍）",
+        "id": "1921862257874702337",
+        "location": "トリニティ総合学園中央図書館",
+        "name": "北落師門",
+        "pinned_tweet_id": "2065485133504016613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065442815820345344/hWscjKJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 161,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "Theprophetsfox",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-26T04:24:38.000Z",
+        "description": "模型玩家 欢迎灌注小红书/\nx就当没人认识我的朋友圈吧/\n🏳‍⚧🍥",
+        "id": "1331816064271806465",
+        "location": "浙江",
+        "name": "今凪喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004191747006435329/SS_BY24X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 478,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Bv2V7mrVKybrPAz",
+        "verified": false
+      }
+    ]
+  }
+}

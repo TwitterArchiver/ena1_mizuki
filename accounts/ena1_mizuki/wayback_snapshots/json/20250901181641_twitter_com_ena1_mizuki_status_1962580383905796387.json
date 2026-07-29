@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1962448259005501850",
+    "created_at": "2025-09-01T18:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T19:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962580383905796387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902786386115321856",
+          "start": 0,
+          "username": "zonger31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962580383905796387",
+    "in_reply_to_user_id": "1902786386115321856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962555207247897037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zonger31 这不是我的车啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1962448259005501850",
+        "created_at": "2025-09-01T18:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T19:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962580383905796387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902786386115321856",
+              "start": 0,
+              "username": "zonger31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962580383905796387",
+        "in_reply_to_user_id": "1902786386115321856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962555207247897037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zonger31 这不是我的车啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902786386115321856",
+        "conversation_id": "1962448259005501850",
+        "created_at": "2025-09-01T16:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962555207247897037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962555207247897037",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962448259005501850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki Q4442吗？感觉在路上见过的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 196,
+          "like_count": 1214,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 181
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T18:16:54.000Z",
+        "description": "可以叫我总二😆😆😆因为我喜欢这个名字嘻嘻\n喜欢分享 日常看到什么都会发的 风格不固定哦(≧∇≦)/",
+        "id": "1902786386115321856",
+        "name": "总二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945776584964620288/5cF-89lA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 290,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 182
+        },
+        "username": "zonger31",
+        "verified": false
+      }
+    ]
+  }
+}

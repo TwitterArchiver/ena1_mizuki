@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999063347124391936"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999063363624882400",
+    "created_at": "2025-12-11T10:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999063363624882400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GtJOhIlq0M",
+          "end": 55,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1999063363624882400/photo/1",
+          "media_key": "3_1999063347124391936",
+          "start": 32,
+          "url": "https://t.co/GtJOhIlq0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999063363624882400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "舟山海岛上的美味鳗鱼饭，才19块钱物价也太友好了吧，淡季真好😇 https://t.co/GtJOhIlq0M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_1999063347124391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74ZhdDaUAASug2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999063347124391936"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999063363624882400",
+        "created_at": "2025-12-11T10:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999063363624882400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtJOhIlq0M",
+              "end": 55,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1999063363624882400/photo/1",
+              "media_key": "3_1999063347124391936",
+              "start": 32,
+              "url": "https://t.co/GtJOhIlq0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999063363624882400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舟山海岛上的美味鳗鱼饭，才19块钱物价也太友好了吧，淡季真好😇 https://t.co/GtJOhIlq0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 414,
+          "like_count": 4862,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 940
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

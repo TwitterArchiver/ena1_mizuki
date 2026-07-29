@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1964728530929070360",
+    "created_at": "2025-09-08T04:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T05:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964907479793611047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964907479793611047",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964728530929070360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 摸摸你呀，我有些时候也感觉自己挺pass了，但还是在不说话的情况下被喊帅哥/先生（感觉先生更糟糕一些因为还会引起年龄焦虑（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1964728530929070360",
+        "created_at": "2025-09-08T04:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T05:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964907479793611047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964907479793611047",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964728530929070360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 摸摸你呀，我有些时候也感觉自己挺pass了，但还是在不说话的情况下被喊帅哥/先生（感觉先生更糟糕一些因为还会引起年龄焦虑（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1964728530929070360",
+        "created_at": "2025-09-07T16:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964728530929070360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964728530929070360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3212,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🤣👉🏻🤡👈🏻🤣憋不住想说今天经历\n我抹了四五层出门，又是粉底又是遮瑕膏，穿着体恤和短裤去超市。跟人家服务员对视，人家服务员反应\n——平静——睁大眼\n盯“呃那个，哦——是帅哥，这边扫码”👀\n为什么要哦一声然后喊帅哥啊？直接喊帅哥我都不至于心凉半截🥶\n\n🤣👉🏻🤡小方👈🏻🤣\n我一整个成了期待着自己pass的🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 266,
+          "like_count": 1490,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 230
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "Femboy丨药娘丨天残党丨可接线下丨m丨180cm/56kg丨ISFP-T丨🚪15/50/用于交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "location": "武汉",
+        "name": "小方拌饭",
+        "pinned_tweet_id": "1964665620223713293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2972,
+          "following_count": 1662,
+          "like_count": 7379,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 1735
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

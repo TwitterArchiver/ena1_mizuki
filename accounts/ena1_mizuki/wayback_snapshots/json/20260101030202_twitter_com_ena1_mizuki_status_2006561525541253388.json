@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1960393333467177158",
+    "created_at": "2026-01-01T03:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T04:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006561525541253388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1676572709742944259",
+          "start": 0,
+          "username": "Technology80420"
+        },
+        {
+          "end": 27,
+          "id": "1451422182614069251",
+          "start": 17,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006561525541253388",
+    "in_reply_to_user_id": "1676572709742944259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006429955148886404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Technology80420 @DavariT72 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1960393333467177158",
+        "created_at": "2026-01-01T03:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T04:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006561525541253388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 27,
+              "id": "1451422182614069251",
+              "start": 17,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006561525541253388",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006429955148886404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @DavariT72 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676572709742944259",
+        "conversation_id": "1960393333467177158",
+        "created_at": "2025-12-31T18:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T19:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006429955148886404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1451422182614069251",
+              "start": 13,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006429955148886404",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006388919273918795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @DavariT72 不疼较硬能推动，应该没啥事，去医院看过两回了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 553,
+          "like_count": 7344,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 1651
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 1364,
+          "like_count": 43343,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2429
+        },
+        "username": "Technology80420",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我主页，可爱橘猫🥰(MTF/植物爱好/自由主义/已嘎蛋)。身体状况很差，不断学习知识，追寻内心境界，淡薄物欲，爱吃水果!热爱植物！推文主要分享植物和一些自己的观点.\n想学养鱼但是一直养不好，不懂维持水质和过滤。",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~有主😋🥑🐱",
+        "pinned_tweet_id": "1977900772890472700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45890,
+          "following_count": 1668,
+          "like_count": 72400,
+          "listed_count": 46,
+          "media_count": 4001,
+          "tweet_count": 50862
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

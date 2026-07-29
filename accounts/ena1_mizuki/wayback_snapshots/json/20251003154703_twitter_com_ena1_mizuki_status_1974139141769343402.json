@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1974133091196375423",
+    "created_at": "2025-10-03T15:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974139141769343402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "SerenTsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974139141769343402",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974134473659986069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenTsuki 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974134469746663424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WI10AaoAAXCOr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1974133091196375423",
+        "created_at": "2025-10-03T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974139141769343402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "SerenTsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974139141769343402",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974134473659986069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenTsuki 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974134469746663424"
+          ]
+        },
+        "author_id": "829158936695623680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974133091196375423",
+        "created_at": "2025-10-03T15:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974134473659986069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34EnZ8KQt0",
+              "end": 29,
+              "expanded_url": "https://x.com/SerenTsuki/status/1974134473659986069/photo/1",
+              "media_key": "3_1974134469746663424",
+              "start": 6,
+              "url": "https://t.co/34EnZ8KQt0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974134473659986069",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974133091196375423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难选（） https://t.co/34EnZ8KQt0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 298,
+          "like_count": 2363,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 342
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果酱🍭丨弱 ACG丨社恐丨ブルアカ｜是水月厨！🪼丨Blender丨Unity丨Rust丨想变得可爱丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 417,
+          "like_count": 35216,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 2056
+        },
+        "username": "SerenTsuki",
+        "verified": false
+      }
+    ]
+  }
+}

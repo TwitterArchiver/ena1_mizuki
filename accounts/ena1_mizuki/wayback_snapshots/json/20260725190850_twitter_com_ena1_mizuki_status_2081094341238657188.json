@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2081074042849943637",
+    "created_at": "2026-07-25T19:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081094341238657188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Please note that we recently updated the Terms of Service to reflect the increasing use of AI models in our forum discussions. In Memoriam: Al Nagler It is with deep sadness that we share the passing of Al Nagler, the visionary founder of Tele Vue Optics and one of the most influential figures in the history of amateur astronomy. A Remarkable Life",
+          "display_url": "cloudynights.com",
+          "end": 39,
+          "expanded_url": "https://www.cloudynights.com",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2075318492081897472/yw9nt4nS?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2075318492081897472/yw9nt4nS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Cloudy Nights Home",
+          "unwound_url": "https://www.cloudynights.com",
+          "url": "https://t.co/uQlRqITsB2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081094341238657188",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081086472015470826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Rain_Antar1121 https://t.co/uQlRqITsB2\n我觉得这个论坛的讨论水平比较高，喜欢看目视板块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2081074042849943637",
+        "created_at": "2026-07-25T19:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081094341238657188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Please note that we recently updated the Terms of Service to reflect the increasing use of AI models in our forum discussions. In Memoriam: Al Nagler It is with deep sadness that we share the passing of Al Nagler, the visionary founder of Tele Vue Optics and one of the most influential figures in the history of amateur astronomy. A Remarkable Life",
+              "display_url": "cloudynights.com",
+              "end": 39,
+              "expanded_url": "https://www.cloudynights.com",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2075318492081897472/yw9nt4nS?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075318492081897472/yw9nt4nS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Cloudy Nights Home",
+              "unwound_url": "https://www.cloudynights.com",
+              "url": "https://t.co/uQlRqITsB2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081094341238657188",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081086472015470826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Rain_Antar1121 https://t.co/uQlRqITsB2\n我觉得这个论坛的讨论水平比较高，喜欢看目视板块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2081074042849943637",
+        "created_at": "2026-07-25T18:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081086472015470826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081086472015470826",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081074042849943637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki 嗷呜哇啊又有超新星啦！！宇宙大流星…🥺我有机会就马上去架镜子，肉眼挑战极限星等🥰\n\n不过咱好缺乏获取这种强时效性业余天文新闻的渠道…像超新星，一般彗星，小行星掩星之类的咱总是延后很久才知道）我没有社群和熟人…只能靠读月报和杂志😵‍💫想问问姐姐怎么稳定快速获得消息呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1417,
+          "like_count": 19647,
+          "listed_count": 8,
+          "media_count": 787,
+          "tweet_count": 5755
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 6692,
+          "like_count": 17204,
+          "listed_count": 11,
+          "media_count": 360,
+          "tweet_count": 4588
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

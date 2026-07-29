@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1954928162636509599",
+    "created_at": "2025-08-11T16:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T17:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954936213112340876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "53704819",
+          "start": 0,
+          "username": "EveY448"
+        }
+      ],
+      "urls": [
+        {
+          "description": "免费的在线颜值测试打分工具，软件会客观的为你自己的颜值打分，上传一张完整的面部照片，AI智能测颜值评分系统就会根据国人的审美为你进行在线打分。除了颜值之外，测试结果还包含性别、年龄、脸型、面部表情等信息。",
+          "display_url": "chayanzhi.com",
+          "end": 32,
+          "expanded_url": "http://chayanzhi.com",
+          "start": 9,
+          "status": 200,
+          "title": "颜值测试打分-照片测颜值软件|查颜值网",
+          "unwound_url": "https://www.chayanzhi.com/",
+          "url": "https://t.co/FMGhqQiMkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954936213112340876",
+    "in_reply_to_user_id": "53704819",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954930929203642810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EveY448 https://t.co/FMGhqQiMkU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1954928162636509599",
+        "created_at": "2025-08-11T16:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954936213112340876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "53704819",
+              "start": 0,
+              "username": "EveY448"
+            }
+          ],
+          "urls": [
+            {
+              "description": "免费的在线颜值测试打分工具，软件会客观的为你自己的颜值打分，上传一张完整的面部照片，AI智能测颜值评分系统就会根据国人的审美为你进行在线打分。除了颜值之外，测试结果还包含性别、年龄、脸型、面部表情等信息。",
+              "display_url": "chayanzhi.com",
+              "end": 32,
+              "expanded_url": "http://chayanzhi.com",
+              "start": 9,
+              "status": 200,
+              "title": "颜值测试打分-照片测颜值软件|查颜值网",
+              "unwound_url": "https://www.chayanzhi.com/",
+              "url": "https://t.co/FMGhqQiMkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954936213112340876",
+        "in_reply_to_user_id": "53704819",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954930929203642810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EveY448 https://t.co/FMGhqQiMkU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "53704819",
+        "conversation_id": "1954928162636509599",
+        "created_at": "2025-08-11T15:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954930929203642810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954930929203642810",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954928162636509599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这个是什么 我也要玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 95,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 95
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-04T16:33:18.000Z",
+        "description": "021｜大龄人夫｜断片20年重新苏醒｜目前深柜｜🍥｜碎碎念大师 只说废话但都很真心｜身高174疯狂减肥ing目标115｜面具新玩",
+        "id": "53704819",
+        "name": "立下🍥",
+        "pinned_tweet_id": "1946674885666955692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949458155261542400/p8AQOWCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 946,
+          "like_count": 4688,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2277
+        },
+        "username": "EveY448",
+        "verified": false
+      }
+    ]
+  }
+}

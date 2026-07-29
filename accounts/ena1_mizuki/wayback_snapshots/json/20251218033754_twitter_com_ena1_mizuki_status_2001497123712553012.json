@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2001270815011299386",
+    "created_at": "2025-12-18T03:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T04:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001497123712553012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1999153800301731840",
+          "start": 0,
+          "username": "sisgsn4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001497123712553012",
+    "in_reply_to_user_id": "1999153800301731840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001389424098074954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisgsn4 感受大群的呼唤吧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-18T03:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001497123712553012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1999153800301731840",
+              "start": 0,
+              "username": "sisgsn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001497123712553012",
+        "in_reply_to_user_id": "1999153800301731840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001389424098074954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisgsn4 感受大群的呼唤吧~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999153800301731840",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T20:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T21:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001389424098074954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001389424098074954",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001270815011299386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 恭喜）我可以加入大群吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 465,
+          "like_count": 5607,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1134
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T16:26:32.000Z",
+        "description": "平等的祝愿每一个人/自我认同低下/mtx/精神状态暂且稳定/友好/若可以请骚扰无聊的我",
+        "id": "1999153800301731840",
+        "name": "蓝莓🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999159147221409792/27NW8kt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 28,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "sisgsn4",
+        "verified": false
+      }
+    ]
+  }
+}

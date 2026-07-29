@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997292747439722496"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1997292762774044751",
+    "created_at": "2025-12-06T13:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997292762774044751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N534NMWIOA",
+          "end": 40,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1997292762774044751/photo/1",
+          "media_key": "3_1997292747439722496",
+          "start": 17,
+          "url": "https://t.co/N534NMWIOA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997292762774044751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "带着鲨鲨一起出去玩(´▽｀)ノ♪ https://t.co/N534NMWIOA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997292747439722496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fPK_Ob0AAS8x4.jpg",
+        "width": 1490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997292747439722496"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1997292762774044751",
+        "created_at": "2025-12-06T13:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997292762774044751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N534NMWIOA",
+              "end": 40,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1997292762774044751/photo/1",
+              "media_key": "3_1997292747439722496",
+              "start": 17,
+              "url": "https://t.co/N534NMWIOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997292762774044751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "带着鲨鲨一起出去玩(´▽｀)ノ♪ https://t.co/N534NMWIOA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 394,
+          "like_count": 4508,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 815
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

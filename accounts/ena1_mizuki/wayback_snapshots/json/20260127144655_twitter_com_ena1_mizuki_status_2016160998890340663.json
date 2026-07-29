@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016154801906843935",
+    "created_at": "2026-01-27T14:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016160998890340663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016160998890340663",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016154801906843935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 摸摸你呀，驾校一些教练真的很坏，不给点好处就态度非常不好=_="
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016154790427033604",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rSGY-bAAQSD2n.jpg",
+        "width": 715
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016154790536085504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rSGZYbAAAxryH.jpg",
+        "width": 890
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016154791693467648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rSGdsXQAA6DyR.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016154801906843935",
+        "created_at": "2026-01-27T14:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016160998890340663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016160998890340663",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016154801906843935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 摸摸你呀，驾校一些教练真的很坏，不给点好处就态度非常不好=_="
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016154790427033604",
+            "3_2016154790536085504",
+            "3_2016154791693467648"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "conversation_id": "2016154801906843935",
+        "created_at": "2026-01-27T14:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016154801906843935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCbMGeG3k0",
+              "end": 45,
+              "expanded_url": "https://x.com/meiqinyuban/status/2016154801906843935/photo/1",
+              "media_key": "3_2016154790427033604",
+              "start": 22,
+              "url": "https://t.co/OCbMGeG3k0"
+            },
+            {
+              "display_url": "pic.x.com/OCbMGeG3k0",
+              "end": 45,
+              "expanded_url": "https://x.com/meiqinyuban/status/2016154801906843935/photo/1",
+              "media_key": "3_2016154790536085504",
+              "start": 22,
+              "url": "https://t.co/OCbMGeG3k0"
+            },
+            {
+              "display_url": "pic.x.com/OCbMGeG3k0",
+              "end": 45,
+              "expanded_url": "https://x.com/meiqinyuban/status/2016154801906843935/photo/1",
+              "media_key": "3_2016154791693467648",
+              "start": 22,
+              "url": "https://t.co/OCbMGeG3k0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016154801906843935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发发牢骚，因为今天这件事真的让我越想越生气 https://t.co/OCbMGeG3k0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 752,
+          "like_count": 10425,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 2749
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007094270436753408/CIZOasT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 832,
+          "like_count": 15980,
+          "listed_count": 1,
+          "media_count": 1352,
+          "tweet_count": 7663
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

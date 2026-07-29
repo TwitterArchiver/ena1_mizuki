@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2027254882089287718",
+    "created_at": "2026-02-27T05:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027254882089287718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/litgraley/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/litgraley/status/2027252718264606923",
+          "start": 14,
+          "url": "https://t.co/njP4BuXxf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027254882089287718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027252718264606923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "www如此美味，xm吉他🤤 https://t.co/njP4BuXxf8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027252693245517824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI_lWraYAAkc8Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027252693249806336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI_lWsb0AA4ipc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027252693241356288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI_lWqa4AAxPOe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2027254882089287718",
+        "created_at": "2026-02-27T05:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027254882089287718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/litgraley/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/litgraley/status/2027252718264606923",
+              "start": 14,
+              "url": "https://t.co/njP4BuXxf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027254882089287718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027252718264606923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "www如此美味，xm吉他🤤 https://t.co/njP4BuXxf8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027252693245517824",
+            "3_2027252693249806336",
+            "3_2027252693241356288"
+          ]
+        },
+        "author_id": "1902735424839413760",
+        "conversation_id": "2027252718264606923",
+        "created_at": "2026-02-27T05:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027252718264606923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IuHujpXUmU",
+              "end": 44,
+              "expanded_url": "https://x.com/litgraley/status/2027252718264606923/photo/1",
+              "media_key": "3_2027252693245517824",
+              "start": 21,
+              "url": "https://t.co/IuHujpXUmU"
+            },
+            {
+              "display_url": "pic.x.com/IuHujpXUmU",
+              "end": 44,
+              "expanded_url": "https://x.com/litgraley/status/2027252718264606923/photo/1",
+              "media_key": "3_2027252693249806336",
+              "start": 21,
+              "url": "https://t.co/IuHujpXUmU"
+            },
+            {
+              "display_url": "pic.x.com/IuHujpXUmU",
+              "end": 44,
+              "expanded_url": "https://x.com/litgraley/status/2027252718264606923/photo/1",
+              "media_key": "3_2027252693241356288",
+              "start": 21,
+              "url": "https://t.co/IuHujpXUmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027252718264606923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QAQ\n和某人打赌打输了呢\n穿个小裙子叭 https://t.co/IuHujpXUmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 918,
+          "like_count": 13627,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 3714
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/61/你要请我去喝茶吗🍵",
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "1978116985998213537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 485,
+          "like_count": 21621,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1847
+        },
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

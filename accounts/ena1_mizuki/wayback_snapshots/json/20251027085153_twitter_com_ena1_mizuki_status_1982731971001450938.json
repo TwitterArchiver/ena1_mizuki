@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982731933273464832",
+        "3_1982731933265125376",
+        "3_1982731933734825984",
+        "3_1982731933927763968"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1982731971001450938",
+    "created_at": "2025-10-27T08:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982731971001450938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yIWGYF3IGY",
+          "end": 64,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+          "media_key": "3_1982731933273464832",
+          "start": 41,
+          "url": "https://t.co/yIWGYF3IGY"
+        },
+        {
+          "display_url": "pic.x.com/yIWGYF3IGY",
+          "end": 64,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+          "media_key": "3_1982731933265125376",
+          "start": 41,
+          "url": "https://t.co/yIWGYF3IGY"
+        },
+        {
+          "display_url": "pic.x.com/yIWGYF3IGY",
+          "end": 64,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+          "media_key": "3_1982731933734825984",
+          "start": 41,
+          "url": "https://t.co/yIWGYF3IGY"
+        },
+        {
+          "display_url": "pic.x.com/yIWGYF3IGY",
+          "end": 64,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+          "media_key": "3_1982731933927763968",
+          "start": 41,
+          "url": "https://t.co/yIWGYF3IGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982731971001450938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "四个半小时登顶泰山，体力确实比起hrt之前下降了一些呢，但是爬泰山还是不在话下~ https://t.co/yIWGYF3IGY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982731933273464832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QUMDeWoAASmx9.jpg",
+        "width": 941
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1982731933265125376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QUMDcXYAAXh3y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1982731933734825984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QUMFMWcAApO13.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982731933927763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QUMF6WcAA1zV8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982731933273464832",
+            "3_1982731933265125376",
+            "3_1982731933734825984",
+            "3_1982731933927763968"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982731971001450938",
+        "created_at": "2025-10-27T08:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982731971001450938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIWGYF3IGY",
+              "end": 64,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+              "media_key": "3_1982731933273464832",
+              "start": 41,
+              "url": "https://t.co/yIWGYF3IGY"
+            },
+            {
+              "display_url": "pic.x.com/yIWGYF3IGY",
+              "end": 64,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+              "media_key": "3_1982731933265125376",
+              "start": 41,
+              "url": "https://t.co/yIWGYF3IGY"
+            },
+            {
+              "display_url": "pic.x.com/yIWGYF3IGY",
+              "end": 64,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+              "media_key": "3_1982731933734825984",
+              "start": 41,
+              "url": "https://t.co/yIWGYF3IGY"
+            },
+            {
+              "display_url": "pic.x.com/yIWGYF3IGY",
+              "end": 64,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1982731971001450938/photo/1",
+              "media_key": "3_1982731933927763968",
+              "start": 41,
+              "url": "https://t.co/yIWGYF3IGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982731971001450938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四个半小时登顶泰山，体力确实比起hrt之前下降了一些呢，但是爬泰山还是不在话下~ https://t.co/yIWGYF3IGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 313,
+          "like_count": 2999,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 427
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

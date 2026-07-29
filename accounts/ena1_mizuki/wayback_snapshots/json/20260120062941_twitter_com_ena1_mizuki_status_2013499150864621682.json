@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012799242780254494",
+    "created_at": "2026-01-20T06:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T07:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013499150864621682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687472685964742656",
+          "start": 0,
+          "username": "MizukiMizu74138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013499150864621682",
+    "in_reply_to_user_id": "1687472685964742656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013475802848075966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiMizu74138 呜咸奶茶我吃了，感觉味道怪怪的嗯总之就是很奇怪，奶皮子好吃~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012799242780254494",
+        "created_at": "2026-01-20T06:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T07:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013499150864621682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687472685964742656",
+              "start": 0,
+              "username": "MizukiMizu74138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013499150864621682",
+        "in_reply_to_user_id": "1687472685964742656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013475802848075966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiMizu74138 呜咸奶茶我吃了，感觉味道怪怪的嗯总之就是很奇怪，奶皮子好吃~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687472685964742656",
+        "conversation_id": "2012799242780254494",
+        "created_at": "2026-01-20T04:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013475802848075966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013475802848075966",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013077137545109570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我好想吃奶皮子和咸奶茶啊啊！水母姐姐替我尝尝味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 710,
+          "like_count": 9452,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 2348
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T14:37:11.000Z",
+        "description": "she/they\n你的光芒会照亮前行之路\n明日方舟｜邦邦｜术力口｜音游 本质是仓田真白激推人 最近在玩素晴日\n互fo大欢迎！！关注了都会回fo",
+        "id": "1687472685964742656",
+        "location": "宇宙 日本 世田谷",
+        "name": "Mizuki Mizuki",
+        "pinned_tweet_id": "1997006579556889053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010694406358339584/zbadfhzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 546,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 406
+        },
+        "username": "MizukiMizu74138",
+        "verified": false
+      }
+    ]
+  }
+}

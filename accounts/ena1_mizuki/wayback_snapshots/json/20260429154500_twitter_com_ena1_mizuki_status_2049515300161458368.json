@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2049515300161458368",
+    "created_at": "2026-04-29T15:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049515300161458368"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 115,
+          "tag": "東雲絵名誕生祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1386659384634269698",
+          "start": 3,
+          "username": "5ky1ine_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049515300161458368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 659
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049503980963975644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5ky1ine_: ————❅*✦*——*⊹*⊹*——*✦*❅————\n♡❁⊹*-𝓗𝓪𝓹𝓹𝔂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂-*⊹❁♡\n🖼️🖍️️東雲繪名l 𝟚𝟘𝟚𝟞.𝟘𝟜.𝟛𝟘✨🎨\n—————*⊹*——*⊹*⊹*——*⊹*—————\n#東雲絵名誕生祭2026 https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2981,
+        "media_key": "3_2049482654563938304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHE5nZ6bsAAHaNN.jpg",
+        "width": 3975
+      },
+      {
+        "height": 2981,
+        "media_key": "3_2049482700646707200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHE5qFla8AAHVqs.jpg",
+        "width": 3975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2049515300161458368",
+        "created_at": "2026-04-29T15:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049515300161458368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 115,
+              "tag": "東雲絵名誕生祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1386659384634269698",
+              "start": 3,
+              "username": "5ky1ine_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049515300161458368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 659
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049503980963975644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5ky1ine_: ————❅*✦*——*⊹*⊹*——*✦*❅————\n♡❁⊹*-𝓗𝓪𝓹𝓹𝔂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂-*⊹❁♡\n🖼️🖍️️東雲繪名l 𝟚𝟘𝟚𝟞.𝟘𝟜.𝟛𝟘✨🎨\n—————*⊹*——*⊹*⊹*——*⊹*—————\n#東雲絵名誕生祭2026 https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049482654563938304",
+            "3_2049482700646707200"
+          ]
+        },
+        "author_id": "1386659384634269698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049503980963975644",
+        "created_at": "2026-04-29T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049503980963975644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 101,
+              "tag": "東雲絵名誕生祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sgu1tBjap",
+              "end": 137,
+              "expanded_url": "https://x.com/5ky1ine_/status/2049503980963975644/photo/1",
+              "media_key": "3_2049482654563938304",
+              "start": 114,
+              "url": "https://t.co/6sgu1tBjap"
+            },
+            {
+              "display_url": "pic.x.com/6sgu1tBjap",
+              "end": 137,
+              "expanded_url": "https://x.com/5ky1ine_/status/2049503980963975644/photo/1",
+              "media_key": "3_2049482700646707200",
+              "start": 114,
+              "url": "https://t.co/6sgu1tBjap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049503980963975644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 12823,
+          "like_count": 1515,
+          "quote_count": 9,
+          "reply_count": 1,
+          "retweet_count": 659
+        },
+        "reply_settings": "everyone",
+        "text": "————❅*✦*——*⊹*⊹*——*✦*❅————\n♡❁⊹*-𝓗𝓪𝓹𝓹𝔂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂-*⊹❁♡\n🖼️🖍️️東雲繪名l 𝟚𝟘𝟚𝟞.𝟘𝟜.𝟛𝟘✨🎨\n—————*⊹*——*⊹*⊹*——*⊹*—————\n#東雲絵名誕生祭2026 https://t.co/6sgu1tBjap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 1171,
+          "like_count": 17236,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 4731
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T12:33:03.000Z",
+        "description": "中文/EN/日本語👀○/prsk ✨💖",
+        "id": "1386659384634269698",
+        "location": "🐳",
+        "name": "ookyline",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535541240711630850/YRdpTDsr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38429,
+          "following_count": 189,
+          "like_count": 1878,
+          "listed_count": 134,
+          "media_count": 233,
+          "tweet_count": 654
+        },
+        "username": "5ky1ine_",
+        "verified": false
+      }
+    ]
+  }
+}

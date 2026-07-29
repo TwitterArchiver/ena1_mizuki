@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1990830512546693439",
+    "created_at": "2025-11-19T03:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990989326277083634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852615097824251904",
+          "start": 0,
+          "username": "Suimikax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990989326277083634",
+    "in_reply_to_user_id": "1852615097824251904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990830512546693439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suimikax 别人说我手上的血管好帅，但我觉得这样一点也不可爱😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1990830512546693439",
+        "created_at": "2025-11-19T03:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990989326277083634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852615097824251904",
+              "start": 0,
+              "username": "Suimikax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990989326277083634",
+        "in_reply_to_user_id": "1852615097824251904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990830512546693439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suimikax 别人说我手上的血管好帅，但我觉得这样一点也不可爱😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852615097824251904",
+        "conversation_id": "1990830512546693439",
+        "created_at": "2025-11-18T17:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990830512546693439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suimikax/statu…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/suimikax/status/1990452274959892822",
+              "start": 73,
+              "url": "https://t.co/A6qWkVOBL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990830512546693439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990452274959892822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好多顺直男就喜欢突出自己的血管展示出那种“男人味”🙄\n\n我小学还被别人说你怎么没有血管，我只会觉得那不恶心吗😅\n\n到现在我的手上好明显，好伤心💔 https://t.co/A6qWkVOBL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 337,
+          "like_count": 3627,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 564
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "自介置顶喵😘我不需要思想钢印，我就是我信念的主人。幻想是没有副作用的止痛剂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/i0OrwgdMbL"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "location": "我家👉",
+        "name": "桃",
+        "pinned_tweet_id": "1986975680782082241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988631830543904768/KA_8ES0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 750,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/i0OrwgdMbL",
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

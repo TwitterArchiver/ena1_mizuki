@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2009656303908696207",
+    "created_at": "2026-01-10T01:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T02:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009805843060142521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1983420652981010432",
+          "start": 0,
+          "username": "dissolvingspace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009805843060142521",
+    "in_reply_to_user_id": "1983420652981010432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009656303908696207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dissolvingspace 是这样的，我现在在外面都不想上厕所，好尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2009656303908696207",
+        "created_at": "2026-01-10T01:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T02:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009805843060142521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1983420652981010432",
+              "start": 0,
+              "username": "dissolvingspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009805843060142521",
+        "in_reply_to_user_id": "1983420652981010432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009656303908696207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dissolvingspace 是这样的，我现在在外面都不想上厕所，好尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983420652981010432",
+        "conversation_id": "2009656303908696207",
+        "created_at": "2026-01-09T15:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009656303908696207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009656303908696207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3013,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在商场里上厕所，我刚从隔间出来，就听到身后有人大呼小叫“卧槽，这女的怎么进男厕了”（还说了两遍）\n说实话，我也不想去男厕啊😭可这又没有第三卫生间……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 642,
+          "like_count": 8431,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 1979
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-29T06:29:01.000Z",
+        "description": "🏳️‍⚧️🍥00年大龄MTF（HRT 始于2025.10）丨🟣INTP  丨📍原籍山东，现常居武汉 ✨欢迎互fo、同城面基～",
+        "id": "1983420652981010432",
+        "location": "武汉市",
+        "name": "小溶🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2003335516155252774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001162086848847873/PbkAI_vQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 248,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 625
+        },
+        "username": "dissolvingspace",
+        "verified": false
+      }
+    ]
+  }
+}

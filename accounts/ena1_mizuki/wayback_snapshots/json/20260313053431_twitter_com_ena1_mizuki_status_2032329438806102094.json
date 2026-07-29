@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2032165595442262184",
+    "created_at": "2026-03-13T05:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T06:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032329438806102094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032329438806102094",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032165595442262184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个早上我第一次看见南十字，第一次用肉眼看见水星，探索欲大满足好幸福🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2032165595442262184",
+        "created_at": "2026-03-13T05:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T06:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032329438806102094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032329438806102094",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032165595442262184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个早上我第一次看见南十字，第一次用肉眼看见水星，探索欲大满足好幸福🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2032165595442262184",
+        "created_at": "2026-03-12T18:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032165595442262184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2032162655721738415",
+              "start": 51,
+              "url": "https://t.co/DWi6y0hs4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032165595442262184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 373,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032162655721738415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回望历史，去年冬天的这个早晨是我记忆最深刻的一次，晨光中的南十字从天柱山背后升起，澄净闪耀特别美丽😭 https://t.co/DWi6y0hs4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1031,
+          "like_count": 14809,
+          "listed_count": 6,
+          "media_count": 542,
+          "tweet_count": 4045
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

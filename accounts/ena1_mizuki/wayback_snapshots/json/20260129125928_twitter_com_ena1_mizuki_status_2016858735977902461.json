@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2015658977355575431",
+    "created_at": "2026-01-29T12:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016858735977902461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 24,
+          "id": "1966750197427695617",
+          "start": 16,
+          "username": "mrf3611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016858735977902461",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016847053914255479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @mrf3611 那很神秘了，居然设置反了（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2016847053914255479].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2016847053914255479",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2016847053914255479"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2015658977355575431",
+        "created_at": "2026-01-29T12:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016858735977902461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 24,
+              "id": "1966750197427695617",
+              "start": 16,
+              "username": "mrf3611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016858735977902461",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016847053914255479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @mrf3611 那很神秘了，居然设置反了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 759,
+          "like_count": 10609,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 2800
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟🍔🥤🚪1680JPY/C spl tri/EN/JP 😘🍩fobackAuto 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1854448337673699556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 4351,
+          "like_count": 26539,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 17616
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T06:26:10.000Z",
+        "description": "🇭🇰/🎂92.5.21/友跨/喜歡mtf&男娘/Game @misty3611 /負po注意",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "misty3611"
+              }
+            ]
+          }
+        },
+        "id": "1966750197427695617",
+        "name": "Misty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966759462351572992/R-bcD0ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 80,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 264
+        },
+        "username": "mrf3611",
+        "verified": false
+      }
+    ]
+  }
+}

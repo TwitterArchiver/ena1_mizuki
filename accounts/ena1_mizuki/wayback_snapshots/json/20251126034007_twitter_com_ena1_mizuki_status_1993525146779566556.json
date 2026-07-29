@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1993481094973575533",
+    "created_at": "2025-11-26T03:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993525146779566556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        },
+        {
+          "end": 20,
+          "id": "292929499",
+          "start": 9,
+          "username": "shushuglad"
+        },
+        {
+          "end": 32,
+          "id": "1803482532215922693",
+          "start": 21,
+          "username": "LiYiranzip"
+        },
+        {
+          "end": 41,
+          "id": "1977283341583106052",
+          "start": 33,
+          "username": "Gatn_ID"
+        },
+        {
+          "end": 52,
+          "id": "1688101533198475264",
+          "start": 42,
+          "username": "Chise_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993525146779566556",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993481094973575533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 @shushuglad @LiYiranzip @Gatn_ID @Chise_awa 🥰"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Chise_awa].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chise_awa",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Chise_awa"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1993481085867769862",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pEfFWbwAYtB1C.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1993481094973575533",
+        "created_at": "2025-11-26T03:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993525146779566556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 20,
+              "id": "292929499",
+              "start": 9,
+              "username": "shushuglad"
+            },
+            {
+              "end": 32,
+              "id": "1803482532215922693",
+              "start": 21,
+              "username": "LiYiranzip"
+            },
+            {
+              "end": 41,
+              "id": "1977283341583106052",
+              "start": 33,
+              "username": "Gatn_ID"
+            },
+            {
+              "end": 52,
+              "id": "1688101533198475264",
+              "start": 42,
+              "username": "Chise_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993525146779566556",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993481094973575533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @shushuglad @LiYiranzip @Gatn_ID @Chise_awa 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993481085867769862"
+          ]
+        },
+        "author_id": "1969670166423228416",
+        "conversation_id": "1993481094973575533",
+        "created_at": "2025-11-26T00:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993481094973575533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "292929499",
+              "start": 22,
+              "username": "shushuglad"
+            },
+            {
+              "end": 45,
+              "id": "1803482532215922693",
+              "start": 34,
+              "username": "LiYiranzip"
+            },
+            {
+              "end": 60,
+              "id": "1977283341583106052",
+              "start": 52,
+              "username": "Gatn_ID"
+            },
+            {
+              "end": 79,
+              "id": "1932434375955857409",
+              "start": 67,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 90,
+              "id": "1688101533198475264",
+              "start": 80,
+              "username": "Chise_awa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 118,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/SOdgRG9ecZ"
+            },
+            {
+              "display_url": "pic.x.com/Aynki90JfI",
+              "end": 142,
+              "expanded_url": "https://x.com/h2o2333/status/1993481094973575533/photo/1",
+              "media_key": "3_1993481085867769862",
+              "start": 119,
+              "url": "https://t.co/Aynki90JfI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993481094973575533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @shushuglad @LiYiranzip\n👰 配偶: @Gatn_ID\n👶 孩子: @ena1_mizuki @Chise_awa\n\n➡️ https://t.co/SOdgRG9ecZ https://t.co/Aynki90JfI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 348,
+          "like_count": 3905,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 651
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "xyn买不起糖求投喂丨赛博女鬼丨家长党丨无证含糖丨已出柜丨infp丨vrchat 一氧化二氢233丨od花刀已戒丨双相丨重度抑郁丨准备留学中丨美术丨数码丨游戏开发丨币圈的离我远点…",
+        "id": "1969670166423228416",
+        "location": "吉林省四平市",
+        "name": "一氧化二氢🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993496394305617921/xXG2_kwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 105,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 337
+        },
+        "username": "h2o2333",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:57.000Z",
+        "description": "我是个日本的老人，终于72岁了。我学习汉语，想学好汉语，常常用日语和汉语发推。我们互相一起学习外语吧。HEADER的照片是我故乡。文好部　No.826    gladgameassn #001",
+        "id": "292929499",
+        "location": "日本 大阪",
+        "name": "老爷爷/学习汉语很开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656540248032317440/2R5dWY-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9264,
+          "following_count": 1570,
+          "like_count": 1594,
+          "listed_count": 62,
+          "media_count": 5339,
+          "tweet_count": 109326
+        },
+        "username": "shushuglad",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T17:38:53.000Z",
+        "description": "aroace/不od/不自惨/不聊黄/不乞讨/16mtf含糖半年/墙内无账号/喜欢发莫名其妙的/喜欢我就给我点赞/账号3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+oXbu94FXw85hM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+oXbu94FXw85hMzQ0",
+                "start": 0,
+                "url": "https://t.co/lZ32n1RG4W"
+              }
+            ]
+          }
+        },
+        "id": "1803482532215922693",
+        "location": "葬花吟",
+        "name": "🏳️‍⚧️怡☆★☆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992684288228376576/Eu6yT2Bj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1197
+        },
+        "url": "https://t.co/lZ32n1RG4W",
+        "username": "LiYiranzip",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T08:01:06.000Z",
+        "description": "04的老old大叔 自学过一点梅花易数的数字卦跟阳明心学有领域大神可以一起讨论一下\n/VRchat：TangD:",
+        "id": "1977283341583106052",
+        "name": "GaTn_:D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977287571786153987/anKaiFG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 421,
+          "like_count": 8416,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2573
+        },
+        "username": "Gatn_ID",
+        "verified": false
+      }
+    ]
+  }
+}

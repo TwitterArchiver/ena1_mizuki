@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003438485622153266",
+    "created_at": "2025-12-23T15:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T16:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003491474403692613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827399693523152901",
+          "start": 0,
+          "username": "kiming568416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003491474403692613",
+    "in_reply_to_user_id": "1827399693523152901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003490750353567805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiming568416 嗯确实 点开头像被吓了一跳（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003438485622153266",
+        "created_at": "2025-12-23T15:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003491474403692613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827399693523152901",
+              "start": 0,
+              "username": "kiming568416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003491474403692613",
+        "in_reply_to_user_id": "1827399693523152901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003490750353567805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiming568416 嗯确实 点开头像被吓了一跳（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827399693523152901",
+        "conversation_id": "2003438485622153266",
+        "created_at": "2025-12-23T15:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003490750353567805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003490750353567805",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003438485622153266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我喜欢用抽象头像现实也是丑国男😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 507,
+          "like_count": 6370,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1328
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-24T17:37:01.000Z",
+        "description": "1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "404unkonw.com",
+                "end": 23,
+                "expanded_url": "http://404unkonw.com",
+                "start": 0,
+                "url": "https://t.co/WibHQN1WB3"
+              }
+            ]
+          }
+        },
+        "id": "1827399693523152901",
+        "name": "reming",
+        "pinned_tweet_id": "1998445046530715947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998261170512277504/fpiDMrAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 1915,
+          "like_count": 8986,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/WibHQN1WB3",
+        "username": "kiming568416",
+        "verified": false
+      }
+    ]
+  }
+}

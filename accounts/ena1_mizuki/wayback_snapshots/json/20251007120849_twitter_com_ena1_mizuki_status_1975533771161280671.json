@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1975533745055940608"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1975533771161280671",
+    "created_at": "2025-10-07T12:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975533771161280671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1s22rifQh",
+          "end": 28,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1975533771161280671/photo/1",
+          "media_key": "16_1975533745055940608",
+          "start": 5,
+          "url": "https://t.co/o1s22rifQh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975533771161280671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝🥺😭 https://t.co/o1s22rifQh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_1975533745055940608",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G2qBeWvbQAAeUId.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G2qBeWvbQAAeUId.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1975533745055940608"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1975533771161280671",
+        "created_at": "2025-10-07T12:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975533771161280671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1s22rifQh",
+              "end": 28,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1975533771161280671/photo/1",
+              "media_key": "16_1975533745055940608",
+              "start": 5,
+              "url": "https://t.co/o1s22rifQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975533771161280671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝🥺😭 https://t.co/o1s22rifQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 300,
+          "like_count": 2552,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 370
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

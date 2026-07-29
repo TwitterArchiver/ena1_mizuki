@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2029185107849036287",
+    "created_at": "2026-03-04T13:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029185107849036287"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029185107849036287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于决定把用了7年的功勋surface pro7换掉了，因为实在是卡到不行而且键盘接触不良\n\n不过因为用起来很舒服加上颜值高，下一台还选了surface，让我来吃吃看arm架构的win本😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2029185107849036287",
+        "created_at": "2026-03-04T13:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029185107849036287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029185107849036287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于决定把用了7年的功勋surface pro7换掉了，因为实在是卡到不行而且键盘接触不良\n\n不过因为用起来很舒服加上颜值高，下一台还选了surface，让我来吃吃看arm架构的win本😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 974,
+          "like_count": 14047,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3820
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

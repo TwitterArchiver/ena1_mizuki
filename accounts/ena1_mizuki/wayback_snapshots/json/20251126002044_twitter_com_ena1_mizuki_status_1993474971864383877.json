@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1977953401385414967",
+    "created_at": "2025-11-26T00:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T01:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993474971864383877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1393445127268405251",
+          "start": 0,
+          "username": "changningpiglet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993474971864383877",
+    "in_reply_to_user_id": "1393445127268405251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993429996959072427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changningpiglet hh我是小推主啦，您也一定可以（比如现在就涨了一个fo）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1977953401385414967",
+        "created_at": "2025-11-26T00:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993474971864383877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1393445127268405251",
+              "start": 0,
+              "username": "changningpiglet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993474971864383877",
+        "in_reply_to_user_id": "1393445127268405251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993429996959072427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changningpiglet hh我是小推主啦，您也一定可以（比如现在就涨了一个fo）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393445127268405251",
+        "conversation_id": "1977953401385414967",
+        "created_at": "2025-11-25T21:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993429996959072427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993429996959072427",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977953401385414967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki xm粉丝多😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 348,
+          "like_count": 3899,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 647
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T05:56:39.000Z",
+        "description": "常驻广州佛山，珠三角mtx lgbt+，广佛第一色魔（我自封的 | 泛性恋，但ftx更偏好 | 身高177-179 | 体重59-60kg | 99年，是猫人（？ | 暂时不收门槛，但是别恶心我，聊的好可会面 | 随缘更新到基本不上号 | 发的东西比较丧，日常不这样 | 喜欢幻想（？ | 中度抑郁症，日常摆烂窝着",
+        "id": "1393445127268405251",
+        "name": "鲨鱼辣椒彻底失败",
+        "pinned_tweet_id": "1993413678528643294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1393829817523478531/RsttnCeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 190,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 3773
+        },
+        "username": "changningpiglet",
+        "verified": false
+      }
+    ]
+  }
+}

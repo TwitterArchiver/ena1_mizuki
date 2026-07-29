@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2060610225888203248",
+    "created_at": "2026-05-30T06:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060610465831821439"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060610465831821439",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060610225888203248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且发现戴着护具还可以操控手柄，不影响我爽玩地平线6😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060610223023542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjCFIvbUAAvX2p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2060610225888203248",
+        "created_at": "2026-05-30T06:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060610465831821439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060610465831821439",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060610225888203248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且发现戴着护具还可以操控手柄，不影响我爽玩地平线6😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060610223023542272"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2060610225888203248",
+        "created_at": "2026-05-30T06:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060610225888203248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgH193uiKR",
+              "end": 66,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2060610225888203248/photo/1",
+              "media_key": "3_2060610223023542272",
+              "start": 43,
+              "url": "https://t.co/bgH193uiKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060610225888203248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到手腕tfcc的轻度损伤就要戴这样的护具，不过好处是可以和导师说我手断了要请假😎 https://t.co/bgH193uiKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1261,
+          "like_count": 18296,
+          "listed_count": 7,
+          "media_count": 690,
+          "tweet_count": 5249
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

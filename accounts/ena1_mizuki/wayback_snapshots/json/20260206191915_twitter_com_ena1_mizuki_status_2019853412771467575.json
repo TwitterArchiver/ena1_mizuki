@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2018231312491114940",
+    "created_at": "2026-02-06T19:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T20:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019853412771467575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780180435609477120",
+          "start": 0,
+          "username": "Emiy5769427455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019853412771467575",
+    "in_reply_to_user_id": "1780180435609477120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019831064953561261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emiy5769427455 嘛人类要是能延续到恒星熄灭的时候，说不定有解决办法呢，但我觉得肯定早完蛋了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-06T19:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T20:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019853412771467575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780180435609477120",
+              "start": 0,
+              "username": "Emiy5769427455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019853412771467575",
+        "in_reply_to_user_id": "1780180435609477120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019831064953561261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emiy5769427455 嘛人类要是能延续到恒星熄灭的时候，说不定有解决办法呢，但我觉得肯定早完蛋了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780180435609477120",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-06T17:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019831064953561261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019831064953561261",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018264641844211747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 意识溃散说的是人类嘛\n人类在恒星熄灭这个阶段应该就不能生存了吧，还有可能延续到热寂嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 820,
+          "like_count": 11800,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 3167
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T10:24:35.000Z",
+        "description": "she/her/高一国际生/astronomy/Python、c++学习中/会更新自己学习旅游一些竞赛的日常什么的，但可能还是吃喝最多w，欢迎互fo聊天哦",
+        "id": "1780180435609477120",
+        "name": "Errai🏳️‍⚧️🇦🇲",
+        "pinned_tweet_id": "1874090428720623835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905514271863414784/oAxRjEye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 491,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 213
+        },
+        "username": "Emiy5769427455",
+        "verified": false
+      }
+    ]
+  }
+}

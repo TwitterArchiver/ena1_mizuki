@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2078757671440908774",
+    "created_at": "2026-07-19T23:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078981069928603712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801216598008848384",
+          "start": 0,
+          "username": "BH3GEI_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078981069928603712",
+    "in_reply_to_user_id": "1801216598008848384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078837245025612257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BH3GEI_CN 啊原来是古时候就是这个名字了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2078757671440908774",
+        "created_at": "2026-07-19T23:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078981069928603712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801216598008848384",
+              "start": 0,
+              "username": "BH3GEI_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078981069928603712",
+        "in_reply_to_user_id": "1801216598008848384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078837245025612257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BH3GEI_CN 啊原来是古时候就是这个名字了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801216598008848384",
+        "conversation_id": "2078757671440908774",
+        "created_at": "2026-07-19T13:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078837245025612257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078837245025612257",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078757671440908774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki 夺荆州 抗刘备 合曹操 共克襄樊\n守夷陵 任陆逊 剿敌军 火计破蜀胆\n🎵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 1397,
+          "like_count": 19468,
+          "listed_count": 8,
+          "media_count": 769,
+          "tweet_count": 5673
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-13T11:34:43.000Z",
+        "description": "Courage: 1%\nStupidity: 100%\n\nTelegram: \nhttps://t.co/87Xp3uybiC\n\nEnglish Version: \n@BH3GEI_EN\n\n日本語版: \n@BH3GEI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "BH3GEI_EN"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "username": "BH3GEI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BH3GEI",
+                "end": 63,
+                "expanded_url": "http://t.me/BH3GEI",
+                "start": 40,
+                "url": "https://t.co/87Xp3uybiC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4j0trxf",
+                "end": 23,
+                "expanded_url": "https://bit.ly/4j0trxf",
+                "start": 0,
+                "url": "https://t.co/wv2BzdalyX"
+              }
+            ]
+          }
+        },
+        "id": "1801216598008848384",
+        "location": "Tsukuba-shi, Ibaraki",
+        "name": "BH3GEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922208049466359808/ow9aGZDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1343,
+          "like_count": 18284,
+          "listed_count": 3,
+          "media_count": 785,
+          "tweet_count": 5655
+        },
+        "url": "https://t.co/wv2BzdalyX",
+        "username": "BH3GEI_CN",
+        "verified": false
+      }
+    ]
+  }
+}

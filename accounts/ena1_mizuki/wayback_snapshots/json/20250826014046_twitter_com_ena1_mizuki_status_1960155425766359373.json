@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1959642369948627217",
+    "created_at": "2025-08-26T01:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T02:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960155425766359373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760424836097343488",
+          "start": 0,
+          "username": "Ditto9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960155425766359373",
+    "in_reply_to_user_id": "1760424836097343488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960019848614101398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ditto9999 诶嘿谢谢 (‵▽′)/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1959642369948627217",
+        "created_at": "2025-08-26T01:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T02:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960155425766359373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760424836097343488",
+              "start": 0,
+              "username": "Ditto9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960155425766359373",
+        "in_reply_to_user_id": "1760424836097343488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960019848614101398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ditto9999 诶嘿谢谢 (‵▽′)/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760424836097343488",
+        "conversation_id": "1959642369948627217",
+        "created_at": "2025-08-25T16:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960019848614101398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960019848614101398",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959642369948627217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 可爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 170,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 144
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T22:02:49.000Z",
+        "description": "enby/mtf/transles/pansexual‖\nNsfw🚫警告\n🚪33 接线上线下 04 165 56\n‖喜欢看书，最想学的是语言学。什么都是半吊子水平。又土又穷。偶尔是火车迷。‖没有精力键政。‖酷儿宝宝们请直接找我玩‖I don't flirt for free",
+        "id": "1760424836097343488",
+        "name": "Pfalz🍥",
+        "pinned_tweet_id": "1958956384592281758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954576789638139904/QtNKNFRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 124,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 45
+        },
+        "username": "Ditto9999",
+        "verified": false
+      }
+    ]
+  }
+}

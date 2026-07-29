@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2044261200398299167",
+    "created_at": "2026-04-15T03:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T04:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044261200398299167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itsCatRoll/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/itsCatRoll/status/2044143775086457280",
+          "start": 80,
+          "url": "https://t.co/7g0t72RZez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044261200398299167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044143775086457280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这简直是我，不过我觉得我是有浪漫倾向的无性恋，抱抱贴贴是极好的但和性器官相关的就会很讨厌😇\n在国内不全套srs不能改证就比较烦，所以还在犹豫是做零深还是润出去 https://t.co/7g0t72RZez"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2044261200398299167",
+        "created_at": "2026-04-15T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044261200398299167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsCatRoll/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/itsCatRoll/status/2044143775086457280",
+              "start": 80,
+              "url": "https://t.co/7g0t72RZez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044261200398299167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044143775086457280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这简直是我，不过我觉得我是有浪漫倾向的无性恋，抱抱贴贴是极好的但和性器官相关的就会很讨厌😇\n在国内不全套srs不能改证就比较烦，所以还在犹豫是做零深还是润出去 https://t.co/7g0t72RZez"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2044143775086457280",
+        "created_at": "2026-04-14T20:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044143775086457280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044143775086457280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实咱有一个不想SRS的原因是咱对于无论男性还是女性的性器官都非常讨厌…对于咱来说最好的方式就是直接去掉什么都不留（）\n但话说回来咱又不觉得自己算asexual因为咱还是会喜欢一些R18边缘性行为（如果算的话？比如贴贴抱抱亲亲舔舔摸来摸去然后捆一捆电一电挠一挠这样（）但是一旦涉及到性器官的话比如锁之类的就会觉得非常恶心了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1069,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实咱有一个不想SRS的原因是咱对于无论男性还是女性的性器官都非常讨厌…对于咱来说最好的方式就是直接去掉什么都不留（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1110,
+          "like_count": 16697,
+          "listed_count": 5,
+          "media_count": 603,
+          "tweet_count": 4561
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "是初中生！^ω^ 目前在准备中考\n\n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "hobartr6"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇯🇵🍥🍬私信→",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040727260039352320/FmBMGIu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 792,
+          "like_count": 3348,
+          "listed_count": 7,
+          "media_count": 86,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2060610225888203248",
+    "created_at": "2026-05-30T07:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060631760762020252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "923051228614897664",
+          "start": 0,
+          "username": "Lisa_Queen_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060631760762020252",
+    "in_reply_to_user_id": "923051228614897664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060631234867523643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lisa_Queen_Me 好诶，谢谢你呀~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2060610225888203248",
+        "created_at": "2026-05-30T07:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060631760762020252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "923051228614897664",
+              "start": 0,
+              "username": "Lisa_Queen_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060631760762020252",
+        "in_reply_to_user_id": "923051228614897664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060631234867523643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lisa_Queen_Me 好诶，谢谢你呀~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "923051228614897664",
+        "conversation_id": "2060610225888203248",
+        "created_at": "2026-05-30T07:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060631234867523643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060631234867523643",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060610225888203248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 祝早日康复，tfcc要好好保养哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 1261,
+          "like_count": 18303,
+          "listed_count": 7,
+          "media_count": 690,
+          "tweet_count": 5254
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-25T04:58:57.000Z",
+        "description": "谐音梗扣钱 | intj | 猫猫&🏳️‍⚧️ & les | 社恐形态(不够熟悉时) | 工具开发 项目经理 python Java 并不断丰富技能ing | 意面爱好者 & 美食制作者 | 老诗人(现在不怎么写了) | 三只喵星人的好朋友 | 欢迎同类及朋友互fo",
+        "id": "923051228614897664",
+        "name": "LisaQueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003671193430392832/cr96Siu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 796,
+          "like_count": 2341,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 352
+        },
+        "username": "Lisa_Queen_Me",
+        "verified": true
+      }
+    ]
+  }
+}

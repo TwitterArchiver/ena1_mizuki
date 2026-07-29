@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2025569794141872623",
+    "created_at": "2026-02-23T09:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025865886943563966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        },
+        {
+          "end": 19,
+          "id": "1266329483222511617",
+          "start": 9,
+          "username": "im_rinnin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025865886943563966",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025857293015765021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 @im_rinnin 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2025569794141872623",
+        "created_at": "2026-02-23T09:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025865886943563966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            },
+            {
+              "end": 19,
+              "id": "1266329483222511617",
+              "start": 9,
+              "username": "im_rinnin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025865886943563966",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025857293015765021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 @im_rinnin 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318819823758069760",
+        "conversation_id": "2025569794141872623",
+        "created_at": "2026-02-23T08:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025857293015765021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1266329483222511617",
+              "start": 13,
+              "username": "im_rinnin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025857293015765021",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025839177418629537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @im_rinnin 松冈祯丞是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 894,
+          "like_count": 13289,
+          "listed_count": 6,
+          "media_count": 512,
+          "tweet_count": 3648
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "CN/EN| Miku | Mygo |♜⃤Arknight | ♜⃤Endfiled  CNmainland Server |\nI'm working hard for the IELTS exam.Follow me then I will follow you back.I wanna some friends.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/0v9wTlS",
+                "end": 23,
+                "expanded_url": "http://b23.tv/0v9wTlS",
+                "start": 0,
+                "url": "https://t.co/gXJWRFFJtr"
+              }
+            ]
+          }
+        },
+        "id": "1318819823758069760",
+        "location": "Three Thousand Great Worlds",
+        "name": "❄️Rei_❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024776085628416000/PbdxRLGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 378,
+          "like_count": 15567,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2220
+        },
+        "url": "https://t.co/gXJWRFFJtr",
+        "username": "Enorez2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T11:24:16.000Z",
+        "description": "基本不看私信\n不会写代码\n只想平静的生活\n只要可爱就没问题\n我永远喜欢🌻\n67B9 5938 E7A1 8AB6 CC32  BEE6 77DD D1D1 0000 0000",
+        "id": "1266329483222511617",
+        "name": "宁宁_爱生活",
+        "pinned_tweet_id": "2016004871435256130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006618302425235456/LIDAc8xW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 393,
+          "like_count": 14944,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 10785
+        },
+        "username": "im_rinnin",
+        "verified": false
+      }
+    ]
+  }
+}

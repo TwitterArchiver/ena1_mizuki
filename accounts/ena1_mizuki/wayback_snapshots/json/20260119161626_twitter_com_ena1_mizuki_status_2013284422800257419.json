@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013264420088979711",
+    "created_at": "2026-01-19T16:16:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T17:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013284422800257419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1615447589385797632",
+          "start": 0,
+          "username": "lilijnchn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013284422800257419",
+    "in_reply_to_user_id": "1615447589385797632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013278637856903643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilijnchn1 好呀好呀，希望能拍到呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013264420088979711",
+        "created_at": "2026-01-19T16:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T17:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013284422800257419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1615447589385797632",
+              "start": 0,
+              "username": "lilijnchn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013284422800257419",
+        "in_reply_to_user_id": "1615447589385797632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013278637856903643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilijnchn1 好呀好呀，希望能拍到呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615447589385797632",
+        "conversation_id": "2013264420088979711",
+        "created_at": "2026-01-19T15:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013278637856903643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013278637856903643",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013264420088979711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 那如果能拍到照片，能让咱也看看嘛\n૮ ´͈ ᗜ `͈ ა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 702,
+          "like_count": 9398,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 2327
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T20:35:13.000Z",
+        "description": "Hope all wishes come true......",
+        "id": "1615447589385797632",
+        "name": "yougyk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001782518744567808/z6yvO8Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 27,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "lilijnchn1",
+        "verified": false
+      }
+    ]
+  }
+}

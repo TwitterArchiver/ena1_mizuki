@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2010642891207737612",
+    "created_at": "2026-01-12T14:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T15:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010727369020235843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867775031541166081",
+          "start": 0,
+          "username": "Yangcong_232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010727369020235843",
+    "in_reply_to_user_id": "1867775031541166081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010715456852877528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangcong_232 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2010642891207737612",
+        "created_at": "2026-01-12T14:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010727369020235843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867775031541166081",
+              "start": 0,
+              "username": "Yangcong_232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010727369020235843",
+        "in_reply_to_user_id": "1867775031541166081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010715456852877528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangcong_232 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867775031541166081",
+        "conversation_id": "2010642891207737612",
+        "created_at": "2026-01-12T14:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010715456852877528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010715456852877528",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010642891207737612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 663,
+          "like_count": 8765,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 2059
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T03:34:10.000Z",
+        "description": "无证含糖🍥/小透明",
+        "id": "1867775031541166081",
+        "location": "北京",
+        "name": "洋葱232🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867775381060866048/No2jZaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 561,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 149
+        },
+        "username": "Yangcong_232",
+        "verified": false
+      }
+    ]
+  }
+}

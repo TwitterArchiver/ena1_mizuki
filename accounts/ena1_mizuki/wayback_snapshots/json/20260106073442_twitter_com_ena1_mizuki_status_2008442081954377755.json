@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008442062321131520"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008442081954377755",
+    "created_at": "2026-01-06T07:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T08:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008442081954377755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1430973520452800515",
+          "start": 7,
+          "username": "XmeowwoemX_017"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GYKlNwmi1T",
+          "end": 63,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2008442081954377755/photo/1",
+          "media_key": "3_2008442062321131520",
+          "start": 40,
+          "url": "https://t.co/GYKlNwmi1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008442081954377755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在回龙观和推油@XmeowwoemX_017短暂面面，真的好漂亮声音也好好听🥰 https://t.co/GYKlNwmi1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008442062321131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G99rahyaoAAjkdZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008442062321131520"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008442081954377755",
+        "created_at": "2026-01-06T07:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008442081954377755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1430973520452800515",
+              "start": 7,
+              "username": "XmeowwoemX_017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYKlNwmi1T",
+              "end": 63,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2008442081954377755/photo/1",
+              "media_key": "3_2008442062321131520",
+              "start": 40,
+              "url": "https://t.co/GYKlNwmi1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008442081954377755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在回龙观和推油@XmeowwoemX_017短暂面面，真的好漂亮声音也好好听🥰 https://t.co/GYKlNwmi1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 611,
+          "like_count": 7925,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 1849
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️non-binary transfem HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我互动（过往发的推也可互动）",
+        "id": "1430973520452800515",
+        "location": "Auckland, NZ🇳🇿 / Beijing ",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "1945791722505556478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 369,
+          "like_count": 32506,
+          "listed_count": 5,
+          "media_count": 629,
+          "tweet_count": 3900
+        },
+        "username": "XmeowwoemX_017",
+        "verified": false
+      }
+    ]
+  }
+}

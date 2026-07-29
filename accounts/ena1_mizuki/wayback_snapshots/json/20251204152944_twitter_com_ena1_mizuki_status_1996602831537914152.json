@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1996600873967923384",
+    "created_at": "2025-12-04T15:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T16:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996602831537914152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761059268453916672",
+          "start": 0,
+          "username": "Caffe_Carbone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996602831537914152",
+    "in_reply_to_user_id": "1761059268453916672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996600873967923384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caffe_Carbone 确实呐，剧情向的更容易选出印象深刻的人物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1996600873967923384",
+        "created_at": "2025-12-04T15:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996602831537914152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761059268453916672",
+              "start": 0,
+              "username": "Caffe_Carbone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996602831537914152",
+        "in_reply_to_user_id": "1761059268453916672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996600873967923384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caffe_Carbone 确实呐，剧情向的更容易选出印象深刻的人物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761059268453916672",
+        "conversation_id": "1996600873967923384",
+        "created_at": "2025-12-04T15:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996600873967923384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/1996430894752784802",
+              "start": 95,
+              "url": "https://t.co/k0IUPFlsjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996600873967923384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996430894752784802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想玩這個，然後回憶一下自己的看番清單，百合跟戀愛都有自己的cp、空氣系單純就是看個輕鬆的氛圍、正兒八經的戰鬥或者講故事的也沒看幾部，幾乎都是搞笑或日常不然就是少女樂隊，根本選不出幾個角色😫 https://t.co/k0IUPFlsjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 383,
+          "like_count": 4362,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 771
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T16:04:00.000Z",
+        "description": "追一輩子刺團！看一輩子動畫！",
+        "id": "1761059268453916672",
+        "location": "隔兩條街全家進店右轉冷藏旁高腳椅數第三稍後能看到自動門的位置",
+        "name": "炭燒咖啡☕️",
+        "pinned_tweet_id": "1983476133271331013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993342526183686146/C5fUWmEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 359,
+          "like_count": 27671,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 3122
+        },
+        "username": "Caffe_Carbone",
+        "verified": false
+      }
+    ]
+  }
+}

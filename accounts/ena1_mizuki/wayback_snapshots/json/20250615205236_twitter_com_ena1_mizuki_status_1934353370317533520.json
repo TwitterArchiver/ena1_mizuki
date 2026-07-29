@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1934353370317533520",
+    "created_at": "2025-06-15T20:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T21:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934353370317533520"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934353370317533520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "年龄焦虑发作了，搞不懂我早干嘛去了，居然等到大学男寝住不下去在宾馆整天女装的时候才意识到自己有性别焦虑，唉真的没救了(╥_╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1934353370317533520",
+        "created_at": "2025-06-15T20:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T21:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934353370317533520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934353370317533520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年龄焦虑发作了，搞不懂我早干嘛去了，居然等到大学男寝住不下去在宾馆整天女装的时候才意识到自己有性别焦虑，唉真的没救了(╥_╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，等待老公中🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 12
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

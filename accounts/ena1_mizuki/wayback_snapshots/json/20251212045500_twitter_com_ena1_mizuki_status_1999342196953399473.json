@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1999104540612980940",
+    "created_at": "2025-12-12T04:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999342196953399473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435172366330388481",
+          "start": 0,
+          "username": "OTUTOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999342196953399473",
+    "in_reply_to_user_id": "1435172366330388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999335358547575225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTUTOX 感觉好离谱，被这么叫不得气死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1999104540612980940",
+        "created_at": "2025-12-12T04:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999342196953399473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435172366330388481",
+              "start": 0,
+              "username": "OTUTOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999342196953399473",
+        "in_reply_to_user_id": "1435172366330388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999335358547575225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTUTOX 感觉好离谱，被这么叫不得气死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435172366330388481",
+        "conversation_id": "1999104540612980940",
+        "created_at": "2025-12-12T04:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999335358547575225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999335358547575225",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999104540612980940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 突然想起来，我同事叫同龄的女生叫阿姨emmmm就算真大也不至于吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 427,
+          "like_count": 4998,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 986
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-07T09:25:37.000Z",
+        "description": "可能永远也等不到我的爱人了。",
+        "id": "1435172366330388481",
+        "location": "IP属地：深海",
+        "name": "玥玥",
+        "pinned_tweet_id": "1991879834482737196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712233486504108032/IekOAAFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 564,
+          "like_count": 11684,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1435
+        },
+        "username": "OTUTOX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2012364195640258560"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012364253618135469",
+    "created_at": "2026-01-17T03:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T04:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012364253618135469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ltalkgbofj",
+          "end": 151,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2012364253618135469/video/1",
+          "media_key": "7_2012364195640258560",
+          "start": 128,
+          "url": "https://t.co/Ltalkgbofj"
+        },
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2012040427126620598",
+          "start": 152,
+          "url": "https://t.co/rYcLtIGwh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012364253618135469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012040427126620598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水母娘娘保佑了我！昨天晚上开国道遇到惊魂时刻，我被大货车远光灯闪瞎了看不清，结果撞上路中间的路障，但车如同奇迹一般一点都没受损(º Д º*)\n前面那辆打双闪停在路边的车也是之前撞上了这些路障，为我提前排除了一些障碍，下次去张家口一定要去水母宫还愿🪼🪼🪼 https://t.co/Ltalkgbofj https://t.co/rYcLtIGwh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14722,
+        "height": 720,
+        "media_key": "7_2012364195640258560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012364195640258560/pu/img/kgZqLE_aT3LW1PRm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012364195640258560/pu/vid/avc1/480x270/F27iGpjar2AbAFGa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012364195640258560/pu/vid/avc1/640x360/_qW12sotY6qyB0jf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012364195640258560/pu/vid/avc1/1280x720/GSDKVYMvOegL8pGY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012364195640258560/pu/pl/HvYiGDIBtVfT1FzM.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1556,
+        "media_key": "3_2012040398433304576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-w0FQZaQAA1mrS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012040398303346697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-w0FP6bQAkWs_5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012364195640258560"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012364253618135469",
+        "created_at": "2026-01-17T03:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012364253618135469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ltalkgbofj",
+              "end": 151,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012364253618135469/video/1",
+              "media_key": "7_2012364195640258560",
+              "start": 128,
+              "url": "https://t.co/Ltalkgbofj"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2012040427126620598",
+              "start": 152,
+              "url": "https://t.co/rYcLtIGwh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012364253618135469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012040427126620598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水母娘娘保佑了我！昨天晚上开国道遇到惊魂时刻，我被大货车远光灯闪瞎了看不清，结果撞上路中间的路障，但车如同奇迹一般一点都没受损(º Д º*)\n前面那辆打双闪停在路边的车也是之前撞上了这些路障，为我提前排除了一些障碍，下次去张家口一定要去水母宫还愿🪼🪼🪼 https://t.co/Ltalkgbofj https://t.co/rYcLtIGwh9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012040398433304576",
+            "3_2012040398303346697"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012040427126620598",
+        "created_at": "2026-01-16T05:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012040427126620598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlCxdD0Lo3",
+              "end": 106,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012040427126620598/photo/1",
+              "media_key": "3_2012040398433304576",
+              "start": 83,
+              "url": "https://t.co/GlCxdD0Lo3"
+            },
+            {
+              "display_url": "pic.x.com/GlCxdD0Lo3",
+              "end": 106,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012040427126620598/photo/1",
+              "media_key": "3_2012040398303346697",
+              "start": 83,
+              "url": "https://t.co/GlCxdD0Lo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012040427126620598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去了张家口的水母宫，拜见了水母娘娘，相传水母娘娘云游至此地，点出一眼甘泉，成为了皮草商人洗制皮革的地方\n我也是水母，特地来拜见水母娘娘，祈祷能让我变成水母仙女🪼🪼🪼 https://t.co/GlCxdD0Lo3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 677,
+          "like_count": 9043,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 2167
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

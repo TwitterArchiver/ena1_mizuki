@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2032326473953280411",
+    "created_at": "2026-03-13T10:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032401472156246273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991810120607739904",
+          "start": 0,
+          "username": "GuanQiao6316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032401472156246273",
+    "in_reply_to_user_id": "1991810120607739904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032398918726901988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuanQiao6316 还是刚刚入宅那会看的，后半剧情神秘😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2032326473953280411",
+        "created_at": "2026-03-13T10:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032401472156246273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991810120607739904",
+              "start": 0,
+              "username": "GuanQiao6316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032401472156246273",
+        "in_reply_to_user_id": "1991810120607739904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032398918726901988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuanQiao6316 还是刚刚入宅那会看的，后半剧情神秘😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991810120607739904",
+        "conversation_id": "2032326473953280411",
+        "created_at": "2026-03-13T10:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032398918726901988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032398918726901988",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032326473953280411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 欸\n水母也看过夏洛特呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 1031,
+          "like_count": 14822,
+          "listed_count": 6,
+          "media_count": 543,
+          "tweet_count": 4049
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T10:05:39.000Z",
+        "description": "INTJ 画画人 音乐品味很杂 喜欢分享日常 谢谢喜欢 （祝我雅思早点考出分儿）",
+        "id": "1991810120607739904",
+        "name": "C.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996511401511383040/J9CUuOEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 140,
+          "like_count": 2776,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 876
+        },
+        "username": "GuanQiao6316",
+        "verified": false
+      }
+    ]
+  }
+}

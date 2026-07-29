@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067897781038317568",
+        "3_2067897782195904512",
+        "3_2067897781969358848",
+        "3_2067897783227723776"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2067897786545455159",
+    "created_at": "2026-06-19T09:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067897786545455159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/apR3WWm0AN",
+          "end": 103,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+          "media_key": "3_2067897781038317568",
+          "start": 80,
+          "url": "https://t.co/apR3WWm0AN"
+        },
+        {
+          "display_url": "pic.x.com/apR3WWm0AN",
+          "end": 103,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+          "media_key": "3_2067897782195904512",
+          "start": 80,
+          "url": "https://t.co/apR3WWm0AN"
+        },
+        {
+          "display_url": "pic.x.com/apR3WWm0AN",
+          "end": 103,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+          "media_key": "3_2067897781969358848",
+          "start": 80,
+          "url": "https://t.co/apR3WWm0AN"
+        },
+        {
+          "display_url": "pic.x.com/apR3WWm0AN",
+          "end": 103,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+          "media_key": "3_2067897783227723776",
+          "start": 80,
+          "url": "https://t.co/apR3WWm0AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067897786545455159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水族馆的小可爱们\n杭州长乔是我去过最好的水族馆了，场馆设施新，海洋生物比较齐全而且状态很好，造景和灯光也相当漂亮，最关键的是研究生学生证还可以半价，非常推荐~ https://t.co/apR3WWm0AN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067897781038317568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmE16bgAAv-An.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067897782195904512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmE6Oa4AAAEcD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1495,
+        "media_key": "3_2067897781969358848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmE5YaEAAE520.jpg",
+        "width": 1994
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067897783227723776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmE-EbMAAlwwD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067897781038317568",
+            "3_2067897782195904512",
+            "3_2067897781969358848",
+            "3_2067897783227723776"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2067897786545455159",
+        "created_at": "2026-06-19T09:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067897786545455159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/apR3WWm0AN",
+              "end": 103,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+              "media_key": "3_2067897781038317568",
+              "start": 80,
+              "url": "https://t.co/apR3WWm0AN"
+            },
+            {
+              "display_url": "pic.x.com/apR3WWm0AN",
+              "end": 103,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+              "media_key": "3_2067897782195904512",
+              "start": 80,
+              "url": "https://t.co/apR3WWm0AN"
+            },
+            {
+              "display_url": "pic.x.com/apR3WWm0AN",
+              "end": 103,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+              "media_key": "3_2067897781969358848",
+              "start": 80,
+              "url": "https://t.co/apR3WWm0AN"
+            },
+            {
+              "display_url": "pic.x.com/apR3WWm0AN",
+              "end": 103,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2067897786545455159/photo/1",
+              "media_key": "3_2067897783227723776",
+              "start": 80,
+              "url": "https://t.co/apR3WWm0AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067897786545455159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水族馆的小可爱们\n杭州长乔是我去过最好的水族馆了，场馆设施新，海洋生物比较齐全而且状态很好，造景和灯光也相当漂亮，最关键的是研究生学生证还可以半价，非常推荐~ https://t.co/apR3WWm0AN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1303,
+          "like_count": 18818,
+          "listed_count": 8,
+          "media_count": 723,
+          "tweet_count": 5439
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

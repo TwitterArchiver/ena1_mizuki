@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2054459725534875796",
+    "created_at": "2026-05-13T07:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054459725534875796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1328251418180939777",
+          "start": 3,
+          "username": "GoodsArknights"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "weibo.com/6441489862/529…",
+          "end": 135,
+          "expanded_url": "https://weibo.com/6441489862/5298082650001037",
+          "start": 112,
+          "unwound_url": "https://weibo.com/6441489862/5298082650001037",
+          "url": "https://t.co/w1UMz6lXIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054459725534875796",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054426529040576857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @GoodsArknights: ヌードルストッパーフィギュア(フリュー)・ミヅキ/真夏の饗宴(2026/05/15予約開始・2026/12発売予定)\n価格：138元\n【店舗別予約特典情報】\n発表なし\n公式weibo：https://t.co/w1UMz6lXIR htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054426524561076224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILKCg2acAAxYXR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2054426524556865536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILKCg1aMAAVzvJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054426524565266432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILKCg3aYAADlmH.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2054459725534875796",
+        "created_at": "2026-05-13T07:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054459725534875796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1328251418180939777",
+              "start": 3,
+              "username": "GoodsArknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "weibo.com/6441489862/529…",
+              "end": 135,
+              "expanded_url": "https://weibo.com/6441489862/5298082650001037",
+              "start": 112,
+              "unwound_url": "https://weibo.com/6441489862/5298082650001037",
+              "url": "https://t.co/w1UMz6lXIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054459725534875796",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054426529040576857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @GoodsArknights: ヌードルストッパーフィギュア(フリュー)・ミヅキ/真夏の饗宴(2026/05/15予約開始・2026/12発売予定)\n価格：138元\n【店舗別予約特典情報】\n発表なし\n公式weibo：https://t.co/w1UMz6lXIR htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054426524561076224",
+            "3_2054426524556865536",
+            "3_2054426524565266432"
+          ]
+        },
+        "author_id": "1328251418180939777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054426529040576857",
+        "created_at": "2026-05-13T05:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054426529040576857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "weibo.com/6441489862/529…",
+              "end": 115,
+              "expanded_url": "https://weibo.com/6441489862/5298082650001037",
+              "start": 92,
+              "unwound_url": "https://weibo.com/6441489862/5298082650001037",
+              "url": "https://t.co/w1UMz6lXIR"
+            },
+            {
+              "display_url": "pic.x.com/1rFT06V0Sg",
+              "end": 139,
+              "expanded_url": "https://x.com/GoodsArknights/status/2054426529040576857/photo/1",
+              "media_key": "3_2054426524561076224",
+              "start": 116,
+              "url": "https://t.co/1rFT06V0Sg"
+            },
+            {
+              "display_url": "pic.x.com/1rFT06V0Sg",
+              "end": 139,
+              "expanded_url": "https://x.com/GoodsArknights/status/2054426529040576857/photo/1",
+              "media_key": "3_2054426524556865536",
+              "start": 116,
+              "url": "https://t.co/1rFT06V0Sg"
+            },
+            {
+              "display_url": "pic.x.com/1rFT06V0Sg",
+              "end": 139,
+              "expanded_url": "https://x.com/GoodsArknights/status/2054426529040576857/photo/1",
+              "media_key": "3_2054426524565266432",
+              "start": 116,
+              "url": "https://t.co/1rFT06V0Sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054426529040576857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 29920,
+          "like_count": 570,
+          "quote_count": 187,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "ヌードルストッパーフィギュア(フリュー)・ミヅキ/真夏の饗宴(2026/05/15予約開始・2026/12発売予定)\n価格：138元\n【店舗別予約特典情報】\n発表なし\n公式weibo：https://t.co/w1UMz6lXIR https://t.co/1rFT06V0Sg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1242,
+          "like_count": 17894,
+          "listed_count": 7,
+          "media_count": 658,
+          "tweet_count": 5070
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T08:20:06.000Z",
+        "description": "アークナイツ公式グッズの譲渡、交換ツイートを見かけたときに手動でRTさせていただく非公式アカウントです。ご迷惑でしたらお手数ですがブロックお願いいたします。公式グッズ情報の共有もしています。共有したグッズ情報はwebサイト欄にまとめています。 非公開アカウントのリフォローが必要な場合は公開状態にしてからご一報ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "min.togetter.com/SeeTD78",
+                "end": 23,
+                "expanded_url": "https://min.togetter.com/SeeTD78",
+                "start": 0,
+                "url": "https://t.co/U7fRJN9V3k"
+              }
+            ]
+          }
+        },
+        "id": "1328251418180939777",
+        "location": "中国アークナイツグッズの代行購入はWeb欄ご参照ください",
+        "name": "アークナイツグッズ譲渡・交換RTアカウント",
+        "pinned_tweet_id": "1681671080589623297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039359640564371456/pv7izICy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3242,
+          "following_count": 1336,
+          "like_count": 24,
+          "listed_count": 15,
+          "media_count": 1749,
+          "tweet_count": 8086
+        },
+        "url": "https://t.co/U7fRJN9V3k",
+        "username": "GoodsArknights",
+        "verified": false
+      }
+    ]
+  }
+}

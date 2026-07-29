@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018246741313921025",
+        "3_2018246744090517504"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2018246746816880687",
+    "created_at": "2026-02-02T08:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018246746816880687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M9OhF9reSm",
+          "end": 81,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2018246746816880687/photo/1",
+          "media_key": "3_2018246741313921025",
+          "start": 58,
+          "url": "https://t.co/M9OhF9reSm"
+        },
+        {
+          "display_url": "pic.x.com/M9OhF9reSm",
+          "end": 81,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2018246746816880687/photo/1",
+          "media_key": "3_2018246744090517504",
+          "start": 58,
+          "url": "https://t.co/M9OhF9reSm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018246746816880687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次去广州吃了很多种甜点，印象最深刻的就是西多士，世界上怎么会有这么美味的美食🤤🤤🤤\n于是自己动手复刻，太美味了！ https://t.co/M9OhF9reSm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018246741313921025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJAt9UbIAEvZaD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2018246744090517504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJAuHqaoAA1_J4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018246741313921025",
+            "3_2018246744090517504"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018246746816880687",
+        "created_at": "2026-02-02T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018246746816880687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M9OhF9reSm",
+              "end": 81,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2018246746816880687/photo/1",
+              "media_key": "3_2018246741313921025",
+              "start": 58,
+              "url": "https://t.co/M9OhF9reSm"
+            },
+            {
+              "display_url": "pic.x.com/M9OhF9reSm",
+              "end": 81,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2018246746816880687/photo/1",
+              "media_key": "3_2018246744090517504",
+              "start": 58,
+              "url": "https://t.co/M9OhF9reSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018246746816880687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次去广州吃了很多种甜点，印象最深刻的就是西多士，世界上怎么会有这么美味的美食🤤🤤🤤\n于是自己动手复刻，太美味了！ https://t.co/M9OhF9reSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 780,
+          "like_count": 11117,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 2961
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

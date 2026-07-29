@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003510694654935371",
+    "created_at": "2025-12-24T03:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003673174618386533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "SerenTsuki"
+        },
+        {
+          "end": 23,
+          "id": "2840236608",
+          "start": 12,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003673174618386533",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003670032161939752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenTsuki @StarNekOvO 🥰🥰🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003670032161939752].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003670032161939752",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003670032161939752"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003510694654935371",
+        "created_at": "2025-12-24T03:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003673174618386533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "SerenTsuki"
+            },
+            {
+              "end": 23,
+              "id": "2840236608",
+              "start": 12,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003673174618386533",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003670032161939752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenTsuki @StarNekOvO 🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 509,
+          "like_count": 6420,
+          "listed_count": 3,
+          "media_count": 275,
+          "tweet_count": 1344
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果奶酱🍭丨MiruJam丨弱 ACG丨社恐丨ブルアカ｜是水月厨！🪼丨Blender丨Unity丨Rust丨想变得可爱丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 438,
+          "like_count": 38349,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 2309
+        },
+        "username": "SerenTsuki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統。System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002920527221161984/rfK_sPNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 2205,
+          "like_count": 33190,
+          "listed_count": 17,
+          "media_count": 1351,
+          "tweet_count": 11429
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

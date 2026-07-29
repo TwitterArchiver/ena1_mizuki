@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003859259453481225",
+    "created_at": "2025-12-24T17:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T18:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003887828888178954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2003468394604228608",
+          "start": 0,
+          "username": "pinxewosofure"
+        },
+        {
+          "end": 27,
+          "id": "1403555007790686210",
+          "start": 15,
+          "username": "izumike_hao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003887828888178954",
+    "in_reply_to_user_id": "2003468394604228608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003886939829862783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinxewosofure @izumike_hao 水月大家族🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003859259453481225",
+        "created_at": "2025-12-24T17:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003887828888178954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2003468394604228608",
+              "start": 0,
+              "username": "pinxewosofure"
+            },
+            {
+              "end": 27,
+              "id": "1403555007790686210",
+              "start": 15,
+              "username": "izumike_hao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003887828888178954",
+        "in_reply_to_user_id": "2003468394604228608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003886939829862783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinxewosofure @izumike_hao 水月大家族🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003468394604228608",
+        "conversation_id": "2003859259453481225",
+        "created_at": "2025-12-24T17:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003886939829862783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 25,
+              "id": "1403555007790686210",
+              "start": 13,
+              "username": "izumike_hao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003886939829862783",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003860948948484180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @izumike_hao 我要把水月头像的推友全fo回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 513,
+          "like_count": 6501,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1379
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 落后的“自然”二元性别论及刻板印象和刻板印象扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "pinned_tweet_id": "2003483415526744238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 60,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 75
+        },
+        "username": "pinxewosofure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T03:29:29.000Z",
+        "description": "不快乐的傻瓜～\n是个粥批，时不时发发日常～",
+        "id": "1403555007790686210",
+        "name": "海蓝珊瑚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761070898323279872/kj9KOW-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 123,
+          "like_count": 112788,
+          "listed_count": 2,
+          "media_count": 444,
+          "tweet_count": 2578
+        },
+        "username": "izumike_hao",
+        "verified": false
+      }
+    ]
+  }
+}

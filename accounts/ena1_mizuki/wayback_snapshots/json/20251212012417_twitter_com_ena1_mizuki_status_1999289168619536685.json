@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1999275996898558360",
+    "created_at": "2025-12-12T01:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T02:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999289168619536685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883570556718759936",
+          "start": 0,
+          "username": "bHlyaWNsZTA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999289168619536685",
+    "in_reply_to_user_id": "1883570556718759936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999286603328684126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bHlyaWNsZTA0 🉑盐酥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1999275996898558360",
+        "created_at": "2025-12-12T01:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999289168619536685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883570556718759936",
+              "start": 0,
+              "username": "bHlyaWNsZTA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999289168619536685",
+        "in_reply_to_user_id": "1883570556718759936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999286603328684126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bHlyaWNsZTA0 🉑盐酥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883570556718759936",
+        "conversation_id": "1999275996898558360",
+        "created_at": "2025-12-12T01:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999286603328684126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999286603328684126",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999275996898558360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 已严肃阅读完毕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 425,
+          "like_count": 4951,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 968
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-26T17:40:02.000Z",
+        "description": "=雨霁丨0.9🌈S丨生心女丨MIMI厨",
+        "id": "1883570556718759936",
+        "location": "Alcyone",
+        "name": "雨霁",
+        "pinned_tweet_id": "1977497172800414042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984530214161170435/RiB6ooO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 74,
+          "like_count": 560,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 387
+        },
+        "username": "bHlyaWNsZTA0",
+        "verified": false
+      }
+    ]
+  }
+}

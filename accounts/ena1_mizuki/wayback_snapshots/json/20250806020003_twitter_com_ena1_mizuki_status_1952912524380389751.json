@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1952519923265421372",
+    "created_at": "2025-08-06T02:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T03:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952912524380389751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883570556718759936",
+          "start": 0,
+          "username": "bHlyaWNsZTA0"
+        },
+        {
+          "end": 27,
+          "id": "966214959251079168",
+          "start": 14,
+          "username": "hamasushi_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952912524380389751",
+    "in_reply_to_user_id": "1883570556718759936",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952823010383245617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bHlyaWNsZTA0 @hamasushi_jp 🉑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1952519923265421372",
+        "created_at": "2025-08-06T02:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952912524380389751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883570556718759936",
+              "start": 0,
+              "username": "bHlyaWNsZTA0"
+            },
+            {
+              "end": 27,
+              "id": "966214959251079168",
+              "start": 14,
+              "username": "hamasushi_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952912524380389751",
+        "in_reply_to_user_id": "1883570556718759936",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952823010383245617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bHlyaWNsZTA0 @hamasushi_jp 🉑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883570556718759936",
+        "conversation_id": "1952519923265421372",
+        "created_at": "2025-08-05T20:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T21:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952823010383245617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "966214959251079168",
+              "start": 0,
+              "username": "hamasushi_jp"
+            },
+            {
+              "end": 26,
+              "id": "1932434375955857409",
+              "start": 14,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952823010383245617",
+        "in_reply_to_user_id": "966214959251079168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952519923265421372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamasushi_jp @ena1_mizuki hm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 58,
+          "like_count": 575,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 75
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T17:40:02.000Z",
+        "description": "小熊厨/百合爱好者",
+        "id": "1883570556718759936",
+        "location": "Alcyone",
+        "name": "星野 ケン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928413528123232256/1bGmSL-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 42,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "bHlyaWNsZTA0",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-21T07:36:12.000Z",
+        "description": "株式会社はま寿司の公式アカウントです。お得な情報など定期的にツイートしていきます。なお、ツイッターでの個別返信は行っておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hama-sushi.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.hama-sushi.co.jp/",
+                "start": 0,
+                "url": "https://t.co/dFaq1Bq9AK"
+              }
+            ]
+          }
+        },
+        "id": "966214959251079168",
+        "location": "日本 東京都港区",
+        "name": "はま寿司【公式】",
+        "pinned_tweet_id": "1952882311772684563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1402775842057375744/uMDTCtkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073562,
+          "following_count": 26,
+          "like_count": 1925,
+          "listed_count": 1931,
+          "media_count": 2215,
+          "tweet_count": 372328
+        },
+        "url": "https://t.co/dFaq1Bq9AK",
+        "username": "hamasushi_jp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996993146841104384"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1996993158094508073",
+    "created_at": "2025-12-05T17:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T18:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996993158094508073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbSRgPiS5R",
+          "end": 48,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1996993158094508073/photo/1",
+          "media_key": "3_1996993146841104384",
+          "start": 25,
+          "url": "https://t.co/XbSRgPiS5R"
+        },
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Minokakay/status/1996895722697077131",
+          "start": 49,
+          "url": "https://t.co/sBZjjpHKIm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996993158094508073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996895722697077131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去过全国一半以上的地级市但没去过广东，有点菜了😇 https://t.co/XbSRgPiS5R https://t.co/sBZjjpHKIm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_1996993146841104384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7a-r8BagAAojzK.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1996895704418242560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZmECtaUAAMxOi.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996993146841104384"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1996993158094508073",
+        "created_at": "2025-12-05T17:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T18:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996993158094508073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbSRgPiS5R",
+              "end": 48,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1996993158094508073/photo/1",
+              "media_key": "3_1996993146841104384",
+              "start": 25,
+              "url": "https://t.co/XbSRgPiS5R"
+            },
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Minokakay/status/1996895722697077131",
+              "start": 49,
+              "url": "https://t.co/sBZjjpHKIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996993158094508073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996895722697077131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去过全国一半以上的地级市但没去过广东，有点菜了😇 https://t.co/XbSRgPiS5R https://t.co/sBZjjpHKIm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996895704418242560"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1996895722697077131",
+        "created_at": "2025-12-05T10:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996895722697077131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78fos9A4ic",
+              "end": 23,
+              "expanded_url": "https://x.com/Minokakay/status/1996895722697077131/photo/1",
+              "media_key": "3_1996895704418242560",
+              "start": 0,
+              "url": "https://t.co/78fos9A4ic"
+            },
+            {
+              "display_url": "x.com/acboxliu/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/acboxliu/status/1996649403332124785",
+              "start": 24,
+              "url": "https://t.co/WYxADfykWG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996895722697077131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 778,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996649403332124785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/78fos9A4ic https://t.co/WYxADfykWG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 390,
+          "like_count": 4448,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 796
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12840,
+          "following_count": 1011,
+          "like_count": 44982,
+          "listed_count": 49,
+          "media_count": 1698,
+          "tweet_count": 24018
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

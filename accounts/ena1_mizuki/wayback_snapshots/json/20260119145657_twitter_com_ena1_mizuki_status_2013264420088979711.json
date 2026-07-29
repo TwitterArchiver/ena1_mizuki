@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013264420088979711",
+    "created_at": "2026-01-19T14:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013264420088979711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryuhokataoka/s…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ryuhokataoka/status/2013217637858439275",
+          "start": 18,
+          "url": "https://t.co/HlkQJkzOrH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013264420088979711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013217637858439275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊？瞬间不想回家了我要在东北看极光 https://t.co/HlkQJkzOrH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2013217635865903104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BixflWwAAm-Yg.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013264420088979711",
+        "created_at": "2026-01-19T14:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013264420088979711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryuhokataoka/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ryuhokataoka/status/2013217637858439275",
+              "start": 18,
+              "url": "https://t.co/HlkQJkzOrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013264420088979711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013217637858439275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊？瞬间不想回家了我要在东北看极光 https://t.co/HlkQJkzOrH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013217635865903104"
+          ]
+        },
+        "author_id": "110552043",
+        "conversation_id": "2013217637858439275",
+        "created_at": "2026-01-19T11:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013217637858439275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVq3QcbFsI",
+              "end": 48,
+              "expanded_url": "https://x.com/ryuhokataoka/status/2013217637858439275/photo/1",
+              "media_key": "3_2013217635865903104",
+              "start": 25,
+              "url": "https://t.co/eVq3QcbFsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013217637858439275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 645,
+          "impression_count": 515686,
+          "like_count": 11793,
+          "quote_count": 222,
+          "reply_count": 73,
+          "retweet_count": 4483
+        },
+        "reply_settings": "everyone",
+        "text": "明日のオーロラ予報、ほぼ最強レベルで出てきました https://t.co/eVq3QcbFsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 702,
+          "like_count": 9385,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 2323
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-01T23:28:02.000Z",
+        "description": "オーロラの研究をしています。ビデオポッドキャスト番組「地球人ラジオ」も配信しています。地球や宇宙の環境をテーマに様々なゲストと雑談します。学びや気づきは多々あり。SpotifyやApple Podcastでもお楽しみください。 https://t.co/97yzWujdvM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ryuhokataoka",
+                "end": 137,
+                "expanded_url": "https://www.youtube.com/@ryuhokataoka",
+                "start": 114,
+                "url": "https://t.co/97yzWujdvM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryuhokataoka.github.io",
+                "end": 23,
+                "expanded_url": "https://ryuhokataoka.github.io/",
+                "start": 0,
+                "url": "https://t.co/4ZqqqkZHc7"
+              }
+            ]
+          }
+        },
+        "id": "110552043",
+        "location": "Okinawa",
+        "name": "片岡龍峰",
+        "pinned_tweet_id": "1998365803583057974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/735306042331009024/ec8nJdoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41363,
+          "following_count": 121,
+          "like_count": 16360,
+          "listed_count": 1064,
+          "media_count": 7515,
+          "tweet_count": 35582
+        },
+        "url": "https://t.co/4ZqqqkZHc7",
+        "username": "ryuhokataoka",
+        "verified": false
+      }
+    ]
+  }
+}

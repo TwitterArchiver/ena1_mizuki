@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2035581885393539129",
+    "created_at": "2026-03-22T04:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T05:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035581885393539129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nambarimasu/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nambarimasu/status/2035371100524163234",
+          "start": 9,
+          "url": "https://t.co/8UExBiysdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035581885393539129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035371100524163234",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊水月宝宝😘😘😘 https://t.co/8UExBiysdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2035283332096008192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7HaDrbIAAfFia.png",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2035581885393539129",
+        "created_at": "2026-03-22T04:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035581885393539129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nambarimasu/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nambarimasu/status/2035371100524163234",
+              "start": 9,
+              "url": "https://t.co/8UExBiysdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035581885393539129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035371100524163234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊水月宝宝😘😘😘 https://t.co/8UExBiysdc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035283332096008192"
+          ]
+        },
+        "author_id": "294038797",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035371100524163234",
+        "created_at": "2026-03-21T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035371100524163234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "jellybb",
+              "probability": 0.7059,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0slV9d9ia3",
+              "end": 52,
+              "expanded_url": "https://x.com/nambarimasu/status/2035371100524163234/photo/1",
+              "media_key": "3_2035283332096008192",
+              "start": 29,
+              "url": "https://t.co/0slV9d9ia3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035371100524163234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1027,
+          "impression_count": 239063,
+          "like_count": 19020,
+          "quote_count": 89,
+          "reply_count": 75,
+          "retweet_count": 3887
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday jellybb!!!!😚🪼 https://t.co/0slV9d9ia3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1056,
+          "like_count": 15449,
+          "listed_count": 6,
+          "media_count": 569,
+          "tweet_count": 4269
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-06T12:33:21.000Z",
+        "description": "I like drawing and a lot of things!!! 日本語勉強中｜https://t.co/n4s1hWRy1q 🌲初個展「Wanderlust」https://t.co/la27kVXnuL 🌲",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/namie",
+                "end": 68,
+                "expanded_url": "https://potofu.me/namie",
+                "start": 45,
+                "url": "https://t.co/n4s1hWRy1q"
+              },
+              {
+                "display_url": "pixiv-waengallery.com/exhibition/nam…",
+                "end": 108,
+                "expanded_url": "https://pixiv-waengallery.com/exhibition/namie_wanderlust/",
+                "start": 85,
+                "url": "https://t.co/la27kVXnuL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "namie.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://namie.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/uDysEcuHt1"
+              }
+            ]
+          }
+        },
+        "id": "294038797",
+        "location": "please don't use my illust",
+        "name": "Namie",
+        "pinned_tweet_id": "2003837076241035750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3433487594/3fd4d26c8224bb217dfd3e986d81c752_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559734,
+          "following_count": 847,
+          "like_count": 20825,
+          "listed_count": 3393,
+          "media_count": 589,
+          "tweet_count": 19443
+        },
+        "url": "https://t.co/uDysEcuHt1",
+        "username": "nambarimasu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003866556913344788",
+    "created_at": "2025-12-24T16:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T17:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003868152116150538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505175065498828800",
+          "start": 0,
+          "username": "franciswwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003868152116150538",
+    "in_reply_to_user_id": "1505175065498828800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003867967608836503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@franciswwwww 总之还是超级可爱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003866556913344788",
+        "created_at": "2025-12-24T16:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003868152116150538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505175065498828800",
+              "start": 0,
+              "username": "franciswwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003868152116150538",
+        "in_reply_to_user_id": "1505175065498828800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003867967608836503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@franciswwwww 总之还是超级可爱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505175065498828800",
+        "conversation_id": "2003866556913344788",
+        "created_at": "2025-12-24T16:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003867967608836503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003867967608836503",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003867668101857586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我保留了脸部特征🥰但是身材就有一定虚假成分了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 513,
+          "like_count": 6491,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 1371
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T13:31:25.000Z",
+        "description": "嘿嘿 你發現我了🤪神出鬼沒😁amab👬自然糖🙃07大齡青年🫤珠三角刷新🤪某港八大一年級坐牢ing🤪聊天或咨詢可隨時騷擾🤓網絡獵奇生物🤪離子舍友🪨@Fe_ions超好的朋友🦐🍜 @AsdQWD358224 🥺永遠的閨蜜👭@jiangNing01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "jiangNing01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/OA5na42ShF"
+              }
+            ]
+          }
+        },
+        "id": "1505175065498828800",
+        "location": "2.3km",
+        "name": "𝕙𝕖𝕛 😉",
+        "pinned_tweet_id": "1997245678528167994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999205461351157760/rZBdEpVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 739,
+          "like_count": 7039,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2918
+        },
+        "url": "https://t.co/OA5na42ShF",
+        "username": "franciswwwww",
+        "verified": true
+      }
+    ]
+  }
+}

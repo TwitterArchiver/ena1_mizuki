@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1992428298350252528",
+    "created_at": "2025-11-23T03:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T04:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992436113940840498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1857684678423248896",
+          "start": 0,
+          "username": "approved_cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992436113940840498",
+    "in_reply_to_user_id": "1857684678423248896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992428298350252528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@approved_cry 大水月🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992428295024263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aG-l1bwAAtWGg.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992428294940278784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aG-lhaQAAraaC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1992428298350252528",
+        "created_at": "2025-11-23T03:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992436113940840498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1857684678423248896",
+              "start": 0,
+              "username": "approved_cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992436113940840498",
+        "in_reply_to_user_id": "1857684678423248896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992428298350252528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@approved_cry 大水月🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992428295024263168",
+            "3_1992428294940278784"
+          ]
+        },
+        "author_id": "1857684678423248896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1992428298350252528",
+        "created_at": "2025-11-23T03:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992428298350252528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "Arknights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Zq8xq0mdX",
+              "end": 82,
+              "expanded_url": "https://x.com/approved_cry/status/1992428298350252528/photo/1",
+              "media_key": "3_1992428295024263168",
+              "start": 59,
+              "url": "https://t.co/0Zq8xq0mdX"
+            },
+            {
+              "display_url": "pic.x.com/0Zq8xq0mdX",
+              "end": 82,
+              "expanded_url": "https://x.com/approved_cry/status/1992428298350252528/photo/1",
+              "media_key": "3_1992428294940278784",
+              "start": 59,
+              "url": "https://t.co/0Zq8xq0mdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992428298350252528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱可爱可爱可爱可爱可爱可爱可爱\n带我走吧😭带我走吧😭带我走吧😭带我走吧😭带我走吧😭带我走吧😭\n#Arknights https://t.co/0Zq8xq0mdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 340,
+          "like_count": 3732,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 599
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T07:19:03.000Z",
+        "description": "区一哥/\n\n深邃评论制造者/\n\nacg重度依赖/\n\n我要去二次元了/\n\n若你相信我，我便始终如一/\n\nac酱一直在这里/\n\n^^",
+        "id": "1857684678423248896",
+        "location": "劣品酒吧城市",
+        "name": "forever～特许哭泣",
+        "pinned_tweet_id": "1986722152981450880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975071451607900160/W2j2xHWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 675,
+          "like_count": 23489,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2676
+        },
+        "username": "approved_cry",
+        "verified": false
+      }
+    ]
+  }
+}

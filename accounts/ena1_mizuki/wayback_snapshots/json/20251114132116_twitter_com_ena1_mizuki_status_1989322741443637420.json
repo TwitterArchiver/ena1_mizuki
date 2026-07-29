@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284123966517334017",
+          "name": "Astronauts"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Florida",
+          "id": "855436277054750722",
+          "name": "Florida"
+        }
+      }
+    ],
+    "conversation_id": "1989322741443637420",
+    "created_at": "2025-11-14T13:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989322741443637420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/forallcurious/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/forallcurious/status/1989018991646642177",
+          "start": 15,
+          "url": "https://t.co/gHETVSioA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989322741443637420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989018991646642177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可恶啊两次极光爆发都是在北美 https://t.co/gHETVSioA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989018803871838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5pqEFhacAAme-o.jpg",
+        "width": 1693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284123966517334017",
+              "name": "Astronauts"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "1989322741443637420",
+        "created_at": "2025-11-14T13:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989322741443637420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/forallcurious/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/forallcurious/status/1989018991646642177",
+              "start": 15,
+              "url": "https://t.co/gHETVSioA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989322741443637420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989018991646642177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可恶啊两次极光爆发都是在北美 https://t.co/gHETVSioA8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989018803871838208"
+          ]
+        },
+        "author_id": "2327098700",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284123966517334017",
+              "name": "Astronauts"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "1989018991646642177",
+        "created_at": "2025-11-13T17:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989018991646642177"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "U.S.",
+              "probability": 0.9105,
+              "start": 78,
+              "type": "Place"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Florida",
+              "probability": 0.9733,
+              "start": 130,
+              "type": "Place"
+            },
+            {
+              "end": 219,
+              "normalized_text": "ISS",
+              "probability": 0.3413,
+              "start": 217,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5U9hbRAI0u",
+              "end": 301,
+              "expanded_url": "https://x.com/forallcurious/status/1989018991646642177/photo/1",
+              "media_key": "3_1989018803871838208",
+              "start": 278,
+              "url": "https://t.co/5U9hbRAI0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989018991646642177",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "NORTHERN LIGHTS FROM SPACE 🚨: — A stunning wave of auroras is lighting up the U.S. tonight — even reaching states as far south as Florida. \n\nThis solar storm is one of the most powerful we’ve seen in years.\n\nFrom the ISS, astronauts captured a breathtaking view: a sweeping red aurora draped over North America, the glowing upper atmosphere outlining Earth’s curve in vivid detail.\n\nCredit: NASA"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1055,
+          "impression_count": 169093,
+          "like_count": 11179,
+          "quote_count": 78,
+          "reply_count": 70,
+          "retweet_count": 1871
+        },
+        "reply_settings": "everyone",
+        "text": "NORTHERN LIGHTS FROM SPACE 🚨: — A stunning wave of auroras is lighting up the U.S. tonight — even reaching states as far south as Florida. \n\nThis solar storm is one of the most powerful we’ve seen in years.\n\nFrom the ISS, astronauts captured a breathtaking view: a sweeping red https://t.co/5U9hbRAI0u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 333,
+          "like_count": 3474,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 532
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-04T13:13:34.000Z",
+        "description": "Astronomy Vibes 🌌",
+        "id": "2327098700",
+        "location": "Mars",
+        "name": "All day Astronomy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890108715056910337/AmpRFtXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244038,
+          "following_count": 1,
+          "like_count": 7203,
+          "listed_count": 933,
+          "media_count": 4811,
+          "tweet_count": 9539
+        },
+        "username": "forallcurious",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2024813171643679069",
+    "created_at": "2026-02-20T16:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024883315556458538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1152753946873741316",
+          "start": 0,
+          "username": "Majiang19171107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024883315556458538",
+    "in_reply_to_user_id": "1152753946873741316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024848438089904383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Majiang19171107 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2024813171643679069",
+        "created_at": "2026-02-20T16:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024883315556458538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1152753946873741316",
+              "start": 0,
+              "username": "Majiang19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024883315556458538",
+        "in_reply_to_user_id": "1152753946873741316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024848438089904383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Majiang19171107 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1152753946873741316",
+        "conversation_id": "2024813171643679069",
+        "created_at": "2026-02-20T14:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024848438089904383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024848438089904383",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024813171643679069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 小白条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 888,
+          "like_count": 13053,
+          "listed_count": 6,
+          "media_count": 503,
+          "tweet_count": 3579
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-21T01:35:32.000Z",
+        "description": "火花、願望、夕方、快晴",
+        "id": "1152753946873741316",
+        "location": "LEO",
+        "name": "麻酱不是酱（足立区北千住駅前観測所）",
+        "pinned_tweet_id": "2008938324116017167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978520156260466691/IBsqpqLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 656,
+          "like_count": 14436,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 708
+        },
+        "username": "Majiang19171107",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1995073804973023287",
+    "created_at": "2025-11-30T10:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T11:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995073804973023287"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995073804973023287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于处理完了前两次上山拍的所有照片，真就拍照5分钟，后期两小时😇\n不过还有过去一年因为抑郁没有及时处理的海量照片等着我，努力在双子座流星雨前处理完吧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1995073804973023287",
+        "created_at": "2025-11-30T10:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995073804973023287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995073804973023287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于处理完了前两次上山拍的所有照片，真就拍照5分钟，后期两小时😇\n不过还有过去一年因为抑郁没有及时处理的海量照片等着我，努力在双子座流星雨前处理完吧~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 358,
+          "like_count": 4097,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 712
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

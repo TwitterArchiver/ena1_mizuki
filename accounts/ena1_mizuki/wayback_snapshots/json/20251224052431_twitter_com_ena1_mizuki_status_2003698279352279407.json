@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003698275279601668"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003698279352279407",
+    "created_at": "2025-12-24T05:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:20:41.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003697314595242241",
+      "2003697673426338075",
+      "2003698279352279407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fzaHTJe0r0",
+          "end": 57,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2003698279352279407/photo/1",
+          "media_key": "3_2003698275279601668",
+          "start": 34,
+          "url": "https://t.co/fzaHTJe0r0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003698279352279407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给水月通行证加装了谷美保护壳~ 太可爱啦，完全是宝宝主人老公🥰🥰🥰 https://t.co/fzaHTJe0r0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_2003698275279601668",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86Q9x8agAQlHSa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003697310920847360"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003697314595242241",
+        "created_at": "2025-12-24T05:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:20:41.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003697314595242241",
+          "2003697673426338075",
+          "2003698279352279407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyNHihlwgv",
+              "end": 57,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2003697314595242241/photo/1",
+              "media_key": "3_2003697310920847360",
+              "start": 34,
+              "url": "https://t.co/dyNHihlwgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003697314595242241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给水月通行证加装了谷美保护壳~ 太可爱啦，完全是宝宝主人老公🥰🥰🥰 https://t.co/dyNHihlwgv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003697669064015874"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003697673426338075",
+        "created_at": "2025-12-24T05:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:20:41.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003697314595242241",
+          "2003697673426338075",
+          "2003698279352279407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ltIHF0JvOD",
+              "end": 57,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2003697673426338075/photo/1",
+              "media_key": "3_2003697669064015874",
+              "start": 34,
+              "url": "https://t.co/ltIHF0JvOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003697673426338075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给水月通行证加装了谷美保护壳~ 太可爱啦，完全是宝宝主人老公🥰🥰🥰 https://t.co/ltIHF0JvOD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003698275279601668"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003698279352279407",
+        "created_at": "2025-12-24T05:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:20:41.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003697314595242241",
+          "2003697673426338075",
+          "2003698279352279407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fzaHTJe0r0",
+              "end": 57,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2003698279352279407/photo/1",
+              "media_key": "3_2003698275279601668",
+              "start": 34,
+              "url": "https://t.co/fzaHTJe0r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003698279352279407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给水月通行证加装了谷美保护壳~ 太可爱啦，完全是宝宝主人老公🥰🥰🥰 https://t.co/fzaHTJe0r0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 509,
+          "like_count": 6439,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 1354
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

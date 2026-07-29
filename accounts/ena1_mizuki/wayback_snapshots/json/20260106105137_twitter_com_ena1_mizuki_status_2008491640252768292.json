@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2008391586430759349",
+    "created_at": "2026-01-06T10:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008491640252768292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1615447589385797632",
+          "start": 0,
+          "username": "lilijnchn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008491640252768292",
+    "in_reply_to_user_id": "1615447589385797632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008487790624076257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilijnchn1 诶嘿ヾ(✿ﾟ▽ﾟ)ノ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2008391586430759349",
+        "created_at": "2026-01-06T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008491640252768292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1615447589385797632",
+              "start": 0,
+              "username": "lilijnchn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008491640252768292",
+        "in_reply_to_user_id": "1615447589385797632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008487790624076257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilijnchn1 诶嘿ヾ(✿ﾟ▽ﾟ)ノ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615447589385797632",
+        "conversation_id": "2008391586430759349",
+        "created_at": "2026-01-06T10:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008487790624076257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008487790624076257",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008391586430759349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 是好看的大姐姐诶(.◜ω◝.)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 611,
+          "like_count": 7939,
+          "listed_count": 4,
+          "media_count": 336,
+          "tweet_count": 1853
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-17T20:35:13.000Z",
+        "description": "Hope all wishes come true......",
+        "id": "1615447589385797632",
+        "name": "yougyk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001782518744567808/z6yvO8Hn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "lilijnchn1",
+        "verified": false
+      }
+    ]
+  }
+}

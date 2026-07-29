@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2031734123572895916",
+    "created_at": "2026-03-11T14:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031734123572895916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2031695199379063052",
+          "start": 32,
+          "url": "https://t.co/yE4IlMQatd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031734123572895916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031695199379063052",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊。。。所以我穿很多可爱衣服就相当于写开题报告了，好耶胜利了😎 https://t.co/yE4IlMQatd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1717,
+        "media_key": "3_2031694751926497282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIHnMyasAISWSk.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2031734123572895916",
+        "created_at": "2026-03-11T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031734123572895916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2031695199379063052",
+              "start": 32,
+              "url": "https://t.co/yE4IlMQatd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031734123572895916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031695199379063052",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊。。。所以我穿很多可爱衣服就相当于写开题报告了，好耶胜利了😎 https://t.co/yE4IlMQatd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031694751926497282"
+          ]
+        },
+        "author_id": "1767161673566359552",
+        "conversation_id": "2031695199379063052",
+        "created_at": "2026-03-11T11:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T12:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031695199379063052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXDdMN27tl",
+              "end": 69,
+              "expanded_url": "https://x.com/willa_citrus/status/2031695199379063052/photo/1",
+              "media_key": "3_2031694751926497282",
+              "start": 46,
+              "url": "https://t.co/GXDdMN27tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031695199379063052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1142,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我发现读PhD和改变自己的性别是一回事，或许现行制度下PhD本身就是一种性别。\n证据如下： https://t.co/GXDdMN27tl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 1032,
+          "like_count": 14665,
+          "listed_count": 6,
+          "media_count": 535,
+          "tweet_count": 3998
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11999,
+          "following_count": 207,
+          "like_count": 6415,
+          "listed_count": 34,
+          "media_count": 308,
+          "tweet_count": 7588
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

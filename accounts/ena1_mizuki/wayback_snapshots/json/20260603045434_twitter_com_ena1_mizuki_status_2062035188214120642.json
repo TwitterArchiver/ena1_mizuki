@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062035185701621760"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2062035188214120642",
+    "created_at": "2026-06-03T04:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062035188214120642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mXhO6vpFHU",
+          "end": 77,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2062035188214120642/photo/1",
+          "media_key": "3_2062035185701621760",
+          "start": 54,
+          "url": "https://t.co/mXhO6vpFHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062035188214120642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "首页推荐给了我非常好看的mizuki同人图，结果2秒就刷新走了，试图搜索结果搜到的全是我自己，呃太垃圾了😡 https://t.co/mXhO6vpFHU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062035185701621760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3SE4YaEAAcGML.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062035185701621760"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2062035188214120642",
+        "created_at": "2026-06-03T04:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062035188214120642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXhO6vpFHU",
+              "end": 77,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2062035188214120642/photo/1",
+              "media_key": "3_2062035185701621760",
+              "start": 54,
+              "url": "https://t.co/mXhO6vpFHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062035188214120642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首页推荐给了我非常好看的mizuki同人图，结果2秒就刷新走了，试图搜索结果搜到的全是我自己，呃太垃圾了😡 https://t.co/mXhO6vpFHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 1268,
+          "like_count": 18388,
+          "listed_count": 7,
+          "media_count": 696,
+          "tweet_count": 5291
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2029744329456246941",
+    "created_at": "2026-03-06T04:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T05:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029769571994062888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453347244401430528",
+          "start": 0,
+          "username": "Rainbow_LIN2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029769571994062888",
+    "in_reply_to_user_id": "1453347244401430528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029744329456246941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainbow_LIN2025 简直是我，上推每天容貌焦虑爆炸😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2029744329456246941",
+        "created_at": "2026-03-06T04:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029769571994062888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453347244401430528",
+              "start": 0,
+              "username": "Rainbow_LIN2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029769571994062888",
+        "in_reply_to_user_id": "1453347244401430528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029744329456246941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainbow_LIN2025 简直是我，上推每天容貌焦虑爆炸😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453347244401430528",
+        "conversation_id": "2029744329456246941",
+        "created_at": "2026-03-06T02:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029744329456246941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029744329456246941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛小又窄，头发又塌又油，肩膀巨宽，嘴巴深覆合而且下巴发育不良，脸上都是鸡皮红痘印，下颌角很突出\n吃药的这大半年，除了头发长了点好像真的没有变化了，也许我雌激素不敏感或者吃药太迟了。路上看到女孩子挤在一起聊天我很羡慕，但是我不敢看第二眼，在外人看来，有一个丑陋的男生在偷窥女孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 979,
+          "like_count": 14169,
+          "listed_count": 6,
+          "media_count": 526,
+          "tweet_count": 3851
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T13:06:09.000Z",
+        "description": "失群班马，迷轮乱辙｜19ISFP｜梦想是做技术大佬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+unTHoHxnSutiN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+unTHoHxnSutiNjA1",
+                "start": 0,
+                "url": "https://t.co/xdLKpktyMK"
+              }
+            ]
+          }
+        },
+        "id": "1453347244401430528",
+        "location": "London, England",
+        "name": "Rainbow_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968146634958839809/TlpoOwxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 442,
+          "like_count": 6706,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/xdLKpktyMK",
+        "username": "Rainbow_LIN2025",
+        "verified": false
+      }
+    ]
+  }
+}

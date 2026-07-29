@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2002328136118403154",
+    "created_at": "2025-12-20T15:43:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:43:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002404564801384634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "SerenTsuki"
+        },
+        {
+          "end": 20,
+          "id": "1552918719440924672",
+          "start": 12,
+          "username": "sprLumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002404564801384634",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002402540030472666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenTsuki @sprLumi 对！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2002328136118403154",
+        "created_at": "2025-12-20T15:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002404564801384634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "SerenTsuki"
+            },
+            {
+              "end": 20,
+              "id": "1552918719440924672",
+              "start": 12,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002404564801384634",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002402540030472666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenTsuki @sprLumi 对！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829158936695623680",
+        "conversation_id": "2002328136118403154",
+        "created_at": "2025-12-20T15:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002402540030472666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "sprLumi"
+            },
+            {
+              "end": 21,
+              "id": "1932434375955857409",
+              "start": 9,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002402540030472666",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002338658188472746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sprLumi @ena1_mizuki 水月占领世界！！🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 488,
+          "like_count": 5946,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1228
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果奶酱🍭丨MiruJam丨弱 ACG丨社恐丨ブルアカ｜是水月厨！🪼丨Blender丨Unity丨Rust丨想变得可爱丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 434,
+          "like_count": 38242,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2303
+        },
+        "username": "SerenTsuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "CompSci @NUSingapore | ex-SWE, FinTech, Payment | @HobartR6 @_FurryFur_ | 彩虹六号冠军 | (前) 糖商",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "HobartR6"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "虾仁芹菜馅猫卷",
+        "pinned_tweet_id": "1988379358751576331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002254399393939457/OoX2t-Fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 902,
+          "like_count": 1362,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 633
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

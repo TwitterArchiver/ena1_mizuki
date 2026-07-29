@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025133011663302656"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2025133022350377344",
+    "created_at": "2026-02-21T08:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025133022350377344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1902735424839413760",
+          "start": 13,
+          "username": "litgraley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gxry1OkCTx",
+          "end": 47,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2025133022350377344/photo/1",
+          "media_key": "3_2025133011663302656",
+          "start": 24,
+          "url": "https://t.co/Gxry1OkCTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025133022350377344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和神秘xnh一起出去喝酒🤤@litgraley https://t.co/Gxry1OkCTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025133011663302656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBq3vpcbsAANg8H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025133011663302656"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025133022350377344",
+        "created_at": "2026-02-21T08:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025133022350377344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1902735424839413760",
+              "start": 13,
+              "username": "litgraley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gxry1OkCTx",
+              "end": 47,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2025133022350377344/photo/1",
+              "media_key": "3_2025133011663302656",
+              "start": 24,
+              "url": "https://t.co/Gxry1OkCTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025133022350377344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和神秘xnh一起出去喝酒🤤@litgraley https://t.co/Gxry1OkCTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 891,
+          "like_count": 13080,
+          "listed_count": 6,
+          "media_count": 504,
+          "tweet_count": 3582
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/61/你要请我去喝茶吗🍵",
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "1978116985998213537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 443,
+          "like_count": 20693,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1668
+        },
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

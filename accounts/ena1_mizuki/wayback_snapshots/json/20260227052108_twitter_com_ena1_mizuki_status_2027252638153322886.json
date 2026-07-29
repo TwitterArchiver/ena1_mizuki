@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027252635141881856"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027252638153322886",
+    "created_at": "2026-02-27T05:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027252638153322886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Erp7VG2FPh",
+          "end": 161,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2027252638153322886/photo/1",
+          "media_key": "3_2027252635141881856",
+          "start": 138,
+          "url": "https://t.co/Erp7VG2FPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027252638153322886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于星露谷里我为什么最喜欢雷欧\n虽然还是个xnh，但是独自生活的经历让他成熟了很多，就不会像文森特有熊孩子的感觉，说话的时候更能提供情绪价值，当时去姜岛看到这段对话让我好感动，内向+心理疾病的xnh真的很激起保护欲诶🥺\n所以什么时候来和我同居，让姐姐来好好给你打扮一下🤤🤤🤤 https://t.co/Erp7VG2FPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1765,
+        "media_key": "3_2027252635141881856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI_h-ObQAAcXqV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027252635141881856"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027252638153322886",
+        "created_at": "2026-02-27T05:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027252638153322886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Erp7VG2FPh",
+              "end": 161,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2027252638153322886/photo/1",
+              "media_key": "3_2027252635141881856",
+              "start": 138,
+              "url": "https://t.co/Erp7VG2FPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027252638153322886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于星露谷里我为什么最喜欢雷欧\n虽然还是个xnh，但是独自生活的经历让他成熟了很多，就不会像文森特有熊孩子的感觉，说话的时候更能提供情绪价值，当时去姜岛看到这段对话让我好感动，内向+心理疾病的xnh真的很激起保护欲诶🥺\n所以什么时候来和我同居，让姐姐来好好给你打扮一下🤤🤤🤤 https://t.co/Erp7VG2FPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 918,
+          "like_count": 13625,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 3713
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

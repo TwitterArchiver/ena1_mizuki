@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012493066800619520",
+        "3_2012493066850971648"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012493082722189386",
+    "created_at": "2026-01-17T11:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012493082722189386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bm4i66FKiS",
+          "end": 56,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2012493082722189386/photo/1",
+          "media_key": "3_2012493066800619520",
+          "start": 33,
+          "url": "https://t.co/Bm4i66FKiS"
+        },
+        {
+          "display_url": "pic.x.com/Bm4i66FKiS",
+          "end": 56,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2012493082722189386/photo/1",
+          "media_key": "3_2012493066850971648",
+          "start": 33,
+          "url": "https://t.co/Bm4i66FKiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012493082722189386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天第一次尝试了雪天开山路，积累了冰雪路面行驶的经验值，好刺激~ https://t.co/Bm4i66FKiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2012493066800619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3PyBeWYAAUqQ-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1162,
+        "media_key": "3_2012493066850971648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3PyBqWsAAOXlx.jpg",
+        "width": 1549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012493066800619520",
+            "3_2012493066850971648"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012493082722189386",
+        "created_at": "2026-01-17T11:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012493082722189386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bm4i66FKiS",
+              "end": 56,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012493082722189386/photo/1",
+              "media_key": "3_2012493066800619520",
+              "start": 33,
+              "url": "https://t.co/Bm4i66FKiS"
+            },
+            {
+              "display_url": "pic.x.com/Bm4i66FKiS",
+              "end": 56,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012493082722189386/photo/1",
+              "media_key": "3_2012493066850971648",
+              "start": 33,
+              "url": "https://t.co/Bm4i66FKiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012493082722189386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天第一次尝试了雪天开山路，积累了冰雪路面行驶的经验值，好刺激~ https://t.co/Bm4i66FKiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 679,
+          "like_count": 9095,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 2198
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

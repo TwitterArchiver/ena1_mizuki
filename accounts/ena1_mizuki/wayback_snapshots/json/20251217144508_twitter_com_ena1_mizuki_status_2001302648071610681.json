@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2001270815011299386",
+    "created_at": "2025-12-17T14:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001302648071610681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983213298708574208",
+          "start": 0,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001302648071610681",
+    "in_reply_to_user_id": "1983213298708574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001287907273781560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosmorisa 谢谢你呀~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T14:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001302648071610681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983213298708574208",
+              "start": 0,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001302648071610681",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001287907273781560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosmorisa 谢谢你呀~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983213298708574208",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T13:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001287907273781560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001287907273781560",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001270815011299386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 恭喜🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 460,
+          "like_count": 5568,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1118
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "07｜BPD｜PostMo+PostⒶn｜Gender Nihilist🏴｜Big Five O⬆️ C⬇️ E⬇️ A⬆️ N⬆️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cosmorisa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cosmorisa",
+                "start": 0,
+                "url": "https://t.co/bMdrCBFSLn"
+              }
+            ]
+          }
+        },
+        "id": "1983213298708574208",
+        "location": "Cosmic Nomad",
+        "name": "Morisa🏳️‍🌈",
+        "pinned_tweet_id": "2000803988770369601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000612964471058434/iXD37NPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 277,
+          "like_count": 8422,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/bMdrCBFSLn",
+        "username": "cosmorisa",
+        "verified": true
+      }
+    ]
+  }
+}

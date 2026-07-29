@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2004206254508658793",
+    "created_at": "2025-12-25T16:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T17:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004226440607531044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983213298708574208",
+          "start": 0,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004226440607531044",
+    "in_reply_to_user_id": "1983213298708574208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004206254508658793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosmorisa 好萌ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23740,
+        "height": 1920,
+        "media_key": "13_2004206088296554496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004206088296554496/img/NQuW5xDr2CCcR3DW.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/320x568/dzLN1GdnrFnYN2_O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/480x852/xD9iY42paRIchV9s.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/720x1280/O75oZk5MUF57Uq9s.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004206088296554496/pl/WL7fb-KdwraV-6lA.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004206088296554496/vid/avc1/1080x1920/EE2FJGKIxCH1hk7m.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2004206254508658793",
+        "created_at": "2025-12-25T16:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T17:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004226440607531044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983213298708574208",
+              "start": 0,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004226440607531044",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004206254508658793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosmorisa 好萌ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004206088296554496"
+          ]
+        },
+        "author_id": "1983213298708574208",
+        "conversation_id": "2004206254508658793",
+        "created_at": "2025-12-25T15:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T16:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004206254508658793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7BivRp3sBu",
+              "end": 45,
+              "expanded_url": "https://x.com/cosmorisa/status/2004206254508658793/video/1",
+              "media_key": "13_2004206088296554496",
+              "start": 22,
+              "url": "https://t.co/7BivRp3sBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004206254508658793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "22:53 吃糖🍥\n23:00 剧烈变性🥵 https://t.co/7BivRp3sBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 516,
+          "like_count": 6610,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 1431
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "Morisa 森紗｜18yo｜Big Five O↑ C↓ E↓ A↑ N↑｜PostMo PostⒶn｜Gender Nihilist｜They/Them｜Optimizing Hormones",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cosmorisa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cosmorisa",
+                "start": 0,
+                "url": "https://t.co/bMdrCBFSLn"
+              }
+            ]
+          }
+        },
+        "id": "1983213298708574208",
+        "location": "Nomad",
+        "name": "Morisa☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000612964471058434/iXD37NPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 277,
+          "like_count": 10637,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/bMdrCBFSLn",
+        "username": "cosmorisa",
+        "verified": true
+      }
+    ]
+  }
+}

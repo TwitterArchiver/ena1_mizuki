@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1994064433652592871",
+    "created_at": "2025-11-27T15:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994064864554451422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994064864554451422",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994064433652592871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只曝光了两小时，所以暗云气的信噪比感人，下个月准备用一整晚的时间重新拍，这片天区值得深度曝光🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1390,
+        "media_key": "3_1994064430334926849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xXCM1a4AEKO0M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1994064433652592871",
+        "created_at": "2025-11-27T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994064864554451422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994064864554451422",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994064433652592871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只曝光了两小时，所以暗云气的信噪比感人，下个月准备用一整晚的时间重新拍，这片天区值得深度曝光🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994064430334926849"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1994064433652592871",
+        "created_at": "2025-11-27T15:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994064433652592871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CnEGA8Y2bP",
+              "end": 91,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1994064433652592871/photo/1",
+              "media_key": "3_1994064430334926849",
+              "start": 68,
+              "url": "https://t.co/CnEGA8Y2bP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994064433652592871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实马头星云和之前的猎户是同一个视场里面拍的，后期分开处理了因为猎户高光比需要HDR，这里放一张去星全图感受一下猎户座天区的丰饶美丽~ https://t.co/CnEGA8Y2bP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 349,
+          "like_count": 3973,
+          "listed_count": 3,
+          "media_count": 153,
+          "tweet_count": 675
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2054792297515245893",
+    "created_at": "2026-05-14T06:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054808906099290316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "SaigyoujiHane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054808906099290316",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054807632175911106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaigyoujiHane 我服了。。原来这个名称也是有来源的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054807632175911106].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054807632175911106",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054807632175911106"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2054792297515245893",
+        "created_at": "2026-05-14T06:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054808906099290316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "SaigyoujiHane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054808906099290316",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054807632175911106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaigyoujiHane 我服了。。原来这个名称也是有来源的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 1242,
+          "like_count": 17839,
+          "listed_count": 7,
+          "media_count": 659,
+          "tweet_count": 5078
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "活着",
+        "id": "943439286287851520",
+        "name": "🌸❀西行寺　隱葉✿💮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038168966288613376/BgyRwfSR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3300,
+          "following_count": 6214,
+          "like_count": 114793,
+          "listed_count": 8,
+          "media_count": 2429,
+          "tweet_count": 35594
+        },
+        "username": "SaigyoujiHane",
+        "verified": false
+      }
+    ]
+  }
+}

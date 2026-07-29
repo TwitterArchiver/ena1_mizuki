@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986073001998372864"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1986073005534146755",
+    "created_at": "2025-11-05T14:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986073005534146755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1948329171933171712",
+          "start": 7,
+          "username": "nanniangNJL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aNWmtJEgh9",
+          "end": 78,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1986073005534146755/photo/1",
+          "media_key": "3_1986073001998372864",
+          "start": 55,
+          "url": "https://t.co/aNWmtJEgh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986073005534146755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢最好的姐姐@nanniangNJL送的郊狼，我的电阻比较低开到10就被电得好痛，但是被控制的感觉真爽呀🤤 https://t.co/aNWmtJEgh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986073001998372864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_y32YbUAAUAuc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986073001998372864"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1986073005534146755",
+        "created_at": "2025-11-05T14:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986073005534146755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1948329171933171712",
+              "start": 7,
+              "username": "nanniangNJL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNWmtJEgh9",
+              "end": 78,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1986073005534146755/photo/1",
+              "media_key": "3_1986073001998372864",
+              "start": 55,
+              "url": "https://t.co/aNWmtJEgh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986073005534146755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢最好的姐姐@nanniangNJL送的郊狼，我的电阻比较低开到10就被电得好痛，但是被控制的感觉真爽呀🤤 https://t.co/aNWmtJEgh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 325,
+          "like_count": 3281,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 478
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T10:27:36.000Z",
+        "description": "95后CD/友跨/非MTF(年龄+身高原因早早放弃了)/泛性恋/不键政，看到任何键盘政内容会取关/无🚪也不会付任何🚪/Go学长/一定程度上的现充/⚠️想要认识很多的朋友(是隐藏的大佬哦)/可互Fo/纯爱战士(总有一天我要找到和我一样的人！！！！)",
+        "id": "1948329171933171712",
+        "name": "Co❌Fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948329570538831872/Axm5eaaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 142,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "nanniangNJL",
+        "verified": false
+      }
+    ]
+  }
+}

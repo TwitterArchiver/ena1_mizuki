@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026708399052959747"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2026708402618118371",
+    "created_at": "2026-02-25T17:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026708402618118371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oI0yKKQEo7",
+          "end": 79,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2026708402618118371/photo/1",
+          "media_key": "3_2026708399052959747",
+          "start": 56,
+          "url": "https://t.co/oI0yKKQEo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026708402618118371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于从爸妈家回来一个人单住，又可以穿可爱小裙子了🥰\n而且感觉穿裙子也很方便我涂凝胶，好看又实用，除了有点冷ww https://t.co/oI0yKKQEo7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026708399052959747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBQjQzaMAMh2yC.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026708399052959747"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2026708402618118371",
+        "created_at": "2026-02-25T17:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026708402618118371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oI0yKKQEo7",
+              "end": 79,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2026708402618118371/photo/1",
+              "media_key": "3_2026708399052959747",
+              "start": 56,
+              "url": "https://t.co/oI0yKKQEo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026708402618118371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于从爸妈家回来一个人单住，又可以穿可爱小裙子了🥰\n而且感觉穿裙子也很方便我涂凝胶，好看又实用，除了有点冷ww https://t.co/oI0yKKQEo7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 905,
+          "like_count": 13506,
+          "listed_count": 6,
+          "media_count": 514,
+          "tweet_count": 3689
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

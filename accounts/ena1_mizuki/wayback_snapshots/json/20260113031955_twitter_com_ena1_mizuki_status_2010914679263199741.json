@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2010277677421449629",
+    "created_at": "2026-01-13T03:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T04:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010914679263199741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1254689990753128448",
+          "start": 0,
+          "username": "JinYuanWu000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010914679263199741",
+    "in_reply_to_user_id": "1254689990753128448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010910836345237823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinYuanWu000 确实哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2010277677421449629",
+        "created_at": "2026-01-13T03:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010914679263199741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1254689990753128448",
+              "start": 0,
+              "username": "JinYuanWu000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010914679263199741",
+        "in_reply_to_user_id": "1254689990753128448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010910836345237823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinYuanWu000 确实哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254689990753128448",
+        "conversation_id": "2010277677421449629",
+        "created_at": "2026-01-13T03:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T04:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010910836345237823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010910836345237823",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010277677421449629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 真不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 662,
+          "like_count": 8788,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 2067
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-27T08:33:08.000Z",
+        "description": "https://t.co/QMPhQXzs8G提问箱）群号 750982087",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinyuanwu000",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jinyuanwu000",
+                "start": 0,
+                "url": "https://t.co/QMPhQXzs8G"
+              }
+            ]
+          }
+        },
+        "id": "1254689990753128448",
+        "name": "JingYuanWu",
+        "pinned_tweet_id": "2010749333885382801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010903591809089536/4oK0SVp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 325,
+          "like_count": 16534,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1287
+        },
+        "username": "JinYuanWu000",
+        "verified": false
+      }
+    ]
+  }
+}

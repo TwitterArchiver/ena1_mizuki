@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953320212985708544"
+      ],
+      "media_source_tweet_id": [
+        "1953380605707657350"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953425348953362749",
+    "created_at": "2025-08-07T11:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T12:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953425348953362749"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "花岡まこと",
+          "probability": 0.8851,
+          "start": 25,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 21,
+          "tag": "花岡まこと生誕祭"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "721586308666101760",
+          "start": 3,
+          "username": "pomujoynet1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgmfNjKvPM",
+          "end": 54,
+          "expanded_url": "https://x.com/pomujoynet1/status/1953380605707657350/photo/1",
+          "media_key": "3_1953320212985708544",
+          "start": 31,
+          "url": "https://t.co/AgmfNjKvPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953425348953362749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1513
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953380605707657350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pomujoynet1: 🎉🎉🎉\n＃花岡まこと生誕祭 https://t.co/AgmfNjKvPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1953320212985708544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxuWYnOagAAm_cR.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953320212985708544"
+          ],
+          "media_source_tweet_id": [
+            "1953380605707657350"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953425348953362749",
+        "created_at": "2025-08-07T11:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953425348953362749"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "花岡まこと",
+              "probability": 0.8851,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "花岡まこと生誕祭"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "721586308666101760",
+              "start": 3,
+              "username": "pomujoynet1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgmfNjKvPM",
+              "end": 54,
+              "expanded_url": "https://x.com/pomujoynet1/status/1953380605707657350/photo/1",
+              "media_key": "3_1953320212985708544",
+              "start": 31,
+              "url": "https://t.co/AgmfNjKvPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953425348953362749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1513
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953380605707657350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pomujoynet1: 🎉🎉🎉\n＃花岡まこと生誕祭 https://t.co/AgmfNjKvPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953320212985708544"
+          ]
+        },
+        "author_id": "721586308666101760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953380605707657350",
+        "created_at": "2025-08-07T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953380605707657350"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "花岡まこと",
+              "probability": 0.8375,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "花岡まこと生誕祭"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgmfNjKvPM",
+              "end": 37,
+              "expanded_url": "https://x.com/pomujoynet1/status/1953380605707657350/photo/1",
+              "media_key": "3_1953320212985708544",
+              "start": 14,
+              "url": "https://t.co/AgmfNjKvPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953380605707657350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 436,
+          "impression_count": 82961,
+          "like_count": 8838,
+          "quote_count": 69,
+          "reply_count": 32,
+          "retweet_count": 1513
+        },
+        "reply_settings": "everyone",
+        "text": "🎉🎉🎉\n＃花岡まこと生誕祭 https://t.co/AgmfNjKvPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 70,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 83
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-17T06:29:17.000Z",
+        "description": "ジョイネットのイラストレーター/webtoon漫画「先輩はおとこのこ」全10巻「ノアは方舟」/スタンプ「ジャージカップル」「くるみちゃん。」\nお仕事依頼→https://t.co/p65isLfZg6…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "enjoynet.co.jp/contact-us/?po",
+                "end": 100,
+                "expanded_url": "http://enjoynet.co.jp/contact-us/?po",
+                "start": 77,
+                "url": "https://t.co/p65isLfZg6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pom-official.jp",
+                "end": 23,
+                "expanded_url": "https://pom-official.jp",
+                "start": 0,
+                "url": "https://t.co/PXKpWek6jx"
+              }
+            ]
+          }
+        },
+        "id": "721586308666101760",
+        "name": "ぽむ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670601645586288642/fjlL29cx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290062,
+          "following_count": 845,
+          "like_count": 28084,
+          "listed_count": 2005,
+          "media_count": 1293,
+          "tweet_count": 5221
+        },
+        "url": "https://t.co/PXKpWek6jx",
+        "username": "pomujoynet1",
+        "verified": true
+      }
+    ]
+  }
+}

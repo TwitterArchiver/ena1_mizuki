@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1995331286924419456",
+    "created_at": "2025-12-01T05:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995371283765461297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644567522031853570",
+          "start": 0,
+          "username": "Kirara_Miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995371283765461297",
+    "in_reply_to_user_id": "1644567522031853570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995331286924419456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Miku 还真是，明明是下午却让我睡个好觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1995331286924419456",
+        "created_at": "2025-12-01T05:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995371283765461297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644567522031853570",
+              "start": 0,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995371283765461297",
+        "in_reply_to_user_id": "1644567522031853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995331286924419456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Miku 还真是，明明是下午却让我睡个好觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644567522031853570",
+        "conversation_id": "1995331286924419456",
+        "created_at": "2025-12-01T03:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995331286924419456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995331286924419456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么和gemini聊天最后老催我去睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 359,
+          "like_count": 4156,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 719
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T05:07:14.000Z",
+        "description": "起飞吧，和大家一起。| osu 5 digit player | 男，音游，galgame | 前端小趴菜 | open to everything.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "http://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/n91ct8a4jJ"
+              }
+            ]
+          }
+        },
+        "id": "1644567522031853570",
+        "location": "雲母の星",
+        "name": "雲母ミク",
+        "pinned_tweet_id": "1906720128693113327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784620826220007424/r2J4Sxz4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 1687,
+          "like_count": 110353,
+          "listed_count": 7,
+          "media_count": 1455,
+          "tweet_count": 15765
+        },
+        "url": "https://t.co/n91ct8a4jJ",
+        "username": "Kirara_Miku",
+        "verified": false
+      }
+    ]
+  }
+}

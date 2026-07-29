@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1998277255861305817",
+    "created_at": "2025-12-09T11:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998353834004054146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435172366330388481",
+          "start": 0,
+          "username": "OTUTOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998353834004054146",
+    "in_reply_to_user_id": "1435172366330388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998353248705475058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTUTOX hh我是闲杂人专门挑人少的时候去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1998277255861305817",
+        "created_at": "2025-12-09T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998353834004054146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435172366330388481",
+              "start": 0,
+              "username": "OTUTOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998353834004054146",
+        "in_reply_to_user_id": "1435172366330388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998353248705475058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTUTOX hh我是闲杂人专门挑人少的时候去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435172366330388481",
+        "conversation_id": "1998277255861305817",
+        "created_at": "2025-12-09T11:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998353248705475058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998353248705475058",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998352660592746502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 只有翘班才能获得的时间段\n（不过今天没选择去阪急"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 412,
+          "like_count": 4725,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 898
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-07T09:25:37.000Z",
+        "description": "冒个泡，嘻嘻嘻。\n\n😞可能永远也等不到我的爱人了。\n希望有人能帮我照顾好猫猫，就是阿比小猫啦。\n爱你😘",
+        "id": "1435172366330388481",
+        "location": "IP属地：死心塌地",
+        "name": "夏日#恰噗恰噗😗😗😗",
+        "pinned_tweet_id": "1991879834482737196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712233486504108032/IekOAAFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 566,
+          "like_count": 11617,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1427
+        },
+        "username": "OTUTOX",
+        "verified": true
+      }
+    ]
+  }
+}

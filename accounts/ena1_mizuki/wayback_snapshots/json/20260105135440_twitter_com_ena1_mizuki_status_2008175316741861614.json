@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2008084335912706339",
+    "created_at": "2026-01-05T13:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T14:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008175316741861614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885154179922227200",
+          "start": 0,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008175316741861614",
+    "in_reply_to_user_id": "1885154179922227200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008084335912706339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_ 我也是诶，感觉线上聊天明显语气变软了，结尾经常加嘛 哇 诶之类的语气词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2008084335912706339",
+        "created_at": "2026-01-05T13:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008175316741861614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008175316741861614",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008084335912706339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 我也是诶，感觉线上聊天明显语气变软了，结尾经常加嘛 哇 诶之类的语气词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2008084335912706339",
+        "created_at": "2026-01-05T07:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008084335912706339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008084335912706339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1661,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以前咱语音或者和同学聊天，还能非常自然的甚至可以说是习惯性的说脏话啥的比如什么“你个**我***”\n现在这些习惯全都没了，和他们说话还得刻意去加，而且现在也不知道是不是这个原因，咱有的时候习惯结尾加个嘛，就比如“怎么了嘛”这种\n以前从来没这些习惯的都怪你们！推特真坏！xyn真坏！带坏咱！😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 600,
+          "like_count": 7866,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 1817
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 生产日期2010.3.16 | 无证含糖 | \nb站：屑冷雪 / 屑冷雪_\n提问箱 https://t.co/UJzajXzyMR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 76,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 53,
+                "url": "https://t.co/UJzajXzyMR"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993960630769094656/zuD-tgtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 1403,
+          "like_count": 37933,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 3630
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

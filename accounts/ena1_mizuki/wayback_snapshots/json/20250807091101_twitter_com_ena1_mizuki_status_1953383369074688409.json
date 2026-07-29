@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1953383369074688409",
+    "created_at": "2025-08-07T09:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953383369074688409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806236878599041024",
+          "start": 3,
+          "username": "ljny2140072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953383369074688409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 82
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952956339942265275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ljny2140072: 你已经很棒了 一般人过成你这样早就跳楼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1953383369074688409",
+        "created_at": "2025-08-07T09:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953383369074688409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806236878599041024",
+              "start": 3,
+              "username": "ljny2140072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953383369074688409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952956339942265275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ljny2140072: 你已经很棒了 一般人过成你这样早就跳楼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806236878599041024",
+        "conversation_id": "1952956339942265275",
+        "created_at": "2025-08-06T04:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T05:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952956339942265275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952956339942265275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 39080,
+          "like_count": 610,
+          "quote_count": 14,
+          "reply_count": 49,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "你已经很棒了 一般人过成你这样早就跳楼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 69,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 83
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T08:03:45.000Z",
+        "description": "ZUEL'29🧑‍🎓｜BBA（Hons）in Accounting & Finance｜Secondary in AI &Data Analytics｜Cambridge sp'25| IE Exchange'25🌎｜FRM level 1",
+        "id": "1806236878599041024",
+        "location": "中国",
+        "name": "oioi",
+        "pinned_tweet_id": "1893743924147019875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951725581328154624/wIxBpwAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 61,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 76
+        },
+        "username": "ljny2140072",
+        "verified": false
+      }
+    ]
+  }
+}

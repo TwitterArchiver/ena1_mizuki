@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2076717680489533686",
+    "created_at": "2026-07-14T17:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077081497895616948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1620398317917159425",
+          "start": 0,
+          "username": "mikotanaka7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077081497895616948",
+    "in_reply_to_user_id": "1620398317917159425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077057114611318892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@mikotanaka7 我觉得凝胶是好一点，吸收比较好而且透皮吸收不伤肝，口服的优势是比较方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2076717680489533686",
+        "created_at": "2026-07-14T17:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077081497895616948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1620398317917159425",
+              "start": 0,
+              "username": "mikotanaka7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077081497895616948",
+        "in_reply_to_user_id": "1620398317917159425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077057114611318892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@mikotanaka7 我觉得凝胶是好一点，吸收比较好而且透皮吸收不伤肝，口服的优势是比较方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620398317917159425",
+        "conversation_id": "2076717680489533686",
+        "created_at": "2026-07-14T15:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077057114611318892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077057114611318892",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077056623638696205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki 原来如此，这个比较糖的话哪个效果好一点？我认识的人最近也开始变跨了我想了解一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 1376,
+          "like_count": 19368,
+          "listed_count": 8,
+          "media_count": 761,
+          "tweet_count": 5630
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T12:27:36.000Z",
+        "description": "小號@JieshenB68601\n 有幸遇之，恰好欢喜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "JieshenB68601"
+              }
+            ]
+          }
+        },
+        "id": "1620398317917159425",
+        "location": "幻想乡",
+        "name": "柚",
+        "pinned_tweet_id": "2069022333088719174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068349209561206784/wC8dXAdq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 767,
+          "like_count": 21400,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 3937
+        },
+        "url": "",
+        "username": "mikotanaka7",
+        "verified": false
+      }
+    ]
+  }
+}

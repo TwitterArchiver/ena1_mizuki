@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962093850027229185"
+      ],
+      "media_source_tweet_id": [
+        "1962093858814353768"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054665645",
+          "name": "やがて君になる"
+        }
+      }
+    ],
+    "conversation_id": "2051940520583483480",
+    "created_at": "2026-05-06T08:21:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:21:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051940520583483480"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "やがて君になる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1519967050084810752",
+          "start": 3,
+          "username": "yng_hoti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hnHa8HzX7S",
+          "end": 54,
+          "expanded_url": "https://x.com/yng_hoti/status/1962093858814353768/photo/1",
+          "media_key": "3_1962093850027229185",
+          "start": 31,
+          "url": "https://t.co/hnHa8HzX7S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051940520583483480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1742
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962093858814353768",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng_hoti: ツンとデレ\n\n #やがて君になる https://t.co/hnHa8HzX7S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_1962093850027229185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrB9gLaAAEbyjl.jpg",
+        "width": 1493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962093850027229185"
+          ],
+          "media_source_tweet_id": [
+            "1962093858814353768"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054665645",
+              "name": "やがて君になる"
+            }
+          }
+        ],
+        "conversation_id": "2051940520583483480",
+        "created_at": "2026-05-06T08:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051940520583483480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "やがて君になる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1519967050084810752",
+              "start": 3,
+              "username": "yng_hoti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnHa8HzX7S",
+              "end": 54,
+              "expanded_url": "https://x.com/yng_hoti/status/1962093858814353768/photo/1",
+              "media_key": "3_1962093850027229185",
+              "start": 31,
+              "url": "https://t.co/hnHa8HzX7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051940520583483480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1742
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962093858814353768",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yng_hoti: ツンとデレ\n\n #やがて君になる https://t.co/hnHa8HzX7S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962093850027229185"
+          ]
+        },
+        "author_id": "1519967050084810752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054665645",
+              "name": "やがて君になる"
+            }
+          }
+        ],
+        "conversation_id": "1962093858814353768",
+        "created_at": "2025-08-31T10:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T11:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962093858814353768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 8,
+              "tag": "やがて君になる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnHa8HzX7S",
+              "end": 40,
+              "expanded_url": "https://x.com/yng_hoti/status/1962093858814353768/photo/1",
+              "media_key": "3_1962093850027229185",
+              "start": 17,
+              "url": "https://t.co/hnHa8HzX7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962093858814353768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 823,
+          "impression_count": 183739,
+          "like_count": 10018,
+          "quote_count": 25,
+          "reply_count": 13,
+          "retweet_count": 1742
+        },
+        "reply_settings": "everyone",
+        "text": "ツンとデレ\n\n #やがて君になる https://t.co/hnHa8HzX7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1839,
+          "following_count": 1194,
+          "like_count": 17612,
+          "listed_count": 6,
+          "media_count": 642,
+          "tweet_count": 4897
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T09:09:23.000Z",
+        "description": "絵を描きます💗￤⚠️イラストの無断使用(AI学習含)や、自作発言等はお控えください。￤📮skeb→https://t.co/ybf5Cc1dtz ￤📖FANBOX→ https://t.co/hRrjrbHJPf ￤\n💌Mail→yunagihoti@gmail.com￤sub→@yng_hotti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "yng_hotti"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yng_hoti",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@yng_hoti",
+                "start": 49,
+                "url": "https://t.co/ybf5Cc1dtz"
+              },
+              {
+                "display_url": "ynghoti.fanbox.cc",
+                "end": 106,
+                "expanded_url": "https://ynghoti.fanbox.cc/",
+                "start": 83,
+                "url": "https://t.co/hRrjrbHJPf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ynghoti",
+                "end": 23,
+                "expanded_url": "https://lit.link/ynghoti",
+                "start": 0,
+                "url": "https://t.co/5q5d6R12jc"
+              }
+            ]
+          }
+        },
+        "id": "1519967050084810752",
+        "location": "ご依頼の詳細やその他SNSなど→",
+        "name": "ゆなぎなち🌟",
+        "pinned_tweet_id": "1908519868913377557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906956819400142848/i5pGDD2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17973,
+          "following_count": 485,
+          "like_count": 74731,
+          "listed_count": 120,
+          "media_count": 317,
+          "tweet_count": 14226
+        },
+        "url": "https://t.co/5q5d6R12jc",
+        "username": "yng_hoti",
+        "verified": false
+      }
+    ]
+  }
+}

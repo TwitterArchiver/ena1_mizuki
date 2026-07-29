@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2031269438272712963",
+    "created_at": "2026-03-10T08:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031289007683018854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        },
+        {
+          "end": 22,
+          "id": "1990384119726129152",
+          "start": 11,
+          "username": "SuzukiHnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031289007683018854",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031273547797246154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley @SuzukiHnnn ww其实早已购买同款😎😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2031269438272712963",
+        "created_at": "2026-03-10T08:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031289007683018854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            },
+            {
+              "end": 22,
+              "id": "1990384119726129152",
+              "start": 11,
+              "username": "SuzukiHnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031289007683018854",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031273547797246154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley @SuzukiHnnn ww其实早已购买同款😎😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902735424839413760",
+        "conversation_id": "2031269438272712963",
+        "created_at": "2026-03-10T07:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031273547797246154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990384119726129152",
+              "start": 0,
+              "username": "SuzukiHnnn"
+            },
+            {
+              "end": 24,
+              "id": "1932434375955857409",
+              "start": 12,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031273547797246154",
+        "in_reply_to_user_id": "1990384119726129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031269438272712963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiHnnn @ena1_mizuki 貌似她在星露谷的水月家传送门也是这样的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1002,
+          "like_count": 14545,
+          "listed_count": 6,
+          "media_count": 535,
+          "tweet_count": 3975
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/61/你要请我去喝茶吗🍵/啊我不是跨",
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "1978116985998213537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 508,
+          "like_count": 22774,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2197
+        },
+        "username": "litgraley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T11:38:59.000Z",
+        "description": "🇭🇺🇩🇪🇨🇳🇭🇰｜161/65.3｜華南理工大學｜粵內勢力｜陰暗病嬌｜飛蛾撲火｜容貌焦慮｜性別焦慮｜奶油草莓｜提拉米蘇｜三彩團子｜死肌肉蝻｜滿天飛｜已斷糖｜已炸櫃｜家暴黨 ｜Möchtest du mit mir Maimai spielen｜家姐@HappyHejsDay｜妹妹@Liunian_a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "Liunian_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakostrawber…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanakostrawberry",
+                "start": 0,
+                "url": "https://t.co/iCnU7MKOvz"
+              }
+            ]
+          }
+        },
+        "id": "1990384119726129152",
+        "location": "Budapest，Hungary",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010333345733914625/8nj2jbd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 143,
+          "like_count": 3626,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/iCnU7MKOvz",
+        "username": "SuzukiHnnn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2020407670638014833",
+    "created_at": "2026-02-09T08:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020779396269998323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1131061578864795649",
+          "start": 0,
+          "username": "Braised_J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020779396269998323",
+    "in_reply_to_user_id": "1131061578864795649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020770583051633144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Braised_J 以后要是有时间了，想和朋友组车队去喀什，然后走新藏线进藏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2020407670638014833",
+        "created_at": "2026-02-09T08:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020779396269998323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1131061578864795649",
+              "start": 0,
+              "username": "Braised_J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020779396269998323",
+        "in_reply_to_user_id": "1131061578864795649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020770583051633144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Braised_J 以后要是有时间了，想和朋友组车队去喀什，然后走新藏线进藏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1131061578864795649",
+        "conversation_id": "2020407670638014833",
+        "created_at": "2026-02-09T08:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020770583051633144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020770583051633144",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020407670638014833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 推荐新疆，真的很漂亮。伊宁的景色太美了，南疆的喀什很有异域风情特色。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 834,
+          "like_count": 12086,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 3264
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-22T04:57:49.000Z",
+        "description": "我的一些碎碎念。",
+        "id": "1131061578864795649",
+        "location": "Chuo-ku, Tokyo",
+        "name": "Wellington C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979109280239288320/egVLj58M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 161,
+          "like_count": 3075,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 134
+        },
+        "username": "Braised_J",
+        "verified": false
+      }
+    ]
+  }
+}

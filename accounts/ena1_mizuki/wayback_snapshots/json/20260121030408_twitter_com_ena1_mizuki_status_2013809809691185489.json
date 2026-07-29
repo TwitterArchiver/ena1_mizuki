@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013559692287410440",
+    "created_at": "2026-01-21T03:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T04:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013809809691185489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1261338115165188097",
+          "start": 0,
+          "username": "Bredandrice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013809809691185489",
+    "in_reply_to_user_id": "1261338115165188097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013800164620931417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bredandrice 甚至只吃下了一半，昨天食欲不振（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013559692287410440",
+        "created_at": "2026-01-21T03:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013809809691185489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1261338115165188097",
+              "start": 0,
+              "username": "Bredandrice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013809809691185489",
+        "in_reply_to_user_id": "1261338115165188097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013800164620931417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bredandrice 甚至只吃下了一半，昨天食欲不振（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261338115165188097",
+        "conversation_id": "2013559692287410440",
+        "created_at": "2026-01-21T02:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013800164620931417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013800164620931417",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013559692287410440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 只吃这么点吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 720,
+          "like_count": 9589,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 2405
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T16:52:43.000Z",
+        "description": "祝2025年男孩们每天都充满爱慕与性福！继续勇敢强悍追爱，创造属于自己的彩色人生。现在关注我的频道！未成年人勿进✋🔞",
+        "id": "1261338115165188097",
+        "name": "空酒瓶：镭射 🏳️‍🌈",
+        "pinned_tweet_id": "2000520319074013201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874370146569248768/1eefU_hW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 1684,
+          "like_count": 82313,
+          "listed_count": 17,
+          "media_count": 1797,
+          "tweet_count": 58740
+        },
+        "username": "Bredandrice",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

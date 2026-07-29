@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2065454948373213441",
+    "created_at": "2026-06-13T15:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065825101879398479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1528774205461782530",
+          "start": 0,
+          "username": "BrianHou12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065825101879398479",
+    "in_reply_to_user_id": "1528774205461782530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065789671184138410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrianHou12 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2065454948373213441",
+        "created_at": "2026-06-13T15:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065825101879398479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1528774205461782530",
+              "start": 0,
+              "username": "BrianHou12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065825101879398479",
+        "in_reply_to_user_id": "1528774205461782530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065789671184138410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrianHou12 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528774205461782530",
+        "conversation_id": "2065454948373213441",
+        "created_at": "2026-06-13T13:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065789671184138410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065789671184138410",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065454948373213441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 是不是加长曝光时间可以拍出来这种🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1281,
+          "like_count": 18669,
+          "listed_count": 8,
+          "media_count": 713,
+          "tweet_count": 5380
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T16:26:03.000Z",
+        "description": "23岁的BYD Qin L 车主。获得车辆工程学士学位。农业机械化工程硕士研究生在读。未来大概还会去读个农业机械化的博士。汽车/摩托车/农机 爱好者。平时听Bang Dream 的几个乐队的歌曲。",
+        "id": "1528774205461782530",
+        "location": "China Mainland",
+        "name": "Brian Hou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016086734975729664/EIC0iYRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 45,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 224
+        },
+        "username": "BrianHou12",
+        "verified": false
+      }
+    ]
+  }
+}

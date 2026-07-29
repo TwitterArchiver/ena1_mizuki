@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2080524357663948878",
+    "created_at": "2026-07-24T11:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080611460414325065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2070060121884102656",
+          "start": 0,
+          "username": "okashijiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080611460414325065",
+    "in_reply_to_user_id": "2070060121884102656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080610763388117154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@okashijiang 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2080524357663948878",
+        "created_at": "2026-07-24T11:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080611460414325065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2070060121884102656",
+              "start": 0,
+              "username": "okashijiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080611460414325065",
+        "in_reply_to_user_id": "2070060121884102656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080610763388117154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@okashijiang 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070060121884102656",
+        "conversation_id": "2080524357663948878",
+        "created_at": "2026-07-24T11:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080610763388117154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080610763388117154",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080524357663948878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki 哦吼吼对的对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 1415,
+          "like_count": 19607,
+          "listed_count": 8,
+          "media_count": 782,
+          "tweet_count": 5740
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-25T08:26:20.000Z",
+        "description": "07/175/65/INFP | 玉玉症死宅🥺极度缺爱小💊娘 | 无证含糖🍥 | 喜欢可爱的男/女孩子 也想变成可爱的女/男孩子 | m病娇属性 渴望被在意",
+        "id": "2070060121884102656",
+        "location": "距离你102m",
+        "name": "お咔茜ちゃん🏳️‍⚧️",
+        "pinned_tweet_id": "2070141489670389947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074733574587346944/R93tsaJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 207,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "okashijiang",
+        "verified": false
+      }
+    ]
+  }
+}

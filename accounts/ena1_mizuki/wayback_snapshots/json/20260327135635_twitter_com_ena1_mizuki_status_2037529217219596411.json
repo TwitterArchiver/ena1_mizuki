@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2037529217219596411",
+    "created_at": "2026-03-27T13:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037529217219596411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/legacy2outback…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/legacy2outback/status/2037495603383648299",
+          "start": 6,
+          "url": "https://t.co/kDTVXXP83U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037529217219596411",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037495603383648299",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神曲😭😭😭 https://t.co/kDTVXXP83U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037495599185133568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEajc8zaAAA6eRJ.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037495601034846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEajdDsaYAApKSv.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2037529217219596411",
+        "created_at": "2026-03-27T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037529217219596411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/legacy2outback…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/legacy2outback/status/2037495603383648299",
+              "start": 6,
+              "url": "https://t.co/kDTVXXP83U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037529217219596411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037495603383648299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神曲😭😭😭 https://t.co/kDTVXXP83U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037495599185133568",
+            "3_2037495601034846208"
+          ]
+        },
+        "author_id": "595234695",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037495603383648299",
+        "created_at": "2026-03-27T11:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037495603383648299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "ロクデナシ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ny7SOr6vw9",
+              "end": 97,
+              "expanded_url": "https://x.com/legacy2outback/status/2037495603383648299/photo/1",
+              "media_key": "3_2037495599185133568",
+              "start": 74,
+              "url": "https://t.co/Ny7SOr6vw9"
+            },
+            {
+              "display_url": "pic.x.com/Ny7SOr6vw9",
+              "end": 97,
+              "expanded_url": "https://x.com/legacy2outback/status/2037495603383648299/photo/1",
+              "media_key": "3_2037495601034846208",
+              "start": 74,
+              "url": "https://t.co/Ny7SOr6vw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037495603383648299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 8694,
+          "like_count": 400,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "🌏️「スピカ」✴️🔯「アルビレオ」\n沢山のご視聴ありがとうございます\nもう一年以上前なんですね\n色褪せる事なく輝いてて眩しいのです\n\n#ロクデナシ https://t.co/Ny7SOr6vw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1066,
+          "like_count": 15772,
+          "listed_count": 6,
+          "media_count": 583,
+          "tweet_count": 4369
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-31T03:59:38.000Z",
+        "description": "趣味でイラスト描いている会社員\nイラスト集 https://t.co/Ob47ezPXnf\nグッズ販売Y_Ymarket https://t.co/0XupwhDfm9\nご依頼等はこちらまで \nyskygc@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 45,
+                "expanded_url": "http://pixiv.net/member.php?id=9678597",
+                "start": 22,
+                "url": "https://t.co/Ob47ezPXnf"
+              },
+              {
+                "display_url": "legacy2outback.booth.pm",
+                "end": 84,
+                "expanded_url": "http://legacy2outback.booth.pm",
+                "start": 61,
+                "url": "https://t.co/0XupwhDfm9"
+              }
+            ]
+          }
+        },
+        "id": "595234695",
+        "location": "山形 山形市",
+        "name": "Y_Y",
+        "pinned_tweet_id": "2026254302206205971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345204750233399296/10KXSdpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166629,
+          "following_count": 648,
+          "like_count": 4115,
+          "listed_count": 1632,
+          "media_count": 1465,
+          "tweet_count": 15560
+        },
+        "username": "legacy2outback",
+        "verified": false
+      }
+    ]
+  }
+}

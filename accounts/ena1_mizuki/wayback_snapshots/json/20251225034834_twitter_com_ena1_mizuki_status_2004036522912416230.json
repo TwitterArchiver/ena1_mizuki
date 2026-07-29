@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1991047799031673123",
+    "created_at": "2025-12-25T03:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T04:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004036522912416230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724630965551865856",
+          "start": 0,
+          "username": "mizu_bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004036522912416230",
+    "in_reply_to_user_id": "1724630965551865856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991047799031673123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizu_bai 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_1991047790387212291",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GfapTbMAMM5o5.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1991047799031673123",
+        "created_at": "2025-12-25T03:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004036522912416230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724630965551865856",
+              "start": 0,
+              "username": "mizu_bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004036522912416230",
+        "in_reply_to_user_id": "1724630965551865856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991047799031673123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizu_bai 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991047790387212291"
+          ]
+        },
+        "author_id": "1724630965551865856",
+        "conversation_id": "1991047799031673123",
+        "created_at": "2025-11-19T07:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991047799031673123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5qAbV9lzP",
+              "end": 32,
+              "expanded_url": "https://x.com/mizu_bai/status/1991047799031673123/photo/1",
+              "media_key": "3_1991047790387212291",
+              "start": 9,
+              "url": "https://t.co/l5qAbV9lzP"
+            },
+            {
+              "display_url": "x.com/mizu_bai/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/mizu_bai/status/1991021913448337777",
+              "start": 33,
+              "url": "https://t.co/OOhPm7oEGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991047799031673123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3496,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991021913448337777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又不是没睡过笼子 https://t.co/l5qAbV9lzP https://t.co/OOhPm7oEGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 514,
+          "like_count": 6528,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 1396
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T03:30:55.000Z",
+        "description": "Theoretical Chemistry Ph. D. Student/AI for Science",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mizu-bai",
+                "end": 23,
+                "expanded_url": "https://github.com/mizu-bai",
+                "start": 0,
+                "url": "https://t.co/N7irDlk8Gg"
+              }
+            ]
+          }
+        },
+        "id": "1724630965551865856",
+        "name": "mizu-bai",
+        "pinned_tweet_id": "1777215880126242862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998321171620835328/lMycCt8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 727,
+          "like_count": 8615,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 3795
+        },
+        "url": "https://t.co/N7irDlk8Gg",
+        "username": "mizu_bai",
+        "verified": false
+      }
+    ]
+  }
+}

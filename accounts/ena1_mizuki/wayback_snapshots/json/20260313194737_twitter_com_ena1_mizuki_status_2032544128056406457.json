@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2032401220435140930",
+    "created_at": "2026-03-13T19:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T20:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032544128056406457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960697619497287680",
+          "start": 0,
+          "username": "T20250827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032544128056406457",
+    "in_reply_to_user_id": "1960697619497287680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032507141874180340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T20250827 可能和车差不多"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032507141874180340].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032507141874180340",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032507141874180340"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2032401220435140930",
+        "created_at": "2026-03-13T19:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032544128056406457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960697619497287680",
+              "start": 0,
+              "username": "T20250827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032544128056406457",
+        "in_reply_to_user_id": "1960697619497287680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032507141874180340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T20250827 可能和车差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 1038,
+          "like_count": 14886,
+          "listed_count": 6,
+          "media_count": 546,
+          "tweet_count": 4080
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T13:35:32.000Z",
+        "description": "是T",
+        "id": "1960697619497287680",
+        "name": "T",
+        "pinned_tweet_id": "2006752016014651464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960699058894348289/8u4mNckt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 178,
+          "like_count": 736,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 5845
+        },
+        "username": "T20250827",
+        "verified": false
+      }
+    ]
+  }
+}

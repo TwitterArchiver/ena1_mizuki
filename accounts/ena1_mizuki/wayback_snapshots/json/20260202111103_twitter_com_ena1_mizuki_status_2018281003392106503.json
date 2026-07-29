@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2018231312491114940",
+    "created_at": "2026-02-02T11:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018281003392106503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1069814501904502784",
+          "start": 0,
+          "username": "Pulipuli_z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018281003392106503",
+    "in_reply_to_user_id": "1069814501904502784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018264577059012901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pulipuli_z 对的，我记得那段时间也总是思考死亡后会怎么样之类的，然后特别害怕，现在已经完全看淡了，甚至有点期待~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-02T11:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018281003392106503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1069814501904502784",
+              "start": 0,
+              "username": "Pulipuli_z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018281003392106503",
+        "in_reply_to_user_id": "1069814501904502784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018264577059012901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pulipuli_z 对的，我记得那段时间也总是思考死亡后会怎么样之类的，然后特别害怕，现在已经完全看淡了，甚至有点期待~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069814501904502784",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-02T10:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018264577059012901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018264577059012901",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018231312491114940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我差不多也是五六年级的时候突然陷入了存在主义危机…生物一生就为了延续基因，目的到底是什么，那个时候觉得所有东西都得有一个终极目的或者意义之类的\n以前的我：唉，一切都没有意义，我们只是存在于一瞬的低熵聚合体\n现在的我：耶！一切都没有意义！我们只是存在于一瞬的低熵聚合体！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 781,
+          "like_count": 11154,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 2979
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-04T04:43:48.000Z",
+        "description": "INFP 一般來說在杭州 MtF 残忍变性女巫 经常转一些小动物视频 爱人：@indigo_iamlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "indigo_iamlove"
+              }
+            ]
+          }
+        },
+        "id": "1069814501904502784",
+        "location": "伯伦希尔",
+        "name": "阿粥放弃上午起床",
+        "pinned_tweet_id": "1980587655248347271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977421774976655360/-EHgLN1h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7584,
+          "following_count": 151,
+          "like_count": 13358,
+          "listed_count": 32,
+          "media_count": 2777,
+          "tweet_count": 11913
+        },
+        "username": "Pulipuli_z",
+        "verified": false
+      }
+    ]
+  }
+}

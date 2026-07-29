@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061990190223134720"
+      ],
+      "media_source_tweet_id": [
+        "2061990192110514439"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2062037208027349419",
+    "created_at": "2026-06-03T05:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062037208027349419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893409439614676992",
+          "start": 3,
+          "username": "pinky1171709"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/stAGAwhcdB",
+          "end": 68,
+          "expanded_url": "https://x.com/pinky1171709/status/2061990192110514439/photo/1",
+          "media_key": "3_2061990190223134720",
+          "start": 45,
+          "url": "https://t.co/stAGAwhcdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062037208027349419",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061990192110514439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinky1171709: Happy pride month guyss :3 https://t.co/stAGAwhcdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2061990190223134720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2pJzKXEAAI7Qb.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061990190223134720"
+          ],
+          "media_source_tweet_id": [
+            "2061990192110514439"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2062037208027349419",
+        "created_at": "2026-06-03T05:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062037208027349419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893409439614676992",
+              "start": 3,
+              "username": "pinky1171709"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/stAGAwhcdB",
+              "end": 68,
+              "expanded_url": "https://x.com/pinky1171709/status/2061990192110514439/photo/1",
+              "media_key": "3_2061990190223134720",
+              "start": 45,
+              "url": "https://t.co/stAGAwhcdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062037208027349419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061990192110514439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinky1171709: Happy pride month guyss :3 https://t.co/stAGAwhcdB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061990190223134720"
+          ]
+        },
+        "author_id": "1893409439614676992",
+        "conversation_id": "2061990192110514439",
+        "created_at": "2026-06-03T01:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061990192110514439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/stAGAwhcdB",
+              "end": 50,
+              "expanded_url": "https://x.com/pinky1171709/status/2061990192110514439/photo/1",
+              "media_key": "3_2061990190223134720",
+              "start": 27,
+              "url": "https://t.co/stAGAwhcdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061990192110514439",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 3868,
+          "like_count": 1068,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "Happy pride month guyss :3 https://t.co/stAGAwhcdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 1268,
+          "like_count": 18389,
+          "listed_count": 7,
+          "media_count": 696,
+          "tweet_count": 5293
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T21:16:13.000Z",
+        "description": "bi person\nEVIL dt one trick\nmusic nerd\nalk3 no.1 glazer\ngd gooner\nwashed up rl player\ncs2 addict\ndisc: pinkyy2294\npriv: @pinkypriv11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 120,
+                "username": "pinkypriv11"
+              }
+            ]
+          }
+        },
+        "id": "1893409439614676992",
+        "location": "16, she/her ",
+        "name": "pinky :) ✈️👖🧥",
+        "pinned_tweet_id": "1997018642827866425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061201570214154241/qj6CKhJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 1017,
+          "like_count": 52983,
+          "listed_count": 25,
+          "media_count": 2303,
+          "tweet_count": 34582
+        },
+        "username": "pinky1171709",
+        "verified": false
+      }
+    ]
+  }
+}

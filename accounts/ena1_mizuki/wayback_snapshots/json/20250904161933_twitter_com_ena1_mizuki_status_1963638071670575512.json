@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1963550739890110641",
+    "created_at": "2025-09-04T16:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T17:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963638071670575512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963638071670575512",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963591506511683920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmu0187 谢谢你呀，我比较社恐不太敢和当地人接触，我的闺蜜比较1可以帮我和陌生人交流，我们会小心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1963550739890110641",
+        "created_at": "2025-09-04T16:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963638071670575512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963638071670575512",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963591506511683920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmu0187 谢谢你呀，我比较社恐不太敢和当地人接触，我的闺蜜比较1可以帮我和陌生人交流，我们会小心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "1963550739890110641",
+        "created_at": "2025-09-04T13:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T14:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963591506511683920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963591506511683920",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963583276720808133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 宝，真的很危险。藏民本身受教育程度较低，经常有汉族人异性在那边被骚扰的案例，真的真的注意保护自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 204,
+          "like_count": 1301,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 192
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960563515443568643/9XU7PHxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 288,
+          "like_count": 6714,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 3703
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2018231312491114940",
+    "created_at": "2026-02-02T08:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018234177662153208"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018234177662153208",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018231312491114940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后来才明白，我连10年之后是什么样都无法预知，那为何要把10^34年之后可能发生的事情放在心上呢😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-02T08:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018234177662153208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018234177662153208",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018231312491114940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来才明白，我连10年之后是什么样都无法预知，那为何要把10^34年之后可能发生的事情放在心上呢😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-02T07:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T08:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018231312491114940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/Cldeop/status/2018161199372726652",
+              "start": 107,
+              "url": "https://t.co/1B6QMGyXRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018231312491114940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018161199372726652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在五年级的时候看宇宙学科普书，书上说宇宙的结局是热寂，我们熟知的一切结构都会瓦解然后归于基本粒子，当时为这个事情抑郁了半年每天睡不着觉，感觉世上的一切都失去了意义，特别空虚😭\n嗯后来好像是放暑假玩游戏玩忘了（） https://t.co/1B6QMGyXRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 780,
+          "like_count": 11111,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 2958
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

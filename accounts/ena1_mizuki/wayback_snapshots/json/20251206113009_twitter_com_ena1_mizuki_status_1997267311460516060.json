@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997267309107548160"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1997267311460516060",
+    "created_at": "2025-12-06T11:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T12:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997267311460516060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IGR7Xd3qKB",
+          "end": 35,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1997267311460516060/photo/1",
+          "media_key": "3_1997267309107548160",
+          "start": 12,
+          "url": "https://t.co/IGR7Xd3qKB"
+        },
+        {
+          "display_url": "x.com/Dontbesadforit…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Dontbesadforit/status/1997201284550873224",
+          "start": 36,
+          "url": "https://t.co/wVMLht1490"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997267311460516060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997201284550873224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的我很可爱(≧▽≦) https://t.co/IGR7Xd3qKB https://t.co/wVMLht1490"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1997267309107548160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7e4CSDbEAAatyK.jpg",
+        "width": 774
+      },
+      {
+        "height": 1572,
+        "media_key": "3_1997201276732669952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7d7-sSbgAABqAT.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997267309107548160"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1997267311460516060",
+        "created_at": "2025-12-06T11:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997267311460516060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGR7Xd3qKB",
+              "end": 35,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1997267311460516060/photo/1",
+              "media_key": "3_1997267309107548160",
+              "start": 12,
+              "url": "https://t.co/IGR7Xd3qKB"
+            },
+            {
+              "display_url": "x.com/Dontbesadforit…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Dontbesadforit/status/1997201284550873224",
+              "start": 36,
+              "url": "https://t.co/wVMLht1490"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997267311460516060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997201284550873224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的我很可爱(≧▽≦) https://t.co/IGR7Xd3qKB https://t.co/wVMLht1490"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997201276732669952"
+          ]
+        },
+        "author_id": "1845454917236031495",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997201284550873224",
+        "created_at": "2025-12-06T07:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997201284550873224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8DII2UVty",
+              "end": 31,
+              "expanded_url": "https://x.com/Dontbesadforit/status/1997201284550873224/photo/1",
+              "media_key": "3_1997201276732669952",
+              "start": 8,
+              "url": "https://t.co/G8DII2UVty"
+            },
+            {
+              "display_url": "x.com/jaciezyt/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/jaciezyt/status/1997159094021726678",
+              "start": 32,
+              "url": "https://t.co/9ciQe8VE7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997201284550873224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2491,
+          "like_count": 34,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997159094021726678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要买小裙子💢 https://t.co/G8DII2UVty https://t.co/9ciQe8VE7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 392,
+          "like_count": 4491,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 808
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "生物学大好き！！！大白猫卷是狗，我不是 无证不含糖🍥/顺直/HRT 2025.2.31 猫卷你别改我bio 大白你不可以改我bio",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "不是中",
+        "pinned_tweet_id": "1973013751294218308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973986798926782464/9gpwUZZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 965,
+          "like_count": 58965,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 7801
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2064205258130362603",
+    "created_at": "2026-06-09T04:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064205258130362603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/hgds0/status/2064021334259359923",
+          "start": 4,
+          "url": "https://t.co/9OC1FTBWju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064205258130362603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064021334259359923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我 https://t.co/9OC1FTBWju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2064021322523680768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTgdQnbIAAmSIW.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2064205258130362603",
+        "created_at": "2026-06-09T04:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064205258130362603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hgds0/status/2064021334259359923",
+              "start": 4,
+              "url": "https://t.co/9OC1FTBWju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064205258130362603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064021334259359923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/9OC1FTBWju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064021322523680768"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2064021334259359923",
+        "created_at": "2026-06-08T16:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064021334259359923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z3Zp4Zd6o2",
+              "end": 36,
+              "expanded_url": "https://x.com/hgds0/status/2064021334259359923/photo/1",
+              "media_key": "3_2064021322523680768",
+              "start": 13,
+              "url": "https://t.co/Z3Zp4Zd6o2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064021334259359923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 10684,
+          "like_count": 596,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "申请成为2026最暖句子 https://t.co/Z3Zp4Zd6o2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1276,
+          "like_count": 18540,
+          "listed_count": 8,
+          "media_count": 704,
+          "tweet_count": 5330
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "2048632363241152830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97595,
+          "following_count": 2445,
+          "like_count": 44647,
+          "listed_count": 143,
+          "media_count": 4351,
+          "tweet_count": 8758
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

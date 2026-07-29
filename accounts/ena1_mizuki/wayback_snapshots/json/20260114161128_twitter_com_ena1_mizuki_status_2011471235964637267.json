@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2011471235964637267",
+    "created_at": "2026-01-14T16:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T17:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011471235964637267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/Cldeop/status/2011456286542668143",
+          "start": 26,
+          "url": "https://t.co/ninV84vVKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011471235964637267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011456286542668143",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去简直是我，一般不会生气，一旦生气肯定爆个大的😇 https://t.co/ninV84vVKR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2011456278623834112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-og1AiaUAAPr-8.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2011471235964637267",
+        "created_at": "2026-01-14T16:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T17:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011471235964637267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Cldeop/status/2011456286542668143",
+              "start": 26,
+              "url": "https://t.co/ninV84vVKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011471235964637267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011456286542668143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去简直是我，一般不会生气，一旦生气肯定爆个大的😇 https://t.co/ninV84vVKR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011456278623834112"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2011456286542668143",
+        "created_at": "2026-01-14T15:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011456286542668143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mDyZT2fws",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2011456286542668143/photo/1",
+              "media_key": "3_2011456278623834112",
+              "start": 0,
+              "url": "https://t.co/4mDyZT2fws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011456286542668143",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1756,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4mDyZT2fws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 673,
+          "like_count": 8916,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2119
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98093,
+          "following_count": 681,
+          "like_count": 33811,
+          "listed_count": 275,
+          "media_count": 14996,
+          "tweet_count": 21660
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

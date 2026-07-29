@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2023212098810196281",
+    "created_at": "2026-02-16T01:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023212098810196281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023212098810196281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了特别离谱的梦惊醒了，梦到我和朋友下棋，我执象棋 她执围棋，然后我的两个炮都是维什戴尔，局面优势很大，在即将胜利的时候突然触发bug，我的所有棋子被炸飞了（难道她的棋子都是望的陷阱？），输了还被我朋友不停的嘲讽，气哭😇😇😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2023212098810196281",
+        "created_at": "2026-02-16T01:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023212098810196281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023212098810196281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了特别离谱的梦惊醒了，梦到我和朋友下棋，我执象棋 她执围棋，然后我的两个炮都是维什戴尔，局面优势很大，在即将胜利的时候突然触发bug，我的所有棋子被炸飞了（难道她的棋子都是望的陷阱？），输了还被我朋友不停的嘲讽，气哭😇😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 854,
+          "like_count": 12607,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 3439
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

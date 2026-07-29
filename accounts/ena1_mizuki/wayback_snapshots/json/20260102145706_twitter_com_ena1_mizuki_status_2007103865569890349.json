@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2006986421698179319",
+    "created_at": "2026-01-02T14:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007103865569890349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1614733792304050177",
+          "start": 0,
+          "username": "X_WantAgain_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007103865569890349",
+    "in_reply_to_user_id": "1614733792304050177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007083923252379738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_WantAgain_X 谢谢^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2006986421698179319",
+        "created_at": "2026-01-02T14:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007103865569890349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1614733792304050177",
+              "start": 0,
+              "username": "X_WantAgain_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007103865569890349",
+        "in_reply_to_user_id": "1614733792304050177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007083923252379738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_WantAgain_X 谢谢^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614733792304050177",
+        "conversation_id": "2006986421698179319",
+        "created_at": "2026-01-02T13:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007083923252379738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007083923252379738",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006986421698179319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 恭喜啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 573,
+          "like_count": 7537,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 1714
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T21:18:58.000Z",
+        "description": "精神病警告------ 大学在读 摆烂|| infp 特长：发病（负能高） 🍥||青叶厨高浓度发癫（可能时无多日) 对象不玩X",
+        "id": "1614733792304050177",
+        "location": "the Holy Roman Empire",
+        "name": "內海青葉🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005538994986287104/L0pD9pVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 107,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 57
+        },
+        "username": "X_WantAgain_X",
+        "verified": false
+      }
+    ]
+  }
+}

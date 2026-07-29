@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1935624059901071701",
+    "created_at": "2025-06-19T09:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T10:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935624059901071701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iMoeAya/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/iMoeAya/status/1935351346649317610",
+          "start": 42,
+          "url": "https://t.co/BjLvYymuFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935624059901071701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935351346649317610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最喜欢的一站，旁边就是地质所和北医三院，做完实验就去hrt，您太跨了.jpg😇😇😇 https://t.co/BjLvYymuFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_1832728600967294976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW8o885asAACcoJ.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1935624059901071701",
+        "created_at": "2025-06-19T09:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T10:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935624059901071701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iMoeAya/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/iMoeAya/status/1935351346649317610",
+              "start": 42,
+              "url": "https://t.co/BjLvYymuFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935624059901071701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935351346649317610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最喜欢的一站，旁边就是地质所和北医三院，做完实验就去hrt，您太跨了.jpg😇😇😇 https://t.co/BjLvYymuFo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832728600967294976"
+          ],
+          "media_source_tweet_id": [
+            "1832728788360470816"
+          ]
+        },
+        "author_id": "961832160377282560",
+        "conversation_id": "1935309687228137647",
+        "created_at": "2025-06-18T14:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935351346649317610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9yysnup1H",
+              "end": 43,
+              "expanded_url": "https://x.com/iMoeAya/status/1832728788360470816/photo/1",
+              "media_key": "3_1832728600967294976",
+              "start": 20,
+              "url": "https://t.co/a9yysnup1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935351346649317610",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 702,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935309687228137647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 这里也有一个 https://t.co/a9yysnup1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 23
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504361534692413440/uxllOfC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35330,
+          "following_count": 3837,
+          "like_count": 156476,
+          "listed_count": 125,
+          "media_count": 1039,
+          "tweet_count": 33625
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

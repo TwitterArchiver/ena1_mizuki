@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003887280851935728",
+    "created_at": "2025-12-25T03:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T04:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004036472945758227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724630965551865856",
+          "start": 0,
+          "username": "mizu_bai"
+        },
+        {
+          "end": 20,
+          "id": "1897576136634490880",
+          "start": 10,
+          "username": "misncandy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004036472945758227",
+    "in_reply_to_user_id": "1724630965551865856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004030264176267549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizu_bai @misncandy 🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003887280851935728",
+        "created_at": "2025-12-25T03:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004036472945758227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724630965551865856",
+              "start": 0,
+              "username": "mizu_bai"
+            },
+            {
+              "end": 20,
+              "id": "1897576136634490880",
+              "start": 10,
+              "username": "misncandy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004036472945758227",
+        "in_reply_to_user_id": "1724630965551865856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004030264176267549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizu_bai @misncandy 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724630965551865856",
+        "conversation_id": "2003887280851935728",
+        "created_at": "2025-12-25T03:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T04:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004030264176267549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897576136634490880",
+              "start": 0,
+              "username": "misncandy"
+            },
+            {
+              "end": 23,
+              "id": "1932434375955857409",
+              "start": 11,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mizu_bai/statu…",
+              "end": 47,
+              "expanded_url": "https://x.com/mizu_bai/status/1991047799031673123?s=46",
+              "start": 24,
+              "url": "https://t.co/hbsYQSM6aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004030264176267549",
+        "in_reply_to_user_id": "1897576136634490880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991047799031673123",
+            "type": "quoted"
+          },
+          {
+            "id": "2004027707819282646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misncandy @ena1_mizuki https://t.co/hbsYQSM6aE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 514,
+          "like_count": 6528,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 1394
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-15T03:30:55.000Z",
+        "description": "Theoretical Chemistry Ph. D. Student/AI for Science",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mizu-bai",
+                "end": 23,
+                "expanded_url": "https://github.com/mizu-bai",
+                "start": 0,
+                "url": "https://t.co/N7irDlk8Gg"
+              }
+            ]
+          }
+        },
+        "id": "1724630965551865856",
+        "name": "mizu-bai",
+        "pinned_tweet_id": "1777215880126242862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998321171620835328/lMycCt8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 727,
+          "like_count": 8615,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 3795
+        },
+        "url": "https://t.co/N7irDlk8Gg",
+        "username": "mizu_bai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T09:14:22.000Z",
+        "description": "棉花糖，仿生自来卷兔子，they/she//我们终将在没有黑暗的地方相遇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "misncandy.moe",
+                "end": 23,
+                "expanded_url": "http://misncandy.moe",
+                "start": 0,
+                "url": "https://t.co/1xW5UCCTvh"
+              }
+            ]
+          }
+        },
+        "id": "1897576136634490880",
+        "location": "Nanking,R.O.C",
+        "name": "有川夕見",
+        "pinned_tweet_id": "1978323467574366388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999038464885682176/cmbWcTAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 304,
+          "like_count": 874,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/1xW5UCCTvh",
+        "username": "misncandy",
+        "verified": false
+      }
+    ]
+  }
+}

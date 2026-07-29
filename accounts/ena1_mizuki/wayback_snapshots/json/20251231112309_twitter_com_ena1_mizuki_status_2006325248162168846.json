@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2006300477412319554",
+    "created_at": "2025-12-31T11:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T12:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006325248162168846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "885571903565385728",
+          "start": 0,
+          "username": "astoic_itera"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006325248162168846",
+    "in_reply_to_user_id": "885571903565385728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006322691964547201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astoic_itera 好诶🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2006300477412319554",
+        "created_at": "2025-12-31T11:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006325248162168846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "885571903565385728",
+              "start": 0,
+              "username": "astoic_itera"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006325248162168846",
+        "in_reply_to_user_id": "885571903565385728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006322691964547201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astoic_itera 好诶🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885571903565385728",
+        "conversation_id": "2006300477412319554",
+        "created_at": "2025-12-31T11:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006322691964547201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006322691964547201",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006300477412319554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 加油哇/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 546,
+          "like_count": 7258,
+          "listed_count": 3,
+          "media_count": 312,
+          "tweet_count": 1633
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-13T18:49:29.000Z",
+        "description": "黏糊湿滑的阴暗球球\n\nI came, I saw, I shitposted",
+        "id": "885571903565385728",
+        "name": "astoic itera",
+        "pinned_tweet_id": "1991059492210200909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002468203377930240/nPfO1nC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 958,
+          "like_count": 13593,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 883
+        },
+        "username": "astoic_itera",
+        "verified": false
+      }
+    ]
+  }
+}

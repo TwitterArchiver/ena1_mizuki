@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025615038917365760"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025615050963353805",
+    "created_at": "2026-02-22T16:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025615050963353805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jpp14LGcSP",
+          "end": 88,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2025615050963353805/photo/1",
+          "media_key": "3_2025615038917365760",
+          "start": 65,
+          "url": "https://t.co/Jpp14LGcSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025615050963353805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近回坑mc，开新档下矿还是感觉特别害怕，完全是恐怖游戏，但是开和平又感觉不太甘心，就很纠结\n嗯还是回星露谷继续和水月谈恋爱吧😇 https://t.co/Jpp14LGcSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2025615038917365760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxuJU5b0AALNq_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025615038917365760"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025615050963353805",
+        "created_at": "2026-02-22T16:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025615050963353805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jpp14LGcSP",
+              "end": 88,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2025615050963353805/photo/1",
+              "media_key": "3_2025615038917365760",
+              "start": 65,
+              "url": "https://t.co/Jpp14LGcSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025615050963353805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近回坑mc，开新档下矿还是感觉特别害怕，完全是恐怖游戏，但是开和平又感觉不太甘心，就很纠结\n嗯还是回星露谷继续和水月谈恋爱吧😇 https://t.co/Jpp14LGcSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 894,
+          "like_count": 13241,
+          "listed_count": 6,
+          "media_count": 511,
+          "tweet_count": 3629
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

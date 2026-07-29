@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2008827718138462355",
+    "created_at": "2026-01-07T09:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T10:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008836649153859788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867775031541166081",
+          "start": 0,
+          "username": "Yangcong_232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "e.tb.cn/h.7ReD2ehT3Dhs…",
+          "end": 37,
+          "expanded_url": "https://e.tb.cn/h.7ReD2ehT3Dhsmxl?tk=qEBVU1iPY42",
+          "start": 14,
+          "status": 200,
+          "unwound_url": "https://e.tb.cn/h.7ReD2ehT3Dhsmxl?tk=qEBVU1iPY42",
+          "url": "https://t.co/hPbyuTeijZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008836649153859788",
+    "in_reply_to_user_id": "1867775031541166081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008834760312000642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yangcong_232 https://t.co/hPbyuTeijZ 「卡蒙帽子女士冬可爱毛球针织帽加厚保暖贝雷帽防风防寒护耳毛线帽」\n很可爱哇不过我在合肥戴感觉有些热，一般是去北方或者上山观测戴，很暖和~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2008827718138462355",
+        "created_at": "2026-01-07T09:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008836649153859788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867775031541166081",
+              "start": 0,
+              "username": "Yangcong_232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.7ReD2ehT3Dhs…",
+              "end": 37,
+              "expanded_url": "https://e.tb.cn/h.7ReD2ehT3Dhsmxl?tk=qEBVU1iPY42",
+              "start": 14,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.7ReD2ehT3Dhsmxl?tk=qEBVU1iPY42",
+              "url": "https://t.co/hPbyuTeijZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008836649153859788",
+        "in_reply_to_user_id": "1867775031541166081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008834760312000642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yangcong_232 https://t.co/hPbyuTeijZ 「卡蒙帽子女士冬可爱毛球针织帽加厚保暖贝雷帽防风防寒护耳毛线帽」\n很可爱哇不过我在合肥戴感觉有些热，一般是去北方或者上山观测戴，很暖和~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867775031541166081",
+        "conversation_id": "2008827718138462355",
+        "created_at": "2026-01-07T09:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008834760312000642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008834760312000642",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008827718138462355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 求帽子链接（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 618,
+          "like_count": 8069,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 1889
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-14T03:34:10.000Z",
+        "description": "无证含糖🍥/小透明",
+        "id": "1867775031541166081",
+        "location": "北京",
+        "name": "洋葱232🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867775381060866048/No2jZaLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 481,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 111
+        },
+        "username": "Yangcong_232",
+        "verified": false
+      }
+    ]
+  }
+}

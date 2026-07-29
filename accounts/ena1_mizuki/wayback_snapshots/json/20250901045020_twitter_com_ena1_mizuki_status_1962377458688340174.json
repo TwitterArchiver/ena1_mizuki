@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1962377022472421808",
+    "created_at": "2025-09-01T04:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T05:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962377458688340174"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962377458688340174",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962377022472421808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "武汉 黄冈 潜江 荆州 恩施 鄂州 仙桃 黄石 杭州 绍兴 舟山 宁波 咸宁 黄山 九江 重庆 岳阳 景德镇 张家界 常德 金华 衢州 南昌 益阳 台州 丽水 上饶 湘西 长沙 温州 抚州 湘潭 株洲 宜春 新余 遵义 铜仁 娄底 怀化 邵阳 毕节 吉安 贵阳 六盘水 黔东南 黔南 安顺 曲靖 桂林 昆明 厦门 柳州 来宾 南宁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962377011860799488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvDfsNbAAADPb0.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1962377022472421808",
+        "created_at": "2025-09-01T04:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T05:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962377458688340174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962377458688340174",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962377022472421808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "武汉 黄冈 潜江 荆州 恩施 鄂州 仙桃 黄石 杭州 绍兴 舟山 宁波 咸宁 黄山 九江 重庆 岳阳 景德镇 张家界 常德 金华 衢州 南昌 益阳 台州 丽水 上饶 湘西 长沙 温州 抚州 湘潭 株洲 宜春 新余 遵义 铜仁 娄底 怀化 邵阳 毕节 吉安 贵阳 六盘水 黔东南 黔南 安顺 曲靖 桂林 昆明 厦门 柳州 来宾 南宁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962377011860799488"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1962377022472421808",
+        "created_at": "2025-09-01T04:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T05:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962377022472421808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht4zbcrjc5",
+              "end": 186,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1962377022472421808/photo/1",
+              "media_key": "3_1962377011860799488",
+              "start": 163,
+              "url": "https://t.co/Ht4zbcrjc5"
+            },
+            {
+              "display_url": "x.com/mengqing5735/s…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/mengqing5735/status/1961742138326307031",
+              "start": 187,
+              "url": "https://t.co/M4UhBimvEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962377022472421808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961742138326307031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去过的所有中国城市：\n哈尔滨 长春 四平 辽源 铁岭 白山 阜新 沈阳 本溪 鞍山 锦州 盘锦 营口 葫芦岛 呼和浩特 巴彦淖尔 包头 丹东 秦皇岛 北京 廊坊 唐山 天津 嘉峪关 酒泉 大连 阿拉善 张掖 沧州 银川 太原 吴忠 武威 德州 中卫 威海 烟台 海西 潍坊 济南 海北 西宁 海东 兰州 泰安 青岛（下续） https://t.co/Ht4zbcrjc5 https://t.co/M4UhBimvEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 191,
+          "like_count": 1179,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 174
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

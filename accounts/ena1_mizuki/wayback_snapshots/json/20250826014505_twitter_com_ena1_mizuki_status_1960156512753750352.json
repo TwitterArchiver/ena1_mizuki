@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960156509415043072"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1960156512753750352",
+    "created_at": "2025-08-26T01:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T02:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960156512753750352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rd4oy9Exmr",
+          "end": 73,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1960156512753750352/photo/1",
+          "media_key": "3_1960156509415043072",
+          "start": 50,
+          "url": "https://t.co/rd4oy9Exmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960156512753750352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你怎么知道我N1阅读满分(´▽｀)ノ♪\n可惜听力爆炸了，没做过往年真题被对话题初见杀，一大半听不懂 https://t.co/rd4oy9Exmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 664,
+        "media_key": "3_1960156509415043072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPf9b_acAAA_id.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960156509415043072"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1960156512753750352",
+        "created_at": "2025-08-26T01:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T02:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960156512753750352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rd4oy9Exmr",
+              "end": 73,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1960156512753750352/photo/1",
+              "media_key": "3_1960156509415043072",
+              "start": 50,
+              "url": "https://t.co/rd4oy9Exmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960156512753750352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么知道我N1阅读满分(´▽｀)ノ♪\n可惜听力爆炸了，没做过往年真题被对话题初见杀，一大半听不懂 https://t.co/rd4oy9Exmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 170,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 147
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

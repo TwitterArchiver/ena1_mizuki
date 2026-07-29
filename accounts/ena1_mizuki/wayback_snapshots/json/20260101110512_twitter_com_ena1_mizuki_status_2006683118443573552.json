@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2006683118443573552",
+    "created_at": "2026-01-01T11:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006683118443573552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2006277059119858084",
+          "start": 64,
+          "url": "https://t.co/SqRnuTZB57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006683118443573552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006277059119858084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样，我在上大学之前完全不懂性相关的东西，连什么是紫薇都不知道，因此gd比较低，除了上男厕莫名其妙用不了小便池之外没太被困扰 https://t.co/SqRnuTZB57"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2006683118443573552",
+        "created_at": "2026-01-01T11:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006683118443573552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2006277059119858084",
+              "start": 64,
+              "url": "https://t.co/SqRnuTZB57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006683118443573552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006277059119858084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样，我在上大学之前完全不懂性相关的东西，连什么是紫薇都不知道，因此gd比较低，除了上男厕莫名其妙用不了小便池之外没太被困扰 https://t.co/SqRnuTZB57"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2006277059119858084",
+        "created_at": "2025-12-31T08:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T09:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006277059119858084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006277059119858084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12602,
+          "like_count": 154,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "老药娘劝退小药娘是很正常的，老药娘幸运，幸运在性教育和性启蒙的缺失。因为老药娘在听小药娘讲自己辍学自杀的理由的时候，她们自己也感同身受，她们从高考走过来，一边上班一边克服精神疾病一边吃西酞普兰米氮平劳拉西泮的时候。她们想不出有什么如果高中就意识到自己是跨还能活到现在的方法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 563,
+          "like_count": 7380,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 1664
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22160,
+          "following_count": 198,
+          "like_count": 697,
+          "listed_count": 72,
+          "media_count": 98,
+          "tweet_count": 21996
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

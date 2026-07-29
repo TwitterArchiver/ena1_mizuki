@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1997933008436027536",
+    "created_at": "2025-12-09T04:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T05:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998253101774680404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603232668744761345",
+          "start": 0,
+          "username": "orugannokasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998253101774680404",
+    "in_reply_to_user_id": "1603232668744761345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997933008436027536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orugannokasa 呜呜我是中性外貌皮肤细腻😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997932978140561409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7oVdUcbQAENgLd.jpg",
+        "width": 1542
+      },
+      {
+        "height": 920,
+        "media_key": "3_1997932978098577408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7oVdUSaoAA4LEE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997932978123743232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7oVdUYaoAAVRNL.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1997932978132168704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7oVdUabMAAqdCU.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1997933008436027536",
+        "created_at": "2025-12-09T04:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998253101774680404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603232668744761345",
+              "start": 0,
+              "username": "orugannokasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998253101774680404",
+        "in_reply_to_user_id": "1603232668744761345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997933008436027536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orugannokasa 呜呜我是中性外貌皮肤细腻😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997932978140561409",
+            "3_1997932978098577408",
+            "3_1997932978123743232",
+            "3_1997932978132168704"
+          ]
+        },
+        "author_id": "1603232668744761345",
+        "conversation_id": "1997933008436027536",
+        "created_at": "2025-12-08T07:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997933008436027536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGFjAN2rXR",
+              "end": 56,
+              "expanded_url": "https://x.com/orugannokasa/status/1997933008436027536/photo/1",
+              "media_key": "3_1997932978140561409",
+              "start": 33,
+              "url": "https://t.co/lGFjAN2rXR"
+            },
+            {
+              "display_url": "pic.x.com/lGFjAN2rXR",
+              "end": 56,
+              "expanded_url": "https://x.com/orugannokasa/status/1997933008436027536/photo/1",
+              "media_key": "3_1997932978098577408",
+              "start": 33,
+              "url": "https://t.co/lGFjAN2rXR"
+            },
+            {
+              "display_url": "pic.x.com/lGFjAN2rXR",
+              "end": 56,
+              "expanded_url": "https://x.com/orugannokasa/status/1997933008436027536/photo/1",
+              "media_key": "3_1997932978123743232",
+              "start": 33,
+              "url": "https://t.co/lGFjAN2rXR"
+            },
+            {
+              "display_url": "pic.x.com/lGFjAN2rXR",
+              "end": 56,
+              "expanded_url": "https://x.com/orugannokasa/status/1997933008436027536/photo/1",
+              "media_key": "3_1997932978132168704",
+              "start": 33,
+              "url": "https://t.co/lGFjAN2rXR"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "1997933008436027536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8625,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在南鼓楼曹医生那里开到小证啦！还有女性外表和皮肤细腻ww！开森！ https://t.co/lGFjAN2rXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 411,
+          "like_count": 4695,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 883
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-15T03:38:20.000Z",
+        "description": "一只mtf，INFP，缺爱，中度抑郁的xyn，偶尔会割手手，但是不od（）\n暂时无证含糖，身高体重保密喵～\n同类无门槛w ，互fo踢我\n永远的好妹妹 @MiaoJiang080923\n永远的好闺蜜@bdxiaoxiong\n坐标无锡（居住），淮安（上学）有避难所在淮安，欢迎有需要的跨女私信咨询",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "MiaoJiang080923"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "bdxiaoxiong"
+              }
+            ]
+          }
+        },
+        "id": "1603232668744761345",
+        "location": "苏南",
+        "name": "🍥オルガンの傘🏳️‍⚧️",
+        "pinned_tweet_id": "1986349454828691653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962398253481365504/3QH1bDNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 142,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 252
+        },
+        "username": "orugannokasa",
+        "verified": false
+      }
+    ]
+  }
+}

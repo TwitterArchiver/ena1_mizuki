@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2036651151521988699",
+    "created_at": "2026-03-25T03:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036651151521988699"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036651151521988699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了一个很离谱的梦😇\n场景是在上课，老师给我们播放影片，然后强调跨性别者不要在看比赛的时候sex，因为这样会导致地震场馆倒塌砸到别人（画面播放球场倒塌）\n然后老师问，在场的有没有跨性别者，我很生气举手反驳：你那个球场豆腐渣工程建的那么差，还反而怪我们巴拉巴拉。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2036651151521988699",
+        "created_at": "2026-03-25T03:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036651151521988699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036651151521988699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个很离谱的梦😇\n场景是在上课，老师给我们播放影片，然后强调跨性别者不要在看比赛的时候sex，因为这样会导致地震场馆倒塌砸到别人（画面播放球场倒塌）\n然后老师问，在场的有没有跨性别者，我很生气举手反驳：你那个球场豆腐渣工程建的那么差，还反而怪我们巴拉巴拉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1060,
+          "like_count": 15617,
+          "listed_count": 6,
+          "media_count": 579,
+          "tweet_count": 4316
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

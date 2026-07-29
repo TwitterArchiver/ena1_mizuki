@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2027769815142957539",
+    "created_at": "2026-03-01T05:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027985464213553409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739126336248287232",
+          "start": 0,
+          "username": "UesugiKou07B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027985464213553409",
+    "in_reply_to_user_id": "1739126336248287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027976194495549691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UesugiKou07B 我第一次吃喹硫平是按着医生推荐剂量200mg吃的（），吃完出了很长时间幻觉遭老罪了，现在按着6.25mg吃了半年了，感觉催眠效果还是有点强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2027769815142957539",
+        "created_at": "2026-03-01T05:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027985464213553409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739126336248287232",
+              "start": 0,
+              "username": "UesugiKou07B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027985464213553409",
+        "in_reply_to_user_id": "1739126336248287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027976194495549691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UesugiKou07B 我第一次吃喹硫平是按着医生推荐剂量200mg吃的（），吃完出了很长时间幻觉遭老罪了，现在按着6.25mg吃了半年了，感觉催眠效果还是有点强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739126336248287232",
+        "conversation_id": "2027769815142957539",
+        "created_at": "2026-03-01T05:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027976194495549691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027976194495549691",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027769815142957539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 刚开始吃有点困，后来习惯了就好了（大概？）\n不过我的喹硫平药量极少，前几天复查血药浓度是 1（参考范围 100～300 应该）（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 930,
+          "like_count": 13785,
+          "listed_count": 6,
+          "media_count": 519,
+          "tweet_count": 3746
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T03:30:21.000Z",
+        "description": "Kou",
+        "id": "1739126336248287232",
+        "name": "上杉紅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739126406163083264/DGz_p0Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 44,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "UesugiKou07B",
+        "verified": false
+      }
+    ]
+  }
+}

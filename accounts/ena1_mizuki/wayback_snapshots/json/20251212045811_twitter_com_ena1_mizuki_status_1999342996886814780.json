@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999342981237866497"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999342996886814780",
+    "created_at": "2025-12-12T04:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999342996886814780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c1VqHSytWo",
+          "end": 74,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1999342996886814780/photo/1",
+          "media_key": "3_1999342981237866497",
+          "start": 51,
+          "url": "https://t.co/c1VqHSytWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999342996886814780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "午饭吃鱼～这个鳗鱼好咸吃不惯，三条小鱼很美味，结账的时候老板说：还以为你是女孩子好可爱哦，太开心了😎 https://t.co/c1VqHSytWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999342981237866497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78X2TTagAEDFz5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999342981237866497"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999342996886814780",
+        "created_at": "2025-12-12T04:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999342996886814780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1VqHSytWo",
+              "end": 74,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1999342996886814780/photo/1",
+              "media_key": "3_1999342981237866497",
+              "start": 51,
+              "url": "https://t.co/c1VqHSytWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999342996886814780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午饭吃鱼～这个鳗鱼好咸吃不惯，三条小鱼很美味，结账的时候老板说：还以为你是女孩子好可爱哦，太开心了😎 https://t.co/c1VqHSytWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 427,
+          "like_count": 4999,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 987
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

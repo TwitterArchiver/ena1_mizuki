@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2023462920282403159",
+    "created_at": "2026-02-17T07:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023658347871039765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1266329483222511617",
+          "start": 0,
+          "username": "im_rinnin"
+        },
+        {
+          "end": 21,
+          "id": "1908157902273261568",
+          "start": 11,
+          "username": "huygenx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023658347871039765",
+    "in_reply_to_user_id": "1266329483222511617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023658132027961576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@im_rinnin @huygenx01 馋死了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2023462920282403159",
+        "created_at": "2026-02-17T07:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023658347871039765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1266329483222511617",
+              "start": 0,
+              "username": "im_rinnin"
+            },
+            {
+              "end": 21,
+              "id": "1908157902273261568",
+              "start": 11,
+              "username": "huygenx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023658347871039765",
+        "in_reply_to_user_id": "1266329483222511617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023658132027961576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@im_rinnin @huygenx01 馋死了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1266329483222511617",
+        "conversation_id": "2023462920282403159",
+        "created_at": "2026-02-17T07:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023658132027961576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1908157902273261568",
+              "start": 13,
+              "username": "huygenx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023658132027961576",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023657314092544234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @huygenx01 你喜欢的xnh类型是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 869,
+          "like_count": 12789,
+          "listed_count": 4,
+          "media_count": 494,
+          "tweet_count": 3495
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T11:24:16.000Z",
+        "description": "基本不看私信\n不会写代码\n只想平静的生活\n只要可爱就没问题\n我永远喜欢🌻\n67B9 5938 E7A1 8AB6 CC32  BEE6 77DD D1D1 0000 0000",
+        "id": "1266329483222511617",
+        "name": "宁宁_爱生活",
+        "pinned_tweet_id": "2016004871435256130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006618302425235456/LIDAc8xW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 392,
+          "like_count": 14835,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 10709
+        },
+        "username": "im_rinnin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T14:01:19.000Z",
+        "description": "主二共所有，前朝有少量提及\n温和中立，也可以叫投机派\n把谁都会画的很萌，但本质上不粉任何，历史向客观评价较多（改开派视角）有严肃讨论有娱乐向私设，希望少点争执多点同人创作",
+        "id": "1908157902273261568",
+        "name": "一般路过复工仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916176822116749313/BZ2GmPLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 144,
+          "like_count": 9169,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2183
+        },
+        "username": "huygenx01",
+        "verified": false
+      }
+    ]
+  }
+}

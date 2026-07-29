@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2023295627535524196",
+    "created_at": "2026-02-16T12:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023369048822878630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "SPRlumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023369048822878630",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023352280112877791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPRlumi 其实窝刚刚开车一年（但是开了10w公里）\n刚刚走的山西纵穿一路上风景就很好，但是山西大货车超级多感觉不是很能随时停呢；除这个之外大概就是从重庆沿江而下到宜昌的线路，一路上很漂亮；然后还有在阿坝开九寨沟-松潘-若尔盖草原吧\n怎么说呢，国内自驾还是感觉大车太多到处烟尘滚滚的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2023295627535524196",
+        "created_at": "2026-02-16T12:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023369048822878630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "SPRlumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023369048822878630",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023352280112877791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPRlumi 其实窝刚刚开车一年（但是开了10w公里）\n刚刚走的山西纵穿一路上风景就很好，但是山西大货车超级多感觉不是很能随时停呢；除这个之外大概就是从重庆沿江而下到宜昌的线路，一路上很漂亮；然后还有在阿坝开九寨沟-松潘-若尔盖草原吧\n怎么说呢，国内自驾还是感觉大车太多到处烟尘滚滚的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2023295627535524196",
+        "created_at": "2026-02-16T11:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023352280112877791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023352280112877791",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023351448558514287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 姐姐有什么觉得印象深刻的小众自驾线路嘛？没什么人还有能随时停路边拍车的那种感觉\n咱也开遍大半个中国了qwq不过姐姐好像开的更多一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 864,
+          "like_count": 12709,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 3475
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "💌 @hobartr6 | 笨中猪中杂鱼中 @dontbesadforit | 猫 @_furryfur_ | @WanN916_ | 天天拿抚摸棉花小人到处拍照的好姐姐喵 @hoshi_Asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "hobartr6"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "dontbesadforit"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "WanN916_"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi✨猫卷🍥🍫🍵🍣🍡🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3303,
+          "following_count": 867,
+          "like_count": 2297,
+          "listed_count": 7,
+          "media_count": 24,
+          "tweet_count": 247
+        },
+        "username": "SPRlumi",
+        "verified": false
+      }
+    ]
+  }
+}

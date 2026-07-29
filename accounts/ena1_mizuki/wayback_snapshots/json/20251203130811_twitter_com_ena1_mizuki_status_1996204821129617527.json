@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1996070973934895603",
+    "created_at": "2025-12-03T13:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996204821129617527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384354349497737216",
+          "start": 0,
+          "username": "mqguoguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996204821129617527",
+    "in_reply_to_user_id": "1384354349497737216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996179645809807434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mqguoguo 好哦我现在就是用凝胶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1996070973934895603",
+        "created_at": "2025-12-03T13:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996204821129617527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384354349497737216",
+              "start": 0,
+              "username": "mqguoguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996204821129617527",
+        "in_reply_to_user_id": "1384354349497737216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996179645809807434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mqguoguo 好哦我现在就是用凝胶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384354349497737216",
+        "conversation_id": "1996070973934895603",
+        "created_at": "2025-12-03T11:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996179645809807434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996179645809807434",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996176082291265685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 那就泰补➕凝胶一起用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 370,
+          "like_count": 4270,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 753
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-20T03:52:56.000Z",
+        "description": "药娘🍥/168-98/无事勿扰/预备下海人员/同类贴贴/switch/",
+        "id": "1384354349497737216",
+        "location": "杭州",
+        "name": "果果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864336414579806211/XKh31mpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 459,
+          "like_count": 1652,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 2764
+        },
+        "username": "mqguoguo",
+        "verified": false
+      }
+    ]
+  }
+}

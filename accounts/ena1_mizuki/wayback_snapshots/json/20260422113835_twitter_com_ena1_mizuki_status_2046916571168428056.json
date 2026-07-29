@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2046916537064607744"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2046916571168428056",
+    "created_at": "2026-04-22T11:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046916571168428056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nvgi7pWdMx",
+          "end": 49,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2046916571168428056/video/1",
+          "media_key": "7_2046916537064607744",
+          "start": 26,
+          "url": "https://t.co/Nvgi7pWdMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046916571168428056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喂小鸡，感觉就像人类婴儿一样哭一会吃一会，力竭了😇 https://t.co/Nvgi7pWdMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13282,
+        "height": 720,
+        "media_key": "7_2046916537064607744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046916537064607744/pu/img/Q1Ae60ytlBM8ChSj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046916537064607744/pu/vid/avc1/480x270/xt5w9zz2dWGEHwJ8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046916537064607744/pu/vid/avc1/640x360/CbrK6KKTD96BtkDz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046916537064607744/pu/vid/avc1/1280x720/C66aO1FwORRwlz18.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046916537064607744/pu/pl/He7-vuYCqOSs6wIK.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046916537064607744"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2046916571168428056",
+        "created_at": "2026-04-22T11:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046916571168428056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nvgi7pWdMx",
+              "end": 49,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2046916571168428056/video/1",
+              "media_key": "7_2046916537064607744",
+              "start": 26,
+              "url": "https://t.co/Nvgi7pWdMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046916571168428056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂小鸡，感觉就像人类婴儿一样哭一会吃一会，力竭了😇 https://t.co/Nvgi7pWdMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 1120,
+          "like_count": 16966,
+          "listed_count": 5,
+          "media_count": 615,
+          "tweet_count": 4642
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

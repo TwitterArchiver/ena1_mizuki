@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994347653791150080"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1994347658152980582",
+    "created_at": "2025-11-28T10:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994347658152980582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7kJwWaaY9h",
+          "end": 141,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1994347658152980582/photo/1",
+          "media_key": "3_1994347653791150080",
+          "start": 118,
+          "url": "https://t.co/7kJwWaaY9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994347658152980582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前拍摄的星云都在银河系内部，今天把视线转到更远的宇宙深处，银河系的邻居三角座星系M33~\nM33距离我们273万光年，是一个没有星系核的漩涡星系，旋臂上有很多粉色的恒星形成区和蓝色的新生恒星，颜色很漂亮呀^_^\n（拍摄参数见ALT） https://t.co/7kJwWaaY9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "曝光3min*78  ISO1600\nNikon Z7II + 70sa拍摄",
+        "height": 1427,
+        "media_key": "3_1994347653791150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61Yn-ba8AAeuUk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994347653791150080"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1994347658152980582",
+        "created_at": "2025-11-28T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994347658152980582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7kJwWaaY9h",
+              "end": 141,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1994347658152980582/photo/1",
+              "media_key": "3_1994347653791150080",
+              "start": 118,
+              "url": "https://t.co/7kJwWaaY9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994347658152980582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前拍摄的星云都在银河系内部，今天把视线转到更远的宇宙深处，银河系的邻居三角座星系M33~\nM33距离我们273万光年，是一个没有星系核的漩涡星系，旋臂上有很多粉色的恒星形成区和蓝色的新生恒星，颜色很漂亮呀^_^\n（拍摄参数见ALT） https://t.co/7kJwWaaY9h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 349,
+          "like_count": 4008,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 680
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2032478225352585616",
+    "created_at": "2026-03-13T15:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032484651093372986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896404668462301185",
+          "start": 0,
+          "username": "garconch12"
+        },
+        {
+          "end": 20,
+          "id": "1318819823758069760",
+          "start": 12,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032484651093372986",
+    "in_reply_to_user_id": "1896404668462301185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032480113728585917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garconch12 @Enorez2 艾顿gem28扛120apo，有点极限hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2032478225352585616",
+        "created_at": "2026-03-13T15:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032484651093372986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896404668462301185",
+              "start": 0,
+              "username": "garconch12"
+            },
+            {
+              "end": 20,
+              "id": "1318819823758069760",
+              "start": 12,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032484651093372986",
+        "in_reply_to_user_id": "1896404668462301185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032480113728585917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garconch12 @Enorez2 艾顿gem28扛120apo，有点极限hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896404668462301185",
+        "conversation_id": "2032478225352585616",
+        "created_at": "2026-03-13T15:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032480113728585917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 21,
+              "id": "1318819823758069760",
+              "start": 13,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032480113728585917",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032478225352585616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @Enorez2 请问赤道仪是哪一款呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1493,
+          "following_count": 1038,
+          "like_count": 14879,
+          "listed_count": 6,
+          "media_count": 545,
+          "tweet_count": 4072
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T03:38:08.000Z",
+        "description": "青韭/用来记录个人交易/失败的商学生/amateur photographer/……ing/请不要挡住阳光",
+        "id": "1896404668462301185",
+        "name": "不问不侃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021033277021356033/qUUb39EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 1144,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 631
+        },
+        "username": "garconch12",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "CN/EN| Miku | Limbus |♜⃤Arknight | ♜⃤Endfiled  CNmainland Server |Follow me then I will follow you back. English and Chinese will be used alternately...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/0v9wTlS",
+                "end": 23,
+                "expanded_url": "http://b23.tv/0v9wTlS",
+                "start": 0,
+                "url": "https://t.co/gXJWRFGhiZ"
+              }
+            ]
+          }
+        },
+        "id": "1318819823758069760",
+        "location": "Three Thousand Great Worlds",
+        "name": "Rei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032445230620856320/fihIhIyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 419,
+          "like_count": 22270,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/gXJWRFGhiZ",
+        "username": "Enorez2",
+        "verified": false
+      }
+    ]
+  }
+}

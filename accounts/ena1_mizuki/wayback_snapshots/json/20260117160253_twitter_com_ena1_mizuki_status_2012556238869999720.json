@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012078058761818487",
+    "created_at": "2026-01-17T16:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012556238869999720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990384119726129152",
+          "start": 0,
+          "username": "SuzukiHnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012556238869999720",
+    "in_reply_to_user_id": "1990384119726129152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012551420155752784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiHnnn ww希望以后有机会~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012078058761818487",
+        "created_at": "2026-01-17T16:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012556238869999720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990384119726129152",
+              "start": 0,
+              "username": "SuzukiHnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012556238869999720",
+        "in_reply_to_user_id": "1990384119726129152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012551420155752784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiHnnn ww希望以后有机会~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990384119726129152",
+        "conversation_id": "2012078058761818487",
+        "created_at": "2026-01-17T15:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012551420155752784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012551420155752784",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012078269592633787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 梦想着有机会坐上水母酱的车车～🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 681,
+          "like_count": 9143,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 2215
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T11:38:59.000Z",
+        "description": "🇭🇺🇩🇪🇨🇳🇭🇰｜161/55.8｜Deutschを勉強中です Möchtest du mit mir Maimai spielen｜Arcaea｜Muse Dash｜maimai rating 12124｜「地雷屬性」Attention！｜可能是怪力美少女？｜hrt2025.12.18",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakostrawber…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanakostrawberry",
+                "start": 0,
+                "url": "https://t.co/iCnU7MKgG1"
+              }
+            ]
+          }
+        },
+        "id": "1990384119726129152",
+        "location": "Budapest，Hungary",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂🍥",
+        "pinned_tweet_id": "2011245335512068562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010333345733914625/8nj2jbd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 72,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/iCnU7MKgG1",
+        "username": "SuzukiHnnn",
+        "verified": false
+      }
+    ]
+  }
+}

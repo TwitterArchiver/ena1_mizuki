@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2014996077938925771",
+    "created_at": "2026-01-25T02:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T03:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015246097665651058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721095893821136896",
+          "start": 0,
+          "username": "xrxrrdx18360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015246097665651058",
+    "in_reply_to_user_id": "1721095893821136896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015227227735286210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrxrrdx18360 好诶有时间去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2014996077938925771",
+        "created_at": "2026-01-25T02:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T03:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015246097665651058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721095893821136896",
+              "start": 0,
+              "username": "xrxrrdx18360"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015246097665651058",
+        "in_reply_to_user_id": "1721095893821136896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015227227735286210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrxrrdx18360 好诶有时间去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721095893821136896",
+        "conversation_id": "2014996077938925771",
+        "created_at": "2026-01-25T00:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015227227735286210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015227227735286210",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014996077938925771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 到桂林了去我们👻⚡️旁边的尧山看看嘛（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 738,
+          "like_count": 10088,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 2600
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T09:23:43.000Z",
+        "description": "中国の大学1年生/18歳/INTJ/言語愛好者·English·Deutsch·日本語/タルパ保持者（アリんナちゃん）/旅行/Keil5 MDK/中国·大學生電子設計大賽\nh2o2111@qq.com",
+        "id": "1721095893821136896",
+        "location": "Winternight",
+        "name": "冬夜❄️Schlafenlieber",
+        "pinned_tweet_id": "1811347162137330013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857761832124948480/nFNGlhbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 198,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 517
+        },
+        "username": "xrxrrdx18360",
+        "verified": false
+      }
+    ]
+  }
+}

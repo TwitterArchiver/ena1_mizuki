@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016113158805692848",
+    "created_at": "2026-01-27T18:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016219235949937023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830006669222502400",
+          "start": 0,
+          "username": "Sayaka_990208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016219235949937023",
+    "in_reply_to_user_id": "1830006669222502400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016205965872529842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sayaka_990208 什么"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2016205965872529842].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2016205965872529842",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2016205965872529842"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016113158805692848",
+        "created_at": "2026-01-27T18:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016219235949937023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830006669222502400",
+              "start": 0,
+              "username": "Sayaka_990208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016219235949937023",
+        "in_reply_to_user_id": "1830006669222502400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016205965872529842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sayaka_990208 什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 752,
+          "like_count": 10457,
+          "listed_count": 4,
+          "media_count": 438,
+          "tweet_count": 2757
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T22:16:15.000Z",
+        "description": "Arknights 明日方舟 アークナイツ",
+        "id": "1830006669222502400",
+        "location": "ГОРОД СОЛНЦА",
+        "name": "さやか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002875645236543488/3on2pQ9F_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1068,
+          "like_count": 30342,
+          "listed_count": 3,
+          "media_count": 1728,
+          "tweet_count": 2642
+        },
+        "username": "Sayaka_990208",
+        "verified": false
+      }
+    ]
+  }
+}

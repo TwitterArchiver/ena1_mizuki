@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2025615050963353805",
+    "created_at": "2026-02-23T07:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025839340447056107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1635679785132371969",
+          "start": 0,
+          "username": "_Culacc1no_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025839340447056107",
+    "in_reply_to_user_id": "1635679785132371969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025834783184703558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Culacc1no_ 唔诶窝社恐🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2025615050963353805",
+        "created_at": "2026-02-23T07:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025839340447056107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1635679785132371969",
+              "start": 0,
+              "username": "_Culacc1no_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025839340447056107",
+        "in_reply_to_user_id": "1635679785132371969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025834783184703558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Culacc1no_ 唔诶窝社恐🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1635679785132371969",
+        "conversation_id": "2025615050963353805",
+        "created_at": "2026-02-23T07:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025834783184703558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025834783184703558",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025615050963353805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 主播要不要来我们服务器玩mc，你只需要造建筑就可以（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 894,
+          "like_count": 13282,
+          "listed_count": 6,
+          "media_count": 512,
+          "tweet_count": 3645
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T16:30:37.000Z",
+        "description": "死にたいわけじゃなくて                                               \n明日を生きるのが辛いだけ",
+        "id": "1635679785132371969",
+        "location": "Meow Town",
+        "name": "和乐 清浅",
+        "pinned_tweet_id": "1944085551961059797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898845031886381056/PIofMUtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 877,
+          "like_count": 13126,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2594
+        },
+        "username": "_Culacc1no_",
+        "verified": false
+      }
+    ]
+  }
+}

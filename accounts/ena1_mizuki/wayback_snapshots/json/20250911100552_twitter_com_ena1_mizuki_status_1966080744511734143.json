@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1966003126043029978",
+    "created_at": "2025-09-11T10:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T11:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966080744511734143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3223080709",
+          "start": 0,
+          "username": "ceoberus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966080744511734143",
+    "in_reply_to_user_id": "3223080709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966003126043029978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceoberus 第一次戴美瞳花了两个小时才戴上，取下来也花了很久，太痛苦了(╥_╥)（但是真的好看）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1966003126043029978",
+        "created_at": "2025-09-11T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966080744511734143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3223080709",
+              "start": 0,
+              "username": "ceoberus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966080744511734143",
+        "in_reply_to_user_id": "3223080709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966003126043029978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceoberus 第一次戴美瞳花了两个小时才戴上，取下来也花了很久，太痛苦了(╥_╥)（但是真的好看）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3223080709",
+        "conversation_id": "1966003126043029978",
+        "created_at": "2025-09-11T04:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T05:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966003126043029978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966003126043029978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是只有我戴美瞳会把美瞳戴翻过去？我看小红书那些博主手指戳到眼睛都不眨一下的，🌿太厉害了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 271,
+          "like_count": 1668,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 256
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-22T07:07:28.000Z",
+        "description": "trans 25岁 情绪不稳 二号机@ceobrus 里推@grea_aa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "ceobrus"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "grea_aa"
+              }
+            ]
+          }
+        },
+        "id": "3223080709",
+        "name": "小小刻🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965740699569229824/AMe-mO_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 508,
+          "like_count": 6200,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 245
+        },
+        "username": "ceoberus",
+        "verified": false
+      }
+    ]
+  }
+}

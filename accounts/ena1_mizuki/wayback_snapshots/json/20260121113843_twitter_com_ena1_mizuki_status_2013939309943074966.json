@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013840286577840555",
+    "created_at": "2026-01-21T11:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T12:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013939309943074966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 28,
+          "id": "983332233120370689",
+          "start": 16,
+          "username": "0707_Master"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013939309943074966",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013858123258212582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @0707_Master 诶我感觉一直看着海特别有趣呀，比看手机好玩多了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013840286577840555",
+        "created_at": "2026-01-21T11:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013939309943074966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "983332233120370689",
+              "start": 16,
+              "username": "0707_Master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013939309943074966",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013858123258212582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @0707_Master 诶我感觉一直看着海特别有趣呀，比看手机好玩多了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "2013840286577840555",
+        "created_at": "2026-01-21T06:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013858123258212582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 25,
+              "id": "983332233120370689",
+              "start": 13,
+              "username": "0707_Master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013858123258212582",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013842659270418577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @0707_Master 呜啊…没网啊😭\n那无聊程度是不是堪比洲际航班了，希望早点普及星链类似物(｡•﹃•｡)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 725,
+          "like_count": 9630,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 2419
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 4577,
+          "like_count": 8873,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1568
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-09T13:14:08.000Z",
+        "description": "一般顺♂ | 性取向是mtf和男娘 | 对象征集中 | 明日方舟 | FF14/WOW | bang/pjsk | hololive/Nijisanji | 老二次元",
+        "id": "983332233120370689",
+        "location": "Living Memory",
+        "name": "大0老师",
+        "pinned_tweet_id": "1554905872253341696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905299937132445696/RNWFBpTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 250,
+          "like_count": 1368,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 1380
+        },
+        "username": "0707_Master",
+        "verified": false
+      }
+    ]
+  }
+}

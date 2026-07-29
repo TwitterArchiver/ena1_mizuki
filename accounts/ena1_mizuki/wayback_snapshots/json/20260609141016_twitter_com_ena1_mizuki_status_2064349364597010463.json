@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2064319774683955578",
+    "created_at": "2026-06-09T14:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064349364597010463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636913725327446017",
+          "start": 0,
+          "username": "LingSing7263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064349364597010463",
+    "in_reply_to_user_id": "1636913725327446017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064324944176300466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingSing7263 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2064319774683955578",
+        "created_at": "2026-06-09T14:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064349364597010463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636913725327446017",
+              "start": 0,
+              "username": "LingSing7263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064349364597010463",
+        "in_reply_to_user_id": "1636913725327446017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064324944176300466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingSing7263 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636913725327446017",
+        "conversation_id": "2064319774683955578",
+        "created_at": "2026-06-09T12:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064324944176300466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064324944176300466",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064319774683955578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 请享爱星空~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1277,
+          "like_count": 18564,
+          "listed_count": 8,
+          "media_count": 706,
+          "tweet_count": 5343
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T02:13:49.000Z",
+        "description": "白日梦想家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aboutGalaxyYi",
+                "end": 23,
+                "expanded_url": "https://t.me/aboutGalaxyYi",
+                "start": 0,
+                "url": "https://t.co/Sdo5s2x8T2"
+              }
+            ]
+          }
+        },
+        "id": "1636913725327446017",
+        "location": "星乡",
+        "name": "伊零星",
+        "pinned_tweet_id": "1990063035034345766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039466151022034944/IaFgrLpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 1093,
+          "like_count": 26245,
+          "listed_count": 2,
+          "media_count": 502,
+          "tweet_count": 7113
+        },
+        "url": "https://t.co/Sdo5s2x8T2",
+        "username": "LingSing7263",
+        "verified": false
+      }
+    ]
+  }
+}

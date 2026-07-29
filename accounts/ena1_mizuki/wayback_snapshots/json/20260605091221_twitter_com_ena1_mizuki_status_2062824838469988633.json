@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062824835324182529"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2062824838469988633",
+    "created_at": "2026-06-05T09:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062824838469988633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQUmbRQAHZ",
+          "end": 113,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2062824838469988633/photo/1",
+          "media_key": "3_2062824835324182529",
+          "start": 90,
+          "url": "https://t.co/tQUmbRQAHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062824838469988633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "目镜大阅兵😎\n那两个es目镜用了十多年了，尤其14mm一直都是绝对的功勋主力目镜，两端盖子全丢了也不舍得换\n不过看了下现在Nagler16都要3000多了？那我感觉我还能再用十年 https://t.co/tQUmbRQAHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2062824835324182529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCgQidaAAEB-cz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062824835324182529"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2062824838469988633",
+        "created_at": "2026-06-05T09:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062824838469988633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQUmbRQAHZ",
+              "end": 113,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2062824838469988633/photo/1",
+              "media_key": "3_2062824835324182529",
+              "start": 90,
+              "url": "https://t.co/tQUmbRQAHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062824838469988633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目镜大阅兵😎\n那两个es目镜用了十多年了，尤其14mm一直都是绝对的功勋主力目镜，两端盖子全丢了也不舍得换\n不过看了下现在Nagler16都要3000多了？那我感觉我还能再用十年 https://t.co/tQUmbRQAHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 1266,
+          "like_count": 18460,
+          "listed_count": 8,
+          "media_count": 698,
+          "tweet_count": 5303
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983078828097572864",
+        "3_1983078828051443713"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1983078843973013854",
+    "created_at": "2025-10-28T07:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T08:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983078843973013854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TtWPeMQgZr",
+          "end": 57,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1983078843973013854/photo/1",
+          "media_key": "3_1983078828097572864",
+          "start": 34,
+          "url": "https://t.co/TtWPeMQgZr"
+        },
+        {
+          "display_url": "pic.x.com/TtWPeMQgZr",
+          "end": 57,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1983078843973013854/photo/1",
+          "media_key": "3_1983078828051443713",
+          "start": 34,
+          "url": "https://t.co/TtWPeMQgZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983078843973013854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "体验走浮桥过黄河，路好烂还收费8元，我的底盘给出了很差的评价=_= https://t.co/TtWPeMQgZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983078828097572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VPr_ZakAAkXbT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1983078828051443713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VPr_OasAELePD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983078828097572864",
+            "3_1983078828051443713"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1983078843973013854",
+        "created_at": "2025-10-28T07:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983078843973013854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtWPeMQgZr",
+              "end": 57,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1983078843973013854/photo/1",
+              "media_key": "3_1983078828097572864",
+              "start": 34,
+              "url": "https://t.co/TtWPeMQgZr"
+            },
+            {
+              "display_url": "pic.x.com/TtWPeMQgZr",
+              "end": 57,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1983078843973013854/photo/1",
+              "media_key": "3_1983078828051443713",
+              "start": 34,
+              "url": "https://t.co/TtWPeMQgZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983078843973013854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "体验走浮桥过黄河，路好烂还收费8元，我的底盘给出了很差的评价=_= https://t.co/TtWPeMQgZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 315,
+          "like_count": 3031,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 441
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

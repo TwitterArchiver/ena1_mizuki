@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2015358803781239157",
+    "created_at": "2026-01-25T12:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T13:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015406944258056608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1331816064271806465",
+          "start": 0,
+          "username": "Bv2V7mrVKybrPAz"
+        },
+        {
+          "end": 27,
+          "id": "1905258429821898752",
+          "start": 17,
+          "username": "MisakaBit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015406944258056608",
+    "in_reply_to_user_id": "1331816064271806465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015404037835829528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bv2V7mrVKybrPAz @MisakaBit 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2015358803781239157",
+        "created_at": "2026-01-25T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015406944258056608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1331816064271806465",
+              "start": 0,
+              "username": "Bv2V7mrVKybrPAz"
+            },
+            {
+              "end": 27,
+              "id": "1905258429821898752",
+              "start": 17,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015406944258056608",
+        "in_reply_to_user_id": "1331816064271806465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015404037835829528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bv2V7mrVKybrPAz @MisakaBit 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1331816064271806465",
+        "conversation_id": "2015358803781239157",
+        "created_at": "2026-01-25T12:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015404037835829528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1905258429821898752",
+              "start": 13,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015404037835829528",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015360603599368454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @MisakaBit 记得叫我一起玩😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 738,
+          "like_count": 10184,
+          "listed_count": 4,
+          "media_count": 424,
+          "tweet_count": 2635
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-26T04:24:38.000Z",
+        "description": "🍥🏳‍⚧/模型玩家",
+        "id": "1331816064271806465",
+        "location": "宁波",
+        "name": "今凪喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004191747006435329/SS_BY24X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 381,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 19
+        },
+        "username": "Bv2V7mrVKybrPAz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 社恐重度，不熟悉之前不私聊不面基 | INFJ | 双極性II型・重度うつ・不安・BPD・ADHD・地雷注意 | 已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/AU3CBDyMuO"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "御坂晚",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011654548310671364/wvAu8JjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 532,
+          "like_count": 4530,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/AU3CBDyMuO",
+        "username": "MisakaBit",
+        "verified": false
+      }
+    ]
+  }
+}

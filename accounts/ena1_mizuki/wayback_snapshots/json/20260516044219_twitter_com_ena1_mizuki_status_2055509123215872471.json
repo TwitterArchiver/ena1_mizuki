@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2055508129459356014",
+    "created_at": "2026-05-16T04:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T05:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055509123215872471"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055509123215872471",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055508129459356014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这让我想到路上有些人会去故意别女司机的车，我之后自己买车一定要选很女性化的颜色，敢来搞我看我创不创你就完事了嗷😎😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2055508129459356014",
+        "created_at": "2026-05-16T04:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055509123215872471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055509123215872471",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055508129459356014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这让我想到路上有些人会去故意别女司机的车，我之后自己买车一定要选很女性化的颜色，敢来搞我看我创不创你就完事了嗷😎😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2055508129459356014",
+        "created_at": "2026-05-16T04:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055508129459356014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055508129459356014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦梦到我和两个女生合租一间房，房东以为我们都是女生好欺负，然后就莫名其妙被威胁了什么的，没想到我是指派男根本不惯着他，直接把他暴打一顿，最后还减了房费\n什么mtf爽文剧情😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1245,
+          "like_count": 17871,
+          "listed_count": 7,
+          "media_count": 666,
+          "tweet_count": 5104
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

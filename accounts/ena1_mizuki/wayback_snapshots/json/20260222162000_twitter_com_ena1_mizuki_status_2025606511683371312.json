@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2025601387233697876",
+    "created_at": "2026-02-22T16:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025606511683371312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1039728538482606085",
+          "start": 0,
+          "username": "imnotrealray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025606511683371312",
+    "in_reply_to_user_id": "1039728538482606085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025601387233697876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imnotrealray 还有这种细节！不过粉色贴纸盖在里海北侧，是俄罗斯和哈萨克斯坦的位置，没有盖到乌克兰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_2025600602601095169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxhBBbbAAESsfG.png",
+        "width": 840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2025600993271193600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxhXwyboAAT_CD.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2025601387233697876",
+        "created_at": "2026-02-22T16:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025606511683371312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1039728538482606085",
+              "start": 0,
+              "username": "imnotrealray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025606511683371312",
+        "in_reply_to_user_id": "1039728538482606085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025601387233697876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imnotrealray 还有这种细节！不过粉色贴纸盖在里海北侧，是俄罗斯和哈萨克斯坦的位置，没有盖到乌克兰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025600602601095169",
+            "3_2025600993271193600"
+          ]
+        },
+        "author_id": "1039728538482606085",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025601387233697876",
+        "created_at": "2026-02-22T15:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025601387233697876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xelj22dnKX",
+              "end": 78,
+              "expanded_url": "https://x.com/imnotrealray/status/2025601387233697876/photo/1",
+              "media_key": "3_2025600602601095169",
+              "start": 55,
+              "url": "https://t.co/xelj22dnKX"
+            },
+            {
+              "display_url": "pic.x.com/xelj22dnKX",
+              "end": 78,
+              "expanded_url": "https://x.com/imnotrealray/status/2025601387233697876/photo/1",
+              "media_key": "3_2025600993271193600",
+              "start": 55,
+              "url": "https://t.co/xelj22dnKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025601387233697876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可能没有注意到的《超时空辉夜姬》细节：\n2040年时彩叶研究所里的地球仪，乌克兰和台湾的位置被便利贴盖住了 https://t.co/xelj22dnKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 894,
+          "like_count": 13226,
+          "listed_count": 6,
+          "media_count": 510,
+          "tweet_count": 3628
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-12T04:12:55.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈 | she/her if needed | 其实是一只兔兔 | 分享一些生活 | daily life",
+        "id": "1039728538482606085",
+        "location": "Rabbit Lake, Saskatchewan",
+        "name": "Ray_for_Rabbit🎇",
+        "pinned_tweet_id": "2008365279672496608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010487530467229696/12XehjH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 215,
+          "like_count": 26161,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 570
+        },
+        "username": "imnotrealray",
+        "verified": false
+      }
+    ]
+  }
+}

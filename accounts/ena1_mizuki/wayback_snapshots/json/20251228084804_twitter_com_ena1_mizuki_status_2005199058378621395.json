@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2005185609762283880",
+    "created_at": "2025-12-28T08:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005199058378621395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850017112087199744",
+          "start": 0,
+          "username": "HatsuneMafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005199058378621395",
+    "in_reply_to_user_id": "1850017112087199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005188673252581780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuneMafuyu 这是CP名啦，ena当1mzk当0，之前我还有个号是ena_mizuki0，不过被炸了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2005185609762283880",
+        "created_at": "2025-12-28T08:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005199058378621395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850017112087199744",
+              "start": 0,
+              "username": "HatsuneMafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005199058378621395",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005188673252581780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuneMafuyu 这是CP名啦，ena当1mzk当0，之前我还有个号是ena_mizuki0，不过被炸了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850017112087199744",
+        "conversation_id": "2005185609762283880",
+        "created_at": "2025-12-28T08:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005188673252581780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005188673252581780",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005187868730491045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 所以你到底是ena還是mizuki("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 527,
+          "like_count": 6882,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 1514
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-26T03:31:05.000Z",
+        "description": "光?我自己伪造的。\n「君を照らす為に咲く花さ」",
+        "id": "1850017112087199744",
+        "name": "神無月の再生奏歌",
+        "pinned_tweet_id": "2001878903082901772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002196200813178882/2FB9icAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 297,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 231
+        },
+        "username": "HatsuneMafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

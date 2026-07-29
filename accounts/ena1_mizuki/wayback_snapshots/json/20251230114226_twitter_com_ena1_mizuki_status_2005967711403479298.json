@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2005958384483192852",
+    "created_at": "2025-12-30T11:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T12:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005967711403479298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "St4rNek0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005967711403479298",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005958384483192852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@St4rNek0 可爱水月头🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2005958384483192852",
+        "created_at": "2025-12-30T11:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005967711403479298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "St4rNek0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005967711403479298",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005958384483192852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@St4rNek0 可爱水月头🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "conversation_id": "2005958384483192852",
+        "created_at": "2025-12-30T11:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T12:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005958384483192852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/st4rnek0/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/st4rnek0/status/2004812964520702397",
+              "start": 26,
+              "url": "https://t.co/wvq4tqudkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005958384483192852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004812964520702397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我懂了 因为留的水母头加上挑染蓝头发吗 那我剪掉。 https://t.co/wvq4tqudkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 536,
+          "like_count": 7131,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 1599
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "🪼系統. 接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/starnekovo",
+                "end": 23,
+                "expanded_url": "https://t.me/starnekovo",
+                "start": 0,
+                "url": "https://t.co/EmSU2yhuRd"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "水母猫",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992867754031108096/b6ssV3wN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 464,
+          "like_count": 3684,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/EmSU2yhuRd",
+        "username": "St4rNek0",
+        "verified": false
+      }
+    ]
+  }
+}

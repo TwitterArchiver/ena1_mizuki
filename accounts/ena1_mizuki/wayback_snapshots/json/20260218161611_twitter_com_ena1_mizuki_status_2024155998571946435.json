@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2024069625525510340",
+    "created_at": "2026-02-18T16:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024155998571946435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799461746291425280",
+          "start": 0,
+          "username": "Linanyue42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024155998571946435",
+    "in_reply_to_user_id": "1799461746291425280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024121398323708328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linanyue42 太强了，我上肢力量完全不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2024069625525510340",
+        "created_at": "2026-02-18T16:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024155998571946435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799461746291425280",
+              "start": 0,
+              "username": "Linanyue42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024155998571946435",
+        "in_reply_to_user_id": "1799461746291425280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024121398323708328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linanyue42 太强了，我上肢力量完全不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799461746291425280",
+        "conversation_id": "2024069625525510340",
+        "created_at": "2026-02-18T13:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024121398323708328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024121398323708328",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024069625525510340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 哇，这个爆发和耐力都挺强啊。我当时173/70，一千米三分半，引体靠点头功点了23个（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 879,
+          "like_count": 12943,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 3551
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T15:21:34.000Z",
+        "description": "🏳️‍⚧️ 跨女同 infp-t 18 文科生 社科 上海 hrt25.1.15 姐姐@JudyXie16 抑郁厌学 本推主要发碎碎念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "JudyXie16"
+              }
+            ]
+          }
+        },
+        "id": "1799461746291425280",
+        "name": "临安月",
+        "pinned_tweet_id": "1897570974905860129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888813711814746112/4uBYhNQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 136,
+          "like_count": 3485,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 670
+        },
+        "username": "Linanyue42",
+        "verified": false
+      }
+    ]
+  }
+}

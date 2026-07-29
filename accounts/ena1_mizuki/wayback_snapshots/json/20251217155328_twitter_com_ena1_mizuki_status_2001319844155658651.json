@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2001270815011299386",
+    "created_at": "2025-12-17T15:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001319844155658651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1675877118667034624",
+          "start": 0,
+          "username": "nine9ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001319844155658651",
+    "in_reply_to_user_id": "1675877118667034624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001305094428545202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nine9ph 谢谢你呀^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001319844155658651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1675877118667034624",
+              "start": 0,
+              "username": "nine9ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001319844155658651",
+        "in_reply_to_user_id": "1675877118667034624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001305094428545202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nine9ph 谢谢你呀^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675877118667034624",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T14:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001305094428545202"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001305094428545202",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001270815011299386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 460,
+          "like_count": 5579,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1123
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T14:40:42.000Z",
+        "description": "鼬",
+        "id": "1675877118667034624",
+        "name": "Narration",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984479100401303555/wBDpv4mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 76,
+          "like_count": 2493,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 378
+        },
+        "username": "nine9ph",
+        "verified": false
+      }
+    ]
+  }
+}

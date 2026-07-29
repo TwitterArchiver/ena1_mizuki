@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2053032129169383694",
+    "created_at": "2026-05-10T06:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T07:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053356363053720012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052922316745809920",
+          "start": 0,
+          "username": "takahashiAya57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053356363053720012",
+    "in_reply_to_user_id": "2052922316745809920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053222437878464674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takahashiAya57 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2053032129169383694",
+        "created_at": "2026-05-10T06:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053356363053720012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052922316745809920",
+              "start": 0,
+              "username": "takahashiAya57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053356363053720012",
+        "in_reply_to_user_id": "2052922316745809920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053222437878464674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takahashiAya57 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052922316745809920",
+        "conversation_id": "2053032129169383694",
+        "created_at": "2026-05-09T21:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053222437878464674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053222437878464674",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053032129169383694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 你好可爱 可以互fo吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1229,
+          "like_count": 17863,
+          "listed_count": 7,
+          "media_count": 651,
+          "tweet_count": 4992
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T01:25:43.000Z",
+        "description": "かわりにこの終点に、夏を教えてくれ。",
+        "id": "2052922316745809920",
+        "location": "东京都",
+        "name": "盛夏将我灼伤",
+        "pinned_tweet_id": "2053220880017490021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052930389438767104/b5GTTuDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "takahashiAya57",
+        "verified": false
+      }
+    ]
+  }
+}

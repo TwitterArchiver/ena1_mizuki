@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2073448306387402995",
+    "created_at": "2026-07-05T09:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073693575121093117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        },
+        {
+          "end": 27,
+          "id": "1331816064271806465",
+          "start": 11,
+          "username": "Bv2V7mrVKybrPAz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073693575121093117",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073689708983648642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley @Bv2V7mrVKybrPAz 过几天也和你去w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2073448306387402995",
+        "created_at": "2026-07-05T09:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073693575121093117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            },
+            {
+              "end": 27,
+              "id": "1331816064271806465",
+              "start": 11,
+              "username": "Bv2V7mrVKybrPAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073693575121093117",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073689708983648642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley @Bv2V7mrVKybrPAz 过几天也和你去w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902735424839413760",
+        "conversation_id": "2073448306387402995",
+        "created_at": "2026-07-05T08:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073689708983648642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 29,
+              "id": "1331816064271806465",
+              "start": 13,
+              "username": "Bv2V7mrVKybrPAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073689708983648642",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073448306387402995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @Bv2V7mrVKybrPAz 呜呜呜羡慕死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1322,
+          "like_count": 19130,
+          "listed_count": 8,
+          "media_count": 742,
+          "tweet_count": 5521
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/59/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 914,
+          "like_count": 38247,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 6077
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-26T04:24:38.000Z",
+        "description": "模型玩家 欢迎灌注小红书/\nx就当没人认识我的朋友圈吧/\n🏳‍⚧🍥",
+        "id": "1331816064271806465",
+        "location": "浙江",
+        "name": "今凪喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004191747006435329/SS_BY24X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 478,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Bv2V7mrVKybrPAz",
+        "verified": false
+      }
+    ]
+  }
+}

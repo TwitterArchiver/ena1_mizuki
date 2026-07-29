@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021258693489328130"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021257927571669257",
+    "created_at": "2026-02-10T16:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T17:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021258703303999909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WyiItehVYZ",
+          "end": 56,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2021258703303999909/photo/1",
+          "media_key": "3_2021258693489328130",
+          "start": 33,
+          "url": "https://t.co/WyiItehVYZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021258703303999909",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021257927571669257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然风这么大，看起来没法拍了，星星都变毛绒球了，评价为明晚再战😇 https://t.co/WyiItehVYZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_2021258693489328130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAz0EpiaAAIHWab.jpg",
+        "width": 2048
+      },
+      {
+        "height": 665,
+        "media_key": "3_2021257919698960388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzzXm8aAAQXWEa.jpg",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021258693489328130"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021257927571669257",
+        "created_at": "2026-02-10T16:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021258703303999909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyiItehVYZ",
+              "end": 56,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2021258703303999909/photo/1",
+              "media_key": "3_2021258693489328130",
+              "start": 33,
+              "url": "https://t.co/WyiItehVYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021258703303999909",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021257927571669257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然风这么大，看起来没法拍了，星星都变毛绒球了，评价为明晚再战😇 https://t.co/WyiItehVYZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021257919698960388"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2021257927571669257",
+        "created_at": "2026-02-10T16:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021257927571669257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnseE61n6B",
+              "end": 39,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2021257927571669257/photo/1",
+              "media_key": "3_2021257919698960388",
+              "start": 16,
+              "url": "https://t.co/mnseE61n6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021257927571669257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惊人！拍到了黄色的不明飞行物😱 https://t.co/mnseE61n6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 839,
+          "like_count": 12191,
+          "listed_count": 4,
+          "media_count": 483,
+          "tweet_count": 3295
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

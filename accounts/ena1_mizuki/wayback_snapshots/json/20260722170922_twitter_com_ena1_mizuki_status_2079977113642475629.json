@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2079645341000073406",
+    "created_at": "2026-07-22T17:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079977113642475629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061934893295419392",
+          "start": 0,
+          "username": "changhangon3413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079977113642475629",
+    "in_reply_to_user_id": "2061934893295419392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079860629855433070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@changhangon3413 吃吃~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2079645341000073406",
+        "created_at": "2026-07-22T17:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079977113642475629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061934893295419392",
+              "start": 0,
+              "username": "changhangon3413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079977113642475629",
+        "in_reply_to_user_id": "2061934893295419392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079860629855433070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@changhangon3413 吃吃~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061934893295419392",
+        "conversation_id": "2079645341000073406",
+        "created_at": "2026-07-22T09:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079860629855433070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079860629855433070",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079645341000073406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki 想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 1402,
+          "like_count": 19534,
+          "listed_count": 8,
+          "media_count": 779,
+          "tweet_count": 5708
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T22:17:08.000Z",
+        "description": "这是一个无聊的小孩，试图在这上面分享一些日常和无聊的碎碎念。如果有人看的话不胜感激～～～～欢迎私信骚扰（\n手游主要玩舟/终/084 主玩电脑端游戏，最近沉迷于深海迷航2、都市天际线",
+        "id": "2061934893295419392",
+        "location": "Hong Kong",
+        "name": "寒蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061935605882470400/KGS7qQ3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 672,
+          "like_count": 4165,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "changhangon3413",
+        "verified": false
+      }
+    ]
+  }
+}

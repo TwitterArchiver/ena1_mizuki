@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990602381109964804"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1990452274959892822",
+    "created_at": "2025-11-18T02:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990602384301830433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852615097824251904",
+          "start": 0,
+          "username": "Suimikax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHuVMYA6Cy",
+          "end": 41,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1990602384301830433/photo/1",
+          "media_key": "3_1990602381109964804",
+          "start": 18,
+          "url": "https://t.co/CHuVMYA6Cy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990602384301830433",
+    "in_reply_to_user_id": "1852615097824251904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990452274959892822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suimikax 气死了我也是😭 https://t.co/CHuVMYA6Cy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1990602381109964804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AKUacbMAQhdLm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990452263622791168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-BybOb0AADJVA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990602381109964804"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1990452274959892822",
+        "created_at": "2025-11-18T02:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990602384301830433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852615097824251904",
+              "start": 0,
+              "username": "Suimikax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHuVMYA6Cy",
+              "end": 41,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1990602384301830433/photo/1",
+              "media_key": "3_1990602381109964804",
+              "start": 18,
+              "url": "https://t.co/CHuVMYA6Cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990602384301830433",
+        "in_reply_to_user_id": "1852615097824251904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990452274959892822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suimikax 气死了我也是😭 https://t.co/CHuVMYA6Cy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990452263622791168"
+          ]
+        },
+        "author_id": "1852615097824251904",
+        "conversation_id": "1990452274959892822",
+        "created_at": "2025-11-17T16:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990452274959892822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRJkYpes4o",
+              "end": 49,
+              "expanded_url": "https://x.com/Suimikax/status/1990452274959892822/photo/1",
+              "media_key": "3_1990452263622791168",
+              "start": 26,
+              "url": "https://t.co/FRJkYpes4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990452274959892822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊我哭了😭😭\n\n为什么我手上血管突起这么严重🥺 https://t.co/FRJkYpes4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 338,
+          "like_count": 3589,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 555
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "自介置顶喵😺小宠物猫🏳️‍⚧️🍥计划HRT2026.2.26😘同类互fo 私信补fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/i0Orwgdemd"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "location": "我家👉",
+        "name": "桃",
+        "pinned_tweet_id": "1986975680782082241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988631830543904768/KA_8ES0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 743,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/i0Orwgdemd",
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

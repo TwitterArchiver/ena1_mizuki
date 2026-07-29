@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2055578472425382350",
+    "created_at": "2026-05-17T04:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055872591404105844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1159803509065150464",
+          "start": 0,
+          "username": "winter_rainawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055872591404105844",
+    "in_reply_to_user_id": "1159803509065150464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055823929692856580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@winter_rainawa 水母吃小鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2055578472425382350",
+        "created_at": "2026-05-17T04:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055872591404105844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1159803509065150464",
+              "start": 0,
+              "username": "winter_rainawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055872591404105844",
+        "in_reply_to_user_id": "1159803509065150464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055823929692856580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@winter_rainawa 水母吃小鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1159803509065150464",
+        "conversation_id": "2055578472425382350",
+        "created_at": "2026-05-17T01:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055823929692856580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055823929692856580",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055578472425382350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ena1_mizuki 猫抓鱼说是w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 1248,
+          "like_count": 17921,
+          "listed_count": 7,
+          "media_count": 670,
+          "tweet_count": 5130
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-09T12:27:59.000Z",
+        "description": "done",
+        "id": "1159803509065150464",
+        "name": "信语花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911057372946071552/TiRBsw8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 545,
+          "like_count": 10321,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 619
+        },
+        "username": "winter_rainawa",
+        "verified": false
+      }
+    ]
+  }
+}

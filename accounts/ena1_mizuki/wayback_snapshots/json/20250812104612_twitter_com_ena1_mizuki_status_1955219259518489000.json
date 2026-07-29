@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1955127375634763955",
+    "created_at": "2025-08-12T10:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T11:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955219259518489000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 28,
+          "id": "1453347244401430528",
+          "start": 16,
+          "username": "jingxiaxin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955219259518489000",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955178728704893439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @jingxiaxin1 感觉在市区这个参数会过曝，可能ISO和曝光都要降一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1955127375634763955",
+        "created_at": "2025-08-12T10:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955219259518489000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 28,
+              "id": "1453347244401430528",
+              "start": 16,
+              "username": "jingxiaxin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955219259518489000",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955178728704893439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @jingxiaxin1 感觉在市区这个参数会过曝，可能ISO和曝光都要降一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1955127375634763955",
+        "created_at": "2025-08-12T08:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955178728704893439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1453347244401430528",
+              "start": 0,
+              "username": "jingxiaxin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955178728704893439",
+        "in_reply_to_user_id": "1453347244401430528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955166249153126402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingxiaxin1 呜喵，咱都没相机（）\n印象里大概是广角，尽量大的光圈和高ISO\n如果没赤道仪的话…ISO6400以上，曝光10s左右连拍也许是可供参考的数值…主要是控制夜空背景别太亮流星别太暗，尤其是城市里\n尽量避开光污染，大概对准距离辐射点30-40度，高50-70度的天区\n…咱不太懂专业摄影呜呜\n‘- ̗̀ ෆ( ˶'ᵕ'˶)ෆ ̖́-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 105,
+          "like_count": 765,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 102
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的女孩子🍬 | 可以叫我瑞或者ra | 软乎乎的温顺小动物 | 小透明属性 | 有容易抱住可爱物体的倾向 | 同类互fo喵 | 贴贴看到这里的每一只小可爱吖～",
+        "id": "1894461745277931524",
+        "location": "Triton (Neptune I)",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 2950,
+          "like_count": 5071,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 812
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T13:06:09.000Z",
+        "description": "06年｜isfp-t｜175 55｜家长党｜持证含糖 HRT25.6.22🏳️‍⚧️｜中度焦虑 重度抑郁 每时每刻都相似｜轨交｜化学｜医学｜数码｜swift｜MTR｜Apple fans｜杭州、武汉随机掉落｜可以叫我小林｜是一只善良的猫猫｜羡慕健全B的每一天",
+        "id": "1453347244401430528",
+        "location": "London, England",
+        "name": "Rainb🍥w_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944984050571337729/r31gXV_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 393,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 353
+        },
+        "username": "jingxiaxin1",
+        "verified": false
+      }
+    ]
+  }
+}

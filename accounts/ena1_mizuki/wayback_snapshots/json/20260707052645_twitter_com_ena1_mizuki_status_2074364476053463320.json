@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2074110889276706950",
+    "created_at": "2026-07-07T05:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074364476053463320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921862257874702337",
+          "start": 0,
+          "username": "Theprophetsfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074364476053463320",
+    "in_reply_to_user_id": "1921862257874702337",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074292980861792291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theprophetsfox 🐔🐔🐔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2074110889276706950",
+        "created_at": "2026-07-07T05:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074364476053463320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921862257874702337",
+              "start": 0,
+              "username": "Theprophetsfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074364476053463320",
+        "in_reply_to_user_id": "1921862257874702337",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074292980861792291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theprophetsfox 🐔🐔🐔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921862257874702337",
+        "conversation_id": "2074110889276706950",
+        "created_at": "2026-07-07T00:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074292980861792291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074292980861792291",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074110889276706950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 雞，你為何是一只雞？\n雞，你為何不是只貓？\n雞，怎麼長的這麼雞？\n雞，怎麼不說話呢雞？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2156,
+          "following_count": 1325,
+          "like_count": 19183,
+          "listed_count": 8,
+          "media_count": 744,
+          "tweet_count": 5538
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T09:37:33.000Z",
+        "description": "日本語でのコミュニケーションにAI翻訳を使用していることをお許しください💦\n\n私は華夏地域出身のゲーマーオタクです！（旅行好き、コスプレイヤー、詩人）\n\n私の投稿には、日常会話、AI作品、ゲーム、薬物乱用、ポルノ写真、面白い見聞、再投稿などが含まれる場合があります…\n\nぜひお友達になってください！（◍˃ᵕ˂◍）",
+        "id": "1921862257874702337",
+        "location": "トリニティ総合学園中央図書館",
+        "name": "北落師門",
+        "pinned_tweet_id": "2074321851640381568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065442815820345344/hWscjKJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 171,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "Theprophetsfox",
+        "verified": false
+      }
+    ]
+  }
+}

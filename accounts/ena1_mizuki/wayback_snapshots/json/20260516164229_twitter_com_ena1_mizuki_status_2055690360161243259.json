@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2055578472425382350",
+    "created_at": "2026-05-16T16:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055690360161243259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1587093229131792384",
+          "start": 0,
+          "username": "MisakaMou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055690360161243259",
+    "in_reply_to_user_id": "1587093229131792384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055615408561152212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@MisakaMou 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2055578472425382350",
+        "created_at": "2026-05-16T16:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055690360161243259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1587093229131792384",
+              "start": 0,
+              "username": "MisakaMou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055690360161243259",
+        "in_reply_to_user_id": "1587093229131792384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055615408561152212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@MisakaMou 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587093229131792384",
+        "conversation_id": "2055578472425382350",
+        "created_at": "2026-05-16T11:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055615408561152212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055615408561152212",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055578472425382350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ena1_mizuki 注意安全捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 1247,
+          "like_count": 17893,
+          "listed_count": 7,
+          "media_count": 669,
+          "tweet_count": 5117
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T14:44:57.000Z",
+        "description": "无聊日常唠嗑推，是一个温柔的大姐姐，希望我们都能达到理想的终点，万事顺心意，因为没有什么事情是美少女做不到的哦～",
+        "id": "1587093229131792384",
+        "location": "Harbin and Tientsin, China",
+        "name": "Kagurazaka Sora",
+        "pinned_tweet_id": "1904190256905146798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806335392389431296/d55LIhiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 365,
+          "like_count": 8946,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1282
+        },
+        "username": "MisakaMou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1960559563884650687",
+    "created_at": "2025-08-27T23:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T00:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960848528567349735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764815088882688000",
+          "start": 0,
+          "username": "_xuejin24713"
+        },
+        {
+          "end": 29,
+          "id": "1866360876158398464",
+          "start": 14,
+          "username": "Konora20040421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960848528567349735",
+    "in_reply_to_user_id": "1764815088882688000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960838022485709241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_xuejin24713 @Konora20040421 前辈是伪娘应该算，感觉伪百合在番剧里还是比较少的，我主要磕pjsk的enmz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1960559563884650687",
+        "created_at": "2025-08-27T23:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T00:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960848528567349735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764815088882688000",
+              "start": 0,
+              "username": "_xuejin24713"
+            },
+            {
+              "end": 29,
+              "id": "1866360876158398464",
+              "start": 14,
+              "username": "Konora20040421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960848528567349735",
+        "in_reply_to_user_id": "1764815088882688000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960838022485709241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_xuejin24713 @Konora20040421 前辈是伪娘应该算，感觉伪百合在番剧里还是比较少的，我主要磕pjsk的enmz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764815088882688000",
+        "conversation_id": "1960559563884650687",
+        "created_at": "2025-08-27T22:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T23:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960838022485709241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 28,
+              "id": "1866360876158398464",
+              "start": 13,
+              "username": "Konora20040421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960838022485709241",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960718477649698917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @Konora20040421 最近有什么好看的伪百合番嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 187,
+          "like_count": 1072,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 160
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T00:48:13.000Z",
+        "description": "985落榜研究生，日语N1肆业，文史哲魔法师，职场精嘤，月入可能不足一万。坚信可爱即正义！生活就要多体验，24.10断续含糖🍬",
+        "id": "1764815088882688000",
+        "location": "guangxi nanning",
+        "name": "雪堇ホシキ 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958660999877468163/Gh-fmT_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 444,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 392
+        },
+        "username": "_xuejin24713",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T05:54:51.000Z",
+        "description": "跨女⚧/04生产/性取向♂/持证含糖🍬/isfj/家暴党/睡眠障碍/双相/srs遥遥无期/即将复学/拼好饭长期合作伙伴🥺/喜欢涩涩、绘画，萌宠还有同类贴贴抱抱/欢迎私信/期待领养/同类互fo",
+        "id": "1866360876158398464",
+        "location": "东莞",
+        "name": "苹果奶绿🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1960583184996786280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957711149593694208/uG_HshvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 283,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 336
+        },
+        "username": "Konora20040421",
+        "verified": false
+      }
+    ]
+  }
+}

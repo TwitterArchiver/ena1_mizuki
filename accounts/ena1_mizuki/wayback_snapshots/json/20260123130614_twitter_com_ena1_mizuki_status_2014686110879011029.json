@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013574525519306890",
+    "created_at": "2026-01-23T13:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014686110879011029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780180435609477120",
+          "start": 0,
+          "username": "Emiy5769427455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014686110879011029",
+    "in_reply_to_user_id": "1780180435609477120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014685404876656996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emiy5769427455 嗯白色区域一点都没有，而且这个光害值应该是对数的，光度差距会更大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1942,
+        "media_key": "3_2014685390095982592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WZsCLXIAAxrqg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013574525519306890",
+        "created_at": "2026-01-23T13:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014686110879011029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780180435609477120",
+              "start": 0,
+              "username": "Emiy5769427455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014686110879011029",
+        "in_reply_to_user_id": "1780180435609477120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014685404876656996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emiy5769427455 嗯白色区域一点都没有，而且这个光害值应该是对数的，光度差距会更大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014685390095982592"
+          ]
+        },
+        "author_id": "1780180435609477120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013574525519306890",
+        "created_at": "2026-01-23T13:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014685404876656996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDeTE3B2Aq",
+              "end": 50,
+              "expanded_url": "https://x.com/Emiy5769427455/status/2014685404876656996/photo/1",
+              "media_key": "3_2014685390095982592",
+              "start": 27,
+              "url": "https://t.co/rDeTE3B2Aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014685404876656996",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014019665962692892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 平壤确实就沈阳一半的光污染 https://t.co/rDeTE3B2Aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 736,
+          "like_count": 9892,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 2541
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T10:24:35.000Z",
+        "description": "she/her/高一国际生/astronomy/Python、c++学习中/会更新自己学习旅游一些竞赛的日常什么的，但可能还是吃喝最多w，欢迎互fo聊天哦",
+        "id": "1780180435609477120",
+        "name": "Errai🏳️‍⚧️🇦🇲",
+        "pinned_tweet_id": "1874090428720623835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905514271863414784/oAxRjEye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 483,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 210
+        },
+        "username": "Emiy5769427455",
+        "verified": false
+      }
+    ]
+  }
+}

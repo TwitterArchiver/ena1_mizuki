@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2036456590921117712",
+    "created_at": "2026-03-25T10:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036746494922121469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600096860114501633",
+          "start": 0,
+          "username": "Hoshino_Ayaka97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036746494922121469",
+    "in_reply_to_user_id": "1600096860114501633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036686323017482694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Ayaka97 我打13+是有氧，一直打都不会累就是有点无聊，14以上应该就是无氧了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2036456590921117712",
+        "created_at": "2026-03-25T10:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036746494922121469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600096860114501633",
+              "start": 0,
+              "username": "Hoshino_Ayaka97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036746494922121469",
+        "in_reply_to_user_id": "1600096860114501633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036686323017482694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Ayaka97 我打13+是有氧，一直打都不会累就是有点无聊，14以上应该就是无氧了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600096860114501633",
+        "conversation_id": "2036456590921117712",
+        "created_at": "2026-03-25T06:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036686323017482694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036686323017482694",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036649287359369566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我打乌蒙直接就是无氧运动了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 1060,
+          "like_count": 15634,
+          "listed_count": 6,
+          "media_count": 580,
+          "tweet_count": 4324
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T11:56:44.000Z",
+        "description": "成为一只可爱的会飞的猫猫，到世界各地旅行（睡懒觉）|火星殖民地大小姐|地球猫猫教EarthCatReligion|Betelgeuse Traveler|EarthOnline Player||🦋→https://t.co/WnD9mVRLvR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hoshin…",
+                "end": 123,
+                "expanded_url": "https://bsky.app/profile/hoshinoayaka97.bsky.social",
+                "start": 100,
+                "url": "https://t.co/WnD9mVRLvR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hoshino_Ayaka",
+                "end": 23,
+                "expanded_url": "https://t.me/Hoshino_Ayaka",
+                "start": 0,
+                "url": "https://t.co/LXAlX7duga"
+              }
+            ]
+          }
+        },
+        "id": "1600096860114501633",
+        "location": "地球联邦火星殖民地",
+        "name": "星野スーパーあやかAyakaカフェイン中毒$エネルギー不足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600097324558163968/K7Vihna7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 553,
+          "like_count": 31585,
+          "listed_count": 1,
+          "media_count": 454,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/LXAlX7duga",
+        "username": "Hoshino_Ayaka97",
+        "verified": false
+      }
+    ]
+  }
+}

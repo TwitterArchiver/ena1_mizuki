@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2018246746816880687",
+    "created_at": "2026-02-03T02:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018515580379427024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1250585245604143105",
+          "start": 0,
+          "username": "Misaki38872687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018515580379427024",
+    "in_reply_to_user_id": "1250585245604143105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018392389652742288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaki38872687 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2018246746816880687",
+        "created_at": "2026-02-03T02:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018515580379427024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1250585245604143105",
+              "start": 0,
+              "username": "Misaki38872687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018515580379427024",
+        "in_reply_to_user_id": "1250585245604143105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018392389652742288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaki38872687 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250585245604143105",
+        "conversation_id": "2018246746816880687",
+        "created_at": "2026-02-02T18:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018392389652742288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018392389652742288",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018246746816880687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 之后可以试试漏奶华（\n很甜很幸福🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 788,
+          "like_count": 11246,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 3012
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-16T00:42:19.000Z",
+        "description": "三重伟大的兔男魔法师🐰😎来到人类的国度的目的是将所有人变成兔男🐰😈\n🍓士多啤梨保护自己🍓",
+        "id": "1250585245604143105",
+        "location": "距离你0.1km",
+        "name": "🐰Misaki Trismegistus🐰",
+        "pinned_tweet_id": "1889484360086368424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250585410775822338/q58G4hId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 935,
+          "like_count": 86895,
+          "listed_count": 1,
+          "media_count": 2511,
+          "tweet_count": 13687
+        },
+        "username": "Misaki38872687",
+        "verified": false
+      }
+    ]
+  }
+}

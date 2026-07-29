@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1990308512275325121",
+    "created_at": "2025-11-18T15:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T16:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990810965999563197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850935547210211328",
+          "start": 0,
+          "username": "bao_long87555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990810965999563197",
+    "in_reply_to_user_id": "1850935547210211328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990476141715730886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bao_long87555 我是350mm的望远镜，一般来说拍深空天体还是用望远镜吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1990308512275325121",
+        "created_at": "2025-11-18T15:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990810965999563197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850935547210211328",
+              "start": 0,
+              "username": "bao_long87555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990810965999563197",
+        "in_reply_to_user_id": "1850935547210211328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990476141715730886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bao_long87555 我是350mm的望远镜，一般来说拍深空天体还是用望远镜吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850935547210211328",
+        "conversation_id": "1990308512275325121",
+        "created_at": "2025-11-17T17:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990476141715730886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990476141715730886",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990308512275325121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这种的我索尼a6400要配什么头才能拍出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 338,
+          "like_count": 3623,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 561
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T16:20:40.000Z",
+        "description": "只爱香香软软的老婆@zzn1524069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 9,
+                "username": "zzn1524069"
+              }
+            ]
+          }
+        },
+        "id": "1850935547210211328",
+        "name": "牢博士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851289789854859266/kT-970qE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 74,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "username": "bao_long87555",
+        "verified": false
+      }
+    ]
+  }
+}

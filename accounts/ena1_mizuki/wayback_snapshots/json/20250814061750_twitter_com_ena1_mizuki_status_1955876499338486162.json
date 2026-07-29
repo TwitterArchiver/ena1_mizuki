@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1955876499338486162",
+    "created_at": "2025-08-14T06:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T07:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955876499338486162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RinneMTF/statu…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/RinneMTF/status/1955636581949374794",
+          "start": 80,
+          "url": "https://t.co/blmepiEfam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955876499338486162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955636581949374794",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对的，我之前也经常因为这个觉得自己没有资格、不够跨，后来发现跨性别里面从出生就觉得自己和生理性别不符的只是少数，这种说法给人的感觉太奇怪了，还有种很二元的感觉 https://t.co/blmepiEfam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1955876499338486162",
+        "created_at": "2025-08-14T06:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T07:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955876499338486162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RinneMTF/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/RinneMTF/status/1955636581949374794",
+              "start": 80,
+              "url": "https://t.co/blmepiEfam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955876499338486162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955636581949374794",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对的，我之前也经常因为这个觉得自己没有资格、不够跨，后来发现跨性别里面从出生就觉得自己和生理性别不符的只是少数，这种说法给人的感觉太奇怪了，还有种很二元的感觉 https://t.co/blmepiEfam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "1955636581949374794",
+        "created_at": "2025-08-13T14:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955636581949374794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gelm01/status/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/gelm01/status/1955588172450337246",
+              "start": 119,
+              "url": "https://t.co/tPLToudDIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955636581949374794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 776,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955588172450337246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不喜欢这个说法。因为很多跨性别者直到青春期后才有明显性别焦虑，而小时候并没有明显反常表现。“灵魂按错身体”这个说法有着很大的误导性，让人误以为只有从记事起就感知自己性别认同和指派性别不符的才是真正的跨性别者（我当初也就被这么误导了） https://t.co/tPLToudDIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 113,
+          "like_count": 799,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 104
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD，ASD，BPD/究极天残党/同类互关/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 1889,
+          "like_count": 729,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 876
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010989967498153984",
+        "3_2010989967502413824"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1448339267948728324",
+          "name": "Qatar Stars League"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1448339267948728324",
+          "name": "Qatar Stars League"
+        }
+      }
+    ],
+    "conversation_id": "2010989985126891724",
+    "created_at": "2026-01-13T08:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T09:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010989985126891724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600492995081822210",
+          "start": 3,
+          "username": "IRendy21"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TEXiqHP3Qu",
+          "end": 71,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2010989985126891724/photo/1",
+          "media_key": "3_2010989967498153984",
+          "start": 48,
+          "url": "https://t.co/TEXiqHP3Qu"
+        },
+        {
+          "display_url": "pic.x.com/TEXiqHP3Qu",
+          "end": 71,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2010989985126891724/photo/1",
+          "media_key": "3_2010989967502413824",
+          "start": 48,
+          "url": "https://t.co/TEXiqHP3Qu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010989985126891724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和推油@IRendy21 面面，收到了好多礼物，还有QSL卡！\n晚上准备上山一起观测（￣▽￣） https://t.co/TEXiqHP3Qu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010989967498153984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-h4uIOaEAAxV1w.jpg",
+        "width": 1936
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010989967502413824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-h4uIPbEAA75xA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010989967498153984",
+            "3_2010989967502413824"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1448339267948728324",
+              "name": "Qatar Stars League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448339267948728324",
+              "name": "Qatar Stars League"
+            }
+          }
+        ],
+        "conversation_id": "2010989985126891724",
+        "created_at": "2026-01-13T08:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010989985126891724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600492995081822210",
+              "start": 3,
+              "username": "IRendy21"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEXiqHP3Qu",
+              "end": 71,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2010989985126891724/photo/1",
+              "media_key": "3_2010989967498153984",
+              "start": 48,
+              "url": "https://t.co/TEXiqHP3Qu"
+            },
+            {
+              "display_url": "pic.x.com/TEXiqHP3Qu",
+              "end": 71,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2010989985126891724/photo/1",
+              "media_key": "3_2010989967502413824",
+              "start": 48,
+              "url": "https://t.co/TEXiqHP3Qu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010989985126891724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和推油@IRendy21 面面，收到了好多礼物，还有QSL卡！\n晚上准备上山一起观测（￣▽￣） https://t.co/TEXiqHP3Qu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 667,
+          "like_count": 8796,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 2069
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T14:10:52.000Z",
+        "description": "",
+        "id": "1600492995081822210",
+        "location": "Shanxi-China",
+        "name": "IRendy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600493248837214208/DVCe3uSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 168,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 189
+        },
+        "username": "IRendy21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2027245172472557720",
+    "created_at": "2026-02-27T17:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027432588055621928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760424836097343488",
+          "start": 0,
+          "username": "Ditto9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027432588055621928",
+    "in_reply_to_user_id": "1760424836097343488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027403083454791923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ditto9999 里村人好多哇，我现在加了sve就感觉很热闹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2027245172472557720",
+        "created_at": "2026-02-27T17:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027432588055621928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760424836097343488",
+              "start": 0,
+              "username": "Ditto9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027432588055621928",
+        "in_reply_to_user_id": "1760424836097343488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027403083454791923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ditto9999 里村人好多哇，我现在加了sve就感觉很热闹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760424836097343488",
+        "conversation_id": "2027245172472557720",
+        "created_at": "2026-02-27T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027403083454791923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027403083454791923",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027245172472557720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 没活了大家快去玩里奇赛德村吧！（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 922,
+          "like_count": 13680,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 3718
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-21T22:02:49.000Z",
+        "description": "啃啃啃啃啃啃啃啃啃啃",
+        "id": "1760424836097343488",
+        "name": "Pfalz💛🤍💜🖤",
+        "pinned_tweet_id": "1982857676100120635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960780881939062787/77Fm6dCd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 171,
+          "like_count": 3780,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 557
+        },
+        "username": "Ditto9999",
+        "verified": false
+      }
+    ]
+  }
+}

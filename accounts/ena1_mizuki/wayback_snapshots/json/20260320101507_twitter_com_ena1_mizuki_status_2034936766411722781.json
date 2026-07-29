@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2034640761363595370",
+    "created_at": "2026-03-20T10:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T11:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034936766411722781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690190225891340288",
+          "start": 0,
+          "username": "KernelKim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034936766411722781",
+    "in_reply_to_user_id": "1690190225891340288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034925974748635340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KernelKim 生活在球状星团里的外星人，好有趣w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2034640761363595370",
+        "created_at": "2026-03-20T10:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034936766411722781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690190225891340288",
+              "start": 0,
+              "username": "KernelKim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034936766411722781",
+        "in_reply_to_user_id": "1690190225891340288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034925974748635340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KernelKim 生活在球状星团里的外星人，好有趣w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690190225891340288",
+        "conversation_id": "2034640761363595370",
+        "created_at": "2026-03-20T09:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034925974748635340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034925974748635340",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034640761363595370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 会不会有外星人也在对着地球拍呢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 1054,
+          "like_count": 15377,
+          "listed_count": 6,
+          "media_count": 565,
+          "tweet_count": 4243
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T02:35:35.000Z",
+        "description": "计算机/电影/逗猫/旅游/占位符/undefined/占位符 欢迎来到我的朋友圈（好像也没人看），感谢你关注我（有人关注我我会乐好一会）           实在抱歉，因为要上学所以周一到周五下午并不在线",
+        "id": "1690190225891340288",
+        "location": "Nagoya-shi Meito, Aichi",
+        "name": "KernelKim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690190425816969217/EYMCsc36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 35,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 399
+        },
+        "username": "KernelKim",
+        "verified": false
+      }
+    ]
+  }
+}

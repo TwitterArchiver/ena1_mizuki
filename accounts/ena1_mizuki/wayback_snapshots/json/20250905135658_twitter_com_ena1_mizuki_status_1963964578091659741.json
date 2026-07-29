@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963964574614577153",
+        "3_1963964575474393088"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963964578091659741",
+    "created_at": "2025-09-05T13:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T14:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963964578091659741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CigV3X0ZDb",
+          "end": 68,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1963964578091659741/photo/1",
+          "media_key": "3_1963964574614577153",
+          "start": 45,
+          "url": "https://t.co/CigV3X0ZDb"
+        },
+        {
+          "display_url": "pic.x.com/CigV3X0ZDb",
+          "end": 68,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1963964578091659741/photo/1",
+          "media_key": "3_1963964575474393088",
+          "start": 45,
+          "url": "https://t.co/CigV3X0ZDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963964578091659741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是我hrt的第300天诶，时间过得真快呀，最好的闺蜜还给我点了蛋糕，真的太感动了🥺😭 https://t.co/CigV3X0ZDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_1963964574614577153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FnYAVaYAEK_BC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 880,
+        "media_key": "3_1963964575474393088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0FnYDiaIAA8ADe.jpg",
+        "width": 2020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963964574614577153",
+            "3_1963964575474393088"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963964578091659741",
+        "created_at": "2025-09-05T13:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T14:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963964578091659741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CigV3X0ZDb",
+              "end": 68,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1963964578091659741/photo/1",
+              "media_key": "3_1963964574614577153",
+              "start": 45,
+              "url": "https://t.co/CigV3X0ZDb"
+            },
+            {
+              "display_url": "pic.x.com/CigV3X0ZDb",
+              "end": 68,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1963964578091659741/photo/1",
+              "media_key": "3_1963964575474393088",
+              "start": 45,
+              "url": "https://t.co/CigV3X0ZDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963964578091659741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我hrt的第300天诶，时间过得真快呀，最好的闺蜜还给我点了蛋糕，真的太感动了🥺😭 https://t.co/CigV3X0ZDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 235,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 210
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

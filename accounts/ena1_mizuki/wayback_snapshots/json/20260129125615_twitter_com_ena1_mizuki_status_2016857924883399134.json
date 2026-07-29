@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016787022959300964",
+    "created_at": "2026-01-29T12:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016857924883399134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3284398555",
+          "start": 0,
+          "username": "osfg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016857924883399134",
+    "in_reply_to_user_id": "3284398555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016842439105843683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osfg9 4s店都这样太过分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016787022959300964",
+        "created_at": "2026-01-29T12:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016857924883399134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3284398555",
+              "start": 0,
+              "username": "osfg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016857924883399134",
+        "in_reply_to_user_id": "3284398555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016842439105843683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osfg9 4s店都这样太过分了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3284398555",
+        "conversation_id": "2016787022959300964",
+        "created_at": "2026-01-29T11:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016842439105843683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016842439105843683",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016787022959300964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 火花塞假货非常多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 759,
+          "like_count": 10607,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 2799
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-19T13:14:40.000Z",
+        "description": "XtX. There is no LGBTQ on this wrold, the gender of everyone is X. LIGHT TOUCH is enough!",
+        "id": "3284398555",
+        "location": "People's Republic of China",
+        "name": "osfg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/622757956463935488/wkQEfF_v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2300,
+          "like_count": 44106,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 10262
+        },
+        "username": "osfg9",
+        "verified": false
+      }
+    ]
+  }
+}

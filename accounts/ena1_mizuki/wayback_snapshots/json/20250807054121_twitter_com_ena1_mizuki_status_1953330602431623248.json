@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1953160542207787111",
+    "created_at": "2025-08-07T05:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T06:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953330602431623248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694012668359634944",
+          "start": 0,
+          "username": "yeyvv520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953330602431623248",
+    "in_reply_to_user_id": "1694012668359634944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953160542207787111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeyvv520 至少可以让我从那些令人烦躁的男性生理反应里面解脱出来，感觉明显降低了焦虑水平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1953160542207787111",
+        "created_at": "2025-08-07T05:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T06:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953330602431623248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694012668359634944",
+              "start": 0,
+              "username": "yeyvv520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953330602431623248",
+        "in_reply_to_user_id": "1694012668359634944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953160542207787111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeyvv520 至少可以让我从那些令人烦躁的男性生理反应里面解脱出来，感觉明显降低了焦虑水平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694012668359634944",
+        "conversation_id": "1953160542207787111",
+        "created_at": "2025-08-06T18:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T19:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953160542207787111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953160542207787111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6876,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个进行hrt的mtf，但是因为条件限制不能rle，那她的hrt会有意义吗，还是只起安慰剂作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 68,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 81
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T15:44:46.000Z",
+        "description": "不线下  会互关同类\n药药🍥🏳️‍⚧️  hrt🍬2025.3.15  出柜，家长反对吃糖  \n精神不稳定 割手 不od \n会偶尔发负能量，慎关注\n努力攒钱ing\n2008.3.9北京\n减肥ing",
+        "id": "1694012668359634944",
+        "name": "叶雨薇",
+        "pinned_tweet_id": "1932347145019130124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884288106343587840/Q7SI6jgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 1094,
+          "like_count": 1319,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 828
+        },
+        "username": "yeyvv520",
+        "verified": false
+      }
+    ]
+  }
+}

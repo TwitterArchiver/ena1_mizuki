@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066587217192177665"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2066587219780042903",
+    "created_at": "2026-06-15T18:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T19:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066587219780042903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y5hmXRjcII",
+          "end": 78,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2066587219780042903/photo/1",
+          "media_key": "3_2066587217192177665",
+          "start": 55,
+          "url": "https://t.co/Y5hmXRjcII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066587219780042903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两天和朋友一起去看星星，除了观星就是开车和睡觉，没有力气聊天，结果冷落小男友了，社交精力还是太低了呀悲伤😭 https://t.co/Y5hmXRjcII"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2066587217192177665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3-H_IaUAEgXjc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066587217192177665"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2066587219780042903",
+        "created_at": "2026-06-15T18:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066587219780042903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5hmXRjcII",
+              "end": 78,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2066587219780042903/photo/1",
+              "media_key": "3_2066587217192177665",
+              "start": 55,
+              "url": "https://t.co/Y5hmXRjcII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066587219780042903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天和朋友一起去看星星，除了观星就是开车和睡觉，没有力气聊天，结果冷落小男友了，社交精力还是太低了呀悲伤😭 https://t.co/Y5hmXRjcII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 1283,
+          "like_count": 18707,
+          "listed_count": 8,
+          "media_count": 714,
+          "tweet_count": 5382
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024067101317791744"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2024058046272393229",
+    "created_at": "2026-02-18T10:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024067111903961496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zJskPYrKz",
+          "end": 43,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2024067111903961496/photo/1",
+          "media_key": "3_2024067101317791744",
+          "start": 20,
+          "url": "https://t.co/1zJskPYrKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024067111903961496",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024058046272393229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 哇，窝也是~ https://t.co/1zJskPYrKz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2024067101317791744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbuTf-aAAA8FDM.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024058042976026624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbmEPBbwAAEiA2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024067101317791744"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2024058046272393229",
+        "created_at": "2026-02-18T10:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024067111903961496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zJskPYrKz",
+              "end": 43,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2024067111903961496/photo/1",
+              "media_key": "3_2024067101317791744",
+              "start": 20,
+              "url": "https://t.co/1zJskPYrKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024067111903961496",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024058046272393229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 哇，窝也是~ https://t.co/1zJskPYrKz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024058042976026624"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "conversation_id": "2024058046272393229",
+        "created_at": "2026-02-18T09:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024058046272393229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7g9tf2ZxdM",
+              "end": 30,
+              "expanded_url": "https://x.com/meiqinyuban/status/2024058046272393229/photo/1",
+              "media_key": "3_2024058042976026624",
+              "start": 7,
+              "url": "https://t.co/7g9tf2ZxdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024058046272393229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，四个1🐱 https://t.co/7g9tf2ZxdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 877,
+          "like_count": 12893,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 3527
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007094270436753408/CIZOasT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 849,
+          "like_count": 16886,
+          "listed_count": 1,
+          "media_count": 1436,
+          "tweet_count": 7956
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

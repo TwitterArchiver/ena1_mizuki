@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2045506753241268560",
+    "created_at": "2026-04-19T16:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045901143902216247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756554449286569984",
+          "start": 0,
+          "username": "VanyarElfCeCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045901143902216247",
+    "in_reply_to_user_id": "1756554449286569984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045862022336885104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VanyarElfCeCi 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2045506753241268560",
+        "created_at": "2026-04-19T16:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045901143902216247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756554449286569984",
+              "start": 0,
+              "username": "VanyarElfCeCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045901143902216247",
+        "in_reply_to_user_id": "1756554449286569984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045862022336885104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VanyarElfCeCi 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756554449286569984",
+        "conversation_id": "2045506753241268560",
+        "created_at": "2026-04-19T13:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045862022336885104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045862022336885104",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045506753241268560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 哇哦，你拍的像片都很好看誒，期待更多作品，加油！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 1116,
+          "like_count": 16838,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 4607
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T05:43:21.000Z",
+        "description": "",
+        "id": "1756554449286569984",
+        "location": "Taipei City, Taiwan",
+        "name": "🍀 ななくさ · ナズナ 🍀",
+        "pinned_tweet_id": "1833836982503661861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017216947361079296/zYnjz_rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 356,
+          "like_count": 4558,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 1937
+        },
+        "username": "VanyarElfCeCi",
+        "verified": false
+      }
+    ]
+  }
+}

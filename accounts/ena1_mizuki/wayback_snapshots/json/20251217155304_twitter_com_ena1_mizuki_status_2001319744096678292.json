@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2001270815011299386",
+    "created_at": "2025-12-17T15:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001319744096678292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "SerenTsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001319744096678292",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001303501100470593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenTsuki 诶嘿谢谢果酱🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T15:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001319744096678292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "SerenTsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001319744096678292",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001303501100470593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenTsuki 诶嘿谢谢果酱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829158936695623680",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T14:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001303501100470593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001303501100470593",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001270815011299386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好诶恭喜小水母！！🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 460,
+          "like_count": 5578,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1122
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果奶酱🍭丨MiruJam丨弱 ACG丨社恐丨ブルアカ｜是水月厨！🪼丨Blender丨Unity丨Rust丨想变得可爱丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 434,
+          "like_count": 38166,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2297
+        },
+        "username": "SerenTsuki",
+        "verified": false
+      }
+    ]
+  }
+}

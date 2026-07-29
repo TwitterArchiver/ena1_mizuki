@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2035016262003433756",
+    "created_at": "2026-03-20T15:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T16:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035016262003433756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7NIKooo/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/7NIKooo/status/2034888096022765838",
+          "start": 22,
+          "url": "https://t.co/ThalSKjxOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035016262003433756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034888096022765838",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我自拍就这样，为什么拍出来的会比预览丑呀😇 https://t.co/ThalSKjxOP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2035016262003433756",
+        "created_at": "2026-03-20T15:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035016262003433756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7NIKooo/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/7NIKooo/status/2034888096022765838",
+              "start": 22,
+              "url": "https://t.co/ThalSKjxOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035016262003433756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034888096022765838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自拍就这样，为什么拍出来的会比预览丑呀😇 https://t.co/ThalSKjxOP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742559755883679744",
+        "conversation_id": "2034866300372361651",
+        "created_at": "2026-03-20T07:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034888096022765838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034888096022765838",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1361,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034866300372361651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 有时候照镜子觉得自己挺好看的 打开前置也还能看至少没有嘴歪眼斜 一按下拍照键看到图片生不如死 后置那是要做个十天八天的心理建设才能让朋友帮拍 看到图片那一刻觉得山海经都是真实存在的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 1054,
+          "like_count": 15385,
+          "listed_count": 6,
+          "media_count": 565,
+          "tweet_count": 4244
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T14:53:26.000Z",
+        "description": "",
+        "id": "1742559755883679744",
+        "name": "船",
+        "pinned_tweet_id": "2034502303861129276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742559882740654080/9JBFEuS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 32,
+          "like_count": 1333,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 720
+        },
+        "username": "7NIKooo",
+        "verified": false
+      }
+    ]
+  }
+}

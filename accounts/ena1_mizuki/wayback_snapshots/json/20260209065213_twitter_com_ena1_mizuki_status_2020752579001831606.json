@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2020407670638014833",
+    "created_at": "2026-02-09T06:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T07:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020752579001831606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "716102708873170944",
+          "start": 0,
+          "username": "ufucjxtssuvovlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020752579001831606",
+    "in_reply_to_user_id": "716102708873170944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020751491192193398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ufucjxtssuvovlk 休学半年出去玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2020407670638014833",
+        "created_at": "2026-02-09T06:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020752579001831606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "716102708873170944",
+              "start": 0,
+              "username": "ufucjxtssuvovlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020752579001831606",
+        "in_reply_to_user_id": "716102708873170944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020751491192193398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ufucjxtssuvovlk 休学半年出去玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "716102708873170944",
+        "conversation_id": "2020407670638014833",
+        "created_at": "2026-02-09T06:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020751491192193398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020751491192193398",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020407670638014833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 要怎么做 才能在年纪轻轻就过上这种生活，悠闲的到处旅行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 832,
+          "like_count": 12076,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 3260
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-02T03:19:25.000Z",
+        "description": "反乌托邦",
+        "id": "716102708873170944",
+        "location": "比利时",
+        "name": "诶哎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581125143199375361/yxHQy22y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 79,
+          "like_count": 667,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 214
+        },
+        "username": "ufucjxtssuvovlk",
+        "verified": false
+      }
+    ]
+  }
+}

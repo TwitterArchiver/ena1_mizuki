@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2037828584786759926",
+    "created_at": "2026-03-28T14:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037898680074936533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905892938510651392",
+          "start": 0,
+          "username": "koko_Ceth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037898680074936533",
+    "in_reply_to_user_id": "1905892938510651392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037859291340923290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koko_Ceth 我查了这实际上是个非周期彗星，估计轨道参数比较极端的情况下计算出了问题（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2037828584786759926",
+        "created_at": "2026-03-28T14:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037898680074936533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905892938510651392",
+              "start": 0,
+              "username": "koko_Ceth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037898680074936533",
+        "in_reply_to_user_id": "1905892938510651392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037859291340923290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koko_Ceth 我查了这实际上是个非周期彗星，估计轨道参数比较极端的情况下计算出了问题（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905892938510651392",
+        "conversation_id": "2037828584786759926",
+        "created_at": "2026-03-28T11:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037859291340923290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037859291340923290",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037828584786759926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 会不会是缺省值（\n不知道 NaN 的天文学家在表格里乱填 -999 be like"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1066,
+          "like_count": 15817,
+          "listed_count": 6,
+          "media_count": 585,
+          "tweet_count": 4380
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T08:01:18.000Z",
+        "description": "hypocaffeinemia\nUTAstro DX\nJSPS DC2 2026.4~",
+        "id": "1905892938510651392",
+        "name": "Chethy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905893097663569920/FJw7U0dO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 117,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "username": "koko_Ceth",
+        "verified": false
+      }
+    ]
+  }
+}

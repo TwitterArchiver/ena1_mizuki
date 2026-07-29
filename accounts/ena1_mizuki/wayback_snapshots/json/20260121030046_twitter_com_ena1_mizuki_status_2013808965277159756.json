@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013559692287410440",
+    "created_at": "2026-01-21T03:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T04:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013808965277159756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600096860114501633",
+          "start": 0,
+          "username": "Hoshino_Ayaka97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013808965277159756",
+    "in_reply_to_user_id": "1600096860114501633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013807171885318397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Ayaka97 诶嘿左上那个就是虾饺，好吃呢，不过我感觉右边的蒸排骨更美味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013559692287410440",
+        "created_at": "2026-01-21T03:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013808965277159756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600096860114501633",
+              "start": 0,
+              "username": "Hoshino_Ayaka97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013808965277159756",
+        "in_reply_to_user_id": "1600096860114501633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013807171885318397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Ayaka97 诶嘿左上那个就是虾饺，好吃呢，不过我感觉右边的蒸排骨更美味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600096860114501633",
+        "conversation_id": "2013559692287410440",
+        "created_at": "2026-01-21T02:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013807171885318397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013807171885318397",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013559692287410440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 得点虾饺凤爪金钱肚，主食要炒牛河或者肠粉跟粥✨✨✨\n因为这是我爱吃的🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 720,
+          "like_count": 9586,
+          "listed_count": 3,
+          "media_count": 399,
+          "tweet_count": 2403
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T11:56:44.000Z",
+        "description": "成为一只可爱的会飞的猫猫，到世界各地旅行（睡懒觉）|火星殖民地大小姐|地球猫猫教|Betelgeuse Traveler|EarthOnline Player||🦋→https://t.co/WnD9mVRLvR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hoshin…",
+                "end": 107,
+                "expanded_url": "https://bsky.app/profile/hoshinoayaka97.bsky.social",
+                "start": 84,
+                "url": "https://t.co/WnD9mVRLvR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hoshino_Ayaka",
+                "end": 23,
+                "expanded_url": "https://t.me/Hoshino_Ayaka",
+                "start": 0,
+                "url": "https://t.co/LXAlX7duga"
+              }
+            ]
+          }
+        },
+        "id": "1600096860114501633",
+        "location": "地球联邦火星殖民地",
+        "name": "星野スーパーあやかAyakaカフェイン中毒$エネルギー不足",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600097324558163968/K7Vihna7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 537,
+          "like_count": 29532,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 2880
+        },
+        "url": "https://t.co/LXAlX7duga",
+        "username": "Hoshino_Ayaka97",
+        "verified": false
+      }
+    ]
+  }
+}

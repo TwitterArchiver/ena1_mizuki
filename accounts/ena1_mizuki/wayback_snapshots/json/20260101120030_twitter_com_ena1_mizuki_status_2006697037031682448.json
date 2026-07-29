@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2006696970090627072"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2006697037031682448",
+    "created_at": "2026-01-01T12:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T13:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006697037031682448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WPzLQU7yZh",
+          "end": 56,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2006697037031682448/video/1",
+          "media_key": "7_2006696970090627072",
+          "start": 33,
+          "url": "https://t.co/WPzLQU7yZh"
+        },
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2006661440531525728",
+          "start": 57,
+          "url": "https://t.co/sJ8anSkEoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006697037031682448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006661440531525728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天情绪这么好嘛，跳了好几次舞了，之前都难得一见的(´▽｀)ノ♪ https://t.co/WPzLQU7yZh https://t.co/sJ8anSkEoO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20202,
+        "height": 1080,
+        "media_key": "7_2006696970090627072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006696970090627072/pu/img/5ObIEM-lZlpsVtoa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006696970090627072/pu/vid/avc1/320x320/b_OMEKlwpTWw5-lE.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006696970090627072/pu/vid/avc1/1080x1080/kgBLNceF3P1bcYze.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006696970090627072/pu/vid/avc1/720x720/FnaXkw7rPKwE_KlU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006696970090627072/pu/vid/avc1/540x540/IhEU-tjVX4cH3X-F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006696970090627072/pu/pl/bBqCPftQJypjvM4J.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 17508,
+        "height": 720,
+        "media_key": "7_2006661416262967296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2006661416262967296/pu/img/AQU2wZm0k0FbtCDQ.jpg",
+        "public_metrics": {
+          "view_count": 35
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006661416262967296/pu/vid/avc1/360x270/lJ8FCmEYsS_7RfXf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006661416262967296/pu/vid/avc1/480x360/3Evri9RxEMZn6lIs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2006661416262967296/pu/vid/avc1/960x720/4Iexsau-3_fgFL2K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2006661416262967296/pu/pl/5Ru2ammlxXH_KNj7.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006696970090627072"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2006697037031682448",
+        "created_at": "2026-01-01T12:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006697037031682448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPzLQU7yZh",
+              "end": 56,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2006697037031682448/video/1",
+              "media_key": "7_2006696970090627072",
+              "start": 33,
+              "url": "https://t.co/WPzLQU7yZh"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2006661440531525728",
+              "start": 57,
+              "url": "https://t.co/sJ8anSkEoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006697037031682448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006661440531525728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天情绪这么好嘛，跳了好几次舞了，之前都难得一见的(´▽｀)ノ♪ https://t.co/WPzLQU7yZh https://t.co/sJ8anSkEoO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2006661416262967296"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2006661440531525728",
+        "created_at": "2026-01-01T09:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006661440531525728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9uQRREeLr",
+              "end": 46,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2006661440531525728/video/1",
+              "media_key": "7_2006661416262967296",
+              "start": 23,
+              "url": "https://t.co/d9uQRREeLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006661440531525728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天给小鸟喂了蔬菜，看起来它们很开心呀^_^ https://t.co/d9uQRREeLr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 563,
+          "like_count": 7385,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 1667
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

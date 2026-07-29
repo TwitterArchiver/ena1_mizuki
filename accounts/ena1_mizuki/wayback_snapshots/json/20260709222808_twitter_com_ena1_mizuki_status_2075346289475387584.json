@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2075196201667014787",
+    "created_at": "2026-07-09T22:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T23:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075346289475387584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491952076670529536",
+          "start": 0,
+          "username": "Juyan13907817"
+        },
+        {
+          "end": 25,
+          "id": "1902735424839413760",
+          "start": 15,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075346289475387584",
+    "in_reply_to_user_id": "1491952076670529536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075214302018167039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Juyan13907817 @litgraley 想电就电😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2075196201667014787",
+        "created_at": "2026-07-09T22:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075346289475387584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491952076670529536",
+              "start": 0,
+              "username": "Juyan13907817"
+            },
+            {
+              "end": 25,
+              "id": "1902735424839413760",
+              "start": 15,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075346289475387584",
+        "in_reply_to_user_id": "1491952076670529536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075214302018167039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Juyan13907817 @litgraley 想电就电😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491952076670529536",
+        "conversation_id": "2075196201667014787",
+        "created_at": "2026-07-09T13:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075214302018167039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1902735424839413760",
+              "start": 13,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075214302018167039",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075196201667014787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @litgraley 挺好奇挨电条件是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 1343,
+          "like_count": 19282,
+          "listed_count": 8,
+          "media_count": 750,
+          "tweet_count": 5578
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-11T01:49:35.000Z",
+        "description": "cn/eng ok   jpn苦手  一般路过音游人，主要是pjsk(主推角色ick)/arc/中二 偶尔打打mai/malody\n其他成分:三国杀（ol）气球塔防(? 宝批为主带火纹的任豚    怪猎（GU/World/RISE）\n\n很少发推 潜水为主 想互fo\n可能会发一些音游近况",
+        "id": "1491952076670529536",
+        "location": "教室のセカイ",
+        "name": "Juyan",
+        "pinned_tweet_id": "1893161668320121030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890049278237884416/fkiepbI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 1316,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "Juyan13907817",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 915,
+          "like_count": 38363,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 6105
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

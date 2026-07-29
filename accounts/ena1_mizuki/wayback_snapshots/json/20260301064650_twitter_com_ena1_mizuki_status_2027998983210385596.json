@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027998976335818752"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2027998983210385596",
+    "created_at": "2026-03-01T06:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T07:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027998983210385596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q7qojjDyIX",
+          "end": 44,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2027998983210385596/photo/1",
+          "media_key": "3_2027998976335818752",
+          "start": 21,
+          "url": "https://t.co/Q7qojjDyIX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027998983210385596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "品尝杨桃果酒😎\n比星露谷里的便宜很多ww https://t.co/Q7qojjDyIX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027998976335818752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTmUv1aMAAaz47.jpg",
+        "width": 1685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027998976335818752"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2027998983210385596",
+        "created_at": "2026-03-01T06:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027998983210385596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7qojjDyIX",
+              "end": 44,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2027998983210385596/photo/1",
+              "media_key": "3_2027998976335818752",
+              "start": 21,
+              "url": "https://t.co/Q7qojjDyIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027998983210385596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "品尝杨桃果酒😎\n比星露谷里的便宜很多ww https://t.co/Q7qojjDyIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 930,
+          "like_count": 13792,
+          "listed_count": 6,
+          "media_count": 520,
+          "tweet_count": 3750
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

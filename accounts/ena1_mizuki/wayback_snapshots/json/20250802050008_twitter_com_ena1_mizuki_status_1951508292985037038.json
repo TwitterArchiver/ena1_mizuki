@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1951197465614430209"
+      ],
+      "media_source_tweet_id": [
+        "1951197537408328000"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1951508292985037038",
+    "created_at": "2025-08-02T05:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T06:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951508292985037038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1315345422123180033",
+          "start": 3,
+          "username": "ShouldHaveAnima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WlBOoHSRyP",
+          "end": 44,
+          "expanded_url": "https://x.com/ShouldHaveAnima/status/1951197537408328000/video/1",
+          "media_key": "13_1951197465614430209",
+          "start": 21,
+          "url": "https://t.co/WlBOoHSRyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951508292985037038",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951197537408328000",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveAnima: https://t.co/WlBOoHSRyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10866,
+        "height": 1280,
+        "media_key": "13_1951197465614430209",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951197465614430209/img/2tSEu8nAqWRWEcFq.jpg",
+        "public_metrics": {
+          "view_count": 569236
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951197465614430209/vid/avc1/320x568/nHmxrZ1mGOMyMgS2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951197465614430209/vid/avc1/480x852/mtMd8sEhKgLL5dMm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951197465614430209/vid/avc1/720x1280/YRTmcvqyKvhJtWQu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951197465614430209/pl/nK3HiXkTCj07yuCF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951197465614430209"
+          ],
+          "media_source_tweet_id": [
+            "1951197537408328000"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1951508292985037038",
+        "created_at": "2025-08-02T05:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951508292985037038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1315345422123180033",
+              "start": 3,
+              "username": "ShouldHaveAnima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlBOoHSRyP",
+              "end": 44,
+              "expanded_url": "https://x.com/ShouldHaveAnima/status/1951197537408328000/video/1",
+              "media_key": "13_1951197465614430209",
+              "start": 21,
+              "url": "https://t.co/WlBOoHSRyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951508292985037038",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951197537408328000",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveAnima: https://t.co/WlBOoHSRyP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951197465614430209"
+          ]
+        },
+        "author_id": "1315345422123180033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "1951197537408328000",
+        "created_at": "2025-08-01T08:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951197537408328000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlBOoHSRyP",
+              "end": 23,
+              "expanded_url": "https://x.com/ShouldHaveAnima/status/1951197537408328000/video/1",
+              "media_key": "13_1951197465614430209",
+              "start": 0,
+              "url": "https://t.co/WlBOoHSRyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951197537408328000",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1290,
+          "impression_count": 1099109,
+          "like_count": 20906,
+          "quote_count": 71,
+          "reply_count": 29,
+          "retweet_count": 2202
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WlBOoHSRyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 43,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 58
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-11T17:36:37.000Z",
+        "description": "The Perfect account to show your parents when you want an animal & nature",
+        "id": "1315345422123180033",
+        "location": "Dm For Credit ",
+        "name": "Beauty Of Nature 🌳",
+        "pinned_tweet_id": "1951140809270538538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932680035976060928/FCvcEpsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667418,
+          "following_count": 52,
+          "like_count": 176,
+          "listed_count": 5153,
+          "media_count": 11609,
+          "tweet_count": 11788
+        },
+        "username": "ShouldHaveAnima",
+        "verified": true
+      }
+    ]
+  }
+}

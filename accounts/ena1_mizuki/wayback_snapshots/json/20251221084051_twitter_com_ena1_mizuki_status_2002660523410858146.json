@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2002385836080574724",
+    "created_at": "2025-12-21T08:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T09:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002660523410858146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1687472685964742656",
+          "start": 0,
+          "username": "MizukiMizu74138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002660523410858146",
+    "in_reply_to_user_id": "1687472685964742656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002647793937396073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukiMizu74138 嗯哼(´▽｀)ノ♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2002385836080574724",
+        "created_at": "2025-12-21T08:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002660523410858146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1687472685964742656",
+              "start": 0,
+              "username": "MizukiMizu74138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002660523410858146",
+        "in_reply_to_user_id": "1687472685964742656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002647793937396073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukiMizu74138 嗯哼(´▽｀)ノ♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687472685964742656",
+        "conversation_id": "2002385836080574724",
+        "created_at": "2025-12-21T07:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T08:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002647793937396073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002647793937396073",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002385836080574724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 老大厉害喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 493,
+          "like_count": 6034,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1248
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-04T14:37:11.000Z",
+        "description": "你的光芒会照亮前行之路\n明日方舟/邦邦/术力口/音游 本质是仓田真白激推人 \n互fo大欢迎！！关注了都会回fo",
+        "id": "1687472685964742656",
+        "location": "宇宙 日本 世田谷",
+        "name": "Mizuki Mizuki",
+        "pinned_tweet_id": "1997006579556889053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995375562899222528/oH0-P17N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 361,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 323
+        },
+        "username": "MizukiMizu74138",
+        "verified": false
+      }
+    ]
+  }
+}

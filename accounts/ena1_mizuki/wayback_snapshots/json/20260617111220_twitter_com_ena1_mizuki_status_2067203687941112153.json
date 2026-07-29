@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2067027856853745682",
+    "created_at": "2026-06-17T11:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067203687941112153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059185367723737089",
+          "start": 0,
+          "username": "Phangusy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067203687941112153",
+    "in_reply_to_user_id": "2059185367723737089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067117850100428970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phangusy 呜哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2067027856853745682",
+        "created_at": "2026-06-17T11:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067203687941112153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059185367723737089",
+              "start": 0,
+              "username": "Phangusy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067203687941112153",
+        "in_reply_to_user_id": "2059185367723737089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067117850100428970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phangusy 呜哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059185367723737089",
+        "conversation_id": "2067027856853745682",
+        "created_at": "2026-06-17T05:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067117850100428970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067117850100428970",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067027856853745682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 噔～噔～噔～噔噔噔噔\n感觉下一秒要把手机啃一口（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 1288,
+          "like_count": 18755,
+          "listed_count": 8,
+          "media_count": 718,
+          "tweet_count": 5404
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T08:12:08.000Z",
+        "description": "求求你能给我一颗运算放大器嘛？",
+        "id": "2059185367723737089",
+        "name": "钒菇𝑷𝒉𝒂𝒏𝒈𝒖𝒔𝒆𝒎𝒊𝒂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059186250092052481/5ujDeXXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 60,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 45
+        },
+        "username": "Phangusy",
+        "verified": false
+      }
+    ]
+  }
+}

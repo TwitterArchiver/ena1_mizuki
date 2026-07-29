@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1963409721597268104",
+    "created_at": "2025-09-05T07:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T08:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963868432933290146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        },
+        {
+          "end": 20,
+          "id": "1882996032428191744",
+          "start": 9,
+          "username": "ZeroROLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963868432933290146",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963642440918999149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus @ZeroROLing 还真是，我吃糖之后一点都没有变胖，胸也像没有一样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1963409721597268104",
+        "created_at": "2025-09-05T07:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T08:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963868432933290146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            },
+            {
+              "end": 20,
+              "id": "1882996032428191744",
+              "start": 9,
+              "username": "ZeroROLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963868432933290146",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963642440918999149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus @ZeroROLing 还真是，我吃糖之后一点都没有变胖，胸也像没有一样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1963409721597268104",
+        "created_at": "2025-09-04T16:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963642440918999149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882996032428191744",
+              "start": 0,
+              "username": "ZeroROLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963642440918999149",
+        "in_reply_to_user_id": "1882996032428191744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963641304845545950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZeroROLing 可能会没奶子👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 211,
+          "like_count": 1334,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 197
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "武汉丨Femboy丨可线下丨m丨180cm/56kg丨长得不好看，也没有优点丨🚪15/50/用于交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nzikWB"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "location": "武汉",
+        "name": "小方拌饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 1672,
+          "like_count": 7258,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1829
+        },
+        "url": "https://t.co/jjy2nzikWB",
+        "username": "ceobrus",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T03:37:25.000Z",
+        "description": "含糖xnn | 🍥: 2025-8-25 | 168cm，50kg  |  社恐 | \n粉丝q群：978242819",
+        "id": "1882996032428191744",
+        "name": "凌零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959811154374725632/Y_ocwCKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 17,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 75
+        },
+        "username": "ZeroROLing",
+        "verified": false
+      }
+    ]
+  }
+}

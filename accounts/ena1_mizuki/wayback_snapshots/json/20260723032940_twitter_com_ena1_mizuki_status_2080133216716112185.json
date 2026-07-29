@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2080133216716112185",
+    "created_at": "2026-07-23T03:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080133216716112185"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080133216716112185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊好开心，第一次打电话伪声成功，聊了半天最后和我说“那女士您继续忙”，我故作镇定说了再见，实际上已经开心的要飞起来了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2080133216716112185",
+        "created_at": "2026-07-23T03:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080133216716112185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080133216716112185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊好开心，第一次打电话伪声成功，聊了半天最后和我说“那女士您继续忙”，我故作镇定说了再见，实际上已经开心的要飞起来了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 1403,
+          "like_count": 19549,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 5714
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

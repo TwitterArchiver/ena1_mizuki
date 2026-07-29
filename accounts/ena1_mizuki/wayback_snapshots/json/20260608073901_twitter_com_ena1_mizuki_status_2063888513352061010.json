@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063888493626138624"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063888513352061010",
+    "created_at": "2026-06-08T07:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063888513352061010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hj8iaG7aYu",
+          "end": 70,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2063888513352061010/photo/1",
+          "media_key": "3_2063888493626138624",
+          "start": 47,
+          "url": "https://t.co/Hj8iaG7aYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063888513352061010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在海边发现了像是珊瑚一样的东西，查了资料似乎实际上是苔藓虫遗骸，比珊瑚轻而且脆不少，很神奇的 https://t.co/Hj8iaG7aYu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063888493626138624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRnpmaaIAAjQsE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063888493626138624"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063888513352061010",
+        "created_at": "2026-06-08T07:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063888513352061010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hj8iaG7aYu",
+              "end": 70,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2063888513352061010/photo/1",
+              "media_key": "3_2063888493626138624",
+              "start": 47,
+              "url": "https://t.co/Hj8iaG7aYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063888513352061010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在海边发现了像是珊瑚一样的东西，查了资料似乎实际上是苔藓虫遗骸，比珊瑚轻而且脆不少，很神奇的 https://t.co/Hj8iaG7aYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 1277,
+          "like_count": 18522,
+          "listed_count": 8,
+          "media_count": 704,
+          "tweet_count": 5327
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

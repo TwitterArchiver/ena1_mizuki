@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2010642891207737612",
+    "created_at": "2026-01-12T14:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T15:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010727426037596219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982692566715027456",
+          "start": 0,
+          "username": "MaxWsl374246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010727426037596219",
+    "in_reply_to_user_id": "1982692566715027456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010717160583082041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxWsl374246 摸摸~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2010642891207737612",
+        "created_at": "2026-01-12T14:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010727426037596219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982692566715027456",
+              "start": 0,
+              "username": "MaxWsl374246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010727426037596219",
+        "in_reply_to_user_id": "1982692566715027456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010717160583082041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxWsl374246 摸摸~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982692566715027456",
+        "conversation_id": "2010642891207737612",
+        "created_at": "2026-01-12T14:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010717160583082041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010717160583082041",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010642891207737612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 663,
+          "like_count": 8766,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 2060
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T06:16:49.000Z",
+        "description": "09年5月/180+死亡东京塔+石墩子🤐/🎭/脑子里貌似有好几个人在开应怕😈🔪😖💊😆⏰️😔🪦😶💤/MTF/HRT25.11.6🍥/₍˄·͈༝·͈˄₎◞ ̑̑同类互fo！/OD（在戒了👿）/有时自残/ 逆天劳保生物跌离我远点  (;﹏;)/已退学/终于可以留头发了！😇",
+        "id": "1982692566715027456",
+        "name": "ChibaMax🍥😶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009905820062932992/5Q94aU2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 270,
+          "like_count": 8142,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1018
+        },
+        "username": "MaxWsl374246",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999815364230909952"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1999815380592898301",
+    "created_at": "2025-12-13T12:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T13:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999815380592898301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2840236608",
+          "start": 2,
+          "username": "StarNekOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UqQQA7Wymn",
+          "end": 71,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1999815380592898301/photo/1",
+          "media_key": "3_1999815364230909952",
+          "start": 48,
+          "url": "https://t.co/UqQQA7Wymn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999815380592898301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@StarNekOvO送的超大号鼠标垫，三小只太可爱了，呜呜简直是宝宝，好喜欢好喜欢🥰🥰🥰 https://t.co/UqQQA7Wymn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_1999815364230909952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DFenFaEAAubKT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999815364230909952"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1999815380592898301",
+        "created_at": "2025-12-13T12:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999815380592898301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2840236608",
+              "start": 2,
+              "username": "StarNekOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqQQA7Wymn",
+              "end": 71,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1999815380592898301/photo/1",
+              "media_key": "3_1999815364230909952",
+              "start": 48,
+              "url": "https://t.co/UqQQA7Wymn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999815380592898301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@StarNekOvO送的超大号鼠标垫，三小只太可爱了，呜呜简直是宝宝，好喜欢好喜欢🥰🥰🥰 https://t.co/UqQQA7Wymn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 442,
+          "like_count": 5118,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 1019
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統。System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4367,
+          "following_count": 2094,
+          "like_count": 32317,
+          "listed_count": 17,
+          "media_count": 1322,
+          "tweet_count": 11134
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

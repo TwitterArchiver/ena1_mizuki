@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2001270815011299386",
+    "created_at": "2025-12-17T16:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001322073487278353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999415746997420036",
+          "start": 0,
+          "username": "Xuzawanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001322073487278353",
+    "in_reply_to_user_id": "1999415746997420036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001321577334603966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuzawanoda 阿里嘎多(=^▽^=)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T16:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001322073487278353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999415746997420036",
+              "start": 0,
+              "username": "Xuzawanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001322073487278353",
+        "in_reply_to_user_id": "1999415746997420036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001321577334603966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuzawanoda 阿里嘎多(=^▽^=)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999415746997420036",
+        "conversation_id": "2001270815011299386",
+        "created_at": "2025-12-17T16:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001321577334603966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001321577334603966",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001270815011299386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 🎉🎉哦咩跌多🌟🌟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 462,
+          "like_count": 5585,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1128
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T09:47:30.000Z",
+        "description": "妄言live二期生喏哒！\n无言势，点赞势",
+        "id": "1999415746997420036",
+        "location": "随机乱数",
+        "name": "苦呀西EX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001290462309822464/_eK03Kor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 98,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 62
+        },
+        "username": "Xuzawanoda",
+        "verified": false
+      }
+    ]
+  }
+}

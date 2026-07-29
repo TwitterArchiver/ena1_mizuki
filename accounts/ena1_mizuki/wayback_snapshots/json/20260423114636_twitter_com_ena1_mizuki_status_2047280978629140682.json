@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047162976441094144",
+        "3_2047162976202022912"
+      ],
+      "media_source_tweet_id": [
+        "2047162989003075764",
+        "2047162989003075764"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2047280978629140682",
+    "created_at": "2026-04-23T11:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047280978629140682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567993138719109120",
+          "start": 3,
+          "username": "Uru_x_xo0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RxCnntBV5r",
+          "end": 77,
+          "expanded_url": "https://x.com/Uru_x_xo0/status/2047162989003075764/photo/1",
+          "media_key": "3_2047162976441094144",
+          "start": 54,
+          "url": "https://t.co/RxCnntBV5r"
+        },
+        {
+          "display_url": "pic.x.com/RxCnntBV5r",
+          "end": 77,
+          "expanded_url": "https://x.com/Uru_x_xo0/status/2047162989003075764/photo/1",
+          "media_key": "3_2047162976202022912",
+          "start": 54,
+          "url": "https://t.co/RxCnntBV5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047280978629140682",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 372
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047162989003075764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uru_x_xo0: ⬅️病み垢が想像しているクラゲ\n\n　　　　　　砂浜に打ち上げられたクラゲ➡️ https://t.co/RxCnntBV5r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 390,
+        "media_key": "3_2047162976441094144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj74XgaUAAeDWB.jpg",
+        "width": 235
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2047162976202022912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj74WnaYAAU9l6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047162976441094144",
+            "3_2047162976202022912"
+          ],
+          "media_source_tweet_id": [
+            "2047162989003075764",
+            "2047162989003075764"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2047280978629140682",
+        "created_at": "2026-04-23T11:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047280978629140682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567993138719109120",
+              "start": 3,
+              "username": "Uru_x_xo0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxCnntBV5r",
+              "end": 77,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2047162989003075764/photo/1",
+              "media_key": "3_2047162976441094144",
+              "start": 54,
+              "url": "https://t.co/RxCnntBV5r"
+            },
+            {
+              "display_url": "pic.x.com/RxCnntBV5r",
+              "end": 77,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2047162989003075764/photo/1",
+              "media_key": "3_2047162976202022912",
+              "start": 54,
+              "url": "https://t.co/RxCnntBV5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047280978629140682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047162989003075764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uru_x_xo0: ⬅️病み垢が想像しているクラゲ\n\n　　　　　　砂浜に打ち上げられたクラゲ➡️ https://t.co/RxCnntBV5r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047162976441094144",
+            "3_2047162976202022912"
+          ]
+        },
+        "author_id": "1567993138719109120",
+        "conversation_id": "2047162989003075764",
+        "created_at": "2026-04-23T03:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047162989003075764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxCnntBV5r",
+              "end": 62,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2047162989003075764/photo/1",
+              "media_key": "3_2047162976441094144",
+              "start": 39,
+              "url": "https://t.co/RxCnntBV5r"
+            },
+            {
+              "display_url": "pic.x.com/RxCnntBV5r",
+              "end": 62,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2047162989003075764/photo/1",
+              "media_key": "3_2047162976202022912",
+              "start": 39,
+              "url": "https://t.co/RxCnntBV5r"
+            },
+            {
+              "display_url": "x.com/touketumasiro/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/touketumasiro/status/2046904849162481924",
+              "start": 63,
+              "url": "https://t.co/gtz4s5qN8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047162989003075764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 278035,
+          "like_count": 9675,
+          "quote_count": 42,
+          "reply_count": 10,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046904849162481924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⬅️病み垢が想像しているクラゲ\n\n　　　　　　砂浜に打ち上げられたクラゲ➡️ https://t.co/RxCnntBV5r https://t.co/gtz4s5qN8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1125,
+          "like_count": 17012,
+          "listed_count": 5,
+          "media_count": 618,
+          "tweet_count": 4661
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T21:48:21.000Z",
+        "description": "雑多垢\nサブ▶︎@uru_subo0\n👊🏻🩸▶︎@ururu_6x6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "uru_subo0"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ururu_6x6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ersqmjzjdm6sq6v",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ersqmjzjdm6sq6v",
+                "start": 0,
+                "url": "https://t.co/VBTpvWKWCW"
+              }
+            ]
+          }
+        },
+        "id": "1567993138719109120",
+        "location": "マロ受けつけてます",
+        "name": "眠",
+        "pinned_tweet_id": "2034558757301375076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034582379730477056/bfgSYmd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 312,
+          "like_count": 11708,
+          "listed_count": 26,
+          "media_count": 491,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/VBTpvWKWCW",
+        "username": "Uru_x_xo0",
+        "verified": false
+      }
+    ]
+  }
+}

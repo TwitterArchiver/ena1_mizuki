@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1942451933840826742",
+    "created_at": "2025-07-08T05:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T06:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942451933840826742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600208165269741570",
+          "start": 3,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942451933840826742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942146676271296975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeowCatherina: xyn经典bio 怀疑你们是不是商量好了的\n\n0*｜1**cm **kg｜🏳️‍⚧️有/无证含糖+日期｜**症｜丑/笨/4i/其他｜喜欢涩涩/其他｜ 同类互fo/贴贴｜小号@ ｜姐姐@ ｜对象@"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1942451933840826742",
+        "created_at": "2025-07-08T05:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T06:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942451933840826742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600208165269741570",
+              "start": 3,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942451933840826742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942146676271296975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeowCatherina: xyn经典bio 怀疑你们是不是商量好了的\n\n0*｜1**cm **kg｜🏳️‍⚧️有/无证含糖+日期｜**症｜丑/笨/4i/其他｜喜欢涩涩/其他｜ 同类互fo/贴贴｜小号@ ｜姐姐@ ｜对象@"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1942146676271296975",
+        "created_at": "2025-07-07T09:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942146676271296975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942146676271296975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20585,
+          "like_count": 233,
+          "quote_count": 9,
+          "reply_count": 51,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "xyn经典bio 怀疑你们是不是商量好了的\n\n0*｜1**cm **kg｜🏳️‍⚧️有/无证含糖+日期｜**症｜丑/笨/4i/其他｜喜欢涩涩/其他｜ 同类互fo/贴贴｜小号@ ｜姐姐@ ｜对象@"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 39,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 36
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INTP｜⚠️一只不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜AM&CS&EE｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜@2196F3 的家养猫｜@StarNekOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 128,
+                "username": "2196F3"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 1043,
+          "like_count": 57818,
+          "listed_count": 0,
+          "media_count": 1688,
+          "tweet_count": 19579
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

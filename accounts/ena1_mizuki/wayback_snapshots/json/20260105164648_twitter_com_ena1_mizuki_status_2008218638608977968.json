@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2008201888744022069",
+    "created_at": "2026-01-05T16:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T17:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008218638608977968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1254689990753128448",
+          "start": 0,
+          "username": "JinYuanWu000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008218638608977968",
+    "in_reply_to_user_id": "1254689990753128448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008210322281427162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JinYuanWu000 🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 184,
+        "media_key": "16_2008210264861343744",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G96YmI9agAAgPnx.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G96YmI9agAAgPnx.mp4"
+          }
+        ],
+        "width": 158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2008201888744022069",
+        "created_at": "2026-01-05T16:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008218638608977968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1254689990753128448",
+              "start": 0,
+              "username": "JinYuanWu000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008218638608977968",
+        "in_reply_to_user_id": "1254689990753128448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008210322281427162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JinYuanWu000 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2008210264861343744"
+          ]
+        },
+        "author_id": "1254689990753128448",
+        "conversation_id": "2008201888744022069",
+        "created_at": "2026-01-05T16:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008210322281427162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXePThFY2F",
+              "end": 40,
+              "expanded_url": "https://x.com/JinYuanWu000/status/2008210322281427162/photo/1",
+              "media_key": "16_2008210264861343744",
+              "start": 17,
+              "url": "https://t.co/HXePThFY2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008210322281427162",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008201888744022069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 真不错 https://t.co/HXePThFY2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 602,
+          "like_count": 7881,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 1821
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-27T08:33:08.000Z",
+        "description": "想要很多朋友\n小群750982087 \nqq1310543897同好可以直接加~₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1254689990753128448",
+        "name": "JingYuanWu",
+        "pinned_tweet_id": "2005149153417105620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003756887263588353/rPevpL7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 1365,
+          "like_count": 11183,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 778
+        },
+        "username": "JinYuanWu000",
+        "verified": false
+      }
+    ]
+  }
+}

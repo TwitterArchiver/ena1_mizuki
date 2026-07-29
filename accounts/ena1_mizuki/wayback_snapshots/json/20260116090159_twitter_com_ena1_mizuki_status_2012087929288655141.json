@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012078058761818487",
+    "created_at": "2026-01-16T09:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T10:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012087929288655141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "959462777210458113",
+          "start": 0,
+          "username": "YogSothoth42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012087929288655141",
+    "in_reply_to_user_id": "959462777210458113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012082683271340487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YogSothoth42 很爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012078058761818487",
+        "created_at": "2026-01-16T09:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012087929288655141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "959462777210458113",
+              "start": 0,
+              "username": "YogSothoth42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012087929288655141",
+        "in_reply_to_user_id": "959462777210458113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012082683271340487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YogSothoth42 很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "959462777210458113",
+        "conversation_id": "2012078058761818487",
+        "created_at": "2026-01-16T08:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T09:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012082683271340487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012082683271340487",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012078269592633787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 凉爽（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 675,
+          "like_count": 9006,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 2154
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-02T16:25:26.000Z",
+        "description": "普通泡泡",
+        "id": "959462777210458113",
+        "name": "浅羽星虹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534671942095020032/pi6xyS_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 3075,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 4174
+        },
+        "username": "YogSothoth42",
+        "verified": false
+      }
+    ]
+  }
+}

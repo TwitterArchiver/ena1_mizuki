@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2040314092054069282",
+    "created_at": "2026-04-04T06:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040314092054069282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cici20120712/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+          "start": 45,
+          "url": "https://t.co/uWJk3dUXmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040314092054069282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040080078974157145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。。还真是，而且据我所知很多同类都是这样，所以我感觉0721方式和性少数或许是有关联的😇 https://t.co/uWJk3dUXmM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2040314092054069282",
+        "created_at": "2026-04-04T06:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040314092054069282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+              "start": 45,
+              "url": "https://t.co/uWJk3dUXmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040314092054069282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。还真是，而且据我所知很多同类都是这样，所以我感觉0721方式和性少数或许是有关联的😇 https://t.co/uWJk3dUXmM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2040080078974157145",
+        "created_at": "2026-04-03T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040080078974157145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040080078974157145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 308350,
+          "like_count": 1183,
+          "quote_count": 47,
+          "reply_count": 212,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，如果男孩子小时候不是手冲出来的是压床出来的，长大了就会变成小男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 1093,
+          "like_count": 16119,
+          "listed_count": 6,
+          "media_count": 594,
+          "tweet_count": 4469
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70184,
+          "following_count": 102,
+          "like_count": 858,
+          "listed_count": 181,
+          "media_count": 731,
+          "tweet_count": 1311
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

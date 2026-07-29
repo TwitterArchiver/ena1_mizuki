@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999380104515039232",
+        "3_1999380104712192004"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1999380128938491951",
+    "created_at": "2025-12-12T07:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999380128938491951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TuIfBN2L7k",
+          "end": 168,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1999380128938491951/photo/1",
+          "media_key": "3_1999380104515039232",
+          "start": 145,
+          "url": "https://t.co/TuIfBN2L7k"
+        },
+        {
+          "display_url": "pic.x.com/TuIfBN2L7k",
+          "end": 168,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1999380128938491951/photo/1",
+          "media_key": "3_1999380104712192004",
+          "start": 145,
+          "url": "https://t.co/TuIfBN2L7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999380128938491951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在舟山海边进行了有趣的地质小调查~\n一开始在这里的礁石上发现了与基岩不同的绿色石头，敲开新鲜面分析应该是闪长玢岩，后来还发现了不同岩石之间的接触边界，没有明显接触带说明两种岩石成分在岩浆房中共生，是同一年代的(´▽｀)ノ♪\n（图1闪长玢岩和花岗斑岩的边界）\n（图2闪长玢岩和花岗岩的边界） https://t.co/TuIfBN2L7k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999380104515039232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G785nKSaMAAC0tS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999380104712192004",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G785nLBagAQAEYj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999380104515039232",
+            "3_1999380104712192004"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1999380128938491951",
+        "created_at": "2025-12-12T07:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999380128938491951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuIfBN2L7k",
+              "end": 168,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1999380128938491951/photo/1",
+              "media_key": "3_1999380104515039232",
+              "start": 145,
+              "url": "https://t.co/TuIfBN2L7k"
+            },
+            {
+              "display_url": "pic.x.com/TuIfBN2L7k",
+              "end": 168,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1999380128938491951/photo/1",
+              "media_key": "3_1999380104712192004",
+              "start": 145,
+              "url": "https://t.co/TuIfBN2L7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999380128938491951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在舟山海边进行了有趣的地质小调查~\n一开始在这里的礁石上发现了与基岩不同的绿色石头，敲开新鲜面分析应该是闪长玢岩，后来还发现了不同岩石之间的接触边界，没有明显接触带说明两种岩石成分在岩浆房中共生，是同一年代的(´▽｀)ノ♪\n（图1闪长玢岩和花岗斑岩的边界）\n（图2闪长玢岩和花岗岩的边界） https://t.co/TuIfBN2L7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 430,
+          "like_count": 5015,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 994
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

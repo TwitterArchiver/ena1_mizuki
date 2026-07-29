@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2014609744514912383",
+    "created_at": "2026-01-24T09:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T10:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014996239507722381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986433528196939777",
+          "start": 0,
+          "username": "Riddle_Jacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014996239507722381",
+    "in_reply_to_user_id": "1986433528196939777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014988977896624344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riddle_Jacker 摸摸，青春不是小表格能定义的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2014988969201827840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_atyqebAAAISea.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2014609744514912383",
+        "created_at": "2026-01-24T09:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014996239507722381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986433528196939777",
+              "start": 0,
+              "username": "Riddle_Jacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014996239507722381",
+        "in_reply_to_user_id": "1986433528196939777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014988977896624344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riddle_Jacker 摸摸，青春不是小表格能定义的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014988969201827840"
+          ]
+        },
+        "author_id": "1986433528196939777",
+        "conversation_id": "2014609744514912383",
+        "created_at": "2026-01-24T09:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014988977896624344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1iXKfQjqQ",
+              "end": 48,
+              "expanded_url": "https://x.com/Riddle_Jacker/status/2014988977896624344/photo/1",
+              "media_key": "3_2014988969201827840",
+              "start": 25,
+              "url": "https://t.co/w1iXKfQjqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014988977896624344",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014609744514912383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 嘻嘻 我一定要活下去啊 https://t.co/w1iXKfQjqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 739,
+          "like_count": 10016,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 2576
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T14:00:50.000Z",
+        "description": "⏰做题区一枚 臭打音游的 心情不好的时候会见证 4k: γ e1 e1 e1",
+        "id": "1986433528196939777",
+        "name": "Riddle Jacker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013477272016052224/aUdbNnIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 237,
+          "like_count": 1451,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "Riddle_Jacker",
+        "verified": false
+      }
+    ]
+  }
+}

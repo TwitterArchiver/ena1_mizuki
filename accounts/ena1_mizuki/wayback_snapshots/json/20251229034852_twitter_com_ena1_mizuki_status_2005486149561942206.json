@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2005143076080374007",
+    "created_at": "2025-12-29T03:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T04:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005486149561942206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926574861872156672",
+          "start": 0,
+          "username": "stellarocean1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005486149561942206",
+    "in_reply_to_user_id": "1926574861872156672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005330185957122053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellarocean1 哼哼~😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2005143076080374007",
+        "created_at": "2025-12-29T03:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T04:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005486149561942206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926574861872156672",
+              "start": 0,
+              "username": "stellarocean1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005486149561942206",
+        "in_reply_to_user_id": "1926574861872156672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005330185957122053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellarocean1 哼哼~😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926574861872156672",
+        "conversation_id": "2005143076080374007",
+        "created_at": "2025-12-28T17:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T18:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005330185957122053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005330185957122053",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005143076080374007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 知道的都明白是lz拍摄的，不知道的还以为是哈勃望远镜拍摄的呢（喜）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 531,
+          "like_count": 6952,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 1544
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-25T09:43:53.000Z",
+        "description": "喜欢天文学",
+        "id": "1926574861872156672",
+        "location": "宇宙",
+        "name": "浩瀚星海",
+        "pinned_tweet_id": "1954421585923699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954440383867301888/wzlftmUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 102,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 473
+        },
+        "username": "stellarocean1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1971929886815379456"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1971930414752395581",
+    "created_at": "2025-09-27T13:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T14:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971930414752395581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2CG3fFwz95",
+          "end": 74,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1971930414752395581/video/1",
+          "media_key": "7_1971929886815379456",
+          "start": 51,
+          "url": "https://t.co/2CG3fFwz95"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971930414752395581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太惊人了，我养的鹦鹉鱼竟然认识鱼食罐，以前养过好多金鱼从来没见到这么高智商的Σ( ° △ °|||) https://t.co/2CG3fFwz95"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8769,
+        "height": 720,
+        "media_key": "7_1971929886815379456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971929886815379456/pu/img/d1Izqp2RRJKuE_I0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971929886815379456/pu/vid/avc1/480x270/RF6eFvjiLhmksrTd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971929886815379456/pu/vid/avc1/640x360/Dei8NqRShLcCmKOO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971929886815379456/pu/vid/avc1/1280x720/udOeXZ82y6NPEhKk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971929886815379456/pu/pl/dOrl9dWkD4AFL0gm.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971929886815379456"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1971930414752395581",
+        "created_at": "2025-09-27T13:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T14:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971930414752395581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CG3fFwz95",
+              "end": 74,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1971930414752395581/video/1",
+              "media_key": "7_1971929886815379456",
+              "start": 51,
+              "url": "https://t.co/2CG3fFwz95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971930414752395581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太惊人了，我养的鹦鹉鱼竟然认识鱼食罐，以前养过好多金鱼从来没见到这么高智商的Σ( ° △ °|||) https://t.co/2CG3fFwz95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 288,
+          "like_count": 2130,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 304
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

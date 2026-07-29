@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2064220441401798780",
+    "created_at": "2026-06-09T18:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064409073957925295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756554449286569984",
+          "start": 0,
+          "username": "VanyarElfCeCi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064409073957925295",
+    "in_reply_to_user_id": "1756554449286569984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064355258520961206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VanyarElfCeCi 啊哈小螃蟹是超级可爱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2064220441401798780",
+        "created_at": "2026-06-09T18:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064409073957925295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756554449286569984",
+              "start": 0,
+              "username": "VanyarElfCeCi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064409073957925295",
+        "in_reply_to_user_id": "1756554449286569984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064355258520961206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VanyarElfCeCi 啊哈小螃蟹是超级可爱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756554449286569984",
+        "conversation_id": "2064220441401798780",
+        "created_at": "2026-06-09T14:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064355258520961206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064355258520961206",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064220441401798780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我之前養了幾只陸生寄居蟹紅色的，超級可愛☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1277,
+          "like_count": 18572,
+          "listed_count": 8,
+          "media_count": 708,
+          "tweet_count": 5345
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T05:43:21.000Z",
+        "description": "",
+        "id": "1756554449286569984",
+        "location": "Taipei City, Taiwan",
+        "name": "🍀 ななくさ · ナズナ 🍀",
+        "pinned_tweet_id": "1833836982503661861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059610407019692032/qTqYIkIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 356,
+          "like_count": 4596,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 1950
+        },
+        "username": "VanyarElfCeCi",
+        "verified": false
+      }
+    ]
+  }
+}

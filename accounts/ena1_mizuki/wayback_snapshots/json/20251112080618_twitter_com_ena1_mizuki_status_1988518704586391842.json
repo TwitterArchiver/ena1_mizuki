@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045527205",
+          "name": "NOAA"
+        }
+      }
+    ],
+    "conversation_id": "1988518704586391842",
+    "created_at": "2025-11-12T08:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T09:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988518704586391842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryuhokataoka/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ryuhokataoka/status/1988491838672826536",
+          "start": 4,
+          "url": "https://t.co/1eCyxkrTEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988518704586391842",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988491838672826536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😍😍😍 https://t.co/1eCyxkrTEi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_1988491829944479746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iKyKqbcAIKt6z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045527205",
+              "name": "NOAA"
+            }
+          }
+        ],
+        "conversation_id": "1988518704586391842",
+        "created_at": "2025-11-12T08:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988518704586391842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryuhokataoka/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ryuhokataoka/status/1988491838672826536",
+              "start": 4,
+              "url": "https://t.co/1eCyxkrTEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988518704586391842",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988491838672826536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😍😍😍 https://t.co/1eCyxkrTEi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988491829944479746"
+          ]
+        },
+        "author_id": "110552043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045527205",
+              "name": "NOAA"
+            }
+          }
+        ],
+        "conversation_id": "1988491838672826536",
+        "created_at": "2025-11-12T06:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988491838672826536"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "NOAA",
+              "probability": 0.4329,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XNbEtvt8d",
+              "end": 61,
+              "expanded_url": "https://x.com/ryuhokataoka/status/1988491838672826536/photo/1",
+              "media_key": "3_1988491829944479746",
+              "start": 38,
+              "url": "https://t.co/5XNbEtvt8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988491838672826536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 28183,
+          "like_count": 281,
+          "quote_count": 15,
+          "reply_count": 2,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "NOAA公式の予報が更新されました。日本時間の今晩10時にサードインパクト https://t.co/5XNbEtvt8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 330,
+          "like_count": 3405,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 508
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-01T23:28:02.000Z",
+        "description": "地球人ラジオはじめました https://t.co/97yzWujdvM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ryuhokataoka",
+                "end": 36,
+                "expanded_url": "https://www.youtube.com/@ryuhokataoka",
+                "start": 13,
+                "url": "https://t.co/97yzWujdvM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryuhokataoka.github.io",
+                "end": 23,
+                "expanded_url": "https://ryuhokataoka.github.io/",
+                "start": 0,
+                "url": "https://t.co/4ZqqqkZHc7"
+              }
+            ]
+          }
+        },
+        "id": "110552043",
+        "location": "Okinawa",
+        "name": "片岡龍峰",
+        "pinned_tweet_id": "1988421244816101525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/735306042331009024/ec8nJdoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40035,
+          "following_count": 129,
+          "like_count": 16140,
+          "listed_count": 1047,
+          "media_count": 7323,
+          "tweet_count": 35124
+        },
+        "url": "https://t.co/4ZqqqkZHc7",
+        "username": "ryuhokataoka",
+        "verified": false
+      }
+    ]
+  }
+}

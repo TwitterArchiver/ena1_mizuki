@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012040427126620598",
+    "created_at": "2026-01-17T15:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T16:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012548455315775910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1595050187529285632",
+          "start": 0,
+          "username": "aliii67285114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012548455315775910",
+    "in_reply_to_user_id": "1595050187529285632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012544408617464149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aliii67285114 水母宫好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012040427126620598",
+        "created_at": "2026-01-17T15:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012548455315775910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595050187529285632",
+              "start": 0,
+              "username": "aliii67285114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012548455315775910",
+        "in_reply_to_user_id": "1595050187529285632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012544408617464149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aliii67285114 水母宫好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595050187529285632",
+        "conversation_id": "2012040427126620598",
+        "created_at": "2026-01-17T15:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012544408617464149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012544408617464149",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012040427126620598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 張家口好 水母宮好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 680,
+          "like_count": 9136,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 2211
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T13:43:02.000Z",
+        "description": "置顶外烟价格表 欢迎随时私讯购买|书信明信片便宜代写代寄多种字体多种文字皆可选用🏳️‍🌈09生/最I的ENFP/16 172 60 0.5/呼和浩特高一國際生/晉東巫女/正體字/張家口下花園語|里推下方💐『存古存舊，且筆且歌；遺羣白鹿，遍歷青崖。至雅至美，平和博愛；興我東亞，自由民族。』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/shaashvatameie…",
+                "end": 23,
+                "expanded_url": "https://x.com/shaashvatameien?t=D7bbI0rJE660eraGi8FbGA&s=05",
+                "start": 0,
+                "url": "https://t.co/0unxd1uFWH"
+              }
+            ]
+          }
+        },
+        "id": "1595050187529285632",
+        "location": "Mongolia",
+        "name": "長明（外烟代/我是男高！）ꡑꡃꡚꡏꡞꡃ🔜西安南京長沙",
+        "pinned_tweet_id": "1954773947444273522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998026565112991744/Lmxy8VX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3117,
+          "following_count": 3174,
+          "like_count": 90751,
+          "listed_count": 5,
+          "media_count": 1241,
+          "tweet_count": 18885
+        },
+        "url": "https://t.co/0unxd1uFWH",
+        "username": "aliii67285114",
+        "verified": false
+      }
+    ]
+  }
+}

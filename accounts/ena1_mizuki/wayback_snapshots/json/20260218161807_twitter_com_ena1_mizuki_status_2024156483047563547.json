@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2024058046272393229",
+    "created_at": "2026-02-18T16:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024156483047563547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        },
+        {
+          "end": 21,
+          "id": "1420072716963520520",
+          "start": 9,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024156483047563547",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024098951570297256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 @meiqinyuban 揉🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2024058046272393229",
+        "created_at": "2026-02-18T16:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024156483047563547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            },
+            {
+              "end": 21,
+              "id": "1420072716963520520",
+              "start": 9,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024156483047563547",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024098951570297256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 @meiqinyuban 揉🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318819823758069760",
+        "conversation_id": "2024058046272393229",
+        "created_at": "2026-02-18T12:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024098951570297256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 25,
+              "id": "1420072716963520520",
+              "start": 13,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024098951570297256",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024097207914520930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @meiqinyuban 😭My bad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 879,
+          "like_count": 12950,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 3553
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "CN/EN| Miku | Mygo |♜⃤Arknight | ♜⃤Endfiled  CNmainland Server |\nI'm working hard for the IELTS exam.Follow me then I will follow you back.I wanna some friends.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/0v9wTlS",
+                "end": 23,
+                "expanded_url": "http://b23.tv/0v9wTlS",
+                "start": 0,
+                "url": "https://t.co/gXJWRFFJtr"
+              }
+            ]
+          }
+        },
+        "id": "1318819823758069760",
+        "location": "Three Thousand Great Worlds",
+        "name": "Rei_LingYi❄︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016511216995422208/TZv5Bd51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 330,
+          "like_count": 12743,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/gXJWRFFJtr",
+        "username": "Enorez2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007094270436753408/CIZOasT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 850,
+          "like_count": 16908,
+          "listed_count": 1,
+          "media_count": 1437,
+          "tweet_count": 7964
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

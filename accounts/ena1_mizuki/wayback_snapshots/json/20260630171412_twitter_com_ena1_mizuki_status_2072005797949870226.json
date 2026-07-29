@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2071994184337063977",
+    "created_at": "2026-06-30T17:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072005797949870226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1576188912254451714",
+          "start": 0,
+          "username": "theburningfire4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072005797949870226",
+    "in_reply_to_user_id": "1576188912254451714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071994184337063977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theburningfire4 微博有无mtf测，之前找了好久没找到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2071994184337063977",
+        "created_at": "2026-06-30T17:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072005797949870226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1576188912254451714",
+              "start": 0,
+              "username": "theburningfire4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072005797949870226",
+        "in_reply_to_user_id": "1576188912254451714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071994184337063977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theburningfire4 微博有无mtf测，之前找了好久没找到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576188912254451714",
+        "conversation_id": "2071994184337063977",
+        "created_at": "2026-06-30T16:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071994184337063977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071994184337063977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在wb开的酷儿相关厕所被铁拳了我操你们全家你们全家在天上飞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 1324,
+          "like_count": 19071,
+          "listed_count": 8,
+          "media_count": 738,
+          "tweet_count": 5510
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T12:35:05.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️Bi+/xtx/trans/Non-binary Gay/Neutrois/Greyaroace/poly (Xe/They/祂/ta/他）｜BD-II(BPD?)/ASD/(C)PTSD/SUD/GAD/OCD/#shtwt #odtwt /现代诗/欢迎同类互fo/中文/EN",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 116,
+                "tag": "shtwt"
+              },
+              {
+                "end": 129,
+                "start": 123,
+                "tag": "odtwt"
+              }
+            ]
+          }
+        },
+        "id": "1576188912254451714",
+        "location": "世界的夹缝",
+        "name": "Alva🏳️‍🌈🏳️‍⚧️🏴💛🤍💜🖤8964☮️🪷",
+        "pinned_tweet_id": "2062161120249676122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003383336019066883/ppbOni8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 1012,
+          "like_count": 2946,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 2143
+        },
+        "url": "",
+        "username": "theburningfire4",
+        "verified": false
+      }
+    ]
+  }
+}

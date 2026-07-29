@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2009529985560965501",
+    "created_at": "2026-01-09T09:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T10:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009553775334412642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        },
+        {
+          "end": 27,
+          "id": "2003468394604228608",
+          "start": 13,
+          "username": "pinxowosofure"
+        },
+        {
+          "end": 38,
+          "id": "1902735424839413760",
+          "start": 28,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009553775334412642",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009547575641432409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban @pinxowosofure @litgraley 摸摸~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2009529985560965501",
+        "created_at": "2026-01-09T09:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009553775334412642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            },
+            {
+              "end": 27,
+              "id": "2003468394604228608",
+              "start": 13,
+              "username": "pinxowosofure"
+            },
+            {
+              "end": 38,
+              "id": "1902735424839413760",
+              "start": 28,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009553775334412642",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009547575641432409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban @pinxowosofure @litgraley 摸摸~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "2009529985560965501",
+        "created_at": "2026-01-09T08:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009547575641432409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 27,
+              "id": "2003468394604228608",
+              "start": 13,
+              "username": "pinxowosofure"
+            },
+            {
+              "end": 38,
+              "id": "1902735424839413760",
+              "start": 28,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009547575641432409",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009529985560965501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @pinxowosofure @litgraley 羡慕面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 633,
+          "like_count": 8234,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 1948
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "1963997598450336007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007094270436753408/CIZOasT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 835,
+          "like_count": 15055,
+          "listed_count": 1,
+          "media_count": 1287,
+          "tweet_count": 7397
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-23T14:11:20.000Z",
+        "description": "首先 愿所有人有美好的一天\n本号有键政内容 言论蛮激进\n讨厌男权制 顺直正统主义 违背现实的“自然”二元性别论及刻板印象和刻板印象扩大化 资产阶级专政 语言文化帝国主义 民族沙文主义 文明-野蛮叙事 华夷秩序 东方主义 极端/低智民族主义 小激激女 三好非顺直\n我谙倒都晓得我是哪个了",
+        "id": "2003468394604228608",
+        "name": "落猫儿散晴",
+        "pinned_tweet_id": "2003483415526744238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709335646666754/F6wCyvYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 158,
+          "like_count": 2506,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1004
+        },
+        "username": "pinxowosofure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "11年的/叫我小灰就好/听说添加描述更容易被发现（好神金啊哈哈哈哈哈）/爱用一些奇怪的表达了/嗷~~~/飞友，常驻pek……/intj/喜欢抹茶/172km（打错了信吗）/想和别人聊天",
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "1978116985998213537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 319,
+          "like_count": 9969,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 977
+        },
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

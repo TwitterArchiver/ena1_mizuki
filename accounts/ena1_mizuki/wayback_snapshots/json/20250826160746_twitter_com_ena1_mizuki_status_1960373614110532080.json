@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960253218090602497"
+      ],
+      "media_source_tweet_id": [
+        "1960356570685948204"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1960373614110532080",
+    "created_at": "2025-08-26T16:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T17:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960373614110532080"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "暁山瑞希",
+          "probability": 0.3274,
+          "start": 46,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "望月淳",
+          "probability": 0.924,
+          "start": 68,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 92,
+          "tag": "プロセカ"
+        },
+        {
+          "end": 110,
+          "start": 98,
+          "tag": "暁山瑞希誕生祭2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1158668053183266816",
+          "start": 3,
+          "username": "pj_sekai"
+        },
+        {
+          "end": 76,
+          "id": "1057203259914375168",
+          "start": 66,
+          "username": "jun_mdesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yXAl1LMuIl",
+          "end": 134,
+          "expanded_url": "https://x.com/pj_sekai/status/1960356570685948204/photo/1",
+          "media_key": "3_1960253218090602497",
+          "start": 111,
+          "url": "https://t.co/yXAl1LMuIl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960373614110532080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7145
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960356570685948204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pj_sekai: ㊗️本日8月27日は\n🎧25時、ナイトコードで。💻\n🎉🎂暁山瑞希の誕生日🎂🎉\n\n誕生日イラストは望月淳（@jun_mdesu）さんに担当いただきました✨\n\n#プロセカ #暁山瑞希誕生祭2025 https://t.co/yXAl1LMuIl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1960253218090602497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQ36n4bUAE4MNJ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960253218090602497"
+          ],
+          "media_source_tweet_id": [
+            "1960356570685948204"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1960373614110532080",
+        "created_at": "2025-08-26T16:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T17:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960373614110532080"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "暁山瑞希",
+              "probability": 0.3274,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "望月淳",
+              "probability": 0.924,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 110,
+              "start": 98,
+              "tag": "暁山瑞希誕生祭2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1158668053183266816",
+              "start": 3,
+              "username": "pj_sekai"
+            },
+            {
+              "end": 76,
+              "id": "1057203259914375168",
+              "start": 66,
+              "username": "jun_mdesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXAl1LMuIl",
+              "end": 134,
+              "expanded_url": "https://x.com/pj_sekai/status/1960356570685948204/photo/1",
+              "media_key": "3_1960253218090602497",
+              "start": 111,
+              "url": "https://t.co/yXAl1LMuIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960373614110532080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7145
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960356570685948204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pj_sekai: ㊗️本日8月27日は\n🎧25時、ナイトコードで。💻\n🎉🎂暁山瑞希の誕生日🎂🎉\n\n誕生日イラストは望月淳（@jun_mdesu）さんに担当いただきました✨\n\n#プロセカ #暁山瑞希誕生祭2025 https://t.co/yXAl1LMuIl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960253218090602497"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1960356570685948204",
+        "created_at": "2025-08-26T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960356570685948204"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "暁山瑞希",
+              "probability": 0.3388,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "望月淳",
+              "probability": 0.9255,
+              "start": 54,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 96,
+              "start": 84,
+              "tag": "暁山瑞希誕生祭2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1057203259914375168",
+              "start": 52,
+              "username": "jun_mdesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXAl1LMuIl",
+              "end": 120,
+              "expanded_url": "https://x.com/pj_sekai/status/1960356570685948204/photo/1",
+              "media_key": "3_1960253218090602497",
+              "start": 97,
+              "url": "https://t.co/yXAl1LMuIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960356570685948204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 379649,
+          "like_count": 18899,
+          "quote_count": 1052,
+          "reply_count": 85,
+          "retweet_count": 7145
+        },
+        "reply_settings": "everyone",
+        "text": "㊗️本日8月27日は\n🎧25時、ナイトコードで。💻\n🎉🎂暁山瑞希の誕生日🎂🎉\n\n誕生日イラストは望月淳（@jun_mdesu）さんに担当いただきました✨\n\n#プロセカ #暁山瑞希誕生祭2025 https://t.co/yXAl1LMuIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 176,
+          "like_count": 1015,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 153
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262039,
+          "following_count": 551,
+          "like_count": 27,
+          "listed_count": 9108,
+          "media_count": 12134,
+          "tweet_count": 16828
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-30T09:31:13.000Z",
+        "description": "月刊ガンガンJOKERにて『ヴァニタスの手記』連載中/『PandoraHearts』全24巻/通知オフ🔕/画像の無断転載(SNSアイコン等への使用含む)禁止⚠️/プロフカード→ https://t.co/D3TPW559bV /趣味→@IKF_MJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 117,
+                "username": "IKF_MJ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/H9fTerLZ4hQy…",
+                "end": 112,
+                "expanded_url": "https://profcard.info/u/H9fTerLZ4hQyfJYMr2P9DdNLBds1",
+                "start": 89,
+                "url": "https://t.co/D3TPW559bV"
+              }
+            ]
+          }
+        },
+        "id": "1057203259914375168",
+        "location": "Don't re-upload my works.",
+        "name": "望月淳@ヴァニタスの手記1️⃣1️⃣巻発売中📘",
+        "pinned_tweet_id": "1945806767889535232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064771010908499968/J0wu9z9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209534,
+          "following_count": 14,
+          "like_count": 358,
+          "listed_count": 867,
+          "media_count": 1008,
+          "tweet_count": 5604
+        },
+        "username": "jun_mdesu",
+        "verified": false
+      }
+    ]
+  }
+}

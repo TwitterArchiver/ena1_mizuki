@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2032446668101284279",
+    "created_at": "2026-03-13T13:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032450831145218254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032450831145218254",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032446668101284279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 啊 萌萌的鹦鹉🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2032446647297507328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSzdRUaAAAJdc5.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2032446647276535808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSzdRPaAAAOwuj.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2032446647377313792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSzdRnbwAARycy.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2032446647263977473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSzdRMaYAE-gXV.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2032446668101284279",
+        "created_at": "2026-03-13T13:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032450831145218254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032450831145218254",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032446668101284279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 啊 萌萌的鹦鹉🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032446647297507328",
+            "3_2032446647276535808",
+            "3_2032446647377313792",
+            "3_2032446647263977473"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032446668101284279",
+        "created_at": "2026-03-13T13:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032446668101284279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFOepqhUhW",
+              "end": 171,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2032446668101284279/photo/1",
+              "media_key": "3_2032446647297507328",
+              "start": 148,
+              "url": "https://t.co/GFOepqhUhW"
+            },
+            {
+              "display_url": "pic.x.com/GFOepqhUhW",
+              "end": 171,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2032446668101284279/photo/1",
+              "media_key": "3_2032446647276535808",
+              "start": 148,
+              "url": "https://t.co/GFOepqhUhW"
+            },
+            {
+              "display_url": "pic.x.com/GFOepqhUhW",
+              "end": 171,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2032446668101284279/photo/1",
+              "media_key": "3_2032446647377313792",
+              "start": 148,
+              "url": "https://t.co/GFOepqhUhW"
+            },
+            {
+              "display_url": "pic.x.com/GFOepqhUhW",
+              "end": 171,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2032446668101284279/photo/1",
+              "media_key": "3_2032446647263977473",
+              "start": 148,
+              "url": "https://t.co/GFOepqhUhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032446668101284279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🇲🇾🥰～\n彩色的小鸟鸟～这些就摸不到了呢会躲开…只能看着它们叽叽喳喳…\n\n鹦鹉好可爱哇…歪着头叽呱几声，啄啄自己和小伙伴，然后轻巧地蹦蹦跳跳☺️～\n\n它们的小小的身躯上能富集这么多五彩斑斓的明亮羽毛真的好奇妙欸～在人类学会调配绘画颜料之前，鸟鸟们是不是地球上色彩最鲜艳丰富的存在呐&gt;ᴗoಣ https://t.co/GFOepqhUhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 1036,
+          "like_count": 14864,
+          "listed_count": 6,
+          "media_count": 544,
+          "tweet_count": 4066
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 中二病随时发作 | 可爱就忍不住想抱紧紧 | 天文/航天/航空/科幻/一切好玩的杂物 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3465,
+          "following_count": 5223,
+          "like_count": 11019,
+          "listed_count": 8,
+          "media_count": 188,
+          "tweet_count": 2147
+        },
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2007318263206985805",
+    "created_at": "2026-01-04T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007642520814321945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551797203676852225",
+          "start": 0,
+          "username": "HZM6DC7pIKKFRLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007642520814321945",
+    "in_reply_to_user_id": "1551797203676852225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007577438868652151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HZM6DC7pIKKFRLp 来一块吧🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2007318263206985805",
+        "created_at": "2026-01-04T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007642520814321945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551797203676852225",
+              "start": 0,
+              "username": "HZM6DC7pIKKFRLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007642520814321945",
+        "in_reply_to_user_id": "1551797203676852225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007577438868652151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HZM6DC7pIKKFRLp 来一块吧🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551797203676852225",
+        "conversation_id": "2007318263206985805",
+        "created_at": "2026-01-03T22:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T23:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007577438868652151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007577438868652151",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007318263206985805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我吃左邊的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 581,
+          "like_count": 7649,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 1755
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T05:11:21.000Z",
+        "description": "...",
+        "id": "1551797203676852225",
+        "name": "悲傷的青蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758436522754461697/xfU97V6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 2352,
+          "like_count": 12796,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 4242
+        },
+        "username": "HZM6DC7pIKKFRLp",
+        "verified": false
+      }
+    ]
+  }
+}

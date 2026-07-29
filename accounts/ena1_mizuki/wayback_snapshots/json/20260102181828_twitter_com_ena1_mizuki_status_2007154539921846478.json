@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2006986421698179319",
+    "created_at": "2026-01-02T18:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T19:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007154539921846478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788279577531523075",
+          "start": 0,
+          "username": "fushishanxia88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007154539921846478",
+    "in_reply_to_user_id": "1788279577531523075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007113641099976837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fushishanxia88 应该有些可以吧，mtf wiki上应该会标注“可用于北医三院hrt”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2006986421698179319",
+        "created_at": "2026-01-02T18:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T19:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007154539921846478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788279577531523075",
+              "start": 0,
+              "username": "fushishanxia88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007154539921846478",
+        "in_reply_to_user_id": "1788279577531523075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007113641099976837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fushishanxia88 应该有些可以吧，mtf wiki上应该会标注“可用于北医三院hrt”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788279577531523075",
+        "conversation_id": "2006986421698179319",
+        "created_at": "2026-01-02T15:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007113641099976837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007113641099976837",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006986421698179319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 别的医院证明可以在北三激素治疗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 575,
+          "like_count": 7565,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 1717
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-08T18:47:50.000Z",
+        "description": "",
+        "id": "1788279577531523075",
+        "name": "苏苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979539095400456192/YeYrwiIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 124,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 112
+        },
+        "username": "fushishanxia88",
+        "verified": false
+      }
+    ]
+  }
+}

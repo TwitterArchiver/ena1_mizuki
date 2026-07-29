@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2074110889276706950",
+    "created_at": "2026-07-06T19:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074207676754764060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510043826479824896",
+          "start": 0,
+          "username": "GCZZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074207676754764060",
+    "in_reply_to_user_id": "1510043826479824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074176046564597840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GCZZero 这是我妈在超市免费领养的，不太清楚总之好大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2074110889276706950",
+        "created_at": "2026-07-06T19:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074207676754764060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510043826479824896",
+              "start": 0,
+              "username": "GCZZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074207676754764060",
+        "in_reply_to_user_id": "1510043826479824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074176046564597840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GCZZero 这是我妈在超市免费领养的，不太清楚总之好大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510043826479824896",
+        "conversation_id": "2074110889276706950",
+        "created_at": "2026-07-06T16:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074176046564597840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074176046564597840",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074110889276706950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这是什么鸡🤔\n不是我们常见的乡下的鸡呀🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 1324,
+          "like_count": 19172,
+          "listed_count": 8,
+          "media_count": 744,
+          "tweet_count": 5535
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T23:58:06.000Z",
+        "description": "github@groupguanfang/发电中/准备升本科/age20/尽量不情绪化讨论正经话题/欧尼酱@gujinchuanqi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "gujinchuanqi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com",
+                "start": 0,
+                "url": "https://t.co/euQhnwYO00"
+              }
+            ]
+          }
+        },
+        "id": "1510043826479824896",
+        "location": "Meizhou, Guangdong, China",
+        "name": "Zero（私人版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913697120726777856/LHk7rVD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 594,
+          "like_count": 15590,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/euQhnwYO00",
+        "username": "GCZZero",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995344214834720768"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1995344217582010813",
+    "created_at": "2025-12-01T04:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995344217582010813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hZtyWiUAqd",
+          "end": 82,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1995344217582010813/photo/1",
+          "media_key": "3_1995344214834720768",
+          "start": 59,
+          "url": "https://t.co/hZtyWiUAqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995344217582010813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前去医院开到了这个药，吃了半个月感觉不玉玉了，终于让我试到了一种对我有效的药嘛，之前吃氟西汀舍曲林感觉一点用没有的 https://t.co/hZtyWiUAqd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_1995344214834720768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Di_dnasAAKc-_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995344214834720768"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1995344217582010813",
+        "created_at": "2025-12-01T04:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995344217582010813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZtyWiUAqd",
+              "end": 82,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1995344217582010813/photo/1",
+              "media_key": "3_1995344214834720768",
+              "start": 59,
+              "url": "https://t.co/hZtyWiUAqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995344217582010813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前去医院开到了这个药，吃了半个月感觉不玉玉了，终于让我试到了一种对我有效的药嘛，之前吃氟西汀舍曲林感觉一点用没有的 https://t.co/hZtyWiUAqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 359,
+          "like_count": 4144,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 715
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

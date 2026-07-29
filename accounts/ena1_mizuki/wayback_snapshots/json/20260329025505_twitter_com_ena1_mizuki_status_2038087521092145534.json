@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2037881267321217171",
+    "created_at": "2026-03-29T02:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038087521092145534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1683992612099981314",
+          "start": 0,
+          "username": "bagel1200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038087521092145534",
+    "in_reply_to_user_id": "1683992612099981314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038047731999228058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bagel1200 对的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2037881267321217171",
+        "created_at": "2026-03-29T02:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038087521092145534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1683992612099981314",
+              "start": 0,
+              "username": "bagel1200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038087521092145534",
+        "in_reply_to_user_id": "1683992612099981314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038047731999228058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bagel1200 对的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683992612099981314",
+        "conversation_id": "2037881267321217171",
+        "created_at": "2026-03-29T00:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038047731999228058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038047731999228058",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037881267321217171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好漂亮🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1066,
+          "like_count": 15842,
+          "listed_count": 6,
+          "media_count": 585,
+          "tweet_count": 4389
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T00:08:37.000Z",
+        "description": "",
+        "id": "1683992612099981314",
+        "name": "nova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913881562225205248/9wEAqzXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 268,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 83
+        },
+        "username": "bagel1200",
+        "verified": false
+      }
+    ]
+  }
+}

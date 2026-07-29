@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995363543676542980"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1995363548374106414",
+    "created_at": "2025-12-01T05:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995363548374106414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ah5trcT6Rp",
+          "end": 110,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1995363548374106414/photo/1",
+          "media_key": "3_1995363543676542980",
+          "start": 87,
+          "url": "https://t.co/Ah5trcT6Rp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995363548374106414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "银河与彗星C/2025 A6(Lemmon)✨🌌☄️\n之前11月13日在山东拍摄，此时的lemmon彗星已经比巅峰时期暗了很多，但是那天天气很好，离子尾和尘埃尾依然清晰可见 https://t.co/Ah5trcT6Rp"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "曝光20s*50  ISO1600\nNikon Z7II+50f1.8镜头拍摄",
+        "height": 1293,
+        "media_key": "3_1995363543676542980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7D0kjKa4AQeEHU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995363543676542980"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1995363548374106414",
+        "created_at": "2025-12-01T05:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995363548374106414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ah5trcT6Rp",
+              "end": 110,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1995363548374106414/photo/1",
+              "media_key": "3_1995363543676542980",
+              "start": 87,
+              "url": "https://t.co/Ah5trcT6Rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995363548374106414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "银河与彗星C/2025 A6(Lemmon)✨🌌☄️\n之前11月13日在山东拍摄，此时的lemmon彗星已经比巅峰时期暗了很多，但是那天天气很好，离子尾和尘埃尾依然清晰可见 https://t.co/Ah5trcT6Rp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 359,
+          "like_count": 4153,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 717
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

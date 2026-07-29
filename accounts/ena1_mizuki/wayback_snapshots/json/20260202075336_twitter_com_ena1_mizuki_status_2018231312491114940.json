@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2018231312491114940",
+    "created_at": "2026-02-02T07:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T08:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018231312491114940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/Cldeop/status/2018161199372726652",
+          "start": 107,
+          "url": "https://t.co/1B6QMGyXRg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018231312491114940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018161199372726652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在五年级的时候看宇宙学科普书，书上说宇宙的结局是热寂，我们熟知的一切结构都会瓦解然后归于基本粒子，当时为这个事情抑郁了半年每天睡不着觉，感觉世上的一切都失去了意义，特别空虚😭\n嗯后来好像是放暑假玩游戏玩忘了（） https://t.co/1B6QMGyXRg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 483,
+        "media_key": "3_2018093476840419328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAG1UyqbMAA0wio.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2018231312491114940",
+        "created_at": "2026-02-02T07:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T08:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018231312491114940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/Cldeop/status/2018161199372726652",
+              "start": 107,
+              "url": "https://t.co/1B6QMGyXRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018231312491114940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018161199372726652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在五年级的时候看宇宙学科普书，书上说宇宙的结局是热寂，我们熟知的一切结构都会瓦解然后归于基本粒子，当时为这个事情抑郁了半年每天睡不着觉，感觉世上的一切都失去了意义，特别空虚😭\n嗯后来好像是放暑假玩游戏玩忘了（） https://t.co/1B6QMGyXRg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018093476840419328"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2018161199372726652",
+        "created_at": "2026-02-02T03:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018161199372726652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jX8iw4bJrG",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2018161199372726652/photo/1",
+              "media_key": "3_2018093476840419328",
+              "start": 0,
+              "url": "https://t.co/jX8iw4bJrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018161199372726652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13058,
+          "like_count": 341,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jX8iw4bJrG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 780,
+          "like_count": 11106,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 2955
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99064,
+          "following_count": 694,
+          "like_count": 34017,
+          "listed_count": 278,
+          "media_count": 15611,
+          "tweet_count": 22412
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

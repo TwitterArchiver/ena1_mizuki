@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2014256500571861431",
+    "created_at": "2026-01-22T08:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014256500571861431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2013656123107086737",
+          "start": 28,
+          "url": "https://t.co/QiQYVY3sen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014256500571861431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013656123107086737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇给我点赞了，这下没事了阴霾一扫而空，开心转圈圈🥰🥰🥰 https://t.co/QiQYVY3sen"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2014256500571861431",
+        "created_at": "2026-01-22T08:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014256500571861431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2013656123107086737",
+              "start": 28,
+              "url": "https://t.co/QiQYVY3sen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014256500571861431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013656123107086737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇给我点赞了，这下没事了阴霾一扫而空，开心转圈圈🥰🥰🥰 https://t.co/QiQYVY3sen"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013655570029383937",
+        "created_at": "2026-01-20T16:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013656123107086737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013656123107086737",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013655570029383937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉心情低落，好感的xnh还没给我朋友圈点赞，难过😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 734,
+          "like_count": 9731,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 2465
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

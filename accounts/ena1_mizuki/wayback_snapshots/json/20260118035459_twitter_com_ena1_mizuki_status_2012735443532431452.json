@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012364253618135469",
+    "created_at": "2026-01-18T03:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012735443532431452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786903427808829440",
+          "start": 0,
+          "username": "wing4120161014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012735443532431452",
+    "in_reply_to_user_id": "786903427808829440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012728057044328868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wing4120161014 嗯嗯下次晚上尽量不走国道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012364253618135469",
+        "created_at": "2026-01-18T03:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012735443532431452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786903427808829440",
+              "start": 0,
+              "username": "wing4120161014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012735443532431452",
+        "in_reply_to_user_id": "786903427808829440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012728057044328868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wing4120161014 嗯嗯下次晚上尽量不走国道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786903427808829440",
+        "conversation_id": "2012364253618135469",
+        "created_at": "2026-01-18T03:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012728057044328868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012728057044328868",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012364253618135469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 晚上开车1千倍要小心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 684,
+          "like_count": 9191,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 2237
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-14T12:16:11.000Z",
+        "description": "",
+        "id": "786903427808829440",
+        "name": "wing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007143635511586817/LhOE21lI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 1707,
+          "like_count": 17716,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3600
+        },
+        "username": "wing4120161014",
+        "verified": false
+      }
+    ]
+  }
+}

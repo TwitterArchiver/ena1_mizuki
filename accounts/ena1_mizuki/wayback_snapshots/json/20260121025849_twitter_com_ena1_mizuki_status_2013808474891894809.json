@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013694986479337689",
+    "created_at": "2026-01-21T02:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T03:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013808474891894809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890498415974305792",
+          "start": 0,
+          "username": "autumn0229_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013808474891894809",
+    "in_reply_to_user_id": "1890498415974305792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013725174504345807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@autumn0229_awa 好诶贴~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013694986479337689",
+        "created_at": "2026-01-21T02:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013808474891894809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890498415974305792",
+              "start": 0,
+              "username": "autumn0229_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013808474891894809",
+        "in_reply_to_user_id": "1890498415974305792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013725174504345807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@autumn0229_awa 好诶贴~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890498415974305792",
+        "conversation_id": "2013694986479337689",
+        "created_at": "2026-01-20T21:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T22:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013725174504345807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013725174504345807",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013694986479337689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 大妹子贴贴qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 717,
+          "like_count": 9583,
+          "listed_count": 3,
+          "media_count": 399,
+          "tweet_count": 2401
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-14T20:28:49.000Z",
+        "description": "生产日期Dec20.2009丨坐标福建",
+        "id": "1890498415974305792",
+        "name": "唯唯sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012435990195982336/PbLMZJrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 49,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "username": "autumn0229_awa",
+        "verified": false
+      }
+    ]
+  }
+}

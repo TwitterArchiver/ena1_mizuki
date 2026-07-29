@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003395099636752587",
+    "created_at": "2025-12-23T17:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T18:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003511431388692965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        },
+        {
+          "end": 23,
+          "id": "1764263360424493056",
+          "start": 10,
+          "username": "matt82638482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003511431388692965",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003505033275670909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo @matt82638482 哇塞太羡慕了，稍微出城一点就是非常好的观测地😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003395099636752587",
+        "created_at": "2025-12-23T17:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003511431388692965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            },
+            {
+              "end": 23,
+              "id": "1764263360424493056",
+              "start": 10,
+              "username": "matt82638482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003511431388692965",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003505033275670909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo @matt82638482 哇塞太羡慕了，稍微出城一点就是非常好的观测地😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2003395099636752587",
+        "created_at": "2025-12-23T16:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003505033275670909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 26,
+              "id": "1764263360424493056",
+              "start": 13,
+              "username": "matt82638482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003505033275670909",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003404454624911759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @matt82638482 www咱是恩施本地的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 507,
+          "like_count": 6375,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1330
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "喜欢你们❤️喜欢千世❤️喜欢小翎❤️喜欢自己❤️ | 老公❤️:@Fisa_wo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "Fisa_wo"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "小翎妹妹的怀里",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000130035823644672/TXnj3b6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1060,
+          "like_count": 17904,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 5008
+        },
+        "username": "Chise_wo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T12:15:47.000Z",
+        "description": "AKA deafchair. A Chinese amateur astronomer,Live in Wuhan,Hubei.\n天文爱好者、马上毕业、面瘫患者",
+        "id": "1764263360424493056",
+        "location": "Wuhan",
+        "name": "DeafChair",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002598710111612928/JR32Jq0l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 28,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 263
+        },
+        "username": "matt82638482",
+        "verified": false
+      }
+    ]
+  }
+}

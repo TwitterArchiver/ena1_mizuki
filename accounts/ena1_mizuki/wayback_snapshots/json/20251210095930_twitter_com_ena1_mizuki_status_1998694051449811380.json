@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1998684854360092803",
+    "created_at": "2025-12-10T09:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T10:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998694051449811380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801490762888318976",
+          "start": 0,
+          "username": "raotianshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998694051449811380",
+    "in_reply_to_user_id": "1801490762888318976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998691747208347727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raotianshou o(*ﾟ▽ﾟ*)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1998684854360092803",
+        "created_at": "2025-12-10T09:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998694051449811380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801490762888318976",
+              "start": 0,
+              "username": "raotianshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998694051449811380",
+        "in_reply_to_user_id": "1801490762888318976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998691747208347727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raotianshou o(*ﾟ▽ﾟ*)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801490762888318976",
+        "conversation_id": "1998684854360092803",
+        "created_at": "2025-12-10T09:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998691747208347727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998691747208347727",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998684854360092803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 413,
+          "like_count": 4777,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 913
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-14T05:44:21.000Z",
+        "description": "05註冊地球online🍥被透就會老實🍥全國可飛🍥嘴上功夫一流🍥同類私信互fo🍥努力圓角中 #线下 #圆角",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "线下"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "圆角"
+              }
+            ]
+          }
+        },
+        "id": "1801490762888318976",
+        "name": "神楽坂 幻蝶纯梦🍥(互fo版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935366192602001408/7pYL-OmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 92,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 130
+        },
+        "username": "raotianshou",
+        "verified": false
+      }
+    ]
+  }
+}

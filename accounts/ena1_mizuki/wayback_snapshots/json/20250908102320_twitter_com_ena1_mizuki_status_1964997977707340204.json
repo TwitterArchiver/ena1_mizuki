@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964997968546889728",
+        "3_1964997974754500608"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1964997977707340204",
+    "created_at": "2025-09-08T10:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T11:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964997977707340204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 82,
+          "id": "1883570556718759936",
+          "start": 69,
+          "username": "bHlyaWNsZTA0"
+        },
+        {
+          "end": 99,
+          "id": "1932434375955857409",
+          "start": 87,
+          "username": "ena1_mizuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U8RjV5QBN9",
+          "end": 123,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1964997977707340204/photo/1",
+          "media_key": "3_1964997968546889728",
+          "start": 100,
+          "url": "https://t.co/U8RjV5QBN9"
+        },
+        {
+          "display_url": "pic.x.com/U8RjV5QBN9",
+          "end": 123,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1964997977707340204/photo/1",
+          "media_key": "3_1964997974754500608",
+          "start": 100,
+          "url": "https://t.co/U8RjV5QBN9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964997977707340204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人和闺蜜一起看月全食，看着看着就被捆了，第一次被捆感觉好爽呀🤤🤤🤤\n可惜就找到一根绳子所以绑的很简单，下次要尝试更复杂刺激的🥰\n绳/摄：@bHlyaWNsZTA0\n被捆：我@ena1_mizuki https://t.co/U8RjV5QBN9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1964997968546889728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UTPcuaAAAwOXO.jpg",
+        "width": 720
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1964997974754500608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0UTPz2aoAA8EwO.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964997968546889728",
+            "3_1964997974754500608"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1964997977707340204",
+        "created_at": "2025-09-08T10:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964997977707340204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1883570556718759936",
+              "start": 69,
+              "username": "bHlyaWNsZTA0"
+            },
+            {
+              "end": 99,
+              "id": "1932434375955857409",
+              "start": 87,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8RjV5QBN9",
+              "end": 123,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1964997977707340204/photo/1",
+              "media_key": "3_1964997968546889728",
+              "start": 100,
+              "url": "https://t.co/U8RjV5QBN9"
+            },
+            {
+              "display_url": "pic.x.com/U8RjV5QBN9",
+              "end": 123,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1964997977707340204/photo/1",
+              "media_key": "3_1964997974754500608",
+              "start": 100,
+              "url": "https://t.co/U8RjV5QBN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964997977707340204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人和闺蜜一起看月全食，看着看着就被捆了，第一次被捆感觉好爽呀🤤🤤🤤\n可惜就找到一根绳子所以绑的很简单，下次要尝试更复杂刺激的🥰\n绳/摄：@bHlyaWNsZTA0\n被捆：我@ena1_mizuki https://t.co/U8RjV5QBN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 266,
+          "like_count": 1520,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 235
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T17:40:02.000Z",
+        "description": "S 0.9 绳艺      \n如果非要刻板印象的话我是infp泛性恋，生心都是女，是小熊厨。我会回关一些人，想认识新朋友:3希望大家天天开心",
+        "id": "1883570556718759936",
+        "location": "Alcyone",
+        "name": "雨霁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964008021287456770/VEgnyxRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "username": "bHlyaWNsZTA0",
+        "verified": false
+      }
+    ]
+  }
+}

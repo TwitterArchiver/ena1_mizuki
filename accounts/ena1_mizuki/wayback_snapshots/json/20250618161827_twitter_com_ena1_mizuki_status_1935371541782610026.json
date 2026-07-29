@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935371538540134400",
+        "3_1935371533633077253"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1935371541782610026",
+    "created_at": "2025-06-18T16:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T17:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935371541782610026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6i6UGP6kWR",
+          "end": 104,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1935371541782610026/photo/1",
+          "media_key": "3_1935371538540134400",
+          "start": 81,
+          "url": "https://t.co/6i6UGP6kWR"
+        },
+        {
+          "display_url": "pic.x.com/6i6UGP6kWR",
+          "end": 104,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1935371541782610026/photo/1",
+          "media_key": "3_1935371533633077253",
+          "start": 81,
+          "url": "https://t.co/6i6UGP6kWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935371541782610026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近半年发生了太多事情，抑郁加重、出柜拿证、重病住院等一堆事，以为MBTI可能会变，结果再测还是100%高冷的intp，最大的变化大概是性别变成女(◦˙▽˙◦) https://t.co/6i6UGP6kWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935371538540134400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvSKQcWAAAP6mb.jpg",
+        "width": 922
+      },
+      {
+        "height": 1976,
+        "media_key": "3_1935371533633077253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvSJ-KaQAUET24.jpg",
+        "width": 893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935371538540134400",
+            "3_1935371533633077253"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1935371541782610026",
+        "created_at": "2025-06-18T16:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935371541782610026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6i6UGP6kWR",
+              "end": 104,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1935371541782610026/photo/1",
+              "media_key": "3_1935371538540134400",
+              "start": 81,
+              "url": "https://t.co/6i6UGP6kWR"
+            },
+            {
+              "display_url": "pic.x.com/6i6UGP6kWR",
+              "end": 104,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1935371541782610026/photo/1",
+              "media_key": "3_1935371533633077253",
+              "start": 81,
+              "url": "https://t.co/6i6UGP6kWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935371541782610026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近半年发生了太多事情，抑郁加重、出柜拿证、重病住院等一堆事，以为MBTI可能会变，结果再测还是100%高冷的intp，最大的变化大概是性别变成女(◦˙▽˙◦) https://t.co/6i6UGP6kWR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，等待老公中🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 20,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 20
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1982731971001450938",
+    "created_at": "2025-10-27T09:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982743398881862012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859121470733250560",
+          "start": 0,
+          "username": "naitang166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982743398881862012",
+    "in_reply_to_user_id": "1859121470733250560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982739535294595348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naitang166 好耶是呢 (^_^)v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1982731971001450938",
+        "created_at": "2025-10-27T09:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982743398881862012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859121470733250560",
+              "start": 0,
+              "username": "naitang166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982743398881862012",
+        "in_reply_to_user_id": "1859121470733250560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982739535294595348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naitang166 好耶是呢 (^_^)v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859121470733250560",
+        "conversation_id": "1982731971001450938",
+        "created_at": "2025-10-27T09:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982739535294595348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982739535294595348",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982731971001450938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki hama好厉害～旅游也真好呢ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 313,
+          "like_count": 3003,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 429
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T06:28:25.000Z",
+        "description": "爱的本质是欺骗还是欺骗藏着爱的外面，我会永远恨你@cyansoul2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1859121470733250560",
+        "name": "奶糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890068653993046016/jAaB6T2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 360,
+          "like_count": 592,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 1266
+        },
+        "username": "naitang166",
+        "verified": false
+      }
+    ]
+  }
+}

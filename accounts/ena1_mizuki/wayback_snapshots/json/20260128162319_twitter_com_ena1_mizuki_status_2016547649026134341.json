@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016391084742738407",
+    "created_at": "2026-01-28T16:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016547649026134341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813007370513235969",
+          "start": 0,
+          "username": "mutamanoomomuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016547649026134341",
+    "in_reply_to_user_id": "1813007370513235969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016531232818151859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mutamanoomomuro 正解~观察力max"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016391084742738407",
+        "created_at": "2026-01-28T16:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016547649026134341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813007370513235969",
+              "start": 0,
+              "username": "mutamanoomomuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016547649026134341",
+        "in_reply_to_user_id": "1813007370513235969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016531232818151859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mutamanoomomuro 正解~观察力max"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813007370513235969",
+        "conversation_id": "2016391084742738407",
+        "created_at": "2026-01-28T15:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T16:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016531232818151859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016531232818151859",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016391084742738407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这是长港路拍的吧，对面反射的下一站好像是转乘六号线的常青花园🤔️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 754,
+          "like_count": 10538,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 2783
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T00:27:08.000Z",
+        "description": "02年，武汉，斑马小镇，已阉割雌化中，已出柜，母亲逼迫考证党，CAAC教员备考ing",
+        "id": "1813007370513235969",
+        "location": "Canada",
+        "name": "慕罗🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1820284589824528462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965368459715616768/ArOjr6Q7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 220,
+          "like_count": 2879,
+          "listed_count": 16,
+          "media_count": 83,
+          "tweet_count": 2478
+        },
+        "username": "mutamanoomomuro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016382330462728320",
+    "created_at": "2026-01-29T09:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016806643649163596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581270347713810434",
+          "start": 0,
+          "username": "23arhson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016806643649163596",
+    "in_reply_to_user_id": "1581270347713810434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016800798592971177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@23arhson 美味🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016382330462728320",
+        "created_at": "2026-01-29T09:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016806643649163596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581270347713810434",
+              "start": 0,
+              "username": "23arhson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016806643649163596",
+        "in_reply_to_user_id": "1581270347713810434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016800798592971177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@23arhson 美味🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581270347713810434",
+        "conversation_id": "2016382330462728320",
+        "created_at": "2026-01-29T09:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016800798592971177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016800798592971177",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016382330462728320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 麦麦好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 759,
+          "like_count": 10589,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 2798
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T13:07:01.000Z",
+        "description": "我叫冰蛾\n本账号的内容可能含有\n精神状态抽象随机发癫/负能/FTX/ASD/ADHD等相关内容  \n不键政，大部分都在自言自语不必理会\n称呼我请用你/他/它\n互fo查成分后会回，  精神健全的号https://t.co/SQIlbwI82y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/220284ami_nums…",
+                "end": 120,
+                "expanded_url": "https://x.com/220284ami_nums?t=qtEUH4JJVzlUSO-ozumqjQ&s=09",
+                "start": 97,
+                "url": "https://t.co/SQIlbwI82y"
+              }
+            ]
+          }
+        },
+        "id": "1581270347713810434",
+        "location": "生化楼503",
+        "name": "火花飞蛾🏳️‍⚧️",
+        "pinned_tweet_id": "1962564270300012912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932467253951569920/p9TK_1FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 226,
+          "like_count": 4616,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1011
+        },
+        "username": "23arhson",
+        "verified": false
+      }
+    ]
+  }
+}

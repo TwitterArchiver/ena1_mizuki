@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2076262130345730121",
+    "created_at": "2026-07-13T02:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076492641185988833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531432040909918209",
+          "start": 0,
+          "username": "_ciweiqwq_"
+        },
+        {
+          "end": 25,
+          "id": "1991810120607739904",
+          "start": 12,
+          "username": "GuanQiao6316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076492641185988833",
+    "in_reply_to_user_id": "1531432040909918209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076456029802389690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ciweiqwq_ @GuanQiao6316 吃吃🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2076262130345730121",
+        "created_at": "2026-07-13T02:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076492641185988833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531432040909918209",
+              "start": 0,
+              "username": "_ciweiqwq_"
+            },
+            {
+              "end": 25,
+              "id": "1991810120607739904",
+              "start": 12,
+              "username": "GuanQiao6316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076492641185988833",
+        "in_reply_to_user_id": "1531432040909918209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076456029802389690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ciweiqwq_ @GuanQiao6316 吃吃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531432040909918209",
+        "conversation_id": "2076262130345730121",
+        "created_at": "2026-07-12T23:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T00:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076456029802389690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 26,
+              "id": "1991810120607739904",
+              "start": 13,
+              "username": "GuanQiao6316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076456029802389690",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076262130345730121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @GuanQiao6316 哇，看起来好好吃喵🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 1354,
+          "like_count": 19300,
+          "listed_count": 8,
+          "media_count": 758,
+          "tweet_count": 5604
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-31T00:27:23.000Z",
+        "description": "09/男/双 这个是发泄情绪的号：@suzume_FANqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "suzume_FANqwq"
+              }
+            ]
+          }
+        },
+        "id": "1531432040909918209",
+        "name": "刺猬QWQ",
+        "pinned_tweet_id": "2056926845497409858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047713615419932673/rglwu7N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 524,
+          "like_count": 24851,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1522
+        },
+        "url": "",
+        "username": "_ciweiqwq_",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T10:05:39.000Z",
+        "description": "INTJ 画画人 音乐品味很杂 喜欢分享日常 谢谢喜欢 （祝我雅思早点考出分儿）",
+        "id": "1991810120607739904",
+        "name": "C.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047517575677169664/3i_bImnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 181,
+          "like_count": 4130,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "GuanQiao6316",
+        "verified": false
+      }
+    ]
+  }
+}

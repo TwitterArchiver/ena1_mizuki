@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074523165154521088"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2074523167755038929",
+    "created_at": "2026-07-07T15:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074523167755038929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qAlLxo00od",
+          "end": 79,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2074523167755038929/photo/1",
+          "media_key": "3_2074523165154521088",
+          "start": 56,
+          "url": "https://t.co/qAlLxo00od"
+        },
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2074442324399288796",
+          "start": 80,
+          "url": "https://t.co/tJgHOptDHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074523167755038929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074442324399288796",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实今天去专业照相馆化妆拍照，并且带妆逛街，是因为昨天在学校照相馆拍的超级丑，简直像哈兰德一样，被刺激gd了😡 https://t.co/qAlLxo00od https://t.co/tJgHOptDHQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2074523165154521088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMov09FasAAjCZy.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074442315289219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnmS33aUAACRvl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074523165154521088"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2074523167755038929",
+        "created_at": "2026-07-07T15:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074523167755038929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qAlLxo00od",
+              "end": 79,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2074523167755038929/photo/1",
+              "media_key": "3_2074523165154521088",
+              "start": 56,
+              "url": "https://t.co/qAlLxo00od"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2074442324399288796",
+              "start": 80,
+              "url": "https://t.co/tJgHOptDHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074523167755038929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074442324399288796",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实今天去专业照相馆化妆拍照，并且带妆逛街，是因为昨天在学校照相馆拍的超级丑，简直像哈兰德一样，被刺激gd了😡 https://t.co/qAlLxo00od https://t.co/tJgHOptDHQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074442315289219072"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2074442324399288796",
+        "created_at": "2026-07-07T10:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074442324399288796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/imeI0g0FOY",
+              "end": 37,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2074442324399288796/photo/1",
+              "media_key": "3_2074442315289219072",
+              "start": 14,
+              "url": "https://t.co/imeI0g0FOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074442324399288796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2284,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是敢去实体店买小裙子了😎 https://t.co/imeI0g0FOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 1330,
+          "like_count": 19215,
+          "listed_count": 8,
+          "media_count": 746,
+          "tweet_count": 5554
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

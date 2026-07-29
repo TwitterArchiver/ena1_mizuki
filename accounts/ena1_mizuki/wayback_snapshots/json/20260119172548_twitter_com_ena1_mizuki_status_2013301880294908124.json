@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013301821847298048"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013301880294908124",
+    "created_at": "2026-01-19T17:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T18:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013301880294908124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RlufbpOmZT",
+          "end": 144,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2013301880294908124/photo/1",
+          "media_key": "3_2013301821847298048",
+          "start": 121,
+          "url": "https://t.co/RlufbpOmZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013301880294908124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简单处理一下昨天在内蒙边境拍摄的星空，真的特别美丽但也超冷，原来有这么多牛牛在吃草，都-35度了好耐冻呀Σ( ° △ °|||)\n其实一个人来这里是特别害怕的，加上手被冻伤了没太能好好观赏星空，唉要有男朋友陪着我就安心多了&gt;_&lt; https://t.co/RlufbpOmZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2013301821847298048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CvVwza4AAD-0C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013301821847298048"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013301880294908124",
+        "created_at": "2026-01-19T17:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013301880294908124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RlufbpOmZT",
+              "end": 144,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2013301880294908124/photo/1",
+              "media_key": "3_2013301821847298048",
+              "start": 121,
+              "url": "https://t.co/RlufbpOmZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013301880294908124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简单处理一下昨天在内蒙边境拍摄的星空，真的特别美丽但也超冷，原来有这么多牛牛在吃草，都-35度了好耐冻呀Σ( ° △ °|||)\n其实一个人来这里是特别害怕的，加上手被冻伤了没太能好好观赏星空，唉要有男朋友陪着我就安心多了&gt;_&lt; https://t.co/RlufbpOmZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 702,
+          "like_count": 9400,
+          "listed_count": 4,
+          "media_count": 393,
+          "tweet_count": 2328
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

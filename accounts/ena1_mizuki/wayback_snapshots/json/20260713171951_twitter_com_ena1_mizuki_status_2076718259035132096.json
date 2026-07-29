@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2076717680489533686",
+    "created_at": "2026-07-13T17:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076718259035132096"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076718259035132096",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076717680489533686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "突然意识到我现在有蓝标，可以开次密接回复防止机器人出现了😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076717677486497792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH7uYlbYAACIJ3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2076717680489533686",
+        "created_at": "2026-07-13T17:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076718259035132096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076718259035132096",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076717680489533686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "突然意识到我现在有蓝标，可以开次密接回复防止机器人出现了😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076717677486497792"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2076717680489533686",
+        "created_at": "2026-07-13T17:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076717680489533686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoCxL5H7nu",
+              "end": 90,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2076717680489533686/photo/1",
+              "media_key": "3_2076717677486497792",
+              "start": 67,
+              "url": "https://t.co/VoCxL5H7nu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076717680489533686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这次出来玩走太急忘了带凝胶，正发愁怎么办，结果小男友不知从哪里掏出来一盒补佳乐，解决燃眉之急🤔🤔🤔\n（说起来这还是我第一次吃补佳乐） https://t.co/VoCxL5H7nu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 1351,
+          "like_count": 19324,
+          "listed_count": 8,
+          "media_count": 761,
+          "tweet_count": 5612
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

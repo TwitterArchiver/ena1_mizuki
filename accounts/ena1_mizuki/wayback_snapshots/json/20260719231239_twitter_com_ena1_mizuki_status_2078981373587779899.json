@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2078830808522162674",
+    "created_at": "2026-07-19T23:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078981373587779899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1105760083940503552",
+          "start": 0,
+          "username": "Crazy_BigC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078981373587779899",
+    "in_reply_to_user_id": "1105760083940503552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078832853933285433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Crazy_BigC 流星雨还没有开始哦，单纯太久没观测憋的w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2078830808522162674",
+        "created_at": "2026-07-19T23:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078981373587779899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1105760083940503552",
+              "start": 0,
+              "username": "Crazy_BigC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078981373587779899",
+        "in_reply_to_user_id": "1105760083940503552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078832853933285433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Crazy_BigC 流星雨还没有开始哦，单纯太久没观测憋的w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1105760083940503552",
+        "conversation_id": "2078830808522162674",
+        "created_at": "2026-07-19T13:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078832853933285433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078832853933285433",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078830808522162674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki 看流星雨吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 1397,
+          "like_count": 19475,
+          "listed_count": 8,
+          "media_count": 769,
+          "tweet_count": 5675
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-13T09:18:42.000Z",
+        "description": "呼呼嘿嘿",
+        "id": "1105760083940503552",
+        "location": "广州",
+        "name": "聪明笨伯",
+        "pinned_tweet_id": "1596419089337311232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335127820012453888/DchzvnLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 7104,
+          "like_count": 27595,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 7712
+        },
+        "url": "",
+        "username": "Crazy_BigC",
+        "verified": false
+      }
+    ]
+  }
+}

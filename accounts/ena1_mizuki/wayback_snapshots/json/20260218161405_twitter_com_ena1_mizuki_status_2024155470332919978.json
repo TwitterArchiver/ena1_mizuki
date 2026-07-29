@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2024098723878363151",
+    "created_at": "2026-02-18T16:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T17:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024155470332919978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008947825028341761",
+          "start": 0,
+          "username": "tian_fen74199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024155470332919978",
+    "in_reply_to_user_id": "2008947825028341761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024099659518443650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tian_fen74199 吃~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 176,
+        "media_key": "3_2024099656725389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcL6eUbYAAziik.jpg",
+        "width": 192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2024098723878363151",
+        "created_at": "2026-02-18T16:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024155470332919978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008947825028341761",
+              "start": 0,
+              "username": "tian_fen74199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024155470332919978",
+        "in_reply_to_user_id": "2008947825028341761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024099659518443650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tian_fen74199 吃~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024099656725389312"
+          ]
+        },
+        "author_id": "2008947825028341761",
+        "conversation_id": "2024098723878363151",
+        "created_at": "2026-02-18T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024099659518443650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bngAGYLsYG",
+              "end": 44,
+              "expanded_url": "https://x.com/tian_fen74199/status/2024099659518443650/photo/1",
+              "media_key": "3_2024099656725389312",
+              "start": 21,
+              "url": "https://t.co/bngAGYLsYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024099659518443650",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024098723878363151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 你好，我吃一点 https://t.co/bngAGYLsYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 879,
+          "like_count": 12939,
+          "listed_count": 4,
+          "media_count": 500,
+          "tweet_count": 3547
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T17:04:37.000Z",
+        "description": "我不是水母",
+        "id": "2008947825028341761",
+        "name": "AAA深海水母批发",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008962775654305792/zdij0I5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 58,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 50
+        },
+        "username": "tian_fen74199",
+        "verified": false
+      }
+    ]
+  }
+}

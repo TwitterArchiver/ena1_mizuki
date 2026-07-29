@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1998069994937258468",
+    "created_at": "2025-12-08T16:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998070644609810466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792513167974957056",
+          "start": 0,
+          "username": "GlimpseAbyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998070644609810466",
+    "in_reply_to_user_id": "1792513167974957056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998069994937258468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlimpseAbyss 哇攻受都拉满了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_1998069764321910784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qR3UrbIAAL9ZM.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1998069994937258468",
+        "created_at": "2025-12-08T16:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998070644609810466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792513167974957056",
+              "start": 0,
+              "username": "GlimpseAbyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998070644609810466",
+        "in_reply_to_user_id": "1792513167974957056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998069994937258468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlimpseAbyss 哇攻受都拉满了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998069764321910784"
+          ]
+        },
+        "author_id": "1792513167974957056",
+        "conversation_id": "1998069994937258468",
+        "created_at": "2025-12-08T16:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998069994937258468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "quiz.charlinserver.online",
+              "end": 37,
+              "expanded_url": "http://quiz.charlinserver.online",
+              "start": 14,
+              "status": 200,
+              "title": "Charlin趣味小测试",
+              "unwound_url": "https://quiz.charlinserver.online/",
+              "url": "https://t.co/EtXODfZvqv"
+            },
+            {
+              "display_url": "pic.x.com/MvAANIP56e",
+              "end": 61,
+              "expanded_url": "https://x.com/GlimpseAbyss/status/1998069994937258468/photo/1",
+              "media_key": "3_1998069764321910784",
+              "start": 38,
+              "url": "https://t.co/MvAANIP56e"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/1998022010052731265",
+              "start": 62,
+              "url": "https://t.co/evNfSviUFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998069994937258468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998022010052731265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "温柔喵，理想喵\nLINK:\nhttps://t.co/EtXODfZvqv https://t.co/MvAANIP56e https://t.co/evNfSviUFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 410,
+          "like_count": 4666,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 875
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-20T11:10:32.000Z",
+        "description": "peace peace✌️",
+        "id": "1792513167974957056",
+        "name": "Protect the 珊瑚🪸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995855179103830026/tBhavHk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 170,
+          "like_count": 49432,
+          "listed_count": 4,
+          "media_count": 3301,
+          "tweet_count": 33781
+        },
+        "username": "GlimpseAbyss",
+        "verified": false
+      }
+    ]
+  }
+}

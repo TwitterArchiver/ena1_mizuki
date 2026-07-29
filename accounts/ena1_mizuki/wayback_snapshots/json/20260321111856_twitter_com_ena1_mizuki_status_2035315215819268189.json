@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2035311709288907040",
+    "created_at": "2026-03-21T11:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035315215819268189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1430973520452800515",
+          "start": 0,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035315215819268189",
+    "in_reply_to_user_id": "1430973520452800515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035311709288907040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XmeowwoemX_017 这侠们真照🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21370,
+        "height": 384,
+        "media_key": "13_2035311644008742913",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035311644008742913/img/xck4eUtxqVNpcd-s.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311644008742913/vid/avc1/600x270/ei22g0p6J-Yj8hMt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035311644008742913/vid/avc1/854x384/mktwyVEtYoFt7uzk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035311644008742913/pl/t0klbm7t3WDvuxDv.m3u8"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2035311709288907040",
+        "created_at": "2026-03-21T11:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035315215819268189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430973520452800515",
+              "start": 0,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035315215819268189",
+        "in_reply_to_user_id": "1430973520452800515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035311709288907040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XmeowwoemX_017 这侠们真照🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035311644008742913"
+          ]
+        },
+        "author_id": "1430973520452800515",
+        "conversation_id": "2035311709288907040",
+        "created_at": "2026-03-21T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035311709288907040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EH46wbD34W",
+              "end": 95,
+              "expanded_url": "https://x.com/XmeowwoemX_017/status/2035311709288907040/video/1",
+              "media_key": "13_2035311644008742913",
+              "start": 72,
+              "url": "https://t.co/EH46wbD34W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035311709288907040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年有点想做的事：学一门吴语\n不知对于我这样一位悉知一门江淮官话（⬇️听我说两句）的人来说，学起来会不会比只会普通话/北方方言的人要轻松一些（ https://t.co/EH46wbD34W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1055,
+          "like_count": 15409,
+          "listed_count": 6,
+          "media_count": 566,
+          "tweet_count": 4258
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️non-binary transfem HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "location": "Auckland, NZ / Beijing ",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "1945791722505556478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 398,
+          "like_count": 35583,
+          "listed_count": 6,
+          "media_count": 691,
+          "tweet_count": 4504
+        },
+        "username": "XmeowwoemX_017",
+        "verified": false
+      }
+    ]
+  }
+}

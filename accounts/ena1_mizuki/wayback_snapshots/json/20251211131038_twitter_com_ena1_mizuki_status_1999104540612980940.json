@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1999104540612980940",
+    "created_at": "2025-12-11T13:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999104540612980940"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999104540612980940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天遇到了难绷的事情，正在海滨公园荡秋千玩呢，有一个小孩跑过来叫我妈妈，他亲戚提醒他这不是你妈妈，结果过一段时间路过又喊了我一声妈妈，也是老了到当妈的年纪了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1999104540612980940",
+        "created_at": "2025-12-11T13:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999104540612980940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999104540612980940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天遇到了难绷的事情，正在海滨公园荡秋千玩呢，有一个小孩跑过来叫我妈妈，他亲戚提醒他这不是你妈妈，结果过一段时间路过又喊了我一声妈妈，也是老了到当妈的年纪了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 418,
+          "like_count": 4892,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 945
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      }
+    ]
+  }
+}

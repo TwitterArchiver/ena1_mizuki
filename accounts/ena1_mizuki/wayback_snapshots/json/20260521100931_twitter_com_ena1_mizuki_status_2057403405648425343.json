@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057403402435645440",
+        "3_2057403399692537856"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2057403405648425343",
+    "created_at": "2026-05-21T10:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057403405648425343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jZBcp43O9K",
+          "end": 118,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2057403405648425343/photo/1",
+          "media_key": "3_2057403402435645440",
+          "start": 95,
+          "url": "https://t.co/jZBcp43O9K"
+        },
+        {
+          "display_url": "pic.x.com/jZBcp43O9K",
+          "end": 118,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2057403405648425343/photo/1",
+          "media_key": "3_2057403399692537856",
+          "start": 95,
+          "url": "https://t.co/jZBcp43O9K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057403405648425343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雨过天晴，西瓜和牵牛花长势特别好诶，已经从种植箱里爬出来了，看起来过两天就会开花，是时候扩大种植规模了~\n矢车菊就有点死了，还好有一棵生命力顽强，开出了漂亮的蓝花\n背后的向日葵是完全死了😇 https://t.co/jZBcp43O9K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_2057403402435645440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1dfnHbUAAC0Sp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1327,
+        "media_key": "3_2057403399692537856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1dfc5a0AAO3Ry.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057403402435645440",
+            "3_2057403399692537856"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2057403405648425343",
+        "created_at": "2026-05-21T10:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057403405648425343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jZBcp43O9K",
+              "end": 118,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2057403405648425343/photo/1",
+              "media_key": "3_2057403402435645440",
+              "start": 95,
+              "url": "https://t.co/jZBcp43O9K"
+            },
+            {
+              "display_url": "pic.x.com/jZBcp43O9K",
+              "end": 118,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2057403405648425343/photo/1",
+              "media_key": "3_2057403399692537856",
+              "start": 95,
+              "url": "https://t.co/jZBcp43O9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057403405648425343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨过天晴，西瓜和牵牛花长势特别好诶，已经从种植箱里爬出来了，看起来过两天就会开花，是时候扩大种植规模了~\n矢车菊就有点死了，还好有一棵生命力顽强，开出了漂亮的蓝花\n背后的向日葵是完全死了😇 https://t.co/jZBcp43O9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1265,
+          "like_count": 18095,
+          "listed_count": 7,
+          "media_count": 680,
+          "tweet_count": 5181
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060693361456218112"
+      ],
+      "media_source_tweet_id": [
+        "2060694235951854049"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2060935728448798755",
+    "created_at": "2026-05-31T04:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060935728448798755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948693837389725699",
+          "start": 3,
+          "username": "GIRYURIGIRLS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bh3j8PZ4Ed",
+          "end": 60,
+          "expanded_url": "https://x.com/GIRYURIGIRLS/status/2060694235951854049/photo/1",
+          "media_key": "3_2060693361456218112",
+          "start": 37,
+          "url": "https://t.co/bh3j8PZ4Ed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060935728448798755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060694235951854049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GIRYURIGIRLS: Alice in 冷凍庫 IAちゃん https://t.co/bh3j8PZ4Ed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2060693361456218112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkNsbiagAA5g72.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060693361456218112"
+          ],
+          "media_source_tweet_id": [
+            "2060694235951854049"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2060935728448798755",
+        "created_at": "2026-05-31T04:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060935728448798755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948693837389725699",
+              "start": 3,
+              "username": "GIRYURIGIRLS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bh3j8PZ4Ed",
+              "end": 60,
+              "expanded_url": "https://x.com/GIRYURIGIRLS/status/2060694235951854049/photo/1",
+              "media_key": "3_2060693361456218112",
+              "start": 37,
+              "url": "https://t.co/bh3j8PZ4Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060935728448798755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060694235951854049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GIRYURIGIRLS: Alice in 冷凍庫 IAちゃん https://t.co/bh3j8PZ4Ed"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060693361456218112"
+          ]
+        },
+        "author_id": "1948693837389725699",
+        "conversation_id": "2060694235951854049",
+        "created_at": "2026-05-30T12:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060694235951854049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bh3j8PZ4Ed",
+              "end": 42,
+              "expanded_url": "https://x.com/GIRYURIGIRLS/status/2060694235951854049/photo/1",
+              "media_key": "3_2060693361456218112",
+              "start": 19,
+              "url": "https://t.co/bh3j8PZ4Ed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060694235951854049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 15423,
+          "like_count": 1553,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "Alice in 冷凍庫 IAちゃん https://t.co/bh3j8PZ4Ed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1271,
+          "like_count": 18329,
+          "listed_count": 7,
+          "media_count": 692,
+          "tweet_count": 5265
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T10:36:40.000Z",
+        "description": "百合を描きます　百合アニメ　音声合成\nほとんど百合のことばかり呟いてます",
+        "id": "1948693837389725699",
+        "name": "GIRYU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957371743947149312/6APH8vuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10193,
+          "following_count": 36,
+          "like_count": 92,
+          "listed_count": 49,
+          "media_count": 81,
+          "tweet_count": 484
+        },
+        "username": "GIRYURIGIRLS",
+        "verified": false
+      }
+    ]
+  }
+}

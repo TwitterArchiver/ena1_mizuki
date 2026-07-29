@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2040084681627218019",
+    "created_at": "2026-04-03T19:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T20:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040147319577059823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896404668462301185",
+          "start": 0,
+          "username": "garconch12"
+        },
+        {
+          "end": 20,
+          "id": "1318819823758069760",
+          "start": 12,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040147319577059823",
+    "in_reply_to_user_id": "1896404668462301185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040104191570432250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garconch12 @Enorez2 可以拍很多短曝光的照片叠加，也可以拍一张长曝光和一张短曝光进行hdr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2040084681627218019",
+        "created_at": "2026-04-03T19:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T20:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040147319577059823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896404668462301185",
+              "start": 0,
+              "username": "garconch12"
+            },
+            {
+              "end": 20,
+              "id": "1318819823758069760",
+              "start": 12,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040147319577059823",
+        "in_reply_to_user_id": "1896404668462301185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040104191570432250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garconch12 @Enorez2 可以拍很多短曝光的照片叠加，也可以拍一张长曝光和一张短曝光进行hdr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896404668462301185",
+        "conversation_id": "2040084681627218019",
+        "created_at": "2026-04-03T16:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040104191570432250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 21,
+              "id": "1318819823758069760",
+              "start": 13,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040104191570432250",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040084681627218019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @Enorez2 我一直不知道怎么处理过曝，每次都是前景黑或者月亮白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1084,
+          "like_count": 16100,
+          "listed_count": 6,
+          "media_count": 594,
+          "tweet_count": 4464
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T03:38:08.000Z",
+        "description": "青韭/用来记录个人交易/失败的商学生/amateur photographer/……ing/请不要挡住阳光",
+        "id": "1896404668462301185",
+        "name": "不问不侃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021033277021356033/qUUb39EY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 1235,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 725
+        },
+        "username": "garconch12",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "I am from China. I play Arknight/Endfiled/Project Sekai/Limbus Company. I love Miku. I am an idealist. I tend to identify as asexual.",
+        "id": "1318819823758069760",
+        "location": "Three Thousand Great Worlds",
+        "name": "Rei_Ling1",
+        "pinned_tweet_id": "2040142155193172272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040099296121679873/ChyiWxul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 559,
+          "like_count": 28394,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 4609
+        },
+        "username": "Enorez2",
+        "verified": true
+      }
+    ]
+  }
+}

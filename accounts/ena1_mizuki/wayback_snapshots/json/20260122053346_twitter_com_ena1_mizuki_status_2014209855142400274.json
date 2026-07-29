@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2014100788805591128",
+    "created_at": "2026-01-22T05:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T06:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014209855142400274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1734890898310504448",
+          "start": 0,
+          "username": "k0taka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014209855142400274",
+    "in_reply_to_user_id": "1734890898310504448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014100788805591128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k0taka_ 鸟类大多都会金鸡独立吧，我家养的文鸟时不时也会单脚站，大概只是站累了让一只脚歇歇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014100772955291649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OF-1nXAAEB-KT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014100772955283456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OF-1nW4AANeZH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014100772963635200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OF-1pWUAAb1_8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014100772959432704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OF-1oWMAAXRQm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2014100788805591128",
+        "created_at": "2026-01-22T05:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014209855142400274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1734890898310504448",
+              "start": 0,
+              "username": "k0taka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014209855142400274",
+        "in_reply_to_user_id": "1734890898310504448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014100788805591128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k0taka_ 鸟类大多都会金鸡独立吧，我家养的文鸟时不时也会单脚站，大概只是站累了让一只脚歇歇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014100772955291649",
+            "3_2014100772955283456",
+            "3_2014100772963635200",
+            "3_2014100772959432704"
+          ]
+        },
+        "author_id": "1734890898310504448",
+        "conversation_id": "2014100788805591128",
+        "created_at": "2026-01-21T22:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T23:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014100788805591128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhPyVJ59L9",
+              "end": 153,
+              "expanded_url": "https://x.com/k0taka_/status/2014100788805591128/photo/1",
+              "media_key": "3_2014100772955291649",
+              "start": 130,
+              "url": "https://t.co/JhPyVJ59L9"
+            },
+            {
+              "display_url": "pic.x.com/JhPyVJ59L9",
+              "end": 153,
+              "expanded_url": "https://x.com/k0taka_/status/2014100788805591128/photo/1",
+              "media_key": "3_2014100772955283456",
+              "start": 130,
+              "url": "https://t.co/JhPyVJ59L9"
+            },
+            {
+              "display_url": "pic.x.com/JhPyVJ59L9",
+              "end": 153,
+              "expanded_url": "https://x.com/k0taka_/status/2014100788805591128/photo/1",
+              "media_key": "3_2014100772963635200",
+              "start": 130,
+              "url": "https://t.co/JhPyVJ59L9"
+            },
+            {
+              "display_url": "pic.x.com/JhPyVJ59L9",
+              "end": 153,
+              "expanded_url": "https://x.com/k0taka_/status/2014100788805591128/photo/1",
+              "media_key": "3_2014100772959432704",
+              "start": 130,
+              "url": "https://t.co/JhPyVJ59L9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014100788805591128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前看到一只海鸥只有一只腿（p1-3）我还在感叹生命的顽强，然后这个月回到纽约又看到一只（p4）感觉特别奇妙，以为还是它，拍了一张照仔细一对比发现一只是左脚一只是右脚…\n\n上小红书查了一下，发现不只是海鸥，有许多海鸟都会选择单脚站立，人家只是为了保暖………. https://t.co/JhPyVJ59L9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 733,
+          "like_count": 9704,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 2454
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T11:00:04.000Z",
+        "description": "我只是一个按快门的",
+        "id": "1734890898310504448",
+        "name": "𝙺𝚘𝚝𝚊𝚔𝚊",
+        "pinned_tweet_id": "1987359999816049076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988753402545745920/Xi9CPddJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 241,
+          "like_count": 17751,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 1771
+        },
+        "username": "k0taka_",
+        "verified": false
+      }
+    ]
+  }
+}

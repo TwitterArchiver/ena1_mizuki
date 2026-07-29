@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2019373765470351406",
+    "created_at": "2026-02-05T11:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019373765470351406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ycs7vKl3zb5bPw…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/ycs7vKl3zb5bPwk/status/2019189147668447661",
+          "start": 71,
+          "url": "https://t.co/Ij9NFAXeXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019373765470351406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019189147668447661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前一直觉得黎明前线描绘的场景很浪漫美好，直到我真的在笔直的沪陕高速上迎着朝阳开了一个小时，路面反光双倍刺眼，没带墨镜直接受不了去服务区了😇 https://t.co/Ij9NFAXeXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2019189135978950657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWZ0jBacAEwEQJ.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2019373765470351406",
+        "created_at": "2026-02-05T11:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019373765470351406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ycs7vKl3zb5bPw…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/ycs7vKl3zb5bPwk/status/2019189147668447661",
+              "start": 71,
+              "url": "https://t.co/Ij9NFAXeXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019373765470351406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019189147668447661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前一直觉得黎明前线描绘的场景很浪漫美好，直到我真的在笔直的沪陕高速上迎着朝阳开了一个小时，路面反光双倍刺眼，没带墨镜直接受不了去服务区了😇 https://t.co/Ij9NFAXeXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019189135978950657"
+          ]
+        },
+        "author_id": "1302978226478694400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019189147668447661",
+        "created_at": "2026-02-04T23:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T00:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019189147668447661"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "DAYBREAK FRONTLINE",
+              "probability": 0.5967,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqW8CrpSIZ",
+              "end": 49,
+              "expanded_url": "https://x.com/ycs7vKl3zb5bPwk/status/2019189147668447661/photo/1",
+              "media_key": "3_2019189135978950657",
+              "start": 26,
+              "url": "https://t.co/xqW8CrpSIZ"
+            },
+            {
+              "display_url": "x.com/Hiroki_Arai82/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Hiroki_Arai82/status/2019018779456676071",
+              "start": 50,
+              "url": "https://t.co/KBUBWOXhCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019189147668447661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 72333,
+          "like_count": 3346,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019018779456676071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "DAYBREAK FRONTLINEの運転者目線だ https://t.co/xqW8CrpSIZ https://t.co/KBUBWOXhCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 811,
+          "like_count": 11602,
+          "listed_count": 4,
+          "media_count": 468,
+          "tweet_count": 3125
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T14:33:36.000Z",
+        "description": "＼ﾋﾟﾖﾋﾟﾖ／【アイコン：@yo_draw】【過去ツイ：https://t.co/RHUBShC5fy】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "yo_draw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "min.togetter.com/DJbIo6F",
+                "end": 52,
+                "expanded_url": "http://min.togetter.com/DJbIo6F",
+                "start": 29,
+                "url": "https://t.co/RHUBShC5fy"
+              }
+            ]
+          }
+        },
+        "id": "1302978226478694400",
+        "location": "13秒先",
+        "name": "🍊奏✨",
+        "pinned_tweet_id": "2019189147668447661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1302979000067735552/t9wlVlsB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 820,
+          "like_count": 110289,
+          "listed_count": 19,
+          "media_count": 1882,
+          "tweet_count": 21726
+        },
+        "username": "ycs7vKl3zb5bPwk",
+        "verified": false
+      }
+    ]
+  }
+}

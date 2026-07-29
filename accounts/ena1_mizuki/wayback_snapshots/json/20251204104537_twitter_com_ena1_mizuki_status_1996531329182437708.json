@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1996430894752784802",
+    "created_at": "2025-12-04T10:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996531329182437708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1792513167974957056",
+          "start": 0,
+          "username": "GlimpseAbyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996531329182437708",
+    "in_reply_to_user_id": "1792513167974957056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996525466619089377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlimpseAbyss 我也一边翻追番列表一边填的hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1996430894752784802",
+        "created_at": "2025-12-04T10:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996531329182437708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1792513167974957056",
+              "start": 0,
+              "username": "GlimpseAbyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996531329182437708",
+        "in_reply_to_user_id": "1792513167974957056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996525466619089377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlimpseAbyss 我也一边翻追番列表一边填的hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792513167974957056",
+        "conversation_id": "1996430894752784802",
+        "created_at": "2025-12-04T10:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996525466619089377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996525466619089377",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996430894752784802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 打开链接发现都不记得看过什么动漫了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 378,
+          "like_count": 4334,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 764
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-20T11:10:32.000Z",
+        "description": "peace peace✌️",
+        "id": "1792513167974957056",
+        "name": "Protect the 珊瑚🪸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995855179103830026/tBhavHk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 157,
+          "like_count": 48320,
+          "listed_count": 4,
+          "media_count": 3204,
+          "tweet_count": 33200
+        },
+        "username": "GlimpseAbyss",
+        "verified": false
+      }
+    ]
+  }
+}

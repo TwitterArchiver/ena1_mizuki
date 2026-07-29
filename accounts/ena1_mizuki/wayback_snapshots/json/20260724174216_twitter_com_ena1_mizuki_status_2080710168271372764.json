@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080710137116086273"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2080706656271564962",
+    "created_at": "2026-07-24T17:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080710168271372764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B56XhyTrV3",
+          "end": 46,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2080710168271372764/photo/1",
+          "media_key": "3_2080710137116086273",
+          "start": 23,
+          "url": "https://t.co/B56XhyTrV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080710168271372764",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080706656271564962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@litgraley 窝感觉这一片区域比较像 https://t.co/B56XhyTrV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2808,
+        "media_key": "3_2080710137116086273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAq2Htb0AEj4gU.jpg",
+        "width": 4096
+      },
+      {
+        "alt_text": "曝光2min*60  ISO1600\nNikon Z7II + 120mm f4镜头拍摄",
+        "height": 3276,
+        "media_key": "3_2080706630589743104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAnqA4aAAAUIte.jpg",
+        "width": 2247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080710137116086273"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2080706656271564962",
+        "created_at": "2026-07-24T17:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080710168271372764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B56XhyTrV3",
+              "end": 46,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2080710168271372764/photo/1",
+              "media_key": "3_2080710137116086273",
+              "start": 23,
+              "url": "https://t.co/B56XhyTrV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080710168271372764",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080706656271564962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@litgraley 窝感觉这一片区域比较像 https://t.co/B56XhyTrV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080706630589743104"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2080706656271564962",
+        "created_at": "2026-07-24T17:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080706656271564962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYjDIo7Stg",
+              "end": 78,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2080706656271564962/photo/1",
+              "media_key": "3_2080706630589743104",
+              "start": 55,
+              "url": "https://t.co/TYjDIo7Stg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080706656271564962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这幅狐狸座广域深空也是为小男友拍的，虽然星群看不出来哪里像了，但这段银河的暗星云与色彩搭配可以看出🦊的轮廓w https://t.co/TYjDIo7Stg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 1415,
+          "like_count": 19620,
+          "listed_count": 8,
+          "media_count": 784,
+          "tweet_count": 5744
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 938,
+          "like_count": 40774,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 6368
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

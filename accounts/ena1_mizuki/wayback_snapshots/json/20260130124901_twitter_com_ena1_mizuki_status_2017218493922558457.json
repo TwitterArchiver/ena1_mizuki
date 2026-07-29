@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2016884586249408790",
+    "created_at": "2026-01-30T12:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017218493922558457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590317621827846149",
+          "start": 0,
+          "username": "_nagi_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017218493922558457",
+    "in_reply_to_user_id": "1590317621827846149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017196568781496434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_nagi_no 🍉门！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2016884586249408790",
+        "created_at": "2026-01-30T12:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017218493922558457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590317621827846149",
+              "start": 0,
+              "username": "_nagi_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017218493922558457",
+        "in_reply_to_user_id": "1590317621827846149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017196568781496434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_nagi_no 🍉门！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590317621827846149",
+        "conversation_id": "2016884586249408790",
+        "created_at": "2026-01-30T11:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017196568781496434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017196568781496434",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016884586249408790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 西瓜门！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 762,
+          "like_count": 10703,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 2829
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T12:17:32.000Z",
+        "description": "=［nä . gi . no̞］// 08 // 🏳️‍⚧️ // zh · en · ja* · de* · fr* · ug* // 清水日常 // 互fo欢迎!!",
+        "id": "1590317621827846149",
+        "name": "なぎの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007136183399395334/KuRHwcGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 427,
+          "like_count": 1309,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 243
+        },
+        "username": "_nagi_no",
+        "verified": false
+      }
+    ]
+  }
+}

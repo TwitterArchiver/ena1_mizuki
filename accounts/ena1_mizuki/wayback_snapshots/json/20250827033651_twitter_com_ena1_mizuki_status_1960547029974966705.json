@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1960393333467177158",
+    "created_at": "2025-08-27T03:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T04:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960547029974966705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1451422182614069251",
+          "start": 0,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960547029974966705",
+    "in_reply_to_user_id": "1451422182614069251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960393333467177158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavariT72 啊摸摸，我是组织坏死性淋巴炎，得了之后只要生病淋巴就会肿，好怕以后会变成淋巴瘤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_1960393324092928000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzS3V3abMAAl5c2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1960393333467177158",
+        "created_at": "2025-08-27T03:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T04:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960547029974966705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1451422182614069251",
+              "start": 0,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960547029974966705",
+        "in_reply_to_user_id": "1451422182614069251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960393333467177158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavariT72 啊摸摸，我是组织坏死性淋巴炎，得了之后只要生病淋巴就会肿，好怕以后会变成淋巴瘤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960393324092928000"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "conversation_id": "1960393333467177158",
+        "created_at": "2025-08-26T17:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T18:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960393333467177158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoBbnGA78W",
+              "end": 177,
+              "expanded_url": "https://x.com/DavariT72/status/1960393333467177158/photo/1",
+              "media_key": "3_1960393324092928000",
+              "start": 154,
+              "url": "https://t.co/NoBbnGA78W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960393333467177158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2104,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于甜野猫生病过程\n2022年冬季，皮疹瘙痒，反复数次\n2023年10月，发现右侧腹股沟淋巴结肿大，未引起重视\n2024年6月，双侧颌下淋巴结肿大，9月腋窝淋巴结肿大，对颌下淋巴结切除活检病理，报告良性\n2025年1月，就医北京，复查腋窝淋巴结肿块稍许增大，截至8月上述肿块均逐渐增大+耳前淋巴结新发一个。 https://t.co/NoBbnGA78W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 180,
+          "like_count": 1038,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 155
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我的主页，可爱的肥橘猫(178，MTF抖m，k6k8，植物科普\n含糖天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类贴贴(´｡✪ω✪｡，有时会难过崩溃，可能会重开。身体状况差，不在线请见谅，爱吃水果!热爱植物\n成分（40%可爱+20%焦虑+30%烟花和水果+2%雌二醇+8%抑郁",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~有主😋🥑🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45211,
+          "following_count": 1699,
+          "like_count": 72349,
+          "listed_count": 47,
+          "media_count": 3828,
+          "tweet_count": 49976
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

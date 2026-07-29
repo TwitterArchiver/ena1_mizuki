@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999308998550650887"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999307713822765140",
+    "created_at": "2025-12-12T02:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T03:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999309010038919284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1433961861028855811",
+          "start": 0,
+          "username": "harukiO_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKxwt7L3kE",
+          "end": 65,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1999309010038919284/photo/1",
+          "media_key": "3_1999308998550650887",
+          "start": 42,
+          "url": "https://t.co/sKxwt7L3kE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999309010038919284",
+    "in_reply_to_user_id": "1433961861028855811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999308204040401253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harukiO_0 真的好险，刚好那个位置有缓冲区，其它地方路边都是树根本躲不了 https://t.co/sKxwt7L3kE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_1999308998550650887",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7748P7agAch9CH.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999308998550650887"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999307713822765140",
+        "created_at": "2025-12-12T02:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999309010038919284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1433961861028855811",
+              "start": 0,
+              "username": "harukiO_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKxwt7L3kE",
+              "end": 65,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1999309010038919284/photo/1",
+              "media_key": "3_1999308998550650887",
+              "start": 42,
+              "url": "https://t.co/sKxwt7L3kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999309010038919284",
+        "in_reply_to_user_id": "1433961861028855811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999308204040401253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harukiO_0 真的好险，刚好那个位置有缓冲区，其它地方路边都是树根本躲不了 https://t.co/sKxwt7L3kE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433961861028855811",
+        "conversation_id": "1999307713822765140",
+        "created_at": "2025-12-12T02:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T03:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999308204040401253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999308204040401253",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999307713822765140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 万幸🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 427,
+          "like_count": 4971,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 975
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-04T01:16:00.000Z",
+        "description": "可怜的孩子 不再胆怯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakiko.top",
+                "end": 23,
+                "expanded_url": "https://sakiko.top",
+                "start": 0,
+                "url": "https://t.co/FZ7rSpxXBM"
+              }
+            ]
+          }
+        },
+        "id": "1433961861028855811",
+        "name": "haruki🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997839174578401280/3x7c5IO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1363,
+          "like_count": 113961,
+          "listed_count": 6,
+          "media_count": 516,
+          "tweet_count": 4336
+        },
+        "url": "https://t.co/FZ7rSpxXBM",
+        "username": "harukiO_0",
+        "verified": false
+      }
+    ]
+  }
+}

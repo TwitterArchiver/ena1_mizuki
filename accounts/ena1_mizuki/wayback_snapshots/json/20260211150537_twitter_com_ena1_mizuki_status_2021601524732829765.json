@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2021601225188192666",
+    "created_at": "2026-02-11T15:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021601524732829765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021601524732829765",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021601225188192666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来是时候准备水母二号机了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_2021601217437470720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4rmKrbkAA3yGT.jpg",
+        "width": 1220
+      },
+      {
+        "height": 210,
+        "media_key": "3_2021601218905481216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4rmQJboAA9rre.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2021601225188192666",
+        "created_at": "2026-02-11T15:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021601524732829765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021601524732829765",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021601225188192666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来是时候准备水母二号机了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021601217437470720",
+            "3_2021601218905481216"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2021601225188192666",
+        "created_at": "2026-02-11T15:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021601225188192666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlutmc14hd",
+              "end": 27,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2021601225188192666/photo/1",
+              "media_key": "3_2021601217437470720",
+              "start": 4,
+              "url": "https://t.co/dlutmc14hd"
+            },
+            {
+              "display_url": "pic.x.com/dlutmc14hd",
+              "end": 27,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2021601225188192666/photo/1",
+              "media_key": "3_2021601218905481216",
+              "start": 4,
+              "url": "https://t.co/dlutmc14hd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021601225188192666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/dlutmc14hd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 4,
+          "media_count": 484,
+          "tweet_count": 3320
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

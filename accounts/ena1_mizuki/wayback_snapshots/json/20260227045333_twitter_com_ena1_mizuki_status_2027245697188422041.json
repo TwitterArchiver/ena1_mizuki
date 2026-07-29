@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1301813885272354816",
+          "name": "Stardew Valley"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      }
+    ],
+    "conversation_id": "2027245697188422041",
+    "created_at": "2026-02-27T04:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027245697188422041"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "stardew",
+          "probability": 0.5075,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "clint",
+          "probability": 0.5479,
+          "start": 77,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354967263569436672",
+          "start": 3,
+          "username": "FataIYuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027245697188422041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3742
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027103849979244651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FataIYuri: not a single person opens stardew and goes yeah I wanna marry clint"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301813885272354816",
+              "name": "Stardew Valley"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "2027245697188422041",
+        "created_at": "2026-02-27T04:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027245697188422041"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "stardew",
+              "probability": 0.5075,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "clint",
+              "probability": 0.5479,
+              "start": 77,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354967263569436672",
+              "start": 3,
+              "username": "FataIYuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027245697188422041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3742
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027103849979244651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FataIYuri: not a single person opens stardew and goes yeah I wanna marry clint"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354967263569436672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301813885272354816",
+              "name": "Stardew Valley"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          }
+        ],
+        "conversation_id": "2027103849979244651",
+        "created_at": "2026-02-26T19:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027103849979244651"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "stardew",
+              "probability": 0.5578,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "clint",
+              "probability": 0.5289,
+              "start": 62,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/charlieintel/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/charlieintel/status/2027102635334025439",
+              "start": 68,
+              "url": "https://t.co/G0F220YeEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027103849979244651",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 677587,
+          "like_count": 31560,
+          "quote_count": 441,
+          "reply_count": 192,
+          "retweet_count": 3742
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027102635334025439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "not a single person opens stardew and goes yeah I wanna marry clint https://t.co/G0F220YeEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 918,
+          "like_count": 13618,
+          "listed_count": 6,
+          "media_count": 515,
+          "tweet_count": 3711
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T01:39:13.000Z",
+        "description": "Romy obsessed account, Jean Grey & Madelyne Pryor lover💕 Dragon ball - Animal Crossing - FFX - Fatal Frame",
+        "id": "1354967263569436672",
+        "location": "She/Her",
+        "name": "xo, my Rolliepollie ♡",
+        "pinned_tweet_id": "1998774328251297943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023556597310447616/ByPFe8yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3356,
+          "following_count": 2271,
+          "like_count": 66606,
+          "listed_count": 32,
+          "media_count": 8613,
+          "tweet_count": 48566
+        },
+        "username": "FataIYuri",
+        "verified": false
+      }
+    ]
+  }
+}

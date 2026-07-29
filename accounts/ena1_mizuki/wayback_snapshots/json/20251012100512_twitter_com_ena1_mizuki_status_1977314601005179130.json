@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1977178642548654333",
+    "created_at": "2025-10-12T10:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977314601005179130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737474298934161409",
+          "start": 0,
+          "username": "blueicesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977314601005179130",
+    "in_reply_to_user_id": "1737474298934161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977178642548654333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesama 割舍不下的三个垃圾桶hhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977178634038525954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3BZfftbwAIkTiI.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1977178642548654333",
+        "created_at": "2025-10-12T10:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977314601005179130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737474298934161409",
+              "start": 0,
+              "username": "blueicesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977314601005179130",
+        "in_reply_to_user_id": "1737474298934161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977178642548654333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesama 割舍不下的三个垃圾桶hhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977178634038525954"
+          ]
+        },
+        "author_id": "1737474298934161409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977178642548654333",
+        "created_at": "2025-10-12T01:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T02:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977178642548654333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWwbzLXFlx",
+              "end": 30,
+              "expanded_url": "https://x.com/blueicesama/status/1977178642548654333/photo/1",
+              "media_key": "3_1977178634038525954",
+              "start": 7,
+              "url": "https://t.co/dWwbzLXFlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977178642548654333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 68103,
+          "like_count": 402,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "好真实……… https://t.co/dWwbzLXFlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 302,
+          "like_count": 2708,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 391
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/Apple全肯定bot/中文·日本語/杂学·碎碎念·生活账/三倍厚袜/网蓝/里@blueicesamaQWQ 不扩空号·关注不代表本人立场 推止于推/可爱小狐狸@ri_si16512/老公@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1953842532942483704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6099,
+          "following_count": 3168,
+          "like_count": 36648,
+          "listed_count": 8,
+          "media_count": 841,
+          "tweet_count": 7471
+        },
+        "username": "blueicesama",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1938858560928002238",
+    "created_at": "2025-06-29T15:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T16:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939348323103883298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1150753335881826305",
+          "start": 0,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939348323103883298",
+    "in_reply_to_user_id": "1150753335881826305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938858560928002238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia038 我好像一直在前三条轮回，4我没有自信，5做不了手术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1938858560928002238",
+        "created_at": "2025-06-29T15:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T16:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939348323103883298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939348323103883298",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938858560928002238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 我好像一直在前三条轮回，4我没有自信，5做不了手术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "1938858560928002238",
+        "created_at": "2025-06-28T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938858560928002238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938858560928002238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 6327,
+          "like_count": 113,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "GD痛苦轮回：\n1.怀疑期：我真的想做女孩子吗…小时候自己好像没有什么问题呀…我是不是不必跨也能生存下去…是不是做出这个选择受尽歧视，会让以后的自己后悔呢…\n2.悲伤期：即使hrt了也还是不够女，即使做了srs，ffs，vfs，还是不够…总是认可不了自己，总是在顺女面前自卑…我好羡慕，好讨厌自己…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 30,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 30
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "waiting for something to happen…",
+        "id": "1150753335881826305",
+        "name": "suzu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830450281479303169/Zpy4n_d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 171,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

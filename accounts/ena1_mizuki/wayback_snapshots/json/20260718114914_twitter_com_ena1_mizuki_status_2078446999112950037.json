@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2078400675093028959",
+    "created_at": "2026-07-18T11:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078446999112950037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673253408734691332",
+          "start": 0,
+          "username": "rlyehscarlet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078446999112950037",
+    "in_reply_to_user_id": "1673253408734691332",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078412223559631000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rlyehscarlet 😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2078400675093028959",
+        "created_at": "2026-07-18T11:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078446999112950037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673253408734691332",
+              "start": 0,
+              "username": "rlyehscarlet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078446999112950037",
+        "in_reply_to_user_id": "1673253408734691332",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078412223559631000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rlyehscarlet 😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673253408734691332",
+        "conversation_id": "2078400675093028959",
+        "created_at": "2026-07-18T09:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078412223559631000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078412223559631000",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078400675093028959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 向日葵对着你，你也是太阳w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1391,
+          "like_count": 19413,
+          "listed_count": 8,
+          "media_count": 763,
+          "tweet_count": 5646
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-26T08:54:53.000Z",
+        "description": "",
+        "id": "1673253408734691332",
+        "name": "rehibiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078273940213121024/uc_n2OSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "rlyehscarlet",
+        "verified": false
+      }
+    ]
+  }
+}

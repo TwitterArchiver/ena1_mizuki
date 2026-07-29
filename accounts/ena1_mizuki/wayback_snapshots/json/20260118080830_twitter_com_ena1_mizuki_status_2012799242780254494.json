@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012799209804591104",
+        "3_2012799209779400704"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2012799242780254494",
+    "created_at": "2026-01-18T08:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012799242780254494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XMg2UB1cDC",
+          "end": 130,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2012799242780254494/photo/1",
+          "media_key": "3_2012799209804591104",
+          "start": 107,
+          "url": "https://t.co/XMg2UB1cDC"
+        },
+        {
+          "display_url": "pic.x.com/XMg2UB1cDC",
+          "end": 130,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2012799242780254494/photo/1",
+          "media_key": "3_2012799209779400704",
+          "start": 107,
+          "url": "https://t.co/XMg2UB1cDC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012799242780254494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跨越北纬45°线，沿着306国道一路向北，直达边境！\n跨越千难万险终于抵达了这次旅程的最北点，中蒙边境的珠恩嘎达布其口岸，一路上的景色非常壮丽，原本只打算在赤峰周围看看的，没想到一路开到了这里，可能这就是青春吧😎 https://t.co/XMg2UB1cDC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2012799209804591104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7mN5CW8AAsjh_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1428,
+        "media_key": "3_2012799209779400704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7mN48WkAARK3K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012799209804591104",
+            "3_2012799209779400704"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2012799242780254494",
+        "created_at": "2026-01-18T08:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012799242780254494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMg2UB1cDC",
+              "end": 130,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012799242780254494/photo/1",
+              "media_key": "3_2012799209804591104",
+              "start": 107,
+              "url": "https://t.co/XMg2UB1cDC"
+            },
+            {
+              "display_url": "pic.x.com/XMg2UB1cDC",
+              "end": 130,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2012799242780254494/photo/1",
+              "media_key": "3_2012799209779400704",
+              "start": 107,
+              "url": "https://t.co/XMg2UB1cDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012799242780254494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨越北纬45°线，沿着306国道一路向北，直达边境！\n跨越千难万险终于抵达了这次旅程的最北点，中蒙边境的珠恩嘎达布其口岸，一路上的景色非常壮丽，原本只打算在赤峰周围看看的，没想到一路开到了这里，可能这就是青春吧😎 https://t.co/XMg2UB1cDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 685,
+          "like_count": 9201,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 2239
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

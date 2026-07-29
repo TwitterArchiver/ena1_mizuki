@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1998022010052731265",
+    "created_at": "2025-12-10T07:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998662930091692158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1497522141759111174",
+          "start": 0,
+          "username": "MEMZMeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "quiz.charlinserver.online",
+          "end": 33,
+          "expanded_url": "http://quiz.charlinserver.online",
+          "start": 10,
+          "status": 200,
+          "title": "Charlin趣味小测试",
+          "unwound_url": "https://quiz.charlinserver.online/",
+          "url": "https://t.co/lmDDYLHI7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998662930091692158",
+    "in_reply_to_user_id": "1497522141759111174",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998653677645738138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZMeow https://t.co/lmDDYLHI7c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1998022010052731265",
+        "created_at": "2025-12-10T07:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998662930091692158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1497522141759111174",
+              "start": 0,
+              "username": "MEMZMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "quiz.charlinserver.online",
+              "end": 33,
+              "expanded_url": "http://quiz.charlinserver.online",
+              "start": 10,
+              "status": 200,
+              "title": "Charlin趣味小测试",
+              "unwound_url": "https://quiz.charlinserver.online/",
+              "url": "https://t.co/lmDDYLHI7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998662930091692158",
+        "in_reply_to_user_id": "1497522141759111174",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998653677645738138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZMeow https://t.co/lmDDYLHI7c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497522141759111174",
+        "conversation_id": "1998022010052731265",
+        "created_at": "2025-12-10T07:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998653677645738138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998653677645738138",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998022010052731265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 咱也想玩这个🥺有没有链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 413,
+          "like_count": 4757,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 906
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-26T10:41:25.000Z",
+        "description": "~只是一只喜欢喝茶的正常（不良x）狐狸🦊\n想要更多的喜欢和转发，咱会持续更新的🥺\n有任何事情欢迎私信咱喔，咱看到就会回复的✨\nWant more likes and repost, I will keep updating❤️",
+        "id": "1497522141759111174",
+        "name": "Nana Azuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996923189902123008/mRlq6OTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 110,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 91
+        },
+        "username": "MEMZMeow",
+        "verified": false
+      }
+    ]
+  }
+}

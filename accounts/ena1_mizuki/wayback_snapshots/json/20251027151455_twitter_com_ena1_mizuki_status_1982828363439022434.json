@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982828359965958144"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1980948516735422905",
+    "created_at": "2025-10-27T15:14:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982828363439022434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjYXsZzLxj",
+          "end": 121,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1982828363439022434/photo/1",
+          "media_key": "3_1982828359965958144",
+          "start": 98,
+          "url": "https://t.co/KjYXsZzLxj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982828363439022434",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982826723457859984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 我看一些预测说亮度还可以保持一段时间，而且半个月后可以和银河合影就像去年的a3\n不过距角确实呢，我还没有肉眼看到过这颗彗星，两次观测透明度都好差&gt;_&lt; https://t.co/KjYXsZzLxj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1982828359965958144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Rr405XYAA9EKV.jpg",
+        "width": 2233
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982828359965958144"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1980948516735422905",
+        "created_at": "2025-10-27T15:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982828363439022434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjYXsZzLxj",
+              "end": 121,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1982828363439022434/photo/1",
+              "media_key": "3_1982828359965958144",
+              "start": 98,
+              "url": "https://t.co/KjYXsZzLxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982828363439022434",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982826723457859984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 我看一些预测说亮度还可以保持一段时间，而且半个月后可以和银河合影就像去年的a3\n不过距角确实呢，我还没有肉眼看到过这颗彗星，两次观测透明度都好差&gt;_&lt; https://t.co/KjYXsZzLxj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894461745277931524",
+        "conversation_id": "1980948516735422905",
+        "created_at": "2025-10-27T15:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982826723457859984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982826723457859984",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982823090704015851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 羡慕呜呜…\n但是视亮度要越来越低了呀…距角也要越来越不友好惹( •̥́ ˍ •̀ू )\n再等就怕肉眼看不到啦）毕竟咱没有相机呢🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 314,
+          "like_count": 3023,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 435
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️ | 07年的南京女孩子🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 软软的温顺小动物 | 社恐小透明 | 随时发作的中二病 | 会自觉抱住可爱的存在 | 天文/航空/航天/科幻/理工文史都会看看 | 认真观察有趣的世界 | 想要…专属于咱抱着的人 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944852338558296073/3nSTzvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2459,
+          "following_count": 3742,
+          "like_count": 6726,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1097
+        },
+        "username": "Rain_Antar1121",
+        "verified": false
+      }
+    ]
+  }
+}

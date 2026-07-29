@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2017826943123558451",
+    "created_at": "2026-02-01T14:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017962326247498097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005261732751802368",
+          "start": 0,
+          "username": "HappyHejsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017962326247498097",
+    "in_reply_to_user_id": "2005261732751802368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017826943123558451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyHejsDay 啊这么好听！和周深一样哇感觉可以出道当偶像了🈸🈸🈸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13851,
+        "height": 332,
+        "media_key": "13_2017826926455394304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017826926455394304/img/pLqJs-ox3OdIIEZU.jpg",
+        "public_metrics": {
+          "view_count": 232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017826926455394304/vid/avc1/548x270/zyguNwtq6g7Yyfz1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017826926455394304/vid/avc1/676x332/uJGaqahEUdpSYKcJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017826926455394304/pl/oY_Bdo49SZpNLRzW.m3u8"
+          }
+        ],
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2017826943123558451",
+        "created_at": "2026-02-01T14:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017962326247498097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005261732751802368",
+              "start": 0,
+              "username": "HappyHejsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017962326247498097",
+        "in_reply_to_user_id": "2005261732751802368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017826943123558451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyHejsDay 啊这么好听！和周深一样哇感觉可以出道当偶像了🈸🈸🈸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017826926455394304"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2017826943123558451",
+        "created_at": "2026-02-01T05:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T06:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017826943123558451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhfLuzp6vb",
+              "end": 35,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2017826943123558451/video/1",
+              "media_key": "13_2017826926455394304",
+              "start": 12,
+              "url": "https://t.co/dhfLuzp6vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017826943123558451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 620,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的声音真的很好听么🥹 https://t.co/dhfLuzp6vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 768,
+          "like_count": 11009,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 2922
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜衰老阿姨｜中獎滿天星｜Queer｜amab｜🇭🇰🇹🇼🇨🇳🇲🇴｜弱智香港大學生｜大灣區爬蟲｜失敗交易員｜見習碼農｜某司神秘研發人員｜健全逼｜好人｜同类互fo｜前世@franciswwwww｜寵物@Fe_ions｜寶寶們@MoriSaSaaa @SuzukiHnnn @PaulDrizzyvlni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "MoriSaSaaa"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "PaulDrizzyvlni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtwymh"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "In your heart",
+        "name": "𝕙𝕖𝕛😉二號機（假期版",
+        "pinned_tweet_id": "2015422685984248135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012708787048652800/hgC2ksJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 765,
+          "like_count": 3224,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1862
+        },
+        "url": "https://t.co/XuuvUtwymh",
+        "username": "HappyHejsDay",
+        "verified": false
+      }
+    ]
+  }
+}

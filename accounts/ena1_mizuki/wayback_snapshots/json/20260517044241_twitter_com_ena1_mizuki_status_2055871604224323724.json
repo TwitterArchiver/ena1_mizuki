@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055871591247192064"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055871604224323724",
+    "created_at": "2026-05-17T04:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055871604224323724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sj4ojg4dHb",
+          "end": 52,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2055871604224323724/photo/1",
+          "media_key": "3_2055871591247192064",
+          "start": 29,
+          "url": "https://t.co/sj4ojg4dHb"
+        },
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2055578472425382350",
+          "start": 53,
+          "url": "https://t.co/yweAALSFPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055871604224323724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055578472425382350",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然落水了，但庆功宴还是要吃的，毕竟庆功是一种生活态度😎 https://t.co/sj4ojg4dHb https://t.co/yweAALSFPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055871591247192064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfsUdwbIAAC6B0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1446,
+        "media_key": "3_2055578457707618304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbht2OboAAsIHi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1750,
+        "media_key": "3_2055578458001178625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbht3UbAAEloCX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055871591247192064"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055871604224323724",
+        "created_at": "2026-05-17T04:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055871604224323724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj4ojg4dHb",
+              "end": 52,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2055871604224323724/photo/1",
+              "media_key": "3_2055871591247192064",
+              "start": 29,
+              "url": "https://t.co/sj4ojg4dHb"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2055578472425382350",
+              "start": 53,
+              "url": "https://t.co/yweAALSFPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055871604224323724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055578472425382350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然落水了，但庆功宴还是要吃的，毕竟庆功是一种生活态度😎 https://t.co/sj4ojg4dHb https://t.co/yweAALSFPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055578457707618304",
+            "3_2055578458001178625"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2055578472425382350",
+        "created_at": "2026-05-16T09:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055578472425382350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gw9pBkUVvV",
+              "end": 60,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2055578472425382350/photo/1",
+              "media_key": "3_2055578457707618304",
+              "start": 37,
+              "url": "https://t.co/gw9pBkUVvV"
+            },
+            {
+              "display_url": "pic.x.com/gw9pBkUVvV",
+              "end": 60,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2055578472425382350/photo/1",
+              "media_key": "3_2055578458001178625",
+              "start": 37,
+              "url": "https://t.co/gw9pBkUVvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055578472425382350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3503,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "在河边捞鱼结果掉到水里了，挣扎爬上来还爆了指甲，不过捞到了小虾不亏😎😎😎 https://t.co/gw9pBkUVvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 1248,
+          "like_count": 17917,
+          "listed_count": 7,
+          "media_count": 670,
+          "tweet_count": 5127
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

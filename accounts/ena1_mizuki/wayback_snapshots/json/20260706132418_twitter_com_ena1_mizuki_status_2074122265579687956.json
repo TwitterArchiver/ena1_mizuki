@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2074110889276706950",
+    "created_at": "2026-07-06T13:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074122265579687956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "xinhaiying521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074122265579687956",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074112912831221906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinhaiying521 🐔🐔🐔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2074110889276706950",
+        "created_at": "2026-07-06T13:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074122265579687956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "xinhaiying521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074122265579687956",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074112912831221906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinhaiying521 🐔🐔🐔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625030759395524608",
+        "conversation_id": "2074110889276706950",
+        "created_at": "2026-07-06T12:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074112912831221906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074112912831221906",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074110889276706950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 好美的🐔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 1321,
+          "like_count": 19159,
+          "listed_count": 8,
+          "media_count": 743,
+          "tweet_count": 5527
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05出厂(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈喜欢一切可爱的东西~ /💧🐟。o 〇@Romanorum_ Wish You Were Here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Romanorum_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xinhaiying520",
+                "end": 23,
+                "expanded_url": "https://t.me/xinhaiying520",
+                "start": 0,
+                "url": "https://t.co/hA3izuibx9"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "location": "距离你200m",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "2025465733115986160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997670357936001024/LnXCj7hM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 813,
+          "like_count": 10931,
+          "listed_count": 5,
+          "media_count": 632,
+          "tweet_count": 3895
+        },
+        "url": "https://t.co/hA3izuibx9",
+        "username": "xinhaiying521",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1993697219762094157",
+    "created_at": "2025-11-27T07:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993938061777096716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813971881990742016",
+          "start": 0,
+          "username": "TXTYYDZ"
+        },
+        {
+          "end": 18,
+          "id": "1627301480440164352",
+          "start": 9,
+          "username": "NWA12302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993938061777096716",
+    "in_reply_to_user_id": "1813971881990742016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993937314553421906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXTYYDZ @NWA12302 天地学（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1993697219762094157",
+        "created_at": "2025-11-27T07:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993938061777096716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813971881990742016",
+              "start": 0,
+              "username": "TXTYYDZ"
+            },
+            {
+              "end": 18,
+              "id": "1627301480440164352",
+              "start": 9,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993938061777096716",
+        "in_reply_to_user_id": "1813971881990742016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993937314553421906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXTYYDZ @NWA12302 天地学（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813971881990742016",
+        "conversation_id": "1993697219762094157",
+        "created_at": "2025-11-27T06:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T07:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993937314553421906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 22,
+              "id": "1627301480440164352",
+              "start": 13,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993937314553421906",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993936441173528885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @NWA12302 那这么说你这个算是天学🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 349,
+          "like_count": 3945,
+          "listed_count": 3,
+          "media_count": 150,
+          "tweet_count": 667
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "ISFP。热爱抽象艺术的精神状态令人担忧的不正常人类，也可能不是人类。\n县城社畜一枚，不爱干活，经常辞职。\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "全中国空气最埋汰的地方",
+        "name": "田小唐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975034385557757952/QQJXjIRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 1034,
+          "like_count": 54671,
+          "listed_count": 7,
+          "media_count": 2382,
+          "tweet_count": 14848
+        },
+        "username": "TXTYYDZ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜有理有据表达不满 ｜烤批｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜我永远喜欢黍｜大码lo裙体验者｜做个好玩的人\n｜用爱发电@Alter_Syrup ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Alter_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA糖浆专卖",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984938961140379648/wf9ada-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1323,
+          "like_count": 124417,
+          "listed_count": 5,
+          "media_count": 1744,
+          "tweet_count": 8838
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

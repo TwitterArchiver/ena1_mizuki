@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2013655570029383937",
+    "created_at": "2026-01-20T16:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013656123107086737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013656123107086737",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013655570029383937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉心情低落，好感的xnh还没给我朋友圈点赞，难过😣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013655570029383937",
+        "created_at": "2026-01-20T16:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013656123107086737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013656123107086737",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013655570029383937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉心情低落，好感的xnh还没给我朋友圈点赞，难过😣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2013655570029383937",
+        "created_at": "2026-01-20T16:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013655570029383937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2013635265592487978",
+              "start": 49,
+              "url": "https://t.co/dZBCEeJ08x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013655570029383937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013635265592487978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撤退了，基本一直就是北方天空稍红的程度，今天刚落日的时候极光最强，但那个时候我在丹东拍将军国。。 https://t.co/dZBCEeJ08x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 715,
+          "like_count": 9549,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 2385
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992590708159688705",
+        "3_1992590708524617728"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1992590712064602569",
+    "created_at": "2025-11-23T13:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992590712064602569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7eEcv8QeTy",
+          "end": 109,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1992590712064602569/photo/1",
+          "media_key": "3_1992590708159688705",
+          "start": 86,
+          "url": "https://t.co/7eEcv8QeTy"
+        },
+        {
+          "display_url": "pic.x.com/7eEcv8QeTy",
+          "end": 109,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1992590712064602569/photo/1",
+          "media_key": "3_1992590708524617728",
+          "start": 86,
+          "url": "https://t.co/7eEcv8QeTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992590712064602569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抓住夏天的尾巴，拍摄面纱星云~\n面纱星云是约5000年前一颗超新星爆发后留下的遗迹，冲击波扩张撞击星际分子云使其电离发光，形成了如同丝绸一般的蓝粉色星云，真美呀（￣▽￣） https://t.co/7eEcv8QeTy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2161,
+        "media_key": "3_1992590708159688705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6casR6aMAEFJ6n.jpg",
+        "width": 1415
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992590708524617728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6casTRakAATReA.jpg",
+        "width": 1341
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992590708159688705",
+            "3_1992590708524617728"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1992590712064602569",
+        "created_at": "2025-11-23T13:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992590712064602569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7eEcv8QeTy",
+              "end": 109,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1992590712064602569/photo/1",
+              "media_key": "3_1992590708159688705",
+              "start": 86,
+              "url": "https://t.co/7eEcv8QeTy"
+            },
+            {
+              "display_url": "pic.x.com/7eEcv8QeTy",
+              "end": 109,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1992590712064602569/photo/1",
+              "media_key": "3_1992590708524617728",
+              "start": 86,
+              "url": "https://t.co/7eEcv8QeTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992590712064602569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抓住夏天的尾巴，拍摄面纱星云~\n面纱星云是约5000年前一颗超新星爆发后留下的遗迹，冲击波扩张撞击星际分子云使其电离发光，形成了如同丝绸一般的蓝粉色星云，真美呀（￣▽￣） https://t.co/7eEcv8QeTy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 342,
+          "like_count": 3757,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 609
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

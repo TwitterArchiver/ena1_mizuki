@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2017428947689156733",
+    "created_at": "2026-01-31T02:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T03:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017428947689156733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sakanadesu0449…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/sakanadesu0449/status/2017259670424190989",
+          "start": 40,
+          "url": "https://t.co/yEKaw6sd1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017428947689156733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017259670424190989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "光是看文字就要馋死我了，简直就像水月一样，可爱xnh什么时候能降临我身边🤤🤤🤤 https://t.co/yEKaw6sd1R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2017428947689156733",
+        "created_at": "2026-01-31T02:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017428947689156733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakanadesu0449…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/sakanadesu0449/status/2017259670424190989",
+              "start": 40,
+              "url": "https://t.co/yEKaw6sd1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017428947689156733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017259670424190989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "光是看文字就要馋死我了，简直就像水月一样，可爱xnh什么时候能降临我身边🤤🤤🤤 https://t.co/yEKaw6sd1R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565591413282476033",
+        "conversation_id": "2017259670424190989",
+        "created_at": "2026-01-30T15:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017259670424190989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017259670424190989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 18939,
+          "like_count": 341,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "瘦削的小男生的身体就是很好看啊，修长的腿纤细的手腕和腰，干净的皮肤，鲻鱼头或是狼尾头，再用女式衣服裙子鞋子，发饰和手饰打扮一下就是世界上最完美的人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 762,
+          "like_count": 10736,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 2842
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "name": "魚",
+        "pinned_tweet_id": "2014664265249206486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1925,
+          "like_count": 13099,
+          "listed_count": 5,
+          "media_count": 2915,
+          "tweet_count": 21637
+        },
+        "username": "sakanadesu0449",
+        "verified": false
+      }
+    ]
+  }
+}

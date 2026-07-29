@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2005185609762283880",
+    "created_at": "2025-12-28T08:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005200095005102418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394704827117031426",
+          "start": 0,
+          "username": "l34Regte9Q37Oqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005200095005102418",
+    "in_reply_to_user_id": "1394704827117031426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005197890575307112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l34Regte9Q37Oqh 确实总结的好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2005185609762283880",
+        "created_at": "2025-12-28T08:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005200095005102418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394704827117031426",
+              "start": 0,
+              "username": "l34Regte9Q37Oqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005200095005102418",
+        "in_reply_to_user_id": "1394704827117031426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005197890575307112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l34Regte9Q37Oqh 确实总结的好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394704827117031426",
+        "conversation_id": "2005185609762283880",
+        "created_at": "2025-12-28T08:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005197890575307112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005197890575307112",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005185609762283880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 挺准的……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 527,
+          "like_count": 6885,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 1517
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-18T17:22:06.000Z",
+        "description": "一只水水口牙，希望和你聊天/习惯性给每个看到的帖子点赞，如果被我大量点赞一定是大数据的问题/外网主要出没音游/不愿意花钱的OC人(❌)，目前担任国人非商企划blophy的主策/不会主动jz/喜欢被打扰，欢迎私信",
+        "id": "1394704827117031426",
+        "location": "ss.water2h2o@gmail.com",
+        "name": "Water2H2O",
+        "pinned_tweet_id": "1990140250304430216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998028802363125760/q14FCvr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 193,
+          "like_count": 5985,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2478
+        },
+        "username": "l34Regte9Q37Oqh",
+        "verified": false
+      }
+    ]
+  }
+}

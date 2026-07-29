@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2030238312733306973",
+    "created_at": "2026-03-07T11:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T12:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030238312733306973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MercedesAMGPCF…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/MercedesAMGPCF1/status/2030181221607596079",
+          "start": 30,
+          "url": "https://t.co/HhAcUSpH4R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030238312733306973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030181221607596079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今年梅奔要取代迈凯伦大战潘子了，只有法拉利还在不变的位置上 https://t.co/HhAcUSpH4R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2025,
+        "media_key": "3_2030181155757039616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCynATqXIAAaB1k.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2030238312733306973",
+        "created_at": "2026-03-07T11:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030238312733306973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MercedesAMGPCF…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/MercedesAMGPCF1/status/2030181221607596079",
+              "start": 30,
+              "url": "https://t.co/HhAcUSpH4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030238312733306973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030181221607596079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年梅奔要取代迈凯伦大战潘子了，只有法拉利还在不变的位置上 https://t.co/HhAcUSpH4R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030181155757039616"
+          ]
+        },
+        "author_id": "1755976099039694848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2030181221607596079",
+        "created_at": "2026-03-07T07:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030181221607596079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/316SNCgWKw",
+              "end": 28,
+              "expanded_url": "https://x.com/MercedesAMGPCF1/status/2030181221607596079/photo/1",
+              "media_key": "3_2030181155757039616",
+              "start": 5,
+              "url": "https://t.co/316SNCgWKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030181221607596079",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 124043,
+          "like_count": 8270,
+          "quote_count": 780,
+          "reply_count": 71,
+          "retweet_count": 1874
+        },
+        "reply_settings": "everyone",
+        "text": "😮‍💨🚀 https://t.co/316SNCgWKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 992,
+          "like_count": 14335,
+          "listed_count": 6,
+          "media_count": 529,
+          "tweet_count": 3902
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T15:25:31.000Z",
+        "description": "Bringing you the latest news and insights on the Mercedes-AMG Petronas F1 Team🥇⚫| Fan account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/mercedesamgpcf1",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/mercedesamgpcf1",
+                "start": 0,
+                "url": "https://t.co/ygOtDdK6mb"
+              }
+            ]
+          }
+        },
+        "id": "1755976099039694848",
+        "location": "Brackley England",
+        "name": "Mercedes-AMG Passion Club",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996839012669992960/Z1n9w---_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32876,
+          "following_count": 88,
+          "like_count": 15193,
+          "listed_count": 84,
+          "media_count": 4115,
+          "tweet_count": 6001
+        },
+        "url": "https://t.co/ygOtDdK6mb",
+        "username": "MercedesAMGPCF1",
+        "verified": true
+      }
+    ]
+  }
+}

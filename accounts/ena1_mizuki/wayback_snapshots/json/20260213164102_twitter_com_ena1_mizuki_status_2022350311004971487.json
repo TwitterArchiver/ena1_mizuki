@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2022223006291177515",
+    "created_at": "2026-02-13T16:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022350311004971487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        },
+        {
+          "end": 20,
+          "id": "1990384119726129152",
+          "start": 9,
+          "username": "SuzukiHnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022350311004971487",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022341913739931950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 @SuzukiHnnn 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2022223006291177515",
+        "created_at": "2026-02-13T16:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022350311004971487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            },
+            {
+              "end": 20,
+              "id": "1990384119726129152",
+              "start": 9,
+              "username": "SuzukiHnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022350311004971487",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022341913739931950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 @SuzukiHnnn 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318819823758069760",
+        "conversation_id": "2022223006291177515",
+        "created_at": "2026-02-13T16:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022341913739931950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 24,
+              "id": "1990384119726129152",
+              "start": 13,
+              "username": "SuzukiHnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022341913739931950",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022224696012681344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @SuzukiHnnn 不要和我水母雨啊啊啊啊啊啊😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 852,
+          "like_count": 12468,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3392
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "CN/EN| Miku | Mygo |♜⃤Arknight | ♜⃤Endfiled  CNmainland Server |\nI'm working hard for the IELTS exam.Follow me then I will follow you back.I wanna some friends.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/0v9wTlS",
+                "end": 23,
+                "expanded_url": "http://b23.tv/0v9wTlS",
+                "start": 0,
+                "url": "https://t.co/gXJWRFFJtr"
+              }
+            ]
+          }
+        },
+        "id": "1318819823758069760",
+        "location": "Three Thousand Great Worlds",
+        "name": "Rei_LingYi❄︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016511216995422208/TZv5Bd51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 301,
+          "like_count": 9491,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/gXJWRFFJtr",
+        "username": "Enorez2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T11:38:59.000Z",
+        "description": "🇭🇺🇩🇪🇨🇳🇭🇰｜ENTJ｜163/58.1 ｜07產品E9大學在讀｜Ich sehe hässlich aus bitte verachte mich nicht ｜Möchtest du mit mir Maimai spielen｜是「很聽話的乖寶寶」！｜家姐@HappyHejsDay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "HappyHejsDay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanakostrawber…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanakostrawberry",
+                "start": 0,
+                "url": "https://t.co/iCnU7MKOvz"
+              }
+            ]
+          }
+        },
+        "id": "1990384119726129152",
+        "location": "Budapest，Hungary",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010333345733914625/8nj2jbd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 118,
+          "like_count": 2547,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/iCnU7MKOvz",
+        "username": "SuzukiHnnn",
+        "verified": false
+      }
+    ]
+  }
+}

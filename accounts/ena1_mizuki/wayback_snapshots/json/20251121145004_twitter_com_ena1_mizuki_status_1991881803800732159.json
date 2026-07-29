@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991798432357588992"
+      ],
+      "media_source_tweet_id": [
+        "1991798438053425334"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1991881803800732159",
+    "created_at": "2025-11-21T14:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991881803800732159"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "きゅうくらりん",
+          "probability": 0.3002,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1758476740236820480",
+          "start": 3,
+          "username": "mugennabi0625"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3RrWUo6Yu",
+          "end": 51,
+          "expanded_url": "https://x.com/mugennabi0625/status/1991798438053425334/photo/1",
+          "media_key": "3_1991798432357588992",
+          "start": 28,
+          "url": "https://t.co/g3RrWUo6Yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991881803800732159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991798438053425334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugennabi0625: きゅうくらりん🎀 https://t.co/g3RrWUo6Yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1991798432357588992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RKHwjaoAAuMih.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991798432357588992"
+          ],
+          "media_source_tweet_id": [
+            "1991798438053425334"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1991881803800732159",
+        "created_at": "2025-11-21T14:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991881803800732159"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "きゅうくらりん",
+              "probability": 0.3002,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1758476740236820480",
+              "start": 3,
+              "username": "mugennabi0625"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3RrWUo6Yu",
+              "end": 51,
+              "expanded_url": "https://x.com/mugennabi0625/status/1991798438053425334/photo/1",
+              "media_key": "3_1991798432357588992",
+              "start": 28,
+              "url": "https://t.co/g3RrWUo6Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991881803800732159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991798438053425334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mugennabi0625: きゅうくらりん🎀 https://t.co/g3RrWUo6Yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991798432357588992"
+          ]
+        },
+        "author_id": "1758476740236820480",
+        "conversation_id": "1991798438053425334",
+        "created_at": "2025-11-21T09:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991798438053425334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "きゅうくらりん",
+              "probability": 0.3991,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3RrWUo6Yu",
+              "end": 32,
+              "expanded_url": "https://x.com/mugennabi0625/status/1991798438053425334/photo/1",
+              "media_key": "3_1991798432357588992",
+              "start": 9,
+              "url": "https://t.co/g3RrWUo6Yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991798438053425334",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 8103,
+          "like_count": 1181,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "きゅうくらりん🎀 https://t.co/g3RrWUo6Yu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 337,
+          "like_count": 3689,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 584
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T13:01:54.000Z",
+        "description": "illustration/お仕事募集中/実績100⤴︎/リットリンクhttps://t.co/43M3x1tG9z /マロhttps://t.co/4XELZkLGn9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/mugennnabi",
+                "end": 57,
+                "expanded_url": "https://lit.link/mugennnabi",
+                "start": 34,
+                "url": "https://t.co/43M3x1tG9z"
+              },
+              {
+                "display_url": "marshmallow-qa.com/tkzd2x00yfowxsd",
+                "end": 84,
+                "expanded_url": "https://marshmallow-qa.com/tkzd2x00yfowxsd",
+                "start": 61,
+                "url": "https://t.co/4XELZkLGn9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mugennnabi",
+                "end": 23,
+                "expanded_url": "https://lit.link/mugennnabi",
+                "start": 0,
+                "url": "https://t.co/43M3x1tG9z"
+              }
+            ]
+          }
+        },
+        "id": "1758476740236820480",
+        "location": "依頼時必読→",
+        "name": "∞ナビ@東5 ナ51a 12/30 冬コミ107",
+        "pinned_tweet_id": "1899040637371969812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944417210660794369/Hj4odpMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11207,
+          "following_count": 62,
+          "like_count": 14632,
+          "listed_count": 14,
+          "media_count": 416,
+          "tweet_count": 8018
+        },
+        "url": "https://t.co/43M3x1tG9z",
+        "username": "mugennabi0625",
+        "verified": false
+      }
+    ]
+  }
+}

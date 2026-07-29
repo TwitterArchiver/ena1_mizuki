@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987060792739639296",
+        "3_1987060792727117829"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1987060812465512760",
+    "created_at": "2025-11-08T07:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T08:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987060812465512760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wzFpxCgZZ2",
+          "end": 46,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1987060812465512760/photo/1",
+          "media_key": "3_1987060792739639296",
+          "start": 23,
+          "url": "https://t.co/wzFpxCgZZ2"
+        },
+        {
+          "display_url": "pic.x.com/wzFpxCgZZ2",
+          "end": 46,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1987060812465512760/photo/1",
+          "media_key": "3_1987060792727117829",
+          "start": 23,
+          "url": "https://t.co/wzFpxCgZZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987060812465512760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "婺源篁岭秋游，不推荐，雨天还人挤人太遭罪了😇 https://t.co/wzFpxCgZZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1987060792739639296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N1Q1paMAA2UVL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1987060792727117829",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5N1Q1mbIAUBsPJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987060792739639296",
+            "3_1987060792727117829"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1987060812465512760",
+        "created_at": "2025-11-08T07:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987060812465512760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzFpxCgZZ2",
+              "end": 46,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1987060812465512760/photo/1",
+              "media_key": "3_1987060792739639296",
+              "start": 23,
+              "url": "https://t.co/wzFpxCgZZ2"
+            },
+            {
+              "display_url": "pic.x.com/wzFpxCgZZ2",
+              "end": 46,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1987060812465512760/photo/1",
+              "media_key": "3_1987060792727117829",
+              "start": 23,
+              "url": "https://t.co/wzFpxCgZZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987060812465512760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "婺源篁岭秋游，不推荐，雨天还人挤人太遭罪了😇 https://t.co/wzFpxCgZZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 326,
+          "like_count": 3324,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 485
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

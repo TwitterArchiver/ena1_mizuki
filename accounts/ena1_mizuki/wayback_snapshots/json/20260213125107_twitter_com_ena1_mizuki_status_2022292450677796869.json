@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2022284306237042884",
+    "created_at": "2026-02-13T12:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022292450677796869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467435740959150081",
+          "start": 0,
+          "username": "JianYu233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022292450677796869",
+    "in_reply_to_user_id": "1467435740959150081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022285263574335979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JianYu233 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2022284306237042884",
+        "created_at": "2026-02-13T12:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022292450677796869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467435740959150081",
+              "start": 0,
+              "username": "JianYu233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022292450677796869",
+        "in_reply_to_user_id": "1467435740959150081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022285263574335979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JianYu233 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467435740959150081",
+        "conversation_id": "2022284306237042884",
+        "created_at": "2026-02-13T12:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022285263574335979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022285263574335979",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022284306237042884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 精品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 850,
+          "like_count": 12428,
+          "listed_count": 4,
+          "media_count": 490,
+          "tweet_count": 3383
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T10:08:57.000Z",
+        "description": "07丨喜欢特摄，音游，自然，拼胶，机娘，粥（厨蓝毒），车万，COS，MGS。感兴趣想了解的很多，以后成分会更杂丨重抑重焦（提前说一下方便避雷）丨生理性别男，性别认同不太清楚，不吃药，女装是爱好丨有对象不过不嫌多（被打）丨想交朋友或者互关可以直接私信我，不太敢主动丨不想建政丨讨厌反智者丨希望世界和平丨私信还请耐心等待回复",
+        "id": "1467435740959150081",
+        "location": "内蒙",
+        "name": "剑鱼",
+        "pinned_tweet_id": "1994020947016520073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916716910584205312/4ZQCmO4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1266,
+          "like_count": 29383,
+          "listed_count": 6,
+          "media_count": 559,
+          "tweet_count": 8809
+        },
+        "username": "JianYu233",
+        "verified": false
+      }
+    ]
+  }
+}

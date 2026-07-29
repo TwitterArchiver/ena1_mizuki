@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073446957893480448"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2073448306387402995",
+    "created_at": "2026-07-04T16:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073448306387402995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1331816064271806465",
+          "start": 14,
+          "username": "Bv2V7mrVKybrPAz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B0ZfB5FHyE",
+          "end": 54,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2073448306387402995/photo/1",
+          "media_key": "3_2073446957893480448",
+          "start": 31,
+          "url": "https://t.co/B0ZfB5FHyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073448306387402995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃和今凪前往女同酒吧😎\n@Bv2V7mrVKybrPAz https://t.co/B0ZfB5FHyE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073446957893480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZdBcna8AAhjC0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073446957893480448"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2073448306387402995",
+        "created_at": "2026-07-04T16:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073448306387402995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1331816064271806465",
+              "start": 14,
+              "username": "Bv2V7mrVKybrPAz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B0ZfB5FHyE",
+              "end": 54,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2073448306387402995/photo/1",
+              "media_key": "3_2073446957893480448",
+              "start": 31,
+              "url": "https://t.co/B0ZfB5FHyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073448306387402995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃和今凪前往女同酒吧😎\n@Bv2V7mrVKybrPAz https://t.co/B0ZfB5FHyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 1324,
+          "like_count": 19122,
+          "listed_count": 8,
+          "media_count": 741,
+          "tweet_count": 5518
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-26T04:24:38.000Z",
+        "description": "模型玩家 欢迎灌注小红书/\nx就当没人认识我的朋友圈吧/\n🏳‍⚧🍥",
+        "id": "1331816064271806465",
+        "location": "浙江",
+        "name": "今凪喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004191747006435329/SS_BY24X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 478,
+          "like_count": 1897,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Bv2V7mrVKybrPAz",
+        "verified": false
+      }
+    ]
+  }
+}

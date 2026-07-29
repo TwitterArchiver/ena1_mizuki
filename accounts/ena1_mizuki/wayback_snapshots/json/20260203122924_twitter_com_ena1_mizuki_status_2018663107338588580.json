@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018663076732805120",
+        "3_2018663076602736640"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018663107338588580",
+    "created_at": "2026-02-03T12:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T13:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018663107338588580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NKnLB4kql3",
+          "end": 47,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2018663107338588580/photo/1",
+          "media_key": "3_2018663076732805120",
+          "start": 24,
+          "url": "https://t.co/NKnLB4kql3"
+        },
+        {
+          "display_url": "pic.x.com/NKnLB4kql3",
+          "end": 47,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2018663107338588580/photo/1",
+          "media_key": "3_2018663076602736640",
+          "start": 24,
+          "url": "https://t.co/NKnLB4kql3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018663107338588580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打打中二，然后去宜家再拐一只鲨鲨回家（￣▽￣） https://t.co/NKnLB4kql3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018663076732805120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAO7X3nbIAAh21Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1491,
+        "media_key": "3_2018663076602736640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAO7X3IacAAZUcW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018663076732805120",
+            "3_2018663076602736640"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018663107338588580",
+        "created_at": "2026-02-03T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018663107338588580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKnLB4kql3",
+              "end": 47,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2018663107338588580/photo/1",
+              "media_key": "3_2018663076732805120",
+              "start": 24,
+              "url": "https://t.co/NKnLB4kql3"
+            },
+            {
+              "display_url": "pic.x.com/NKnLB4kql3",
+              "end": 47,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2018663107338588580/photo/1",
+              "media_key": "3_2018663076602736640",
+              "start": 24,
+              "url": "https://t.co/NKnLB4kql3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018663107338588580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打打中二，然后去宜家再拐一只鲨鲨回家（￣▽￣） https://t.co/NKnLB4kql3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 790,
+          "like_count": 11285,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 3029
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

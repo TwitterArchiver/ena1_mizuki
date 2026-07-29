@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2052754146378555760",
+    "created_at": "2026-05-09T05:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052979359687069916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1831350388861345793",
+          "start": 0,
+          "username": "Hiime0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "e.tb.cn/h.iBMSzGrG1NBg…",
+          "end": 31,
+          "expanded_url": "https://e.tb.cn/h.iBMSzGrG1NBgnMh?tk=PXqU5L2kPM5",
+          "start": 8,
+          "status": 200,
+          "unwound_url": "https://e.tb.cn/h.iBMSzGrG1NBgnMh?tk=PXqU5L2kPM5",
+          "url": "https://t.co/Z9cHENfK0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052979359687069916",
+    "in_reply_to_user_id": "1831350388861345793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052974876135473567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiime0 https://t.co/Z9cHENfK0i 「卓诗尼棕色玛丽珍鞋女2026新款美拉德单鞋厚底巨好看日系jk小皮鞋」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2052754146378555760",
+        "created_at": "2026-05-09T05:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052979359687069916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1831350388861345793",
+              "start": 0,
+              "username": "Hiime0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "e.tb.cn/h.iBMSzGrG1NBg…",
+              "end": 31,
+              "expanded_url": "https://e.tb.cn/h.iBMSzGrG1NBgnMh?tk=PXqU5L2kPM5",
+              "start": 8,
+              "status": 200,
+              "unwound_url": "https://e.tb.cn/h.iBMSzGrG1NBgnMh?tk=PXqU5L2kPM5",
+              "url": "https://t.co/Z9cHENfK0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052979359687069916",
+        "in_reply_to_user_id": "1831350388861345793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052974876135473567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiime0 https://t.co/Z9cHENfK0i 「卓诗尼棕色玛丽珍鞋女2026新款美拉德单鞋厚底巨好看日系jk小皮鞋」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831350388861345793",
+        "conversation_id": "2052754146378555760",
+        "created_at": "2026-05-09T04:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052974876135473567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052974876135473567",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052971207033815396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 哇，这也太显小了，求链接呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 1205,
+          "like_count": 17730,
+          "listed_count": 7,
+          "media_count": 649,
+          "tweet_count": 4945
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T15:15:42.000Z",
+        "description": "黑色的荆棘扼住她的咽喉，永恒的夜消融了她的心脏。沉溺在“等待”中的她呀，总有一天，白霜般的月光会洒满你遍体鳞伤的娇躯，把你变成殿堂上转着裙摆的女孩。\n【详情见置顶帖】\n已有恋人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hiime0",
+                "end": 23,
+                "expanded_url": "http://t.me/Hiime0",
+                "start": 0,
+                "url": "https://t.co/nKdFGtLRKc"
+              }
+            ]
+          }
+        },
+        "id": "1831350388861345793",
+        "location": "上海",
+        "name": "𝐻𝒾𝒾𝓂𝑒 🍡🍥",
+        "pinned_tweet_id": "2052350272685654188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046174460609503232/mDQ1pUpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 233,
+          "like_count": 508,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/nKdFGtLRKc",
+        "username": "Hiime0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2055508129459356014",
+    "created_at": "2026-05-16T05:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055521560149250272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1930599333466120192",
+          "start": 0,
+          "username": "Kagami_Karin_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055521560149250272",
+    "in_reply_to_user_id": "1930599333466120192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055515823624847584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagami_Karin_L 😎😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2055508129459356014",
+        "created_at": "2026-05-16T05:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055521560149250272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1930599333466120192",
+              "start": 0,
+              "username": "Kagami_Karin_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055521560149250272",
+        "in_reply_to_user_id": "1930599333466120192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055515823624847584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagami_Karin_L 😎😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930599333466120192",
+        "conversation_id": "2055508129459356014",
+        "created_at": "2026-05-16T05:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055515823624847584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055515823624847584",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055509123215872471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 正义执行水母雨🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 1245,
+          "like_count": 17874,
+          "listed_count": 7,
+          "media_count": 666,
+          "tweet_count": 5105
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T12:15:36.000Z",
+        "description": "发财、被爱、好运常在。\n银河系第一可爱的绣球姐妹花和闪闪发光的我💚",
+        "id": "1930599333466120192",
+        "name": "圈酱🍓",
+        "pinned_tweet_id": "1993160427359068270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017056865797230594/cj0KbGZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 44,
+          "like_count": 8849,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 3552
+        },
+        "username": "Kagami_Karin_L",
+        "verified": false
+      }
+    ]
+  }
+}

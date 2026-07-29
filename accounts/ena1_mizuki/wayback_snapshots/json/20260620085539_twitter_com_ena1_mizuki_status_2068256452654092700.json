@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2065824858274157029",
+    "created_at": "2026-06-20T08:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068256452654092700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        },
+        {
+          "end": 31,
+          "id": "1429261056371687424",
+          "start": 16,
+          "username": "koizumi_hanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068256452654092700",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068246417102299281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang @koizumi_hanako 偶尔玩一下问题不大😎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068246417102299281].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068246417102299281",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068246417102299281"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2065824858274157029",
+        "created_at": "2026-06-20T08:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068256452654092700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            },
+            {
+              "end": 31,
+              "id": "1429261056371687424",
+              "start": 16,
+              "username": "koizumi_hanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068256452654092700",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068246417102299281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang @koizumi_hanako 偶尔玩一下问题不大😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 1310,
+          "like_count": 18875,
+          "listed_count": 8,
+          "media_count": 724,
+          "tweet_count": 5458
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 F Stu🎧🍟🍔🥤EN/JP 😘🍩 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています🍬",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1983196542342443332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1984,
+          "like_count": 36740,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 10565
+        },
+        "url": "",
+        "username": "huluobohaotang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T01:56:16.000Z",
+        "description": "Header: @shukano_Genshin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "shukano_Genshin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanako.me",
+                "end": 23,
+                "expanded_url": "https://hanako.me",
+                "start": 0,
+                "url": "https://t.co/7u8yok56oH"
+              }
+            ]
+          }
+        },
+        "id": "1429261056371687424",
+        "name": "Hanako @amia@nightcord.de",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930291044488491009/gW_FPry3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 253,
+          "like_count": 5996,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/7u8yok56oH",
+        "username": "koizumi_hanako",
+        "verified": false
+      }
+    ]
+  }
+}

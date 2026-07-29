@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2042468081734467700",
+    "created_at": "2026-04-10T12:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T13:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042586124921733376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1522138643145494528",
+          "start": 0,
+          "username": "Jack37769772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042586124921733376",
+    "in_reply_to_user_id": "1522138643145494528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042558577093808465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack37769772 我以前拿麦穗和草金混养，结果追着我的草金咬太野蛮了，和这些原生鱼养就还好，大家一样野（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2042468081734467700",
+        "created_at": "2026-04-10T12:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042586124921733376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1522138643145494528",
+              "start": 0,
+              "username": "Jack37769772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042586124921733376",
+        "in_reply_to_user_id": "1522138643145494528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042558577093808465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack37769772 我以前拿麦穗和草金混养，结果追着我的草金咬太野蛮了，和这些原生鱼养就还好，大家一样野（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522138643145494528",
+        "conversation_id": "2042468081734467700",
+        "created_at": "2026-04-10T11:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042558577093808465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042558577093808465",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042551671524593758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我对麦穗印象不太好的原因是它以前给我其他小鱼的眼睛挖出来吃了🤡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1113,
+          "like_count": 16555,
+          "listed_count": 6,
+          "media_count": 600,
+          "tweet_count": 4527
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T08:58:44.000Z",
+        "description": ".",
+        "id": "1522138643145494528",
+        "location": "China",
+        "name": "𐂂Simple Jack",
+        "pinned_tweet_id": "1764440545806483490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011656984991580162/9pBAGWS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 664,
+          "like_count": 18721,
+          "listed_count": 2,
+          "media_count": 2439,
+          "tweet_count": 19012
+        },
+        "username": "Jack37769772",
+        "verified": false
+      }
+    ]
+  }
+}

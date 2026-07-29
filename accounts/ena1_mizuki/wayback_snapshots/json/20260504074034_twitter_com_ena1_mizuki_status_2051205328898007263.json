@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2051164567779357168",
+    "created_at": "2026-05-04T07:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051205328898007263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1261338115165188097",
+          "start": 0,
+          "username": "Bredandrice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051205328898007263",
+    "in_reply_to_user_id": "1261338115165188097",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051178120645103982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bredandrice 😎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1070,
+        "media_key": "3_2051176926648373248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc-jBRakAAfGzt.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2051164567779357168",
+        "created_at": "2026-05-04T07:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051205328898007263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1261338115165188097",
+              "start": 0,
+              "username": "Bredandrice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051205328898007263",
+        "in_reply_to_user_id": "1261338115165188097",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051178120645103982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bredandrice 😎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051176926648373248"
+          ]
+        },
+        "author_id": "1261338115165188097",
+        "conversation_id": "2051164567779357168",
+        "created_at": "2026-05-04T05:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051178120645103982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NI2OpRZvb5",
+              "end": 56,
+              "expanded_url": "https://x.com/Bredandrice/status/2051178120645103982/photo/1",
+              "media_key": "3_2051176926648373248",
+              "start": 33,
+              "url": "https://t.co/NI2OpRZvb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051178120645103982",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051164567779357168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 1000公里才10小时，我小电机输麻了 https://t.co/NI2OpRZvb5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 1186,
+          "like_count": 17484,
+          "listed_count": 6,
+          "media_count": 639,
+          "tweet_count": 4840
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T16:52:43.000Z",
+        "description": "祝2026年男孩们每天都充满爱慕与性福！继续勇敢强悍追爱，创造属于自己的彩色人生。现在关注我的频道！未成年人勿进✋🔞",
+        "id": "1261338115165188097",
+        "name": "空酒瓶：镭射 🏳️‍🌈",
+        "pinned_tweet_id": "2000520319074013201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874370146569248768/1eefU_hW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1862,
+          "like_count": 86841,
+          "listed_count": 16,
+          "media_count": 1876,
+          "tweet_count": 61103
+        },
+        "username": "Bredandrice",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

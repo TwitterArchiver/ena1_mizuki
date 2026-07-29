@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2002191363027448231",
+    "created_at": "2025-12-20T02:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T03:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002201430602756157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955988310956105732",
+          "start": 0,
+          "username": "AqDro9Qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002201430602756157",
+    "in_reply_to_user_id": "1955988310956105732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002191363027448231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AqDro9Qa 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2002191349446291457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8k2bJwbMAE11zO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2002191363027448231",
+        "created_at": "2025-12-20T02:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002201430602756157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955988310956105732",
+              "start": 0,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002201430602756157",
+        "in_reply_to_user_id": "1955988310956105732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002191363027448231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqDro9Qa 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002191349446291457"
+          ]
+        },
+        "author_id": "1955988310956105732",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2002191363027448231",
+        "created_at": "2025-12-20T01:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T02:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002191363027448231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1999939866306793472/1GtsMOWO?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999939866306793472/1GtsMOWO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/e7Uj0T7yWE"
+            },
+            {
+              "display_url": "pic.x.com/Zv5n9R1zJs",
+              "end": 64,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2002191363027448231/photo/1",
+              "media_key": "3_2002191349446291457",
+              "start": 41,
+              "url": "https://t.co/Zv5n9R1zJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002191363027448231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/e7Uj0T7yWE https://t.co/Zv5n9R1zJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 484,
+          "like_count": 5852,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 1196
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:42:30.000Z",
+        "description": "06年在校大学生｜🇨🇳mtf🏳️‍⚧️｜无证含糖｜2025.08.31 hrt｜cn浊酒｜168cm  104斤｜无烟无酒无瑕无痕无自残 ｜非同类🚪25｜轻度抑郁中度焦虑｜喜欢可爱的东西捏🤗｜世界不能没了罗小黑（嘿咻）｜小女儿@Htoz1790524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "Htoz1790524"
+              }
+            ]
+          }
+        },
+        "id": "1955988310956105732",
+        "location": "安徽  池州",
+        "name": "Dro🍥9",
+        "pinned_tweet_id": "2001449478293983417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992221861883879424/UO2lgmL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 438,
+          "like_count": 2132,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 367
+        },
+        "username": "AqDro9Qa",
+        "verified": false
+      }
+    ]
+  }
+}

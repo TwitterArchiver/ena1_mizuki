@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2080317201475915855",
+    "created_at": "2026-07-24T03:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080492740098527440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4230155178",
+          "start": 0,
+          "username": "real_huiliyi"
+        },
+        {
+          "end": 24,
+          "id": "1902735424839413760",
+          "start": 14,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080492740098527440",
+    "in_reply_to_user_id": "4230155178",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080476930143560083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@real_huiliyi @litgraley 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2080317201475915855",
+        "created_at": "2026-07-24T03:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080492740098527440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4230155178",
+              "start": 0,
+              "username": "real_huiliyi"
+            },
+            {
+              "end": 24,
+              "id": "1902735424839413760",
+              "start": 14,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080492740098527440",
+        "in_reply_to_user_id": "4230155178",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080476930143560083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@real_huiliyi @litgraley 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4230155178",
+        "conversation_id": "2080317201475915855",
+        "created_at": "2026-07-24T02:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080476930143560083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1902735424839413760",
+              "start": 13,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080476930143560083",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080317201475915855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ena1_mizuki @litgraley 太强了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 1409,
+          "like_count": 19595,
+          "listed_count": 8,
+          "media_count": 781,
+          "tweet_count": 5732
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-14T03:18:17.000Z",
+        "description": "Welcome to my world よろしく / ISFJ /一个过气不有趣的推主 / 我永远爱Pusheen cat！/LOVELIVE厨🌈/魔法小绘/咱家的萌宝❤️ @NagoyaMoeFace / 做最真实的自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "NagoyaMoeFace"
+              }
+            ]
+          }
+        },
+        "id": "4230155178",
+        "location": "香港/中国江苏",
+        "name": "樱雪沫",
+        "pinned_tweet_id": "2064146665888756091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957657319044706306/US8vyzxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 1388,
+          "like_count": 143762,
+          "listed_count": 16,
+          "media_count": 2653,
+          "tweet_count": 20180
+        },
+        "url": "",
+        "username": "real_huiliyi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 937,
+          "like_count": 40755,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 6365
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

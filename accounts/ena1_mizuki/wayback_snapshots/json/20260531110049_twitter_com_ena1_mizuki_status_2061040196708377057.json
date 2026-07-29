@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061040190370807809",
+        "3_2061040192547676160"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061040196708377057",
+    "created_at": "2026-05-31T11:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061040196708377057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtToXRsGbf",
+          "end": 75,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2061040196708377057/photo/1",
+          "media_key": "3_2061040190370807809",
+          "start": 52,
+          "url": "https://t.co/YtToXRsGbf"
+        },
+        {
+          "display_url": "pic.x.com/YtToXRsGbf",
+          "end": 75,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2061040196708377057/photo/1",
+          "media_key": "3_2061040192547676160",
+          "start": 52,
+          "url": "https://t.co/YtToXRsGbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061040196708377057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚出壳的巨大鹌鹑身上的毛是比较少的，但12小时之后就能长成这样，惊人的生长能力Σ( ° △ °|||) https://t.co/YtToXRsGbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061040190370807809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpJIh7bAAE7R4I.jpg",
+        "width": 1781
+      },
+      {
+        "height": 1682,
+        "media_key": "3_2061040192547676160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpJIqCbYAAOloq.jpg",
+        "width": 2243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061040190370807809",
+            "3_2061040192547676160"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061040196708377057",
+        "created_at": "2026-05-31T11:00:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061040196708377057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtToXRsGbf",
+              "end": 75,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2061040196708377057/photo/1",
+              "media_key": "3_2061040190370807809",
+              "start": 52,
+              "url": "https://t.co/YtToXRsGbf"
+            },
+            {
+              "display_url": "pic.x.com/YtToXRsGbf",
+              "end": 75,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2061040196708377057/photo/1",
+              "media_key": "3_2061040192547676160",
+              "start": 52,
+              "url": "https://t.co/YtToXRsGbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061040196708377057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚出壳的巨大鹌鹑身上的毛是比较少的，但12小时之后就能长成这样，惊人的生长能力Σ( ° △ °|||) https://t.co/YtToXRsGbf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 1271,
+          "like_count": 18343,
+          "listed_count": 7,
+          "media_count": 694,
+          "tweet_count": 5278
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

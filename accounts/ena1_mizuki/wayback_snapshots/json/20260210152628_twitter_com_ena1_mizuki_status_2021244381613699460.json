@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021244364199165953"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2021243982215344177",
+    "created_at": "2026-02-10T15:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021244381613699460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hp2PrdYapS",
+          "end": 51,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2021244381613699460/photo/1",
+          "media_key": "3_2021244364199165953",
+          "start": 28,
+          "url": "https://t.co/Hp2PrdYapS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021244381613699460",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021243982215344177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单张300s星点好大，视宁度不太好，不过也能看到🪼🪼🪼 https://t.co/Hp2PrdYapS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021244364199165953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAznCkxaAAEud82.jpg",
+        "width": 1371
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021243914574004224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzmoZyagAAlIxY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021244364199165953"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2021243982215344177",
+        "created_at": "2026-02-10T15:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021244381613699460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hp2PrdYapS",
+              "end": 51,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2021244381613699460/photo/1",
+              "media_key": "3_2021244364199165953",
+              "start": 28,
+              "url": "https://t.co/Hp2PrdYapS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021244381613699460",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021243982215344177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单张300s星点好大，视宁度不太好，不过也能看到🪼🪼🪼 https://t.co/Hp2PrdYapS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021243914574004224"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021243982215344177",
+        "created_at": "2026-02-10T15:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021243982215344177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcHbm1CajQ",
+              "end": 49,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2021243982215344177/photo/1",
+              "media_key": "3_2021243914574004224",
+              "start": 26,
+              "url": "https://t.co/bcHbm1CajQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021243982215344177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "野外观测时间~ 我要继续追逐我最爱的水母星云了🪼🥰 https://t.co/bcHbm1CajQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 839,
+          "like_count": 12183,
+          "listed_count": 4,
+          "media_count": 481,
+          "tweet_count": 3292
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

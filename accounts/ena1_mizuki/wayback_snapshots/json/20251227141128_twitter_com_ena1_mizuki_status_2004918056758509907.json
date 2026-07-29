@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2004914102871941277",
+    "created_at": "2025-12-27T14:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004918056758509907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999004442704883716",
+          "start": 0,
+          "username": "lbtuan25_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004918056758509907",
+    "in_reply_to_user_id": "1999004442704883716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004914102871941277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbtuan25_1 呜呜呜可爱的小鱼，窝之前有一缸草金也是死于过滤系统漏水，愿它们在水星安息😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47981,
+        "height": 540,
+        "media_key": "13_2004910777501974530",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004910777501974530/img/jjfzJdCkoU1Ci4-v.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004910777501974530/vid/avc1/480x270/e0IMLlRB0Tf12i6Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004910777501974530/vid/avc1/640x360/Hr1UP_hQmo8yoyKK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004910777501974530/vid/avc1/960x540/dG6yoBNeBaUWyBmB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004910777501974530/pl/Usgb5rwc9KBrSUMx.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2004914102871941277",
+        "created_at": "2025-12-27T14:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004918056758509907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999004442704883716",
+              "start": 0,
+              "username": "lbtuan25_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004918056758509907",
+        "in_reply_to_user_id": "1999004442704883716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004914102871941277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbtuan25_1 呜呜呜可爱的小鱼，窝之前有一缸草金也是死于过滤系统漏水，愿它们在水星安息😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004910777501974530"
+          ]
+        },
+        "author_id": "1999004442704883716",
+        "conversation_id": "2004914102871941277",
+        "created_at": "2025-12-27T13:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004914102871941277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGF2Ad2GO4",
+              "end": 164,
+              "expanded_url": "https://x.com/lbtuan25_1/status/2004914102871941277/video/1",
+              "media_key": "13_2004910777501974530",
+              "start": 141,
+              "url": "https://t.co/MGF2Ad2GO4"
+            },
+            {
+              "display_url": "x.com/lbtuan25_1/sta…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/lbtuan25_1/status/1999634422489055504",
+              "start": 165,
+              "url": "https://t.co/1omzd8GUqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004914102871941277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999634422489055504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到竟然是遗照...😭\n团子今天回家天塌了...\n缸里的水不知道漏哪去了\n小鱼小虾小螺小草也全去水星了...😭\n团子这个缸是23年秋天弄的\n最开始只是想养一点喜欢的水草...\n实在是不知道说什么了\n下次要不要养养珊瑚呢😶\n（这条视频在前世发过...也搬运过来吧...已经绝版了😭 https://t.co/MGF2Ad2GO4 https://t.co/1omzd8GUqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 522,
+          "like_count": 6783,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 1482
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:33:21.000Z",
+        "description": "我不是星野源…｜我会找回你们的…一个不少...｜逃生舱指路：https://t.co/IbzozcM3co｜反马家族基本教义：马斯克就是傻X｜自我提升...自我实现...自我毁灭...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lbtuan…",
+                "end": 53,
+                "expanded_url": "https://bsky.app/profile/lbtuan25.bsky.social",
+                "start": 30,
+                "url": "https://t.co/IbzozcM3co"
+              }
+            ]
+          }
+        },
+        "id": "1999004442704883716",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "✦团子✦（黑暗面",
+        "pinned_tweet_id": "1999008615441777032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999195912481177601/wGruwk5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 199,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 291
+        },
+        "username": "lbtuan25_1",
+        "verified": false
+      }
+    ]
+  }
+}

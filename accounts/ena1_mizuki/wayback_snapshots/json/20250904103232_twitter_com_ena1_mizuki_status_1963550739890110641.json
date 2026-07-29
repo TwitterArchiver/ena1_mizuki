@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963550729173700609"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "1963550739890110641",
+    "created_at": "2025-09-04T10:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T11:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963550739890110641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSZ1MzDqwV",
+          "end": 114,
+          "expanded_url": "https://x.com/ena1_mizuki/status/1963550739890110641/photo/1",
+          "media_key": "3_1963550729173700609",
+          "start": 91,
+          "url": "https://t.co/GSZ1MzDqwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963550739890110641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在青藏高原自驾，停车前来推销的藏民都把我认成女孩子感觉好好哦，在一个地方几个藏民还对我的性别进行了激烈讨论，闺蜜向他们解释我是比较中性的女孩子，我一直捂嘴笑不敢出声 (*^▽^*) https://t.co/GSZ1MzDqwV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1963550729173700609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_u_B7bkAEBiRL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963550729173700609"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "1963550739890110641",
+        "created_at": "2025-09-04T10:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963550739890110641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSZ1MzDqwV",
+              "end": 114,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1963550739890110641/photo/1",
+              "media_key": "3_1963550729173700609",
+              "start": 91,
+              "url": "https://t.co/GSZ1MzDqwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963550739890110641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在青藏高原自驾，停车前来推销的藏民都把我认成女孩子感觉好好哦，在一个地方几个藏民还对我的性别进行了激烈讨论，闺蜜向他们解释我是比较中性的女孩子，我一直捂嘴笑不敢出声 (*^▽^*) https://t.co/GSZ1MzDqwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 203,
+          "like_count": 1294,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 189
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

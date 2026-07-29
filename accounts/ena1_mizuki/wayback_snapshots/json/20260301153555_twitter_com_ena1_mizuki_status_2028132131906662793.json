@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2028132131906662793",
+    "created_at": "2026-03-01T15:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T16:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028132131906662793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GuanQiao6316/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/GuanQiao6316/status/2028118709173358972",
+          "start": 30,
+          "url": "https://t.co/LJxIrQ9ste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028132131906662793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028118709173358972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "cm老师画的我好可爱！感动呀窝要是能像画的这么可爱就好了🥺 https://t.co/LJxIrQ9ste"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2028118669956677632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVTL1UbAAAHoyW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028118669956628480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVTL1UaQAAcL-8.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2028132131906662793",
+        "created_at": "2026-03-01T15:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T16:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028132131906662793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GuanQiao6316/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/GuanQiao6316/status/2028118709173358972",
+              "start": 30,
+              "url": "https://t.co/LJxIrQ9ste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028132131906662793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028118709173358972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cm老师画的我好可爱！感动呀窝要是能像画的这么可爱就好了🥺 https://t.co/LJxIrQ9ste"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028118669956677632",
+            "3_2028118669956628480"
+          ]
+        },
+        "author_id": "1991810120607739904",
+        "conversation_id": "2028118709173358972",
+        "created_at": "2026-03-01T14:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028118709173358972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D93ETIN1vm",
+              "end": 27,
+              "expanded_url": "https://x.com/GuanQiao6316/status/2028118709173358972/photo/1",
+              "media_key": "3_2028118669956677632",
+              "start": 4,
+              "url": "https://t.co/D93ETIN1vm"
+            },
+            {
+              "display_url": "pic.x.com/D93ETIN1vm",
+              "end": 27,
+              "expanded_url": "https://x.com/GuanQiao6316/status/2028118709173358972/photo/1",
+              "media_key": "3_2028118669956628480",
+              "start": 4,
+              "url": "https://t.co/D93ETIN1vm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028118709173358972",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥰🥰🥰 https://t.co/D93ETIN1vm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 930,
+          "like_count": 13825,
+          "listed_count": 6,
+          "media_count": 521,
+          "tweet_count": 3756
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T10:05:39.000Z",
+        "description": "INTJ 画画人 音乐品味很杂 喜欢分享日常 谢谢喜欢 （祝我雅思早点考出分儿）",
+        "id": "1991810120607739904",
+        "name": "C.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996511401511383040/J9CUuOEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 124,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 637
+        },
+        "username": "GuanQiao6316",
+        "verified": false
+      }
+    ]
+  }
+}

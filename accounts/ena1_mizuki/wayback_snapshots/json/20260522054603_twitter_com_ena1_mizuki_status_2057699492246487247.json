@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2057697455467045094",
+    "created_at": "2026-05-22T05:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057699492246487247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926574861872156672",
+          "start": 0,
+          "username": "stellarocean1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057699492246487247",
+    "in_reply_to_user_id": "1926574861872156672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057697455467045094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellarocean1 超酷的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_2057697445555933184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5o7LGXEAAaitM.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2057697455467045094",
+        "created_at": "2026-05-22T05:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057699492246487247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926574861872156672",
+              "start": 0,
+              "username": "stellarocean1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057699492246487247",
+        "in_reply_to_user_id": "1926574861872156672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057697455467045094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellarocean1 超酷的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057697445555933184"
+          ]
+        },
+        "author_id": "1926574861872156672",
+        "conversation_id": "2057697455467045094",
+        "created_at": "2026-05-22T05:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057697455467045094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTpx21dpsJ",
+              "end": 33,
+              "expanded_url": "https://x.com/stellarocean1/status/2057697455467045094/photo/1",
+              "media_key": "3_2057697445555933184",
+              "start": 10,
+              "url": "https://t.co/JTpx21dpsJ"
+            },
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2052344023013347643",
+              "start": 34,
+              "url": "https://t.co/e1FXrmwfX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057697455467045094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052344023013347643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看我手绘的M83。 https://t.co/JTpx21dpsJ https://t.co/e1FXrmwfX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 1263,
+          "like_count": 18100,
+          "listed_count": 7,
+          "media_count": 681,
+          "tweet_count": 5187
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T09:43:53.000Z",
+        "description": "喜欢天文学以及绘画还有建模 求求那些跟我互fo的人别一时头疼脑热拉黑我，毕竟我一不骂人，二不键政，三不发令人不适的内容，我上推就是单纯的想交朋友。想要我的小红书账号的话可以找我私聊",
+        "id": "1926574861872156672",
+        "location": "宇宙",
+        "name": "浩瀚星海",
+        "pinned_tweet_id": "1954421585923699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044232683690033152/S0cyWUNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 127,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 653
+        },
+        "username": "stellarocean1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1980487327664545964",
+    "created_at": "2025-10-21T04:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T05:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980487327664545964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/parcastroprade…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/parcastroprades/status/1980314068704718860",
+          "start": 4,
+          "url": "https://t.co/l29G2DvlcC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980487327664545964",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980314068704718860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤤🤤🤤 https://t.co/l29G2DvlcC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1711,
+        "media_key": "3_1980314062543056896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3t9JdGW8AAPpV0.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1980487327664545964",
+        "created_at": "2025-10-21T04:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980487327664545964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/parcastroprade…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/parcastroprades/status/1980314068704718860",
+              "start": 4,
+              "url": "https://t.co/l29G2DvlcC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980487327664545964",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980314068704718860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤤🤤🤤 https://t.co/l29G2DvlcC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980314062543056896"
+          ]
+        },
+        "author_id": "863053667120951297",
+        "conversation_id": "1980314068704718860",
+        "created_at": "2025-10-20T16:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T17:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980314068704718860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozu9pIe2Zm",
+              "end": 126,
+              "expanded_url": "https://x.com/parcastroprades/status/1980314068704718860/photo/1",
+              "media_key": "3_1980314062543056896",
+              "start": 103,
+              "url": "https://t.co/ozu9pIe2Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980314068704718860",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1099,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "Una tempesta solar distorsiona la cua del cometa C/2025 A6 (Lemmon) ☄️\n\n📷 Jakob Sahner 🏔️ Alps Suïssos https://t.co/ozu9pIe2Zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1959642369948627217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 313,
+          "like_count": 2898,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 413
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-12T15:30:03.000Z",
+        "description": "ESPECTACLES 🔭 sota el cel fosc de Prades 🌌 𝗣𝗥𝗘𝗠𝗜 🏅𝗲𝗻 𝗔𝗦𝗧𝗥𝗢𝗧𝗨𝗥𝗜𝗦𝗠𝗘 𝗦𝘁𝗮𝗿𝗹𝗶𝗴𝗵𝘁 📞 663 075 962   info@parcastronomicprades.cat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "parcastronomicprades.cat",
+                "end": 23,
+                "expanded_url": "http://www.parcastronomicprades.cat",
+                "start": 0,
+                "url": "https://t.co/dDeRsNZWua"
+              }
+            ]
+          }
+        },
+        "id": "863053667120951297",
+        "location": "Prades, Espanya",
+        "name": "Parc Astronòmic Prades",
+        "pinned_tweet_id": "1957689938725499166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288072939871580160/dW9As5AB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12152,
+          "following_count": 2639,
+          "like_count": 37990,
+          "listed_count": 144,
+          "media_count": 5417,
+          "tweet_count": 20559
+        },
+        "url": "https://t.co/dDeRsNZWua",
+        "username": "parcastroprades",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2053531593835524198",
+    "created_at": "2026-05-11T05:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053713375033720903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1422800225777897472",
+          "start": 0,
+          "username": "PaperFoggYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053713375033720903",
+    "in_reply_to_user_id": "1422800225777897472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053681221163712619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaperFoggYuan 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2053531593835524198",
+        "created_at": "2026-05-11T05:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053713375033720903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1422800225777897472",
+              "start": 0,
+              "username": "PaperFoggYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053713375033720903",
+        "in_reply_to_user_id": "1422800225777897472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053681221163712619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaperFoggYuan 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422800225777897472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2053531593835524198",
+        "created_at": "2026-05-11T03:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053681221163712619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053681221163712619",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053531593835524198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这简直是天文杂志里的美景🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 1237,
+          "like_count": 17917,
+          "listed_count": 7,
+          "media_count": 654,
+          "tweet_count": 5010
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T06:03:14.000Z",
+        "description": "ᵕ̈ 欢迎光临！💃 ☮︎名字叫福格Fogg🌳🌲大一在读🌴🏔️平时喜欢一个人吃饭和旅行🚉📷旅行的时候喜欢随地大小拍🏕️🚲还喜欢森林,草原,湖泊,雪山和海洋，热爱音乐剧🏊🎾ENFP🏃🧦熟人可以私信扩列🏗️𐂂",
+        "id": "1422800225777897472",
+        "location": "🌊金陵🍁广陵🌸",
+        "name": "ʕ •ᴥ•ʔ福格🌲☻",
+        "pinned_tweet_id": "1991913479742394793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034185737546215425/t6Rdr5pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 521,
+          "like_count": 91646,
+          "listed_count": 7,
+          "media_count": 1916,
+          "tweet_count": 22989
+        },
+        "username": "PaperFoggYuan",
+        "verified": true
+      }
+    ]
+  }
+}

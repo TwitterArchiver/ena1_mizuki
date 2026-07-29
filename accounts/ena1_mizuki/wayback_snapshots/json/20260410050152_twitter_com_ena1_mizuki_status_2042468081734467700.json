@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042468060284760064"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2042468081734467700",
+    "created_at": "2026-04-10T05:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042468081734467700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JM5HPt4BPT",
+          "end": 67,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2042468081734467700/video/1",
+          "media_key": "7_2042468060284760064",
+          "start": 44,
+          "url": "https://t.co/JM5HPt4BPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042468081734467700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来是需要打氧啊，之前看这些鱼经常趴在缸底一动不动还以为他们不开心，打氧之后活跃多了😇 https://t.co/JM5HPt4BPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5555,
+        "height": 720,
+        "media_key": "7_2042468060284760064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042468060284760064/pu/img/_A5Ck75vDvxInc8K.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042468060284760064/pu/vid/avc1/480x270/vWKQIqv0rFlBNhKQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042468060284760064/pu/vid/avc1/640x360/W8WelLGYehfYxIzK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042468060284760064/pu/vid/avc1/1280x720/vi5REAQmCzttE1LC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042468060284760064/pu/pl/xIa-TCGQq-g-af5o.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042468060284760064"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2042468081734467700",
+        "created_at": "2026-04-10T05:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042468081734467700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JM5HPt4BPT",
+              "end": 67,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2042468081734467700/video/1",
+              "media_key": "7_2042468060284760064",
+              "start": 44,
+              "url": "https://t.co/JM5HPt4BPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042468081734467700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来是需要打氧啊，之前看这些鱼经常趴在缸底一动不动还以为他们不开心，打氧之后活跃多了😇 https://t.co/JM5HPt4BPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1112,
+          "like_count": 16515,
+          "listed_count": 6,
+          "media_count": 598,
+          "tweet_count": 4508
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

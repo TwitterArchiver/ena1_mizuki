@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2003866556913344788",
+    "created_at": "2025-12-24T16:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T17:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003867668101857586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505175065498828800",
+          "start": 0,
+          "username": "franciswwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003867668101857586",
+    "in_reply_to_user_id": "1505175065498828800",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003866556913344788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@franciswwwww 😨🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2003866545865576448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88qAaubUAAbChr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2003866556913344788",
+        "created_at": "2025-12-24T16:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003867668101857586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505175065498828800",
+              "start": 0,
+              "username": "franciswwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003867668101857586",
+        "in_reply_to_user_id": "1505175065498828800",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003866556913344788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@franciswwwww 😨🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003866545865576448"
+          ]
+        },
+        "author_id": "1505175065498828800",
+        "conversation_id": "2003866556913344788",
+        "created_at": "2025-12-24T16:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003866556913344788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3uyvuTldl",
+              "end": 38,
+              "expanded_url": "https://x.com/franciswwwww/status/2003866556913344788/photo/1",
+              "media_key": "3_2003866545865576448",
+              "start": 15,
+              "url": "https://t.co/X3uyvuTldl"
+            },
+            {
+              "display_url": "x.com/franciswwwww/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/franciswwwww/status/2003798024846520733",
+              "start": 39,
+              "url": "https://t.co/hah90H18CH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003866556913344788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003798024846520733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新版本🥰\n哇哦\n我太美了🥰 https://t.co/X3uyvuTldl https://t.co/hah90H18CH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003666255568568320/Ow6AM4_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 513,
+          "like_count": 6490,
+          "listed_count": 3,
+          "media_count": 282,
+          "tweet_count": 1370
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T13:31:25.000Z",
+        "description": "嘿嘿 你發現我了🤪神出鬼沒😁amab👬自然糖🙃07大齡青年🫤珠三角刷新🤪某港八大一年級坐牢ing🤪聊天或咨詢可隨時騷擾🤓網絡獵奇生物🤪離子舍友🪨@Fe_ions超好的朋友🦐🍜 @AsdQWD358224 🥺永遠的閨蜜👭@jiangNing01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "jiangNing01"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/OA5na42ShF"
+              }
+            ]
+          }
+        },
+        "id": "1505175065498828800",
+        "location": "2.3km",
+        "name": "𝕙𝕖𝕛 😉",
+        "pinned_tweet_id": "1997245678528167994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999205461351157760/rZBdEpVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 739,
+          "like_count": 7037,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 2916
+        },
+        "url": "https://t.co/OA5na42ShF",
+        "username": "franciswwwww",
+        "verified": true
+      }
+    ]
+  }
+}

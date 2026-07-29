@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049412786955145216"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2049412797763838355",
+    "created_at": "2026-04-29T08:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049412797763838355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GSZgPnIzfd",
+          "end": 95,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2049412797763838355/photo/1",
+          "media_key": "3_2049412786955145216",
+          "start": 72,
+          "url": "https://t.co/GSZgPnIzfd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049412797763838355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近生病嗓子哑了，声音完全夹不上去就不想说话了，这种必须暴露本音的情况应该怎么解决呀\n偏偏自己还经常生病，基本上三个月左右嗓子就哑一次，悲伤😇 https://t.co/GSZgPnIzfd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049412786955145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHD6Ekya0AAqrMv.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049412786955145216"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2049412797763838355",
+        "created_at": "2026-04-29T08:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049412797763838355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSZgPnIzfd",
+              "end": 95,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2049412797763838355/photo/1",
+              "media_key": "3_2049412786955145216",
+              "start": 72,
+              "url": "https://t.co/GSZgPnIzfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049412797763838355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近生病嗓子哑了，声音完全夹不上去就不想说话了，这种必须暴露本音的情况应该怎么解决呀\n偏偏自己还经常生病，基本上三个月左右嗓子就哑一次，悲伤😇 https://t.co/GSZgPnIzfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 1170,
+          "like_count": 17224,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 4723
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

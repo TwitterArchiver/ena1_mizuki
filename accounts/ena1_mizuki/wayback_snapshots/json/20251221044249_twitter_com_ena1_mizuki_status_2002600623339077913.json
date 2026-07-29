@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2002305917665136837",
+    "created_at": "2025-12-21T04:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T05:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002600623339077913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1903398859965112320",
+          "start": 0,
+          "username": "maveian14174"
+        },
+        {
+          "end": 22,
+          "id": "1552918719440924672",
+          "start": 14,
+          "username": "sprLumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002600623339077913",
+    "in_reply_to_user_id": "1903398859965112320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002434341037834320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maveian14174 @sprLumi 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2002305917665136837",
+        "created_at": "2025-12-21T04:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002600623339077913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1903398859965112320",
+              "start": 0,
+              "username": "maveian14174"
+            },
+            {
+              "end": 22,
+              "id": "1552918719440924672",
+              "start": 14,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002600623339077913",
+        "in_reply_to_user_id": "1903398859965112320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002434341037834320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maveian14174 @sprLumi 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903398859965112320",
+        "conversation_id": "2002305917665136837",
+        "created_at": "2025-12-20T17:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002434341037834320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 21,
+              "id": "1552918719440924672",
+              "start": 13,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002434341037834320",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002334340337066077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @sprLumi 嗦嗦水月😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2002301731917459784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 489,
+          "like_count": 5962,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 1232
+        },
+        "username": "ena1_mizuki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T10:50:36.000Z",
+        "description": "06mtf | hrt25.1.10 | 天残 | 重度容貌焦虑 | 家长反对 |  上海某大学在读   |   希望大家都能开开心心的～",
+        "id": "1903398859965112320",
+        "location": "By your side",
+        "name": "水汐🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998387469591678976/fc_LPm-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 849,
+          "like_count": 4430,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 91
+        },
+        "username": "maveian14174",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 21,
+                "start": 10,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "虾仁芹菜馅猫卷",
+        "pinned_tweet_id": "1988379358751576331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002254399393939457/OoX2t-Fi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3265,
+          "following_count": 903,
+          "like_count": 1370,
+          "listed_count": 6,
+          "media_count": 52,
+          "tweet_count": 646
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

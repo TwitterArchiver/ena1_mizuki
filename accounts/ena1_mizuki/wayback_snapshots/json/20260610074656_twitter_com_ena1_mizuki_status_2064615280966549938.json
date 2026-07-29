@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064615278433247232"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2064615280966549938",
+    "created_at": "2026-06-10T07:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064615280966549938"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgS8Z99mny",
+          "end": 98,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2064615280966549938/photo/1",
+          "media_key": "3_2064615278433247232",
+          "start": 75,
+          "url": "https://t.co/fgS8Z99mny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064615280966549938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 \n想起来是一年前住院的时候创的这个号，那个时候是真惨呀，嘛再怎么样也不会比那个时候更糟了。。吧 https://t.co/fgS8Z99mny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064615278433247232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb8qCzboAA6Rne.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064615278433247232"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2064615280966549938",
+        "created_at": "2026-06-10T07:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064615280966549938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgS8Z99mny",
+              "end": 98,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2064615280966549938/photo/1",
+              "media_key": "3_2064615278433247232",
+              "start": 75,
+              "url": "https://t.co/fgS8Z99mny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064615280966549938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 \n想起来是一年前住院的时候创的这个号，那个时候是真惨呀，嘛再怎么样也不会比那个时候更糟了。。吧 https://t.co/fgS8Z99mny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1276,
+          "like_count": 18580,
+          "listed_count": 8,
+          "media_count": 708,
+          "tweet_count": 5348
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

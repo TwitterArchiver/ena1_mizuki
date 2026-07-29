@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2021983015027757098",
+    "created_at": "2026-02-12T16:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021992491785039933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322365696983003136",
+          "start": 0,
+          "username": "bryanwangxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021992491785039933",
+    "in_reply_to_user_id": "1322365696983003136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021988039820759420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bryanwangxin 😎😎😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2021983015027757098",
+        "created_at": "2026-02-12T16:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021992491785039933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322365696983003136",
+              "start": 0,
+              "username": "bryanwangxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021992491785039933",
+        "in_reply_to_user_id": "1322365696983003136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021988039820759420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bryanwangxin 😎😎😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322365696983003136",
+        "conversation_id": "2021983015027757098",
+        "created_at": "2026-02-12T16:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021988039820759420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021988039820759420",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021983015027757098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 可以上传到图库卖钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2006300477412319554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 842,
+          "like_count": 12340,
+          "listed_count": 4,
+          "media_count": 488,
+          "tweet_count": 3355
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T02:32:14.000Z",
+        "description": "enjoy every day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laurainkitchen",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laurainkitchen",
+                "start": 0,
+                "url": "https://t.co/XgZII4H6rf"
+              }
+            ]
+          }
+        },
+        "id": "1322365696983003136",
+        "location": "Shanghai",
+        "name": "xin",
+        "pinned_tweet_id": "2019040539673551327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019411063331340288/a88f8q1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 268,
+          "like_count": 3427,
+          "listed_count": 5,
+          "media_count": 863,
+          "tweet_count": 16109
+        },
+        "url": "https://t.co/XgZII4H6rf",
+        "username": "bryanwangxin",
+        "verified": true
+      }
+    ]
+  }
+}

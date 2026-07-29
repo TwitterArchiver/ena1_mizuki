@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1945141849691127841",
+    "created_at": "2025-07-17T12:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T13:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945819269867900996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883570556718759936",
+          "start": 0,
+          "username": "bHlyaWNsZTA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945819269867900996",
+    "in_reply_to_user_id": "1883570556718759936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945564891034873997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bHlyaWNsZTA0 我靠美瞳真的太难了，我都怀疑漫展当天到中午能不能戴好化妆好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1945141849691127841",
+        "created_at": "2025-07-17T12:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T13:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945819269867900996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883570556718759936",
+              "start": 0,
+              "username": "bHlyaWNsZTA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945819269867900996",
+        "in_reply_to_user_id": "1883570556718759936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945564891034873997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bHlyaWNsZTA0 我靠美瞳真的太难了，我都怀疑漫展当天到中午能不能戴好化妆好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883570556718759936",
+        "conversation_id": "1945141849691127841",
+        "created_at": "2025-07-16T19:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T20:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945564891034873997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945564891034873997",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945141849691127841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 辛苦了QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 42,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 43
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T17:40:02.000Z",
+        "description": "小熊厨",
+        "id": "1883570556718759936",
+        "location": "Alcyone",
+        "name": "星野 ケン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928413528123232256/1bGmSL-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "bHlyaWNsZTA0",
+        "verified": false
+      }
+    ]
+  }
+}

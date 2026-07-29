@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "1992493914977341814",
+    "created_at": "2025-11-24T13:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992949138749825299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955988310956105732",
+          "start": 0,
+          "username": "AqDro9Qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992949138749825299",
+    "in_reply_to_user_id": "1955988310956105732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992935723566256488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AqDro9Qa 摸摸，这次知道了下次一定能开到证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "1992493914977341814",
+        "created_at": "2025-11-24T13:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992949138749825299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955988310956105732",
+              "start": 0,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992949138749825299",
+        "in_reply_to_user_id": "1955988310956105732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992935723566256488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqDro9Qa 摸摸，这次知道了下次一定能开到证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955988310956105732",
+        "conversation_id": "1992493914977341814",
+        "created_at": "2025-11-24T12:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992935723566256488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992935723566256488",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992898556089212962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 其实我是安徽本地的哇，很显然，这次又扑空了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、焦虑症、易性症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "1977953401385414967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932434822225629184/6Ndegp56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 342,
+          "like_count": 3825,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 626
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:42:30.000Z",
+        "description": "06年在校大学生｜mtf🇨🇳🏳️‍⚧️｜无门槛喜欢交朋友😘｜无证含糖｜2025.08出柜｜cosplay｜二刺螈｜168cm  102斤｜无痕无瑕99新｜轻度抑郁及焦虑｜喜欢可爱的东西捏🤗｜小女儿@Htoz1790524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Htoz1790524"
+              }
+            ]
+          }
+        },
+        "id": "1955988310956105732",
+        "location": "安徽",
+        "name": "Dro🍥9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992221861883879424/UO2lgmL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 213,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 96
+        },
+        "username": "AqDro9Qa",
+        "verified": false
+      }
+    ]
+  }
+}
