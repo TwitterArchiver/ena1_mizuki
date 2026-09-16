@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090651654962233344"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2090644778442764522",
+    "created_at": "2026-08-21T04:06:16.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T05:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090651676189614326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBlF1xGYcZ",
+          "end": 44,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2090651676189614326/photo/1",
+          "media_key": "3_2090651654962233344",
+          "start": 21,
+          "url": "https://t.co/LBlF1xGYcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090651676189614326",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090651654962233344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090648532185399472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley 我想用这根绳子捆你 https://t.co/LBlF1xGYcZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2687,
+        "media_key": "3_2090651654962233344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQN8mnsbQAANwBh.jpg",
+        "width": 2749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090651654962233344"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2090644778442764522",
+        "created_at": "2026-08-21T04:06:16.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090651676189614326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBlF1xGYcZ",
+              "end": 44,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2090651676189614326/photo/1",
+              "media_key": "3_2090651654962233344",
+              "start": 21,
+              "url": "https://t.co/LBlF1xGYcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090651676189614326",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090651654962233344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090648532185399472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley 我想用这根绳子捆你 https://t.co/LBlF1xGYcZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902735424839413760",
+        "conversation_id": "2090644778442764522",
+        "created_at": "2026-08-21T03:53:47.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090648532185399472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090648532185399472",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090644778442764522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 咕咕嘎嘎！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2090651676189614326",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1434,
+          "like_count": 20281,
+          "listed_count": 8,
+          "media_count": 877,
+          "tweet_count": 6095
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "is_identity_verified": false,
+        "location": "你被窝里~",
+        "most_recent_tweet_id": "2090648532185399472",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902735424839413760/1750091769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 972,
+          "like_count": 43827,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 6783
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

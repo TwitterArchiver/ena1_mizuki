@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2090501080107139571",
+    "created_at": "2026-08-21T03:42:24.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090645669094523269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700547797026476032",
+          "start": 0,
+          "username": "haitao_li24917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090645669094523269",
+    "in_reply_to_user_id": "1700547797026476032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090604242415300877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haitao_li24917 今天就准备从大连坐船回家了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2090501080107139571",
+        "created_at": "2026-08-21T03:42:24.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090645669094523269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700547797026476032",
+              "start": 0,
+              "username": "haitao_li24917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090645669094523269",
+        "in_reply_to_user_id": "1700547797026476032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090604242415300877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitao_li24917 今天就准备从大连坐船回家了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700547797026476032",
+        "conversation_id": "2090501080107139571",
+        "created_at": "2026-08-21T00:57:47.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090604242415300877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090604242415300877",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090501080107139571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 哇，干辽宁来了？\n所以说准备来沈阳吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2090645669094523269",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1434,
+          "like_count": 20277,
+          "listed_count": 8,
+          "media_count": 874,
+          "tweet_count": 6091
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-09T16:32:54.000Z",
+        "description": "彩笔写代码的\n社会闲散人员",
+        "id": "1700547797026476032",
+        "is_identity_verified": false,
+        "location": "Hamilton, Ontario",
+        "most_recent_tweet_id": "2090612220912607513",
+        "name": "AAA带虫炒饭批发李工",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700547797026476032/1765078768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997510214426189824/I1BQ9C0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 329,
+          "like_count": 11522,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 1689
+        },
+        "url": "",
+        "username": "haitao_li24917",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

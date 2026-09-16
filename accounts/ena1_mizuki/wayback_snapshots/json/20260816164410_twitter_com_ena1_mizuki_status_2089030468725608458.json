@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089030448190205952"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2089030468725608458",
+    "created_at": "2026-08-16T16:44:10.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089030468725608458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6KTgDlF47E",
+          "end": 134,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2089030468725608458/photo/1",
+          "media_key": "3_2089030448190205952",
+          "start": 111,
+          "url": "https://t.co/6KTgDlF47E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089030468725608458",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "alt_text": "曝光20s*5  ISO1600\nNikon Z7II + 16mm f1.8",
+        "media_key": "3_2089030448190205952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呼伦贝尔大草原上的银河\n在这种没有光污染的环境，气辉成了观测唯一的阻碍。肉眼看上去星空灰蒙蒙的就像是有雾，但这里的天空实际上非常的干燥和通透，架起相机才明白“雾气”其实是漫天的绿色气辉，就像是在星河的滋养下茂盛生长的草原 https://t.co/6KTgDlF47E"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "曝光20s*5  ISO1600\nNikon Z7II + 16mm f1.8",
+        "height": 2916,
+        "media_key": "3_2089030448190205952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP26H91aMAAwTR8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089030448190205952"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2089030468725608458",
+        "created_at": "2026-08-16T16:44:10.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089030468725608458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KTgDlF47E",
+              "end": 134,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2089030468725608458/photo/1",
+              "media_key": "3_2089030448190205952",
+              "start": 111,
+              "url": "https://t.co/6KTgDlF47E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089030468725608458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "曝光20s*5  ISO1600\nNikon Z7II + 16mm f1.8",
+            "media_key": "3_2089030448190205952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呼伦贝尔大草原上的银河\n在这种没有光污染的环境，气辉成了观测唯一的阻碍。肉眼看上去星空灰蒙蒙的就像是有雾，但这里的天空实际上非常的干燥和通透，架起相机才明白“雾气”其实是漫天的绿色气辉，就像是在星河的滋养下茂盛生长的草原 https://t.co/6KTgDlF47E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2089030468725608458",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1441,
+          "like_count": 20184,
+          "listed_count": 8,
+          "media_count": 853,
+          "tweet_count": 6034
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

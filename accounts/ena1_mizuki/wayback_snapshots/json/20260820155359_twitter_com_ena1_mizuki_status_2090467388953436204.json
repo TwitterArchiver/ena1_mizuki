@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090467373983977472"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2090467388953436204",
+    "created_at": "2026-08-20T15:53:59.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090467388953436204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7bWC0loYdc",
+          "end": 37,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2090467388953436204/photo/1",
+          "media_key": "3_2090467373983977472",
+          "start": 14,
+          "url": "https://t.co/7bWC0loYdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090467388953436204",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090467373983977472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而新的旅程将从这里起航！😎 https://t.co/7bWC0loYdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090467373983977472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLVADjb0AAGWRm.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090467373983977472"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2090467388953436204",
+        "created_at": "2026-08-20T15:53:59.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090467388953436204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bWC0loYdc",
+              "end": 37,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2090467388953436204/photo/1",
+              "media_key": "3_2090467373983977472",
+              "start": 14,
+              "url": "https://t.co/7bWC0loYdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090467388953436204",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090467373983977472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而新的旅程将从这里起航！😎 https://t.co/7bWC0loYdc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2090467388953436204",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1433,
+          "like_count": 20255,
+          "listed_count": 8,
+          "media_count": 871,
+          "tweet_count": 6081
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

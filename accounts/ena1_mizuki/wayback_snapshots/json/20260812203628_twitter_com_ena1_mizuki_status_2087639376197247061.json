@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2087492316776784142",
+    "created_at": "2026-08-12T20:36:28.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T21:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087639376197247061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087639376197247061",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087515041885200419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ 这是中俄边境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2087492316776784142",
+        "created_at": "2026-08-12T20:36:28.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087639376197247061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087639376197247061",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087515041885200419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 这是中俄边境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "2087492316776784142",
+        "created_at": "2026-08-12T12:22:24.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087515041885200419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087515041885200419",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087492316776784142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 去蒙古了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2087639376197247061",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 1441,
+          "like_count": 20055,
+          "listed_count": 8,
+          "media_count": 839,
+          "tweet_count": 5977
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai/好朋友@Quitewaterqwq |@aya__maimai/小号@5leep1ng_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "5leep1ng_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0_an",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0_an",
+                "start": 0,
+                "url": "https://t.co/pKvp7ES0S4"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2087572807014322239",
+        "name": "0_an",
+        "pinned_tweet_id": "2026540174684074130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084578078647586816/kRhZ6tww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 1380,
+          "like_count": 40324,
+          "listed_count": 3,
+          "media_count": 432,
+          "tweet_count": 12649
+        },
+        "url": "https://t.co/pKvp7ES0S4",
+        "username": "ElP15_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

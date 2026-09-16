@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2082453977992696102",
+    "created_at": "2026-07-30T05:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082695430186389859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "774931829853782016",
+          "start": 0,
+          "username": "cap_violet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082695430186389859",
+    "in_reply_to_user_id": "774931829853782016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082572263149224125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cap_violet 小米的夜景模式，然后拍出来我还做了手动调色"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2082453977992696102",
+        "created_at": "2026-07-30T05:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082695430186389859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "774931829853782016",
+              "start": 0,
+              "username": "cap_violet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082695430186389859",
+        "in_reply_to_user_id": "774931829853782016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082572263149224125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cap_violet 小米的夜景模式，然后拍出来我还做了手动调色"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "774931829853782016",
+        "conversation_id": "2082453977992696102",
+        "created_at": "2026-07-29T21:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082572263149224125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082572263149224125",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082453977992696102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 什么手机调色这么好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1419,
+          "like_count": 19742,
+          "listed_count": 8,
+          "media_count": 793,
+          "tweet_count": 5789
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-11T11:25:20.000Z",
+        "description": "伊芙加登號夢想航機，飛向星辰大海 |\n'Evergarden' B78X, 🍥T-EVGN |\nex-OIer, math, aviation | cs theory grad student | not yet phd but grinding过程中产出的胡言乱语",
+        "id": "774931829853782016",
+        "location": "FL400",
+        "name": "captain Violet",
+        "pinned_tweet_id": "1922953832339747311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574438134720233472/opIwO9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 5188,
+          "like_count": 36396,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "cap_violet",
+        "verified": false
+      }
+    ]
+  }
+}

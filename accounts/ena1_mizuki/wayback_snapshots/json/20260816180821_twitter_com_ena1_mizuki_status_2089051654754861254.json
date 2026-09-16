@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089051644353011712"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2089051654754861254",
+    "created_at": "2026-08-16T18:08:21.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T19:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089051654754861254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8u8RuRWbH9",
+          "end": 98,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2089051654754861254/photo/1",
+          "media_key": "3_2089051644353011712",
+          "start": 75,
+          "url": "https://t.co/8u8RuRWbH9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089051654754861254",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089051644353011712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近出去玩每天都在练习用伪声和别人说话，刚开始的几天还很不自然，现在已经可以做到基本pass了，打电话听到我的声音之后立马叫我女士，这种感觉好幸福😭 https://t.co/8u8RuRWbH9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2089051644353011712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP3NZvsbYAAJL3a.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089051644353011712"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2089051654754861254",
+        "created_at": "2026-08-16T18:08:21.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T19:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089051654754861254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8u8RuRWbH9",
+              "end": 98,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2089051654754861254/photo/1",
+              "media_key": "3_2089051644353011712",
+              "start": 75,
+              "url": "https://t.co/8u8RuRWbH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089051654754861254",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089051644353011712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近出去玩每天都在练习用伪声和别人说话，刚开始的几天还很不自然，现在已经可以做到基本pass了，打电话听到我的声音之后立马叫我女士，这种感觉好幸福😭 https://t.co/8u8RuRWbH9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2089051654754861254",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1442,
+          "like_count": 20185,
+          "listed_count": 8,
+          "media_count": 854,
+          "tweet_count": 6035
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

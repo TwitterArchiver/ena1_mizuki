@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2087895024663154854",
+    "created_at": "2026-08-13T14:51:23.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087914921350906082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928850603939352576",
+          "start": 0,
+          "username": "stellimbris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087914921350906082",
+    "in_reply_to_user_id": "1928850603939352576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087907681369485528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellimbris 水母雨的真身暴露了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2087907671542218752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm89w4WQAARk4e.jpg",
+        "width": 467
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2087895024663154854",
+        "created_at": "2026-08-13T14:51:23.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087914921350906082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928850603939352576",
+              "start": 0,
+              "username": "stellimbris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087914921350906082",
+        "in_reply_to_user_id": "1928850603939352576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087907681369485528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellimbris 水母雨的真身暴露了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087907671542218752"
+          ]
+        },
+        "author_id": "1928850603939352576",
+        "conversation_id": "2087895024663154854",
+        "created_at": "2026-08-13T14:22:37.000Z",
+        "display_text_range": [
+          13,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087907681369485528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lgf0CblOyA",
+              "end": 86,
+              "expanded_url": "https://x.com/stellimbris/status/2087907681369485528/photo/1",
+              "media_key": "3_2087907671542218752",
+              "start": 63,
+              "url": "https://t.co/lgf0CblOyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087907681369485528",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087907671542218752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087895024663154854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这个应该有个门之类的隔板吧，之前在福州的一家酒店也是类似这样的\n但比起这个，我更好奇这小怪兽是什么 https://t.co/lgf0CblOyA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2087914921350906082",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 1441,
+          "like_count": 20100,
+          "listed_count": 8,
+          "media_count": 842,
+          "tweet_count": 5996
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-31T16:29:57.000Z",
+        "description": "「穷极一生的活人」正直少年青春，任得风许，无需花怜。",
+        "id": "1928850603939352576",
+        "is_identity_verified": false,
+        "location": "Antarctica",
+        "most_recent_tweet_id": "2087907681369485528",
+        "name": "Stellimbris (''",
+        "pinned_tweet_id": "2048327095156089110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928850603939352576/1781589745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066763312251985921/a4K15rrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 271,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "stellimbris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

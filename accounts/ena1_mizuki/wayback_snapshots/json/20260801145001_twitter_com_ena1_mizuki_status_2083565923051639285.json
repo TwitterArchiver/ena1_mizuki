@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2083429917073805405",
+    "created_at": "2026-08-01T14:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083565923051639285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077521508424204288",
+          "start": 0,
+          "username": "dingding0702"
+        },
+        {
+          "end": 24,
+          "id": "1902735424839413760",
+          "start": 14,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083565923051639285",
+    "in_reply_to_user_id": "2077521508424204288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083562994068603166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingding0702 @litgraley 😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2083429917073805405",
+        "created_at": "2026-08-01T14:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083565923051639285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077521508424204288",
+              "start": 0,
+              "username": "dingding0702"
+            },
+            {
+              "end": 24,
+              "id": "1902735424839413760",
+              "start": 14,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083565923051639285",
+        "in_reply_to_user_id": "2077521508424204288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083562994068603166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingding0702 @litgraley 😵‍💫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077521508424204288",
+        "conversation_id": "2083429917073805405",
+        "created_at": "2026-08-01T14:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083562994068603166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            },
+            {
+              "end": 23,
+              "id": "1902735424839413760",
+              "start": 13,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083562994068603166",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083429917073805405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki @litgraley 开门！海巡队"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 1421,
+          "like_count": 19820,
+          "listed_count": 8,
+          "media_count": 802,
+          "tweet_count": 5832
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T22:32:50.000Z",
+        "description": "家寶就是09的阿寶||🍬无证hrt 14.5.2026||电吉他🎸键盘小白🎹人像摄影小白📷锦依卫💕Vsinger||穷苦高三应届生\n爱喝咖啡，果茶，果汁，吃辣\n想控制身材||想被狠狠地抱住||想rua自己||想被rua||想好好的活着\n珍惜生命||中度焦虑\n平时不太会说话，想交流可以私聊哦🤗",
+        "id": "2077521508424204288",
+        "location": "四川·盐都",
+        "name": "爱吃の家寶🍥",
+        "pinned_tweet_id": "2081343131937558843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081016418326503425/rOpNTtfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 290,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "dingding0702",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 946,
+          "like_count": 41612,
+          "listed_count": 2,
+          "media_count": 278,
+          "tweet_count": 6483
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

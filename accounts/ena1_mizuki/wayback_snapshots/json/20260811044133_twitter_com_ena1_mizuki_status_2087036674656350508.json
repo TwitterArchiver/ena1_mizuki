@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2086879965258432859",
+    "created_at": "2026-08-11T04:41:33.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087036674656350508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059185367723737089",
+          "start": 0,
+          "username": "Phangusy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087036674656350508",
+    "in_reply_to_user_id": "2059185367723737089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086923349570261210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phangusy 对😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2086879965258432859",
+        "created_at": "2026-08-11T04:41:33.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087036674656350508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059185367723737089",
+              "start": 0,
+              "username": "Phangusy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087036674656350508",
+        "in_reply_to_user_id": "2059185367723737089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086923349570261210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phangusy 对😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059185367723737089",
+        "conversation_id": "2086879965258432859",
+        "created_at": "2026-08-10T21:11:14.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T22:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086923349570261210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086923349570261210",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086879965258432859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 这个巨好玩，还有的左右轮不一样可以听和弦的，开快点还能听二倍速（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2087036674656350508",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1440,
+          "like_count": 20037,
+          "listed_count": 8,
+          "media_count": 832,
+          "tweet_count": 5953
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T08:12:08.000Z",
+        "description": "求求你能给我一颗运算放大器嘛？",
+        "id": "2059185367723737089",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086923349570261210",
+        "name": "钒菇𝑷𝒉𝒂𝒏𝒈𝒖𝒔𝒆𝒎𝒊𝒂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059185367723737089/1780679907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084696780869074944/A9DxvtvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 87,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Phangusy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

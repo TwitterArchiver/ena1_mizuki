@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086596684117901313"
+      ],
+      "media_source_tweet_id": [
+        "2086604048443286013"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2086666311879250007",
+    "created_at": "2026-08-10T04:09:51.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086666311879250007"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "野獣の日"
+        },
+        {
+          "end": 51,
+          "start": 42,
+          "tag": "野獣の日2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989590707934568448",
+          "start": 3,
+          "username": "zkkkzr3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4HxYheJPGE",
+          "end": 75,
+          "expanded_url": "https://x.com/zkkkzr3/status/2086604048443286013/video/1",
+          "media_key": "13_2086596684117901313",
+          "start": 52,
+          "url": "https://t.co/4HxYheJPGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086666311879250007",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2086596684117901313"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4773
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086604048443286013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zkkkzr3: 野獣の日もうすでにやばいんだけど（友人提供)\n#野獣の日\n#野獣の日2026 https://t.co/4HxYheJPGE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25002,
+        "height": 720,
+        "media_key": "13_2086596684117901313",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086596684117901313/img/5mGCn7U3VvEReUSC.jpg",
+        "public_metrics": {
+          "view_count": 1631321
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086596684117901313/vid/avc1/480x270/nGfXdp8FS-apvsvn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086596684117901313/vid/avc1/640x360/NAMQ6P3TUkbdCcn2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086596684117901313/vid/avc1/1280x720/VFGrXMGg5I6rybxf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086596684117901313/pl/T66tTFMWEAD__A8N.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086596684117901313"
+          ]
+        },
+        "author_id": "1989590707934568448",
+        "conversation_id": "2086604048443286013",
+        "created_at": "2026-08-10T00:02:27.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086604048443286013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "野獣の日"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "野獣の日2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HxYheJPGE",
+              "end": 62,
+              "expanded_url": "https://x.com/zkkkzr3/status/2086604048443286013/video/1",
+              "media_key": "13_2086596684117901313",
+              "start": 39,
+              "url": "https://t.co/4HxYheJPGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086604048443286013",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086596684117901313"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7450,
+          "impression_count": 3748106,
+          "like_count": 36372,
+          "quote_count": 2932,
+          "reply_count": 636,
+          "retweet_count": 4765
+        },
+        "reply_settings": "everyone",
+        "text": "野獣の日もうすでにやばいんだけど（友人提供)\n#野獣の日\n#野獣の日2026 https://t.co/4HxYheJPGE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086596684117901313"
+          ],
+          "media_source_tweet_id": [
+            "2086604048443286013"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2086666311879250007",
+        "created_at": "2026-08-10T04:09:51.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086666311879250007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "野獣の日"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "野獣の日2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989590707934568448",
+              "start": 3,
+              "username": "zkkkzr3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HxYheJPGE",
+              "end": 75,
+              "expanded_url": "https://x.com/zkkkzr3/status/2086604048443286013/video/1",
+              "media_key": "13_2086596684117901313",
+              "start": 52,
+              "url": "https://t.co/4HxYheJPGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086666311879250007",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086596684117901313"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4773
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086604048443286013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zkkkzr3: 野獣の日もうすでにやばいんだけど（友人提供)\n#野獣の日\n#野獣の日2026 https://t.co/4HxYheJPGE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2086666311879250007",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 1441,
+          "like_count": 20044,
+          "listed_count": 8,
+          "media_count": 826,
+          "tweet_count": 5938
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-15T07:06:14.000Z",
+        "description": "問題児枠デス\n撮り鉄・共産趣味・ステチル・淫夢厨・旅行・模型・ニコ厨の一般陰キャラ底辺学生です。 \nもともとのアカウントが乗っ取られたので新しいアカウントで心機一転やっでくのでよろしくお願いします！ \n複数人運営\n下北沢社会主義人民共和国書記長\n無断転載は歓迎です\nin大垣→塩尻→藤沢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E3%81%8B%E3%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E3%81%8B%E3%81%AA%E3%81%98%E3%81%BFShinanotrainTV",
+                "start": 0,
+                "url": "https://t.co/N24fIaUkNn"
+              }
+            ]
+          }
+        },
+        "id": "1989590707934568448",
+        "is_identity_verified": false,
+        "location": "ソ連領相模共和国藤沢グラード",
+        "most_recent_tweet_id": "2086618953569423779",
+        "name": "モスクワバーガー信濃",
+        "pinned_tweet_id": "1991480983502352509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989590707934568448/1763806828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034074164341133312/jwWHNj2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 2268,
+          "like_count": 3508,
+          "listed_count": 8,
+          "media_count": 557,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/N24fIaUkNn",
+        "username": "zkkkzr3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

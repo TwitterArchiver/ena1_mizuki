@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2083551181746643295",
+    "created_at": "2026-08-01T14:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083565615600824532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "923051228614897664",
+          "start": 0,
+          "username": "Lisa_Queen_Me"
+        },
+        {
+          "end": 30,
+          "id": "1430973520452800515",
+          "start": 15,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083565615600824532",
+    "in_reply_to_user_id": "923051228614897664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083557155844886871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lisa_Queen_Me @XmeowwoemX_017 对的，要像这个一样圆润饱满，或者根据自己多久用完一管凝胶也可以反推是否足量w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2083551181746643295",
+        "created_at": "2026-08-01T14:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083565615600824532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "923051228614897664",
+              "start": 0,
+              "username": "Lisa_Queen_Me"
+            },
+            {
+              "end": 30,
+              "id": "1430973520452800515",
+              "start": 15,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083565615600824532",
+        "in_reply_to_user_id": "923051228614897664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083557155844886871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lisa_Queen_Me @XmeowwoemX_017 对的，要像这个一样圆润饱满，或者根据自己多久用完一管凝胶也可以反推是否足量w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "923051228614897664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2083551181746643295",
+        "created_at": "2026-08-01T14:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083557155844886871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1430973520452800515",
+              "start": 0,
+              "username": "XmeowwoemX_017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 47,
+              "expanded_url": "https://x.com/ena1_mizuki/status/1996825942682132704?s=46",
+              "start": 24,
+              "url": "https://t.co/7LtXrv5wnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083557155844886871",
+        "in_reply_to_user_id": "1430973520452800515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996825942682132704",
+            "type": "quoted"
+          },
+          {
+            "id": "2083551181746643295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XmeowwoemX_017 似乎是这样？\n\nhttps://t.co/7LtXrv5wnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 1421,
+          "like_count": 19814,
+          "listed_count": 8,
+          "media_count": 802,
+          "tweet_count": 5828
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-25T04:58:57.000Z",
+        "description": "谐音梗扣钱 | intj | 猫猫&🏳️‍⚧️ & les | 社恐形态(不够熟悉时) | 工具开发 项目经理 python Java 并不断丰富技能ing | 意面爱好者 & 美食制作者 | 老诗人(现在不怎么写了) | 三只喵星人的好朋友 | 欢迎同类及朋友互fo | 最高の黒猫 @CatherinaMeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 143,
+                "username": "CatherinaMeow"
+              }
+            ]
+          }
+        },
+        "id": "923051228614897664",
+        "name": "LisaQueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003671193430392832/cr96Siu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 920,
+          "like_count": 3483,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "Lisa_Queen_Me",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem 22yo | HRT since: Feb 2025 (CPA) / Jun 2025 (E2) 很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "location": "Auckland, NZ / Beijing ",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "2056706170178748500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 416,
+          "like_count": 42027,
+          "listed_count": 6,
+          "media_count": 753,
+          "tweet_count": 5524
+        },
+        "url": "",
+        "username": "XmeowwoemX_017",
+        "verified": false
+      }
+    ]
+  }
+}

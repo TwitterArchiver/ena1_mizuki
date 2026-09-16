@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086879955259162624"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2086879965258432859",
+    "created_at": "2026-08-10T18:18:50.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086879965258432859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uSpDGDbWsQ",
+          "end": 70,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2086879965258432859/photo/1",
+          "media_key": "3_2086879955259162624",
+          "start": 47,
+          "url": "https://t.co/uSpDGDbWsQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086879965258432859",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086879955259162624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在这条路上开车的时候路面会唱歌诶，应该是通过调整路面小凸起的密度改变响声频率的，好酷的设计！ https://t.co/uSpDGDbWsQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3618,
+        "media_key": "3_2086879955259162624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYWQzYbAAAs-bU.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086879955259162624"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2086879965258432859",
+        "created_at": "2026-08-10T18:18:50.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086879965258432859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSpDGDbWsQ",
+              "end": 70,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2086879965258432859/photo/1",
+              "media_key": "3_2086879955259162624",
+              "start": 47,
+              "url": "https://t.co/uSpDGDbWsQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086879965258432859",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086879955259162624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这条路上开车的时候路面会唱歌诶，应该是通过调整路面小凸起的密度改变响声频率的，好酷的设计！ https://t.co/uSpDGDbWsQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2086879965258432859",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 1441,
+          "like_count": 20065,
+          "listed_count": 8,
+          "media_count": 831,
+          "tweet_count": 5949
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

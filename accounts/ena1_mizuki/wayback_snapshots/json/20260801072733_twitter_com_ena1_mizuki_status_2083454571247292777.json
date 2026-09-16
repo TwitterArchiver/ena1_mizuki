@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2083454571247292777",
+    "created_at": "2026-08-01T07:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083454571247292777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/litgraley/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/litgraley/status/2083454276853276965",
+          "start": 14,
+          "url": "https://t.co/3HvejhjVtD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083454571247292777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083454276853276965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是抓小孩的时候可以喝酒😎 https://t.co/3HvejhjVtD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083454138348965888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnqgA4bkAAzJqH.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2083454571247292777",
+        "created_at": "2026-08-01T07:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083454571247292777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/litgraley/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/litgraley/status/2083454276853276965",
+              "start": 14,
+              "url": "https://t.co/3HvejhjVtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083454571247292777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083454276853276965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是抓小孩的时候可以喝酒😎 https://t.co/3HvejhjVtD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083454138348965888"
+          ]
+        },
+        "author_id": "1902735424839413760",
+        "conversation_id": "2083454276853276965",
+        "created_at": "2026-08-01T07:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083454276853276965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnwSYFamhE",
+              "end": 35,
+              "expanded_url": "https://x.com/litgraley/status/2083454276853276965/photo/1",
+              "media_key": "3_2083454138348965888",
+              "start": 12,
+              "url": "https://t.co/tnwSYFamhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083454276853276965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开酒不喝车，喝车不开酒 https://t.co/tnwSYFamhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1421,
+          "like_count": 19805,
+          "listed_count": 8,
+          "media_count": 801,
+          "tweet_count": 5823
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 944,
+          "like_count": 41522,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 6467
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

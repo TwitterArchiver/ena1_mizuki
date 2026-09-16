@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2085921415551947058",
+    "created_at": "2026-08-08T11:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T12:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086049070368592056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1512862133603684355",
+          "start": 0,
+          "username": "hoshinomajo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086049070368592056",
+    "in_reply_to_user_id": "1512862133603684355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086015437410623758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinomajo 凛冽~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2085921415551947058",
+        "created_at": "2026-08-08T11:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086049070368592056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1512862133603684355",
+              "start": 0,
+              "username": "hoshinomajo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086049070368592056",
+        "in_reply_to_user_id": "1512862133603684355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086015437410623758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinomajo 凛冽~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512862133603684355",
+        "conversation_id": "2085921415551947058",
+        "created_at": "2026-08-08T09:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T10:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086015437410623758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086015437410623758",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085921415551947058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 喜欢寒冷的天气，多么干净的感觉……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 1434,
+          "like_count": 19988,
+          "listed_count": 8,
+          "media_count": 821,
+          "tweet_count": 5911
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T18:37:32.000Z",
+        "description": "非二元  ENTP-A | 哲学 科幻 | Rimworld VRChat MC | FPS大战场 | FF14 | 星际2 帝国4 雀魂 文明6 全战 | 舟原BA | 曾历史、社会学中意，现数学 天文 动植物科普",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hoshinomajo",
+                "end": 23,
+                "expanded_url": "https://t.me/hoshinomajo",
+                "start": 0,
+                "url": "https://t.co/N0CeJPVs9g"
+              }
+            ]
+          }
+        },
+        "id": "1512862133603684355",
+        "location": "社恐E互助",
+        "name": "HYDLINA🏳️‍⚧️",
+        "pinned_tweet_id": "1946136227570208772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971048811007979520/fx7z6ric_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 395,
+          "like_count": 2583,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/N0CeJPVs9g",
+        "username": "hoshinomajo",
+        "verified": false
+      }
+    ]
+  }
+}

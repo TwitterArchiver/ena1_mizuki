@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083959136090525696"
+      ]
+    },
+    "author_id": "1932434375955857409",
+    "conversation_id": "2083955590494294450",
+    "created_at": "2026-08-02T16:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083959142361055555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991810120607739904",
+          "start": 0,
+          "username": "GuanQiao6316"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8OZxnbWTSx",
+          "end": 70,
+          "expanded_url": "https://x.com/ena1_mizuki/status/2083959142361055555/photo/1",
+          "media_key": "3_2083959136090525696",
+          "start": 47,
+          "url": "https://t.co/8OZxnbWTSx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083959142361055555",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083955590494294450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuanQiao6316 还有这个便携小风扇，谁懂打完舞萌很热的时候拿出来这个让我多感动😭 https://t.co/8OZxnbWTSx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3242,
+        "media_key": "3_2083959136090525696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu1ywEbEAA5xq3.jpg",
+        "width": 2431
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083955581703122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuyj28bcAAXqTG.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083959136090525696"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2083955590494294450",
+        "created_at": "2026-08-02T16:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083959142361055555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991810120607739904",
+              "start": 0,
+              "username": "GuanQiao6316"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OZxnbWTSx",
+              "end": 70,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2083959142361055555/photo/1",
+              "media_key": "3_2083959136090525696",
+              "start": 47,
+              "url": "https://t.co/8OZxnbWTSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083959142361055555",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083955590494294450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuanQiao6316 还有这个便携小风扇，谁懂打完舞萌很热的时候拿出来这个让我多感动😭 https://t.co/8OZxnbWTSx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083955581703122944"
+          ]
+        },
+        "author_id": "1932434375955857409",
+        "conversation_id": "2083955590494294450",
+        "created_at": "2026-08-02T16:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083955590494294450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IaX8dEME2F",
+              "end": 39,
+              "expanded_url": "https://x.com/ena1_mizuki/status/2083955590494294450/photo/1",
+              "media_key": "3_2083955581703122944",
+              "start": 16,
+              "url": "https://t.co/IaX8dEME2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083955590494294450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获赠了非常漂亮的手链，好开心呀 https://t.co/IaX8dEME2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1424,
+          "like_count": 19842,
+          "listed_count": 8,
+          "media_count": 805,
+          "tweet_count": 5839
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T10:05:39.000Z",
+        "description": "INTJ 画画人 音乐品味很杂 喜欢分享日常 谢谢喜欢 （祝我雅思早点考出分儿）",
+        "id": "1991810120607739904",
+        "name": "C.M.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047517575677169664/3i_bImnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 184,
+          "like_count": 4254,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "GuanQiao6316",
+        "verified": false
+      }
+    ]
+  }
+}

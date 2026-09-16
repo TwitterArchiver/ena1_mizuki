@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2082801134205583552",
+    "created_at": "2026-07-31T09:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083124981773586741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "46033701",
+          "start": 0,
+          "username": "sweetius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083124981773586741",
+    "in_reply_to_user_id": "46033701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083114392066109932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetius 我是来旅游的，然后把几个正太景区全打卡了😎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2082801134205583552",
+        "created_at": "2026-07-31T09:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083124981773586741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "46033701",
+              "start": 0,
+              "username": "sweetius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083124981773586741",
+        "in_reply_to_user_id": "46033701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083114392066109932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetius 我是来旅游的，然后把几个正太景区全打卡了😎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46033701",
+        "conversation_id": "2082801134205583552",
+        "created_at": "2026-07-31T08:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083114392066109932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083114392066109932",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082801134205583552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 原来你也在石家庄？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 1422,
+          "like_count": 19778,
+          "listed_count": 8,
+          "media_count": 800,
+          "tweet_count": 5812
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-10T04:09:32.000Z",
+        "description": "186/70 爱你喵~🚪50可线下\nq3937851227",
+        "id": "46033701",
+        "name": "猫猫鱼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067171753076617216/to2vraWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "sweetius",
+        "verified": false
+      }
+    ]
+  }
+}

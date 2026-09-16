@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2083091553908879719",
+    "created_at": "2026-07-31T16:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083222150237114583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743651797087277056",
+          "start": 0,
+          "username": "Aether9008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083222150237114583",
+    "in_reply_to_user_id": "1743651797087277056",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083194155233399253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aether9008 ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2083091553908879719",
+        "created_at": "2026-07-31T16:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083222150237114583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743651797087277056",
+              "start": 0,
+              "username": "Aether9008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083222150237114583",
+        "in_reply_to_user_id": "1743651797087277056",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083194155233399253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aether9008 ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743651797087277056",
+        "conversation_id": "2083091553908879719",
+        "created_at": "2026-07-31T14:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083194155233399253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083194155233399253",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083091553908879719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 泥露前车车牌了喵\n上次我就是这么被喝茶的😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 1422,
+          "like_count": 19796,
+          "listed_count": 8,
+          "media_count": 801,
+          "tweet_count": 5816
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:12:50.000Z",
+        "description": "よろしく",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aether_9008",
+                "end": 23,
+                "expanded_url": "https://t.me/Aether_9008",
+                "start": 0,
+                "url": "https://t.co/8b55wfYMre"
+              }
+            ]
+          }
+        },
+        "id": "1743651797087277056",
+        "location": "United Kingdom of Teyvat",
+        "name": "空ちゃん／丹羽空 🇯🇵",
+        "pinned_tweet_id": "2074700098723029221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082795186619547648/GCRdlNpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 2380,
+          "like_count": 23207,
+          "listed_count": 11,
+          "media_count": 1458,
+          "tweet_count": 4860
+        },
+        "url": "https://t.co/8b55wfYMre",
+        "username": "Aether9008",
+        "verified": true
+      }
+    ]
+  }
+}

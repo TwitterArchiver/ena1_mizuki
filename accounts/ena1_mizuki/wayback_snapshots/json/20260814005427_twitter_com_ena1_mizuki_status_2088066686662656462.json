@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2087638813002924257",
+    "created_at": "2026-08-14T00:54:27.000Z",
+    "display_text_range": [
+      16,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088066686662656462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088066686662656462",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087979787910627674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 嘛大一些的流星总有能下到低高度的，我记得之前还看到过有声音的火流星，那个应该高度很低了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2087979779425517568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn-i_rbQAADP0Y.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1336,
+        "media_key": "3_2087979779412905984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPn-i_oa0AAF5O3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2087638813002924257",
+        "created_at": "2026-08-14T00:54:27.000Z",
+        "display_text_range": [
+          16,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088066686662656462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088066686662656462",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087979787910627674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 嘛大一些的流星总有能下到低高度的，我记得之前还看到过有声音的火流星，那个应该高度很低了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087979779425517568",
+            "3_2087979779412905984"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2087638813002924257",
+        "created_at": "2026-08-13T19:09:08.000Z",
+        "display_text_range": [
+          13,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T20:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087979787910627674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eYzxf5BVd",
+              "end": 194,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2087979787910627674/photo/1",
+              "media_key": "3_2087979779425517568",
+              "start": 171,
+              "url": "https://t.co/0eYzxf5BVd"
+            },
+            {
+              "display_url": "pic.x.com/0eYzxf5BVd",
+              "end": 194,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2087979787910627674/photo/1",
+              "media_key": "3_2087979779412905984",
+              "start": 171,
+              "url": "https://t.co/0eYzxf5BVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087979787910627674",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087979779425517568"
+          },
+          {
+            "media_key": "3_2087979779412905984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "arxiv.org/abs/1807.03213",
+                "end": 214,
+                "expanded_url": "https://arxiv.org/abs/1807.03213",
+                "start": 191,
+                "url": "https://t.co/KKfjGj1yfn"
+              }
+            ]
+          },
+          "text": "喵呜喵呜咱去找找视频🥰不过英仙座流星雨母体109P是高倾角逆行的嘛，流星体特征速度中等偏高，大概是59km/s，如图一视星等5等起算的开始发光高度都有110km啦，这个高度气球难飞到卫星下不去…幻想有点要夭折了）🥹然后如图二即使是20km/s的极低速流星，从90km开始亮过5等，也撑不过70km；那么到90km的时候典型英仙座流星肯定已经烧完了\n\n找了个论文里两个好看的图嗯\n引自https://t.co/KKfjGj1yfn\n\n不知不觉啃了两个小时忘记自己要表达什么了…只是觉得好好玩要整理给姐姐看…开心(*⌒∇⌒*)"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087918657913692442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 喵呜喵呜咱去找找视频🥰不过英仙座流星雨母体109P是高倾角逆行的嘛，流星体特征速度中等偏高，大概是59km/s，如图一视星等5等起算的开始发光高度都有110km啦，这个高度气球难飞到卫星下不去…幻想有点要夭折了）🥹然后如图二即使是20km/s的极低速流星，从90km开始亮过5等，也撑不过70km；那么到90km的 https://t.co/0eYzxf5BVd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2088066686662656462",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1442,
+          "like_count": 20121,
+          "listed_count": 8,
+          "media_count": 843,
+          "tweet_count": 6004
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2087979787910627674",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4948,
+          "following_count": 6892,
+          "like_count": 18195,
+          "listed_count": 12,
+          "media_count": 386,
+          "tweet_count": 5096
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

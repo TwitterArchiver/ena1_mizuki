@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1932434375955857409",
+    "conversation_id": "2089685726317408656",
+    "created_at": "2026-08-18T18:40:08.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089784428977705450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1318819823758069760",
+          "start": 0,
+          "username": "Enorez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089784428977705450",
+    "in_reply_to_user_id": "1318819823758069760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089745996083261835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enorez2 🤓🤓🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2089685726317408656",
+        "created_at": "2026-08-18T18:40:08.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089784428977705450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318819823758069760",
+              "start": 0,
+              "username": "Enorez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089784428977705450",
+        "in_reply_to_user_id": "1318819823758069760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089745996083261835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enorez2 🤓🤓🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318819823758069760",
+        "conversation_id": "2089685726317408656",
+        "created_at": "2026-08-18T16:07:25.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089745996083261835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089745996083261835",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089685726317408656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 你啊，native, 不要老想着搞个大新闻。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "is_identity_verified": false,
+        "location": "Albireo",
+        "most_recent_tweet_id": "2089784428977705450",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932434375955857409/1750607226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 1442,
+          "like_count": 20236,
+          "listed_count": 8,
+          "media_count": 865,
+          "tweet_count": 6067
+        },
+        "url": "",
+        "username": "ena1_mizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-21T07:42:14.000Z",
+        "description": "I play Arknights/Endfiled/Limbus Company. I love Hatsune Miku very much. I love Sui siblings, and I love Shu best. I like ACGN culture.",
+        "id": "1318819823758069760",
+        "is_identity_verified": false,
+        "location": "Three Thousand Great Worlds",
+        "most_recent_tweet_id": "2089758234575863971",
+        "name": "Rei_LingYi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318819823758069760/1775236096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088079388067676160/PorKZMFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 817,
+          "like_count": 57998,
+          "listed_count": 0,
+          "media_count": 1315,
+          "tweet_count": 9346
+        },
+        "url": "",
+        "username": "Enorez2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
